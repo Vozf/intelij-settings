@@ -3,25 +3,63 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1527083177488">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.module.ts" timestamp="1527085617155" />
+      <file name="/Dummy.txt" timestamp="1527086276380">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527080253840">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="28" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527085409038">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527083247532">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527083340114">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527085326351">
+        <mark key="[" line="1" column="66" />
+        <mark key="]" line="1" column="66" />
+        <mark key="^" line="0" column="67" />
+        <mark key="." line="1" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.reducer.ts" timestamp="1527085488453">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527085997235">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527086475840">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527086681495">
+        <mark key="'" line="17" column="24" />
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.state.ts" timestamp="1527085555547">
+        <mark key="[" line="11" column="116" />
+        <mark key="]" line="11" column="122" />
+        <mark key="^" line="11" column="122" />
+        <mark key="." line="11" column="122" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527082854570">
         <mark key="[" line="21" column="28" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.route.ts" timestamp="1527082950225">
         <mark key="[" line="12" column="8" />
@@ -29,14 +67,39 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" timestamp="1527085885419">
+        <mark key="[" line="12" column="86" />
+        <mark key="]" line="12" column="86" />
+        <mark key="^" line="12" column="87" />
+        <mark key="." line="12" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" timestamp="1527086410726">
+        <mark key="[" line="94" column="33" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
+      <jump line="19" column="8" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
+      <jump line="17" column="24" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
+    </jumps>
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGNhc2UgQWN0aW9uQ3JlYXRvcnMuR2V0Q2VydGlmaWNhdGVzLnR5cGU6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgIH07CgogICAgY2FzZSBBY3Rpb25DcmVhdG9ycy5HZXRDZXJ0aWZpY2F0ZURldGFpbHMudHlwZToKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgfTs=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>)</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBARWZmZWN0KCkKICBnZXRBdmFpbGFibGVDZXJ0aWZpY2F0ZXMgPSB0aGlzLmFjdGlvbnMkCiAgICAub2ZUeXBlPEFjdGlvbkNyZWF0b3JzLkdldEF2YWlsYWJsZUNlcnRpZmljYXRlcz4oQWN0aW9uQ3JlYXRvcnMuR2V0QXZhaWxhYmxlQ2VydGlmaWNhdGVzLnR5cGUpCiAgICAucGlwZSgKICAgICAgbWVyZ2UodGhpcy5jaGFuZ2VGaWx0ZXJzJCksCiAgICAgIG1hcChhY3Rpb24gPT4gYWN0aW9uLnBheWxvYWQpLAogICAgICB3aXRoTGF0ZXN0RnJvbSh0aGlzLnN0b3JlLnNlbGVjdChTZWxlY3RvcnMuZ2V0Q2VydEFjY2Vzc01vZGUpLCB0aGlzLnN0b3JlLnNlbGVjdChTZWxlY3RvcnMuZ2V0U2VsZWN0ZWRVc2VyKSksCiAgICAgIHN3aXRjaE1hcCgoW3BheWxvYWQsIG1vZGUsIHVzZXJdKSA9PgogICAgICAgIHRoaXMuZW1wbG95ZXJBZGRVc2Vyc1NlcnZpY2UKICAgICAgICAgIC5nZXRBdmFpbGFibGVDZXJ0aWZpY2F0ZXMobW9kZSwgdXNlciwgcGF5bG9hZCkKICAgICAgICAgIC5waXBlKAogICAgICAgICAgICBtYXAoZGF0YSA9PiBuZXcgQWN0aW9uQ3JlYXRvcnMuR2V0QXZhaWxhYmxlQ2VydGlmaWNhdGVzU3VjY2VzcyhkYXRhKSksCiAgICAgICAgICAgIGNhdGNoRXJyb3IoKCkgPT4gb2YobmV3IEFjdGlvbkNyZWF0b3JzLkdldEF2YWlsYWJsZUNlcnRpZmljYXRlc0Vycm9yKCkpKSwKICAgICAgICAgICksCiAgICAgICksCiAgICApOwoKICBARWZmZWN0KCkKICBzZW5kVXNlcnNXaXRoQ2VydGlmaWNhdGVzJCA9IHRoaXMuYWN0aW9ucyQKICAgIC5vZlR5cGU8QWN0aW9uQ3JlYXRvcnMuU2VuZFVzZXJzV2l0aENlcnRpZmljYXRlcz4oQWN0aW9uQ3JlYXRvcnMuU2VuZFVzZXJzV2l0aENlcnRpZmljYXRlcy50eXBlKQogICAgLnBpcGUoCiAgICAgIHdpdGhMYXRlc3RGcm9tKHRoaXMuc3RvcmUuc2VsZWN0KFNlbGVjdG9ycy5nZXRVc2VycykpLAogICAgICBzd2l0Y2hNYXAoKFtfLCB1c2Vyc10pID0+CiAgICAgICAgdGhpcy5lbXBsb3llckFkZFVzZXJzU2VydmljZQogICAgICAgICAgLnNlbmRVc2Vyc1dpdGhBc3NpZ25tZW50c0FuZFJlcXVlc3RzKHVzZXJzKQogICAgICAgICAgLnBpcGUobWFwKCgpID0+IG5ldyBBY3Rpb25DcmVhdG9ycy5TZW5kVXNlcnNXaXRoQ2VydGlmaWNhdGVzU3VjY2VzcygpKSwgY2F0Y2hFcnJvcigoKSA9PiBuZXZlcigpKSksCiAgICAgICksCiAgICApOwoKICBARWZmZWN0KHsgZGlzcGF0Y2g6IGZhbHNlIH0pCiAgc2VuZFVzZXJzV2l0aENlcnRpZmljYXRlc1N1Y2Nlc3MkID0gdGhpcy5hY3Rpb25zJAogICAgLm9mVHlwZTxBY3Rpb25DcmVhdG9ycy5TZW5kVXNlcnNXaXRoQ2VydGlmaWNhdGVzU3VjY2Vzcz4oQWN0aW9uQ3JlYXRvcnMuU2VuZFVzZXJzV2l0aENlcnRpZmljYXRlc1N1Y2Nlc3MudHlwZSkKICAgIC5waXBlKAogICAgICB0YXAoKCkgPT4gewogICAgICAgIHRoaXMubWVzc2FnZVF1ZXJ5U2VydmljZS5hZGRNZXNzYWdlKCdJbnZpdGF0aW9uIHdpdGggYXNzaWdubWVudCB3YXMgc2VudCB0byBhbGwgUHJvZmVzc2lvbmFscyBmcm9tIHRoZSBsaXN0LicpOwogICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwoJy9lbXBsb3llci91c2VycycpOwogICAgICB9KSwKICAgICk7CgogIEBFZmZlY3QoeyBkaXNwaXRjaDogZmFsc2UgfSkKICByZW1vdmVTZWxlY3RlZFVzZXIkID0gdGhpcy5hY3Rpb25zJAogICAgLm9mVHlwZTxBY3Rpb25DcmVhdG9ycy5SZW1vdmVVc2VyPihBY3Rpb25DcmVhdG9ycy5SZW1vdmVVc2VyLnR5cGUpCiAgICAucGlwZSgKICAgICAgbWFwKCh7IHBheWxvYWQgfSkgPT4gcGF5bG9hZC51aWQpLAogICAgICB3aXRoTGF0ZXN0RnJvbSh0aGlzLnN0b3JlLnNlbGVjdChTZWxlY3RvcnMuZ2V0U2VsZWN0ZWRVc2VyVWlkKSksCiAgICAgIG1hcCgoW3JlbW92ZWRVaWQsIHNlbGVjdGVkVWlkXSkgPT4gcmVtb3ZlZFVpZCA9PT0gc2VsZWN0ZWRVaWQpLAogICAgICBmaWx0ZXIoaXNFUSA9PiBpc0VRKSwKICAgICAgdGFwKCgpID0+IHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwoJy9lbXBsb3llci91c2Vycy9uZXcnKSksCiAgICApOwoKICBARWZmZWN0KCkKICBzaG91bGRTdG9yZVVzZXIkID0gdGhpcy5hY3Rpb25zJC5vZlR5cGU8QWN0aW9uQ3JlYXRvcnMuQWRkVXNlcnM+KEFjdGlvbkNyZWF0b3JzLkFkZFVzZXJzLnR5cGUpLnBpcGUoCiAgICBtYXAoKHsgcGF5bG9hZCB9KSA9PiBwYXlsb2FkKSwKICAgIHdpdGhMYXRlc3RGcm9tKHRoaXMuc3RvcmUuc2VsZWN0KFNlbGVjdG9ycy5nZXRVc2VycykpLAogICAgbWFwKChbYWRkVXNlcnMsIHN0b3JlZFVzZXJzXSkgPT4gKHsKICAgICAgdXNlcnM6IGFkZFVzZXJzLAogICAgICBpc0R1cGxpY2F0ZWQ6IF9pbnRlcnNlY3Rpb25CeShhZGRVc2Vycywgc3RvcmVkVXNlcnMsICdlbWFpbCcpLmxlbmd0aCA+IDAsCiAgICB9KSksCiAgICB0YXAoKHsgaXNEdXBsaWNhdGVkIH0pID0+IHsKICAgICAgaWYgKGlzRHVwbGljYXRlZCkgewogICAgICAgIHRoaXMubWVzc2FnZVF1ZXJ5U2VydmljZS5hZGRFcnJvck1lc3NhZ2UoJ1NvbWUgb2YgdGhlIHVzZXJzIGFyZSBhbHJlYWR5IG9uIHRoZSBsaXN0LicpOwogICAgICB9CiAgICB9KSwKICAgIGZpbHRlcigoeyBpc0R1cGxpY2F0ZWQgfSkgPT4gIWlzRHVwbGljYXRlZCksCiAgICBtYXAoKHsgdXNlcnMgfSkgPT4gbmV3IEFjdGlvbkNyZWF0b3JzLlN0b3JlVXNlcih1c2VycykpLAogICk7</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzZWxlY3RvcjogJ3N0ZXBzLWxpc3QnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -70,6 +133,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
