@@ -3,15 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1527083177488">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527080253840">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="21" column="28" />
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527083247532">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527082854570">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.route.ts" timestamp="1527082950225">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>t</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
