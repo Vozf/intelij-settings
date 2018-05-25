@@ -25,12 +25,6 @@
         <mark key="." line="1" column="66" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/file-upload/file-upload.module.ts" timestamp="1527180944634" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.reducer.ts" timestamp="1527183607362">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="18" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527231948996">
         <mark key="[" line="14" column="92" />
         <mark key="]" line="14" column="86" />
@@ -45,18 +39,18 @@
         <mark key="^" line="28" column="55" />
         <mark key="." line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527086475840">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527247004101">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527183512272">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527248004180">
         <mark key="'" line="17" column="24" />
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="21" column="66" />
-        <mark key="^" line="21" column="66" />
-        <mark key="." line="21" column="66" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="17" column="56" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.scss" timestamp="1527238569947">
         <mark key="[" line="3" column="17" />
@@ -76,12 +70,12 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" timestamp="1527240134572">
-        <mark key="'" line="86" column="75" />
-        <mark key="[" line="204" column="16" />
-        <mark key="]" line="204" column="90" />
-        <mark key="^" line="204" column="90" />
-        <mark key="." line="204" column="90" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" timestamp="1527246509181">
+        <mark key="'" line="81" column="75" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="84" column="33" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1527237017101">
         <mark key="[" line="0" column="0" />
@@ -140,40 +134,44 @@
       <jump line="104" column="65" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="7" column="48" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" />
       <jump line="86" column="75" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
+      <jump line="34" column="57" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlVVJMKHsgcGFnZSB9KTsK</text>
+      <register name="1" type="4">
+        <text>.
+.
+.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyU3RhdGUsIFNlbGVjdG9ycyB9IGZyb20gJy4vK3N0YXRlL2NlcnRpZmljYXRlcy5zdGF0ZSc7CmltcG9ydCB7IFN0b3JlIH0gZnJvbSAnQG5ncngvc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIC8vIE1vdmUgYWxsIGxvZ2ljIHRvIHNlbGVjdG9ycwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWN0aW9uQ3JlYXRvcnMgfSBmcm9tICcuLytzdGF0ZS9jZXJ0aWZpY2F0ZXMtZGV0YWlscy5hY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgIC8vIFBhcnNlIHJvdXRlIHBhcmFtcywgcXVlcnkgcGFyYW1zIGFuZCByZXNvbHZlciBkYXRhIGF0IHJvdXRlciBzZXJpYWxpemVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIE1vdmUgY2VydGlmaWNhdGUgZGV0YWlscyBpbnRvIGNoaWxkIHJvdXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhc2Rhc2QK</text>
+        <text encoding="base64">ICAgIC8vIFJld3JpdGUgdmlldyB3aXRoIG5ncnggc3RhdGUK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgc3dpdGNoTWFwKCgpID0+IHRoaXMuc3RvcmUuc2VsZWN0KFNlbGVjdG9ycy5nZXRDZXJ0aWZpY2F0ZXNTdGF0ZSkpLAogICAgICB0YXAoc3RhdGUgPT4gewogICAgICAgIGlmICghYWN0aXZhdGVkUm91dGVTbmFwc2hvdC5jaGlsZHJlbi5sZW5ndGgpIHsKICAgICAgICAgIC8vIFNob3VsZCBiZSBjb25kaXRpb25hbCBhZnRlciBvdGhlciBzdGVwcyBtaWdyYXRpb24KICAgICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFtgJHtyb3V0ZXJTdGF0ZS51cmx9LyR7c3RhdGUuY2VydGlmaWNhdGVzWzBdLmlkfWBdLCB7IHJlcGxhY2VVcmw6IHRydWUgfSk7CiAgICAgICAgfQogICAgICB9KSwKICAgICAgbWFwKCgpID0+IHRydWUpLA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KSksCiAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlVVJMKHsgcGFnZSB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWN0aW9uQ3JlYXRvcnMgfSBmcm9tICdwYWdlcy9wcm9mZXNzaW9uYWwvY2VydGlmaWNhdGVzLytzdGF0ZS9jZXJ0aWZpY2F0ZXMuc3RhdGUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyU3RhdGUsIFNlbGVjdG9ycyB9IGZyb20gJy4vK3N0YXRlL2NlcnRpZmljYXRlcy5zdGF0ZSc7CmltcG9ydCB7IFN0b3JlIH0gZnJvbSAnQG5ncngvc3RvcmUnOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGNhc2UgQWN0aW9uQ3JlYXRvcnMuR2V0Q2VydGlmaWNhdGVzLnR5cGU6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgIH07CgogICAgY2FzZSBBY3Rpb25DcmVhdG9ycy5HZXRDZXJ0aWZpY2F0ZURldGFpbHMudHlwZToKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgfTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQWN0aW9uQ3JlYXRvcnMgfSBmcm9tICcuLytzdGF0ZS9jZXJ0aWZpY2F0ZXMtZGV0YWlscy5hY3Rpb25zJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
