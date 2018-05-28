@@ -30,6 +30,9 @@
         <mark key="." line="1" column="66" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/file-upload/file-upload.module.ts" timestamp="1527180944634" />
+      <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527513509794">
+        <mark key="[" line="1044" column="64" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527496267819">
         <mark key="[" line="14" column="92" />
         <mark key="]" line="14" column="86" />
@@ -41,14 +44,6 @@
         <mark key="]" line="35" column="59" />
         <mark key="^" line="35" column="39" />
         <mark key="." line="35" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" timestamp="1527494476343">
-        <mark key="'" line="18" column="30" />
-        <mark key="k" line="13" column="0" />
-        <mark key="[" line="43" column="126" />
-        <mark key="]" line="43" column="126" />
-        <mark key="^" line="43" column="126" />
-        <mark key="." line="43" column="126" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527496419387">
         <mark key="[" line="44" column="32" />
@@ -62,11 +57,12 @@
         <mark key="^" line="74" column="12" />
         <mark key="." line="74" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527508900804">
-        <mark key="[" line="70" column="6" />
-        <mark key="]" line="70" column="6" />
-        <mark key="." line="70" column="6" />
-        <mark key="^" line="70" column="9" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527512923129">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="21" />
+        <mark key="]" line="69" column="21" />
+        <mark key="." line="69" column="21" />
+        <mark key="^" line="70" column="8" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527502076257">
         <mark key="[" line="7" column="88" />
@@ -128,6 +124,9 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/services/professional/certificates/certificates.service.ts" timestamp="1527231448473">
+        <mark key="[" line="37" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/professional-step.guard.ts" timestamp="1527232402107" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.state.ts" timestamp="1527494558402">
         <mark key="[" line="15" column="0" />
@@ -165,13 +164,15 @@
       <jump line="20" column="59" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="22" column="117" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="63" column="110" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
+      <jump line="70" column="16" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>last</text>
+        <text encoding="base64">KCkgPT4gdA==</text>
       </register>
       <register name="-" type="4">
-        <text>last</text>
+        <text encoding="base64">KCkgPT4gdA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
