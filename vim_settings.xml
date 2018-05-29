@@ -21,7 +21,7 @@
         <mark key="^" line="18" column="66" />
         <mark key="." line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527593353457">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527595080774">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
@@ -30,8 +30,12 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
         <mark key="[" line="1044" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527593253990">
-        <mark key="^" line="51" column="46" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527594753662">
+        <mark key="'" line="45" column="33" />
+        <mark key="[" line="67" column="60" />
+        <mark key="]" line="50" column="39" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="50" column="39" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527583338001" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/services/professional/certificates/certificates.interface.ts" timestamp="1527498791213">
@@ -40,10 +44,11 @@
         <mark key="^" line="74" column="12" />
         <mark key="." line="74" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527592799412">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527593745325">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="34" />
-        <mark key="^" line="32" column="19" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527516157337">
         <mark key="[" line="7" column="88" />
@@ -64,7 +69,7 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527515831847">
+      <file name="/Dummy.txt" timestamp="1527595318149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -134,13 +139,14 @@
       <jump line="70" column="16" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
       <jump line="12" column="80" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
+      <jump line="45" column="33" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
