@@ -21,7 +21,7 @@
         <mark key="^" line="18" column="66" />
         <mark key="." line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527591549015">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527593353457">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
@@ -30,8 +30,8 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
         <mark key="[" line="1044" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527591072254">
-        <mark key="^" line="50" column="46" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527593253990">
+        <mark key="^" line="51" column="46" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527583338001" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/services/professional/certificates/certificates.interface.ts" timestamp="1527498791213">
@@ -40,12 +40,10 @@
         <mark key="^" line="74" column="12" />
         <mark key="." line="74" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527583323734">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527592799412">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="52" column="80" />
-        <mark key="." line="52" column="80" />
-        <mark key="^" line="66" column="8" />
+        <mark key="[" line="17" column="34" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527516157337">
         <mark key="[" line="7" column="88" />
@@ -77,13 +75,6 @@
         <mark key="." line="61" column="70" />
         <mark key="^" line="61" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" timestamp="1527508002647">
-        <mark key="'" line="11" column="48" />
-        <mark key="[" line="24" column="105" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="21" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527585012376">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="41" column="1" />
@@ -99,7 +90,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.ts" timestamp="1527581263758">
         <mark key="[" line="16" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1527236983279">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1527592364963">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="46" />
         <mark key="." line="1" column="46" />
@@ -146,10 +137,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGFwKHJlcSA9PiBjb25zb2xlLmxvZygwKSksCiAgICAgICAgICAgICAgd2l0aExhdGVzdEZyb20odGhpcy5zdG9yZS5zZWxlY3QoU2VsZWN0b3JzLmdldENlcnRpZmljYXRlRGV0YWlscykpLAogICAgICAgICAgICAgIHRhcCgoW18sIHsgaWQgfV0pID0+IHRoaXMuc3RvcmUuZGlzcGF0Y2gobmV3IEFjdGlvbkNyZWF0b3JzLkdldENlcnRpZmljYXRlRGV0YWlscyhpZCkpKSwKICAgICAgICAgICAgICBkZWxheSgxMDApLAogICAgICAgICAgICAgIHN3aXRjaE1hcCgoKSA9PiByZXF1ZXN0Q29tcGxldGVkKHRoaXMuc3RvcmUuc2VsZWN0KFNlbGVjdG9ycy5nZXRDZXJ0aWZpY2F0ZURldGFpbHNTdGF0ZSkpKSwKICAgICAgICAgICAgICB0YXAocmVxID0+IGNvbnNvbGUubG9nKDIpKSwKICAgICAgICAgICAgICB3aXRoTGF0ZXN0RnJvbSh0aGlzLnN0b3JlLnNlbGVjdChDZXJ0aWZpY2F0ZXNTZWxlY3RvcnMuZ2V0RmlsdGVycykpLAogICAgICAgICAgICAgIHRhcCgoW18sIGZpbHRlcnNdKSA9PiB0aGlzLnN0b3JlLmRpc3BhdGNoKG5ldyBDZXJ0aWZpY2F0ZXNBY3Rpb25DcmVhdG9ycy5HZXRDZXJ0aWZpY2F0ZXMoZmlsdGVycykpKSwKICAgICAgICAgICAgdGhpcy5zdG9yZS5kaXNwYXRjaChuZXcgQWN0aW9uQ3JlYXRvcnMuVXBkYXRlQ2VydGlmaWNhdGVEZXRhaWxzQW5kTGlzdCgpKTs=</text>
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text>withLatestFrom</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
