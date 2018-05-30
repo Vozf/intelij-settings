@@ -30,12 +30,11 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
         <mark key="[" line="1044" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527621442249">
-        <mark key="'" line="45" column="33" />
-        <mark key="[" line="67" column="60" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527669916978">
+        <mark key="'" line="42" column="33" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527583338001" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/services/professional/certificates/certificates.interface.ts" timestamp="1527498791213">
@@ -44,12 +43,18 @@
         <mark key="^" line="74" column="12" />
         <mark key="." line="74" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" timestamp="1527667534985" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527593745325">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" timestamp="1527669503374">
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527669932249">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="3" column="42" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527516157337">
         <mark key="[" line="7" column="88" />
@@ -63,14 +68,14 @@
         <mark key="^" line="37" column="49" />
         <mark key="." line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" timestamp="1527666881960">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" timestamp="1527669167039">
         <mark key="'" line="12" column="80" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="36" />
-        <mark key="^" line="64" column="36" />
-        <mark key="." line="64" column="36" />
+        <mark key="[" line="92" column="34" />
+        <mark key="]" line="65" column="36" />
+        <mark key="^" line="65" column="36" />
+        <mark key="." line="65" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527595318149">
+      <file name="/Dummy.txt" timestamp="1527670018985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -81,14 +86,14 @@
         <mark key="." line="61" column="70" />
         <mark key="^" line="61" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" timestamp="1527667159446">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" timestamp="1527669735290">
         <mark key="'" line="11" column="48" />
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="24" column="63" />
-        <mark key="." line="24" column="63" />
-        <mark key="^" line="24" column="63" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527585012376">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="41" column="1" />
         <mark key="." line="41" column="1" />
@@ -98,7 +103,7 @@
         <mark key="[" line="408" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527590829646">
-        <mark key="[" line="85" column="12" />
+        <mark key="[" line="81" column="12" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.ts" timestamp="1527581263758">
         <mark key="[" line="16" column="84" />
@@ -116,11 +121,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.route.ts" timestamp="1527236497571">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="13" column="35" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="13" column="35" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.route.ts" timestamp="1527670003543">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="1" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -151,10 +156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
