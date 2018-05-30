@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
         <mark key="[" line="1044" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527594753662">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527621442249">
         <mark key="'" line="45" column="33" />
         <mark key="[" line="67" column="60" />
-        <mark key="]" line="50" column="39" />
-        <mark key="^" line="50" column="39" />
-        <mark key="." line="50" column="39" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527583338001" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/services/professional/certificates/certificates.interface.ts" timestamp="1527498791213">
