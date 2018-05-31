@@ -3,6 +3,110 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/login.page-object.ts" timestamp="1527774861021">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.html" timestamp="1527776575681">
+        <mark key="[" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" timestamp="1527763754682">
+        <mark key="[" line="30" column="48" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527758779014">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527775876569">
+        <mark key="[" line="7" column="100" />
+        <mark key="]" line="7" column="92" />
+        <mark key="^" line="7" column="92" />
+        <mark key="." line="7" column="92" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" timestamp="1527516635416">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="49" />
+        <mark key="^" line="37" column="49" />
+        <mark key="." line="37" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.po.ts" timestamp="1527776646414">
+        <mark key="'" line="8" column="99" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="4" column="79" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.html" timestamp="1527775233706">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="61" column="70" />
+        <mark key="." line="61" column="70" />
+        <mark key="^" line="61" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" timestamp="1527669735290">
+        <mark key="'" line="11" column="48" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527753189421">
+        <mark key="[" line="62" column="2" />
+        <mark key="]" line="62" column="2" />
+        <mark key="^" line="57" column="1" />
+        <mark key="." line="62" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/package.json" timestamp="1527773912708" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.ts" timestamp="1527581263758">
+        <mark key="[" line="16" column="84" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/employer-list.component.html" timestamp="1527776487730">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="107" />
+        <mark key="^" line="6" column="107" />
+        <mark key="." line="6" column="107" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1527592364963">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.page-object.ts" timestamp="1527768949459">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.e2e-spec.ts" timestamp="1527771820373">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/login.e2e-spec.ts" timestamp="1527771617382">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-item/certificate-item.component.html" timestamp="1527775897314">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="49" />
+        <mark key="." line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.route.ts" timestamp="1527670003543">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-item/certificate-item.module.ts" timestamp="1527181995112">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="33" />
@@ -29,61 +133,32 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/e2e/configs/users.config.ts" timestamp="1527770810115">
+      <file name="$USER_HOME$/projects/certemy_web/e2e/configs/users.config.ts" timestamp="1527771448466">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="2" />
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527669916978">
-        <mark key="'" line="42" column="33" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" timestamp="1527763754682">
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="30" column="46" />
-        <mark key="." line="30" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" timestamp="1527758779014">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="17" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527516157337">
-        <mark key="[" line="7" column="88" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="54" />
-        <mark key="^" line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" timestamp="1527516635416">
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="37" column="49" />
-        <mark key="^" line="37" column="49" />
-        <mark key="." line="37" column="49" />
+      <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
+        <mark key="[" line="1044" column="64" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/test.ts" timestamp="1527768144074" />
-      <file name="/Dummy.txt" timestamp="1527763761188">
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/revoke.po.ts" timestamp="1527775375723">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/login.e2e-spec.ts" timestamp="1527774563852">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527776826176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.html" timestamp="1527496856559">
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="70" />
-        <mark key="." line="61" column="70" />
-        <mark key="^" line="61" column="70" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" timestamp="1527669735290">
-        <mark key="'" line="11" column="48" />
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
@@ -91,25 +166,9 @@
         <mark key="." line="41" column="1" />
         <mark key="^" line="41" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527753189421">
-        <mark key="[" line="62" column="2" />
-        <mark key="]" line="62" column="2" />
-        <mark key="^" line="57" column="1" />
-        <mark key="." line="62" column="2" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/utils/helpers.ts" timestamp="1527584518976">
+        <mark key="[" line="408" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1527592364963">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="46" />
-        <mark key="." line="1" column="46" />
-        <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.page-object.ts" timestamp="1527768949459">
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="17" column="2" />
-        <mark key="." line="17" column="2" />
-        <mark key="^" line="17" column="2" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.e2e-spec.ts" timestamp="1527768160746" />
       <file name="$USER_HOME$/projects/certemy_web/deploy/ecs/update-service.sh" timestamp="1527584014769" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.state.ts" timestamp="1527585647621">
         <mark key="[" line="15" column="0" />
@@ -117,13 +176,13 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.route.ts" timestamp="1527670003543">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="1" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_api/database/sequelize/index.js" timestamp="1527770530594" />
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.e2e-spec.ts" timestamp="1527776211771">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
@@ -150,13 +209,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
       <jump line="12" column="80" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="45" column="33" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" />
+      <jump line="8" column="99" filename="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.po.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>await sequelize.query('SET FOREIGN_KE</text>
+        <text>certificationTrackedByEmployerId: number)</text>
       </register>
       <register name="-" type="4">
-        <text>await sequelize.query('SET FOREIGN_KE</text>
+        <text>certificationTrackedByEmployerId: number)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
@@ -165,31 +225,31 @@
         <text>UpdateCertificateDetailsAndList</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dGFwKHJlcSA9PiBjb25zb2xlLmxvZygwKSksCiAgICAgICAgICAgICAgd2l0aExhdGVzdEZyb20odGhpcy5zdG9yZS5zZWxlY3QoU2VsZWN0b3JzLmdldENlcnRpZmljYXRlRGV0YWlscykpLAogICAgICAgICAgICAgIHRhcCgoW18sIHsgaWQgfV0pID0+IHRoaXMuc3RvcmUuZGlzcGF0Y2gobmV3IEFjdGlvbkNyZWF0b3JzLkdldENlcnRpZmljYXRlRGV0YWlscyhpZCkpKSwKICAgICAgICAgICAgICBkZWxheSgxMDApLAogICAgICAgICAgICAgIHN3aXRjaE1hcCgoKSA9PiByZXF1ZXN0Q29tcGxldGVkKHRoaXMuc3RvcmUuc2VsZWN0KFNlbGVjdG9ycy5nZXRDZXJ0aWZpY2F0ZURldGFpbHNTdGF0ZSkpKSwKICAgICAgICAgICAgICB0YXAocmVxID0+IGNvbnNvbGUubG9nKDIpKSwKICAgICAgICAgICAgICB3aXRoTGF0ZXN0RnJvbSh0aGlzLnN0b3JlLnNlbGVjdChDZXJ0aWZpY2F0ZXNTZWxlY3RvcnMuZ2V0RmlsdGVycykpLAogICAgICAgICAgICAgIHRhcCgoW18sIGZpbHRlcnNdKSA9PiB0aGlzLnN0b3JlLmRpc3BhdGNoKG5ldyBDZXJ0aWZpY2F0ZXNBY3Rpb25DcmVhdG9ycy5HZXRDZXJ0aWZpY2F0ZXMoZmlsdGVycykpKSwKICAgICAgICAgICAgdGhpcy5zdG9yZS5kaXNwYXRjaChuZXcgQWN0aW9uQ3JlYXRvcnMuVXBkYXRlQ2VydGlmaWNhdGVEZXRhaWxzQW5kTGlzdCgpKTs=</text>
+        <text encoding="base64">CiAgZ2V0IHBhc3N3b3JkKCkgewogICAgcmV0dXJuIGVsZW1lbnQoYnkuY3NzKCdbZm9ybUNvbnRyb2xOYW1lPSJwYXNzd29yZCJdJykpOwogIH0KCiAgZ2V0IHN1Ym1pdEJ1dHRvbigpIHsKICAgIHJldHVybiBlbGVtZW50KGJ5LmNzcygnW3R5cGU9InN1Ym1pdCJdJykpOwogIH0=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">dGFwKHJlcSA9PiBjb25zb2xlLmxvZygwKSksCiAgICAgICAgICAgICAgd2l0aExhdGVzdEZyb20odGhpcy5zdG9yZS5zZWxlY3QoU2VsZWN0b3JzLmdldENlcnRpZmljYXRlRGV0YWlscykpLAogICAgICAgICAgICAgIHRhcCgoW18sIHsgaWQgfV0pID0+IHRoaXMuc3RvcmUuZGlzcGF0Y2gobmV3IEFjdGlvbkNyZWF0b3JzLkdldENlcnRpZmljYXRlRGV0YWlscyhpZCkpKSwKICAgICAgICAgICAgICBkZWxheSgxMDApLAogICAgICAgICAgICAgIHN3aXRjaE1hcCgoKSA9PiByZXF1ZXN0Q29tcGxldGVkKHRoaXMuc3RvcmUuc2VsZWN0KFNlbGVjdG9ycy5nZXRDZXJ0aWZpY2F0ZURldGFpbHNTdGF0ZSkpKSwKICAgICAgICAgICAgICB0YXAocmVxID0+IGNvbnNvbGUubG9nKDIpKSwKICAgICAgICAgICAgICB3aXRoTGF0ZXN0RnJvbSh0aGlzLnN0b3JlLnNlbGVjdChDZXJ0aWZpY2F0ZXNTZWxlY3RvcnMuZ2V0RmlsdGVycykpLAogICAgICAgICAgICAgIHRhcCgoW18sIGZpbHRlcnNdKSA9PiB0aGlzLnN0b3JlLmRpc3BhdGNoKG5ldyBDZXJ0aWZpY2F0ZXNBY3Rpb25DcmVhdG9ycy5HZXRDZXJ0aWZpY2F0ZXMoZmlsdGVycykpKSwKICAgICAgICAgICAgdGhpcy5zdG9yZS5kaXNwYXRjaChuZXcgQWN0aW9uQ3JlYXRvcnMuVXBkYXRlQ2VydGlmaWNhdGVEZXRhaWxzQW5kTGlzdCgpKTs=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgIHN3aXRjaE1hcA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHRoaXMuc3RvcmUuZGlzcGF0Y2gobmV3IEFjdGlvbkNyZWF0b3JzLkNlcnRpZmljYXRlU3RhdHVzQ2hhbmdlKGNoYW5nZUV2ZW50KSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHVwZGF0ZVVSTChwYXJhbXNVcGRhdGU6IFVybFBhcmFtc1BhcnNlZCkgewogICAgbGV0IHF1ZXJ5UGFyYW1zID0geyAuLi50aGlzLmN1cnJlbnRRdWVyeVBhcmFtcywgLi4ucGFyYW1zVXBkYXRlIH07CgogICAgaWYgKHBhcmFtc1VwZGF0ZS5zZWFyY2gpIHsKICAgICAgY29uc3Qgc2VhcmNoID0gcGFyYW1zVXBkYXRlLnNlYXJjaCA/IGVuY29kZVVSSUNvbXBvbmVudChwYXJhbXNVcGRhdGUuc2VhcmNoKSA6IG51bGw7CiAgICAgIHF1ZXJ5UGFyYW1zID0geyAuLi5xdWVyeVBhcmFtcywgc2VhcmNoIH07CiAgICB9CiAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbYC9wcm9mZXNzaW9uYWwvY2VydGlmaWNhdGlvbnMvYF0sIHsgcXVlcnlQYXJhbXMgfSk7CiAgfQ==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHVwZGF0ZVVSTChwYXJhbXNVcGRhdGU6IFVybFBhcmFtc1BhcnNlZCkgewogICAgbGV0IHF1ZXJ5UGFyYW1zID0geyAuLi50aGlzLmN1cnJlbnRRdWVyeVBhcmFtcywgLi4ucGFyYW1zVXBkYXRlIH07CgogICAgaWYgKHBhcmFtc1VwZGF0ZS5zZWFyY2gpIHsKICAgICAgY29uc3Qgc2VhcmNoID0gcGFyYW1zVXBkYXRlLnNlYXJjaCA/IGVuY29kZVVSSUNvbXBvbmVudChwYXJhbXNVcGRhdGUuc2VhcmNoKSA6IG51bGw7CiAgICAgIHF1ZXJ5UGFyYW1zID0geyAuLi5xdWVyeVBhcmFtcywgc2VhcmNoIH07CiAgICB9CiAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbYC9wcm9mZXNzaW9uYWwvY2VydGlmaWNhdGlvbnMvYF0sIHsgcXVlcnlQYXJhbXMgfSk7CiAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgcHJpdmF0ZSBhcHBseVF1ZXJ5UGFyYW1zKHBhcmFtczogVXJsUGFyYW1zUmF3KSB7CiAgICB0aGlzLmN1cnJlbnRRdWVyeVBhcmFtcyA9IHBhcmFtczsKICAgIHRoaXMuYWN0aXZlQ2VydGlmaWNhdGUgPSArcGFyYW1zLmFjdGl2ZUNlcnRpZmljYXRlOwogICAgdGhpcy5wYWdlID0gK3BhcmFtcy5wYWdlIHx8IDE7CiAgICB0aGlzLmRldGFpbHNfbW9kZSA9ICEhcGFyYW1zLmRldGFpbHNfbW9kZTsKICAgIHRoaXMuc2VhcmNoVGV4dCA9IHBhcmFtcy5zZWFyY2ggPyBkZWNvZGVVUklDb21wb25lbnQocGFyYW1zLnNlYXJjaCkgOiAnJzsKICB9CgogIHByaXZhdGUgYXBwbHlDZXJ0aWZpY2F0ZXMoZGF0YSkgewogICAgdGhpcy5jZXJ0aWZpY2F0ZXMgPSBkYXRhLnJlc3VsdDsKICAgIHRoaXMuY291bnQgPSBkYXRhLmNvdW50OwogIH0KCiAgcHJpdmF0ZSBhcHBseUNlcnRpZmljYXRlKGNlcnRpZmljYXRlKSB7CiAgICBpZiAoY2VydGlmaWNhdGUpIHsKICAgICAgdGhpcy5jZXJ0aWZpY2F0ZSA9IGNlcnRpZmljYXRlOwogICAgICB0aGlzLmFjdGl2ZUNlcnRpZmljYXRlID0gY2VydGlmaWNhdGUuaWQ7CiAgICAgIHRoaXMudGVzdFJlZ2lzdHJhdGlvbkNlcnRpZmljYXRlID0KICAgICAgICB0aGlzLmNlcnRpZmljYXRlLmNlcnRpZmljYXRpb25fdGVtcGxhdGVfaWQgPT09IGNvbnN0YW50cy5DRVJUSUZJQ0FUSU9OX1RFTVBMQVRFLlRFU1RfUkVHSVNUUkFUSU9OOwoKICAgICAgaWYgKHRoaXMudGVzdFJlZ2lzdHJhdGlvbkNlcnRpZmljYXRlKSB7CiAgICAgICAgdGhpcy5tb2RpZnlUZXN0UmVnaXN0cmF0aW9uQ2VydGlmaWNhdGlvbih0aGlzLmNlcnRpZmljYXRlKTsKICAgICAgfQogICAgICByZXR1cm4gdGhpcy5jZXJ0aWZpY2F0ZTsKICAgIH0KICB9CgogIHByaXZhdGUgZ2V0Q2VydGlmaWNhdGUoaWQ6IG51bWJlcikgewogICAgcmV0dXJuIHRoaXMuX2NlcnRpZmljYXRlc1NlcnZpY2UuZ2V0Q2VydGlmaWNhdGUoaWQpLnBpcGUoCiAgICAgIG1hcChjZXJ0aWZpY2F0ZSA9PiB7CiAgICAgICAgdGhpcy5jZXJ0aWZpY2F0ZSA9IGNlcnRpZmljYXRlOwogICAgICAgIHRoaXMuZGV0YWlsc19tb2RlID0gdHJ1ZTsKICAgICAgICB0aGlzLnRlc3RSZWdpc3RyYXRpb25DZXJ0aWZpY2F0ZSA9CiAgICAgICAgICB0aGlzLmNlcnRpZmljYXRlLmNlcnRpZmljYXRpb25fdGVtcGxhdGVfaWQgPT09IGNvbnN0YW50cy5DRVJUSUZJQ0FUSU9OX1RFTVBMQVRFLlRFU1RfUkVHSVNUUkFUSU9OOwoKICAgICAgICBpZiAodGhpcy50ZXN0UmVnaXN0cmF0aW9uQ2VydGlmaWNhdGUpIHsKICAgICAgICAgIHRoaXMubW9kaWZ5VGVzdFJlZ2lzdHJhdGlvbkNlcnRpZmljYXRpb24odGhpcy5jZXJ0aWZpY2F0ZSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdGhpcy5jZXJ0aWZpY2F0ZTsKICAgICAgfSksCiAgICAgIGNhdGNoRXJyb3IoKCkgPT4gbmV2ZXIoKSksCiAgICApOwogIH0KCiAgcHJpdmF0ZSBtb2RpZnlUZXN0UmVnaXN0cmF0aW9uQ2VydGlmaWNhdGlvbihjZXJ0aWZpY2F0ZSkgewogICAgdGhpcy50ZXN0UmVnaXN0cmF0aW9uQ2VydGlmaWNhdGVTdGVwcyA9IHsKICAgICAgdXBjb21pbmdTdGVwczogY2VydGlmaWNhdGUuc3RlcF9pbnN0YW5jZXMuZmlsdGVyKHN0ZXAgPT4gc3RlcC5pc1VwY29tbWluZyksCiAgICAgIGNvbXBsZXRlZFN0ZXBzOiBjZXJ0aWZpY2F0ZS5zdGVwX2luc3RhbmNlcy5maWx0ZXIoc3RlcCA9PiAhc3RlcC5pc1VwY29tbWluZyksCiAgICB9OwogIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgogIC8vIFRlbXBvcmFyeSBmdW5jIHRvIGRldGVybWluZSBpZiB0aGlzIGlzIEVkdWNhdGlvbiBzdGVwLCBzaW5jZSBpdCBpcyBpbXBsZW1lbnRlZCB3aXRob3V0IHBvcHVwcwogIC8vIFNob3VsZCBiZSByZW1vdmVkIGFzIHNvb24gYXMgYWxsIHN0ZXBzIGFyZSBtb3ZlZCBmcm9tIHBvcHVwcyBpbnRvIHBhZ2UgbW9kZQo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBnZXRDZXJ0aWZpY2F0ZXMob2JqKSB7CiAgICByZXR1cm4gdGhpcy5fY2VydGlmaWNhdGVzU2VydmljZS5nZXRDZXJ0aWZpY2F0ZXMob2JqKS5waXBlKAogICAgICBtYXAoKGRhdGE6IHsgcmVzdWx0OiBhbnlbXTsgY291bnQ6IG51bWJlcjsgZnVsbF9jb3VudDogbnVtYmVyIH0pID0+IHsKICAgICAgICB0aGlzLmNlcnRpZmljYXRlcyA9IGRhdGEucmVzdWx0OwogICAgICAgIHRoaXMuY291bnQgPSBkYXRhLmNvdW50OwogICAgICAgIHRoaXMuaGFzQ2VydCA9ICEhb2JqLnNlYXJjaCB8fCAhIXRoaXMuY2VydGlmaWNhdGVzLmxlbmd0aDsKCiAgICAgICAgaWYgKHRoaXMuY2VydGlmaWNhdGVzLmxlbmd0aCAmJiB3aW5kb3cuaW5uZXJXaWR0aCA+IDkwMCkgewogICAgICAgICAgdGhpcy5jaG9vc2VDZXJ0aWZpY2F0ZSh0aGlzLmFjdGl2ZUNlcnRpZmljYXRlIHx8IHRoaXMuY2VydGlmaWNhdGVzWzBdLmlkKTsKICAgICAgICB9CiAgICAgIH0pLAogICAgICBjYXRjaEVycm9yKCgpID0+IG5ldmVyKCkpLAogICAgKTsKICB9</text>
+        <text encoding="base64">CgogIC8vIFRlbXBvcmFyeSBmdW5jIHRvIGRldGVybWluZSBpZiB0aGlzIGlzIEVkdWNhdGlvbiBzdGVwLCBzaW5jZSBpdCBpcyBpbXBsZW1lbnRlZCB3aXRob3V0IHBvcHVwcwogIC8vIFNob3VsZCBiZSByZW1vdmVkIGFzIHNvb24gYXMgYWxsIHN0ZXBzIGFyZSBtb3ZlZCBmcm9tIHBvcHVwcyBpbnRvIHBhZ2UgbW9kZQo=</text>
       </register>
     </registers>
     <search>
