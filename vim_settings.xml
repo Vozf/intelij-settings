@@ -75,7 +75,7 @@
         <mark key="^" line="65" column="36" />
         <mark key="." line="65" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527750796829">
+      <file name="/Dummy.txt" timestamp="1527753208683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -102,8 +102,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/utils/helpers.ts" timestamp="1527584518976">
         <mark key="[" line="408" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527751706001">
-        <mark key="[" line="81" column="12" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527753189421">
+        <mark key="[" line="62" column="2" />
+        <mark key="]" line="62" column="2" />
+        <mark key="^" line="57" column="1" />
+        <mark key="." line="62" column="2" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.ts" timestamp="1527581263758">
         <mark key="[" line="16" column="84" />
@@ -156,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
