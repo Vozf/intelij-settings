@@ -22,14 +22,18 @@
         <mark key="^" line="18" column="66" />
         <mark key="." line="18" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_api/gulpfile.js" timestamp="1527770533475" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527595080774">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
-        <mark key="[" line="1044" column="64" />
+      <file name="$USER_HOME$/projects/certemy_web/e2e/configs/users.config.ts" timestamp="1527770810115">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" timestamp="1527669916978">
         <mark key="'" line="42" column="33" />
@@ -87,17 +91,11 @@
         <mark key="." line="41" column="1" />
         <mark key="^" line="41" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/utils/helpers.ts" timestamp="1527584518976">
-        <mark key="[" line="408" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" timestamp="1527753189421">
         <mark key="[" line="62" column="2" />
         <mark key="]" line="62" column="2" />
         <mark key="^" line="57" column="1" />
         <mark key="." line="62" column="2" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.ts" timestamp="1527581263758">
-        <mark key="[" line="16" column="84" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1527592364963">
         <mark key="[" line="1" column="46" />
@@ -125,6 +123,7 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_api/database/sequelize/index.js" timestamp="1527770530594" />
     </filemarks>
     <jumps>
       <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
@@ -154,10 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>await sequelize.query('SET FOREIGN_KE</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>await sequelize.query('SET FOREIGN_KE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
