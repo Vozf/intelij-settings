@@ -37,7 +37,6 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" timestamp="1527583338001" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" timestamp="1527763754682">
         <mark key="[" line="30" column="48" />
         <mark key="]" line="30" column="46" />
@@ -63,6 +62,7 @@
         <mark key="^" line="37" column="49" />
         <mark key="." line="37" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/test.ts" timestamp="1527768144074" />
       <file name="/Dummy.txt" timestamp="1527763761188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -105,6 +105,13 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.page-object.ts" timestamp="1527768949459">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.e2e-spec.ts" timestamp="1527768160746" />
       <file name="$USER_HOME$/projects/certemy_web/deploy/ecs/update-service.sh" timestamp="1527584014769" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.state.ts" timestamp="1527585647621">
         <mark key="[" line="15" column="0" />
@@ -147,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
