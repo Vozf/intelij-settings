@@ -171,6 +171,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1527846835051" />
       <file name="$USER_HOME$/projects/certemy_api/database/sequelize/index.js" timestamp="1527770530594" />
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.e2e-spec.ts" timestamp="1527841515216">
         <mark key="[" line="16" column="5" />
