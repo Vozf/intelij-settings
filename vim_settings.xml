@@ -85,11 +85,6 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.e2e-spec.ts" timestamp="1527837305024">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/login.e2e-spec.ts" timestamp="1527771617382">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="11" />
@@ -155,7 +150,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527776826176">
+      <file name="/Dummy.txt" timestamp="1527839499395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -177,7 +172,7 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/database/sequelize/index.js" timestamp="1527770530594" />
-      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.e2e-spec.ts" timestamp="1527838572356">
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.e2e-spec.ts" timestamp="1527839822315">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="15" column="12" />
