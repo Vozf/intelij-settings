@@ -37,12 +37,12 @@
         <mark key="^" line="37" column="49" />
         <mark key="." line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.po.ts" timestamp="1527776646414">
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.po.ts" timestamp="1527838246919">
         <mark key="'" line="8" column="99" />
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="4" column="79" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.html" timestamp="1527775233706">
         <mark key="[" line="5" column="60" />
@@ -177,11 +177,11 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/database/sequelize/index.js" timestamp="1527770530594" />
-      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.e2e-spec.ts" timestamp="1527837014991">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="16" column="10" />
+      <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/revoke.e2e-spec.ts" timestamp="1527838572356">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -213,16 +213,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>UpdateCertificateDetailsAndList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChyZXZva2VQTy5hY3RpdmVMaXN0RW1wbG95ZXJJY29uLmlzUHJlc2VudCgpKS50b0JlKHRydWUpOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICsgCiArCiAr</text>
