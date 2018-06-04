@@ -9,6 +9,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/employer/certificates/tracked-certificates/employer-user-tracked-certificates.component.ts" timestamp="1528097453761">
+        <mark key="[" line="136" column="68" />
+        <mark key="]" line="136" column="65" />
+        <mark key="^" line="136" column="65" />
+        <mark key="." line="136" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.html" timestamp="1527776575681">
         <mark key="[" line="12" column="32" />
       </file>
@@ -209,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>change navigateto to click</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>change navigateto to click</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
