@@ -9,8 +9,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/employer/certificates/tracked-certificates/employer-user-tracked-certificates.component.ts" timestamp="1528099049108">
-        <mark key="[" line="73" column="12" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/employer/certificates/tracked-certificates/employer-user-tracked-certificates.component.ts" timestamp="1528101253946">
+        <mark key="[" line="128" column="99" />
+        <mark key="]" line="133" column="2" />
+        <mark key="^" line="133" column="2" />
+        <mark key="." line="133" column="2" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.html" timestamp="1527776575681">
         <mark key="[" line="12" column="32" />
@@ -153,10 +156,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528099475165">
+      <file name="/Dummy.txt" timestamp="1528101258469">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
@@ -212,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>call next on behavior subject</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>call next on behavior subject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
