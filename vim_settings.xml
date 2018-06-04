@@ -121,6 +121,11 @@
         <mark key="." line="90" column="25" />
       </file>
       <file name="/test.ts" timestamp="1527767570007" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/employer-users/employer-users.component.ts" timestamp="1528103519823">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/router-state/+state/router-state.state.ts" timestamp="1527759135160">
         <mark key="[" line="18" column="56" />
         <mark key="]" line="18" column="57" />
@@ -215,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>call next on behavior subject</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>call next on behavior subject</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
