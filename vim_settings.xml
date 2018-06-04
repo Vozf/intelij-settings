@@ -9,11 +9,8 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/employer/certificates/tracked-certificates/employer-user-tracked-certificates.component.ts" timestamp="1528097453761">
-        <mark key="[" line="136" column="68" />
-        <mark key="]" line="136" column="65" />
-        <mark key="^" line="136" column="65" />
-        <mark key="." line="136" column="65" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/employer/certificates/tracked-certificates/employer-user-tracked-certificates.component.ts" timestamp="1528099049108">
+        <mark key="[" line="73" column="12" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.html" timestamp="1527776575681">
         <mark key="[" line="12" column="32" />
@@ -156,7 +153,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527841524407">
+      <file name="/Dummy.txt" timestamp="1528099475165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
