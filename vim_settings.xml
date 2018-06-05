@@ -160,8 +160,11 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
         <mark key="[" line="1044" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/ce-types/general/opportunities/upload/opportunities-upload.component.ts" timestamp="1528183561139">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/ce-types/general/opportunities/upload/opportunities-upload.component.ts" timestamp="1528185623833">
         <mark key="[" line="31" column="61" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/test.ts" timestamp="1527768144074" />
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/revoke.po.ts" timestamp="1527775375723">
