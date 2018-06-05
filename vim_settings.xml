@@ -160,6 +160,9 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/certification/step/index.js" timestamp="1527515046007">
         <mark key="[" line="1044" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/ce-types/general/opportunities/upload/opportunities-upload.component.ts" timestamp="1528183561139">
+        <mark key="[" line="31" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/test.ts" timestamp="1527768144074" />
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/revoke.po.ts" timestamp="1527775375723">
         <mark key="[" line="2" column="20" />
@@ -173,10 +176,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528181798579">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1528184134737">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
@@ -188,6 +191,12 @@
         <mark key="[" line="408" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/deploy/ecs/update-service.sh" timestamp="1527584014769" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/shared/general-upload-form/general-upload.component.ts" timestamp="1528183970279">
+        <mark key="[" line="109" column="73" />
+        <mark key="]" line="112" column="4" />
+        <mark key="^" line="112" column="4" />
+        <mark key="." line="112" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.state.ts" timestamp="1527585647621">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -232,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adjust required to use by different types</text>
+        <text encoding="base64">IHJlbmFtZSBjb2x1bW4=</text>
       </register>
       <register name="-" type="4">
-        <text>adjust required to use by different types</text>
+        <text encoding="base64">IHJlbmFtZSBjb2x1bW4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
