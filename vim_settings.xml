@@ -102,7 +102,6 @@
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/smart-form/smart-form.component.ts" timestamp="1528179671733" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-item/certificate-item.component.html" timestamp="1527775897314">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="49" />
@@ -115,11 +114,11 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/typeahead/typeahead.component.scss" timestamp="1528180715410">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/typeahead/typeahead.component.scss" timestamp="1528181782814">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-item/certificate-item.module.ts" timestamp="1527181995112">
         <mark key="[" line="10" column="36" />
@@ -174,7 +173,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528180738611">
+      <file name="/Dummy.txt" timestamp="1528181798579">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
