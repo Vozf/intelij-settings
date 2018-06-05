@@ -121,7 +121,7 @@
         <mark key="." line="90" column="25" />
       </file>
       <file name="/test.ts" timestamp="1527767570007" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/employer-users/employer-users.component.ts" timestamp="1528103519823">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/employer-users/employer-users.component.ts" timestamp="1528105561118">
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="24" />
         <mark key="." line="40" column="24" />
@@ -161,10 +161,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528101258469">
+      <file name="/Dummy.txt" timestamp="1528105614966">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
