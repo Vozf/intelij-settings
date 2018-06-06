@@ -14,6 +14,11 @@
         <mark key="^" line="18" column="66" />
         <mark key="." line="18" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.html" timestamp="1528286883999">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/login.page-object.ts" timestamp="1527774861021">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="12" />
@@ -111,11 +116,11 @@
         <mark key="^" line="36" column="79" />
         <mark key="." line="36" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528285375345">
-        <mark key="[" line="171" column="53" />
-        <mark key="]" line="116" column="50" />
-        <mark key="^" line="116" column="50" />
-        <mark key="." line="116" column="50" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528287149996">
+        <mark key="[" line="175" column="34" />
+        <mark key="]" line="175" column="33" />
+        <mark key="^" line="175" column="33" />
+        <mark key="." line="175" column="33" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/employer-list/revoke-modal/revoke-modal.component.ts" timestamp="1527581263758">
         <mark key="[" line="16" column="84" />
@@ -197,10 +202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>length</text>
+        <text>|| typeof event === 'string')</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>|| typeof event === 'string')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
