@@ -156,12 +156,12 @@
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload.helpers.ts" timestamp="1528187301258">
         <mark key="[" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528355311830">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528356659132">
         <mark key="'" line="328" column="6" />
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="4" />
-        <mark key="^" line="241" column="36" />
-        <mark key="." line="59" column="4" />
+        <mark key="[" line="282" column="28" />
+        <mark key="]" line="282" column="28" />
+        <mark key="^" line="277" column="6" />
+        <mark key="." line="282" column="28" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/organization-find-or-create/organization-find-or-create.component.html" timestamp="1528291661759" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/typeahead/typeahead.component.ts" timestamp="1528290045213" />
@@ -215,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>certification</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>certification</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
