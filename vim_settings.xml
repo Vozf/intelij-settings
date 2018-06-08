@@ -103,11 +103,11 @@
         <mark key="^" line="18" column="66" />
         <mark key="." line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.html" timestamp="1528441865338">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
-        <mark key="^" line="36" column="28" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.html" timestamp="1528444946269">
+        <mark key="[" line="26" column="85" />
+        <mark key="]" line="26" column="85" />
+        <mark key="." line="26" column="85" />
+        <mark key="^" line="26" column="73" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527595080774">
         <mark key="[" line="9" column="50" />
@@ -148,10 +148,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528442845604">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1528445220861">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
@@ -165,12 +165,12 @@
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload.helpers.ts" timestamp="1528187301258">
         <mark key="[" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528442057824">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528445104605">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="^" line="267" column="42" />
-        <mark key="." line="189" column="0" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="43" column="3" />
+        <mark key="^" line="43" column="3" />
+        <mark key="." line="43" column="3" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/organization-find-or-create/organization-find-or-create.component.html" timestamp="1528291661759" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/typeahead/typeahead.component.ts" timestamp="1528290045213" />
@@ -245,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instead of custom for general and tr dashboard</text>
+        <text>interfaces and remove dates</text>
       </register>
       <register name="-" type="4">
-        <text>instead of custom for general and tr dashboard</text>
+        <text>interfaces and remove dates</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
