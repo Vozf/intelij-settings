@@ -154,10 +154,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528445220861">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1528448885488">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.actions.ts" timestamp="1527669945335">
         <mark key="[" line="40" column="3" />
@@ -249,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>581</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>581</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
