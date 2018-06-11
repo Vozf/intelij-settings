@@ -50,6 +50,12 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.scss" timestamp="1528725564730">
+        <mark key="[" line="78" column="9" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.html" timestamp="1527775876569">
         <mark key="[" line="7" column="100" />
         <mark key="]" line="7" column="92" />
@@ -171,7 +177,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528720606690">
+      <file name="/Dummy.txt" timestamp="1528725170587">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -186,13 +192,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/utils/helpers.ts" timestamp="1528447511571" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload.helpers.ts" timestamp="1528701483331">
         <mark key="[" line="22" column="2" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1528446886978">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="77" column="16" />
-        <mark key="]" line="77" column="16" />
-        <mark key="^" line="77" column="48" />
-        <mark key="." line="77" column="16" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/organization-find-or-create/organization-find-or-create.component.html" timestamp="1528291661759" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/typeahead/typeahead.component.ts" timestamp="1528290045213" />
