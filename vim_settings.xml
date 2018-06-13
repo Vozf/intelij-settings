@@ -67,8 +67,12 @@
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" timestamp="1528882054687">
-        <mark key="[" line="38" column="50" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" timestamp="1528883614573">
+        <mark key="'" line="38" column="75" />
+        <mark key="[" line="38" column="62" />
+        <mark key="]" line="38" column="62" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="38" column="62" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/general-certification/general-certification.component.ts" timestamp="1528441200422">
         <mark key="[" line="0" column="76" />
@@ -283,13 +287,14 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="21" column="1" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" />
       <jump line="5" column="36" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" />
+      <jump line="38" column="75" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>export</text>
+        <text>Logger</text>
       </register>
       <register name="-" type="4">
-        <text>export</text>
+        <text>Logger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
