@@ -249,7 +249,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528960811988">
+      <file name="/Dummy.txt" timestamp="1528961885834">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -276,11 +276,11 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/common.module.ts" timestamp="1528886047635">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="39" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/common.module.ts" timestamp="1528962462782">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1528884105250" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/modal-windows/step-details/fees-details/fees-details.modal.component.ts" timestamp="1528703613373">
