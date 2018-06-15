@@ -87,6 +87,12 @@
         <mark key="^" line="46" column="65" />
         <mark key="." line="46" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/guards/number-params/certificate-details.guard.ts" timestamp="1529047572932">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/organization/certificates/organization-user-certificates.module.ts" timestamp="1528959360011">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="27" column="47" />
@@ -99,11 +105,11 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="62" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/package.json" timestamp="1528960805316">
-        <mark key="[" line="36" column="76" />
-        <mark key="]" line="36" column="79" />
-        <mark key="^" line="36" column="79" />
-        <mark key="." line="36" column="79" />
+      <file name="$USER_HOME$/projects/certemy_web/package.json" timestamp="1529046946381">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="98" />
+        <mark key="^" line="36" column="98" />
+        <mark key="." line="36" column="98" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1528886100211">
         <mark key="'" line="5" column="36" />
@@ -123,6 +129,12 @@
         <mark key="]" line="22" column="1" />
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/app.module.ts" timestamp="1529046836144">
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="76" column="20" />
+        <mark key="^" line="76" column="20" />
+        <mark key="." line="76" column="20" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/general-modal/general-modal.component.ts" timestamp="1528439621708">
         <mark key="[" line="11" column="36" />
@@ -182,6 +194,7 @@
         <mark key="[" line="28" column="39" />
       </file>
       <file name="/package.json" timestamp="1528960790736" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/guards/number-params/number-params.guard.ts" timestamp="1529048370068" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527595080774">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="48" />
@@ -249,7 +262,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528961885834">
+      <file name="/Dummy.txt" timestamp="1529047878532">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -276,11 +289,11 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/common.module.ts" timestamp="1528962462782">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="6" column="38" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/common.module.ts" timestamp="1529046806484">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1528884105250" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/modal-windows/step-details/fees-details/fees-details.modal.component.ts" timestamp="1528703613373">
@@ -367,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>st</text>
+        <text>[5877] revert css style</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>[5877] revert css style</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
