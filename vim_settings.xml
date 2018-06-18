@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.scss" timestamp="1529067837280">
+        <mark key="'" line="12" column="3" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/modal-windows/certificate/accept/accept.component.ts" timestamp="1528704606207">
         <mark key="[" line="103" column="33" />
         <mark key="]" line="103" column="33" />
@@ -27,8 +34,12 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529056981151">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/registry-details/registry-details.module.ts" timestamp="1529061611297" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529067977110">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/employer/certificates/tracked-certificates/employer-user-tracked-certificates.component.ts" timestamp="1528102005715">
         <mark key="[" line="128" column="99" />
@@ -48,7 +59,8 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.scss" timestamp="1528726594712">
+      <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/page-header/page-header.component.ts" timestamp="1529061848925" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.scss" timestamp="1529062596522">
         <mark key="[" line="78" column="9" />
         <mark key="]" line="85" column="20" />
         <mark key="^" line="85" column="20" />
@@ -59,13 +71,6 @@
         <mark key="]" line="7" column="92" />
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" timestamp="1528886665275">
-        <mark key="'" line="37" column="75" />
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="52" />
-        <mark key="^" line="37" column="86" />
-        <mark key="." line="37" column="52" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/organization/certification/certification.route.ts" timestamp="1528960096505">
         <mark key="[" line="25" column="38" />
@@ -78,13 +83,6 @@
         <mark key="]" line="0" column="76" />
         <mark key="^" line="124" column="86" />
         <mark key="." line="0" column="76" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" timestamp="1528884318858">
-        <mark key="'" line="46" column="63" />
-        <mark key="[" line="46" column="65" />
-        <mark key="]" line="46" column="65" />
-        <mark key="^" line="46" column="65" />
-        <mark key="." line="46" column="65" />
       </file>
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/common/guards/number-params/certificate-details.guard.ts" timestamp="1529047572932">
         <mark key="[" line="15" column="5" />
@@ -109,13 +107,6 @@
         <mark key="]" line="36" column="98" />
         <mark key="^" line="36" column="98" />
         <mark key="." line="36" column="98" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" timestamp="1528886100211">
-        <mark key="'" line="5" column="36" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/login/login.page-object.ts" timestamp="1527768949459">
         <mark key="[" line="19" column="50" />
@@ -189,9 +180,6 @@
         <mark key="." line="26" column="85" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.module.ts" timestamp="1528960665261">
-        <mark key="[" line="28" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.reducer.ts" timestamp="1527595080774">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="48" />
@@ -210,18 +198,11 @@
         <mark key="^" line="23" column="38" />
         <mark key="." line="23" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.module.ts" timestamp="1529057432666">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/organization/users/users.route.ts" timestamp="1528960685018">
-        <mark key="'" line="32" column="43" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.module.ts" timestamp="1529063268437">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="40" column="14" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-modal/test-registration-modal.component.ts" timestamp="1528442616596">
         <mark key="[" line="83" column="75" />
@@ -259,17 +240,18 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/theme/styles/variables.scss" timestamp="1529067307394" />
       <file name="$USER_HOME$/projects/certemy_web/e2e/pages/entry/professional/certificates/revoke/login.e2e-spec.ts" timestamp="1527774563852">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529047878532">
+      <file name="/Dummy.txt" timestamp="1529068142950">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/education-step.module.ts" timestamp="1528959200614">
         <mark key="[" line="151" column="32" />
@@ -277,7 +259,7 @@
         <mark key="^" line="150" column="47" />
         <mark key="." line="151" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/employer-users/employer-users.module.ts" timestamp="1528960269455">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/employer-users/employer-users.module.ts" timestamp="1529061149683">
         <mark key="[" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/employer-users.module.ts" timestamp="1529056375870">
@@ -395,13 +377,14 @@
       <jump line="14" column="33" filename="$USER_HOME$/projects/certemy_web/src/app/pages/imposer/certification/certification.module.ts" />
       <jump line="46" column="63" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="31" column="43" filename="$USER_HOME$/projects/certemy_web/src/app/pages/organization/users/users.route.ts" />
+      <jump line="12" column="3" filename="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>q</text>
+        <text>reate module with basic routing</text>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>reate module with basic routing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
@@ -410,31 +393,37 @@
         <text>st</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IEBDb21wdXRlZEZyb20oJ3RhYmxlRGF0YScpCiAgZ2V0IHRhYnMoKTogTmF2VGFiW10gewogICAgcmV0dXJuIFt7IGRpc3BsYXk6IGBNeSBwcm9mZXNzaW9uYWxzICgke3RoaXMudGFibGVEYXRhLmZ1bGxfY291bnR9KWAsIGxpbms6ICcvZW1wbG95ZXIvdXNlcnMnIH1dOwogIH0KCiAgQFZpZXdDaGlsZCgndHJhY2tlZFRlbXBsYXRlJykKICBzZXQgdHJhY2tlZFRlbXBsYXRlKHZhbHVlKSB7CiAgICB0aGlzLmNlcnRpZmljYXRpb25zSGVhZGVyLnZhbHVlID0gdmFsdWU7CiAgfQoKICBAVmlld0NoaWxkKCd0cmFja2VkUG9wb3ZlclRlbXBsYXRlJykKICBzZXQgdHJhY2tlZFBvcG92ZXJUZW1wbGF0ZSh2YWx1ZSkgewogICAgdGhpcy5jZXJ0aWZpY2F0aW9uc0hlYWRlci5wb3BvdmVyLnRlbXBsYXRlID0gdmFsdWU7CiAgfQoKICBjb25maWc6IFNtYXJ0VGFibGUuQ29uZmlnID0geyBub0VudHJpZXM6ICdUaGVyZSBpcyBubyBkYXRhIHRvIGRpc3BsYXknIH07CgogIHByaXZhdGUgY2VydGlmaWNhdGlvbnNIZWFkZXI6IFNtYXJ0VGFibGUuSGVhZGVyID0gewogICAgbmFtZTogJ0NlcnRpZmljYXRpb24nLAogICAgdmFsdWU6IG51bGwsCiAgICB0eXBlOiBTbWFydFRhYmxlLkNvbHVtblR5cGVJZC5URU1QTEFURSwKICAgIHBvcG92ZXI6IHsgdGVtcGxhdGU6IG51bGwsIHNob3VsZE9wZW46IHJvdyA9PiByb3cudHJhY2tlZC5sZW5ndGgsIHBsYWNlbWVudDogJ2xlZnQnIH0sCiAgfTsKCiAgQFZpZXdDaGlsZCgnaW52aXRlc1RlbXBsYXRlJykKICBzZXQgaW52aXRlc1RlbXBsYXRlKHZhbHVlKSB7CiAgICB0aGlzLmludml0ZXNIZWFkZXIudmFsdWUgPSB2YWx1ZTsKICB9CgogIEBWaWV3Q2hpbGQoJ2ludml0ZXNQb3BvdmVyVGVtcGxhdGUnKQogIHNldCBpbnZpdGVzUG9wb3ZlclRlbXBsYXRlKHZhbHVlKSB7CiAgICB0aGlzLmludml0ZXNIZWFkZXIucG9wb3Zlci50ZW1wbGF0ZSA9IHZhbHVlOwogIH0KCiAgcHJpdmF0ZSBpbnZpdGVzSGVhZGVyOiBTbWFydFRhYmxlLkhlYWRlciA9IHsKICAgIG5hbWU6ICdJbnZpdGF0aW9uIHN0YXR1cycsCiAgICB2YWx1ZTogbnVsbCwKICAgIHR5cGU6IFNtYXJ0VGFibGUuQ29sdW1uVHlwZUlkLlRFTVBMQVRFLAogICAgcG9wb3ZlcjogeyB0ZW1wbGF0ZTogbnVsbCwgc2hvdWxkT3Blbjogcm93ID0+IHJvdy5pbnZpdGVzLmxlbmd0aCA+IDEsIHBsYWNlbWVudDogJ2xlZnQnIH0sCiAgfTsKCiAgdGFibGVIZWFkZXJzOiBTbWFydFRhYmxlLkhlYWRlcltdID0gWwogICAgeyBuYW1lOiAnRmlyc3QgbmFtZScsIHZhbHVlOiAnZmlyc3RfbmFtZScsIHNvcnRhYmxlOiB0cnVlIH0sCiAgICB7IG5hbWU6ICdMYXN0IG5hbWUnLCB2YWx1ZTogJ2xhc3RfbmFtZScsIHNvcnRhYmxlOiB0cnVlIH0sCiAgICB7IG5hbWU6ICdFbWFpbCcsIHZhbHVlOiAnZW1haWwnLCBzb3J0YWJsZTogdHJ1ZSB9LAogICAgdGhpcy5jZXJ0aWZpY2F0aW9uc0hlYWRlciwKICAgIHRoaXMuaW52aXRlc0hlYWRlciwKICBdOwogIEFERF9QUk9GRVNTSU9OQUxTID0gJ0FERF9QUk9GRVNTSU9OQUxTJzsKICBhY3Rpb25zOiBQYWdlQWN0aW9uW10gPSBbeyB0eXBlOiB0aGlzLkFERF9QUk9GRVNTSU9OQUxTLCBuYW1lOiAnKyBBZGQgUHJvZmVzc2lvbmFscycgfV07CiAgdGFibGVEYXRhOiBVc2VyTGlzdFJlc3VsdDsKICB0YWJsZUZpbHRlcnMkID0gbmV3IEJlaGF2aW9yU3ViamVjdDxVc2VyVGFibGVGaWx0ZXJzPih0aGlzLnVzZXJGaWx0ZXJzVG9UYWJsZUZpbHRlcnMobmV3IFVzZXJGaWx0ZXIoKSkpOwoKICBwcml2YXRlIHJlYWRvbmx5IG9uRGVzdHJveSQgPSBuZXcgU3ViamVjdCgpOwoKICBjb25zdHJ1Y3RvcigKICAgIHByaXZhdGUgcm91dGVyOiBSb3V0ZXIsCiAgICBwcml2YXRlIGFjdGl2YXRlZFJvdXRlOiBBY3RpdmF0ZWRSb3V0ZSwKICAgIHByaXZhdGUgZW1wbG95ZXJVc2Vyc1NlcnZpY2U6IFByb2Zlc3Npb25hbFN1cHBvcnRTZXJ2aWNlLAogICkge30KCiAgbmdPbkluaXQoKSB7CiAgICB0aGlzLnRhYmxlRGF0YSA9IDxVc2VyTGlzdFJlc3VsdD50aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LmRhdGEudXNlcnM7CiAgICB0aGlzLnRhYmxlRmlsdGVycyQKICAgICAgLnBpcGUoCiAgICAgICAgc2tpcCgxKSwKICAgICAgICBkZWJvdW5jZVRpbWUoNTAwKSwKICAgICAgICBtYXAoZWwgPT4gdGhpcy50YWJsZUZpbHRlcnNUb1VzZXJGaWx0ZXJzKGVsKSksCiAgICAgICAgc3dpdGNoTWFwKGZpbHRlcnMgPT4KICAgICAgICAgIHRoaXMuZW1wbG95ZXJVc2Vyc1NlcnZpY2UuZ2V0VXNlcnMoZmlsdGVycykucGlwZShjYXRjaEVycm9yKCgpID0+IDxPYnNlcnZhYmxlPGFueT4+bmV2ZXIoKSkpLAogICAgICAgICksCiAgICAgICAgdGFrZVVudGlsKHRoaXMub25EZXN0cm95JCksCiAgICAgICkKICAgICAgLnN1YnNjcmliZShyZXMgPT4gKHRoaXMudGFibGVEYXRhID0gcmVzKSk7CiAgfQoKICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMub25EZXN0cm95JC5uZXh0KCk7CiAgICB0aGlzLm9uRGVzdHJveSQuY29tcGxldGUoKTsKICB9CgogIG9wZW5Vc2VyRGV0YWlscyh1c2VyOiBVc2VyKSB7CiAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKGAvZW1wbG95ZXIvdXNlcnMvJHt1c2VyLmlkfS9jZXJ0aWZpY2F0aW9uc2ApOwogIH0KCiAgb25Sb3dBY3Rpb24oYWN0aW9uKSB7CiAgICBpZiAoYWN0aW9uID09PSB0aGlzLkFERF9QUk9GRVNTSU9OQUxTKSB7CiAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwoYC9lbXBsb3llci91c2Vycy9uZXdgKTsKICAgIH0KICB9CgogIG9uU2VhcmNoKHNlYXJjaDogc3RyaW5nKSB7CiAgICB0aGlzLm5leHRGaWx0ZXJzKGZpbHRlcnMgPT4gKHsKICAgICAgLi4uZmlsdGVycywKICAgICAgcGFnZTogMSwKICAgICAgc2VhcmNoLAogICAgfSkpOwogIH0KCiAgb25QYWdlQ2hhbmdlKHBhZ2U6IG51bWJlcikgewogICAgdGhpcy5uZXh0RmlsdGVycyhmaWx0ZXJzID0+ICh7CiAgICAgIC4uLmZpbHRlcnMsCiAgICAgIHBhZ2UsCiAgICB9KSk7CiAgfQoKICBvbk9yZGVyQ2hhbmdlKG9yZGVyZWRIZWFkZXI6IFNtYXJ0VGFibGUuT3JkZXJlZEhlYWRlcikgewogICAgdGhpcy5uZXh0RmlsdGVycyhmaWx0ZXJzID0+ICh7CiAgICAgIC4uLmZpbHRlcnMsCiAgICAgIHBhZ2U6IDEsCiAgICAgIG9yZGVyOiBvcmRlcmVkSGVhZGVyLAogICAgfSkpOwogIH0KCiAgcHJpdmF0ZSB1c2VyRmlsdGVyc1RvVGFibGVGaWx0ZXJzKHVzZXJGaWx0ZXI6IFVzZXJGaWx0ZXIpOiBVc2VyVGFibGVGaWx0ZXJzIHsKICAgIGNvbnN0IFtoZWFkZXJWYWx1ZSwgb3JkZXJdID0gdXNlckZpbHRlci5vcmRlcjsKICAgIGNvbnN0IGhlYWRlciA9IHRoaXMudGFibGVIZWFkZXJzLmZpbmQoZWwgPT4gZWwudmFsdWUgPT09IGhlYWRlclZhbHVlKTsKICAgIGNvbnN0IG9yZGVyZWRIZWFkZXI6IFNtYXJ0VGFibGUuT3JkZXJlZEhlYWRlciA9IHsgaGVhZGVyLCBvcmRlcjogPFNtYXJ0VGFibGUuT3JkZXI+b3JkZXIgfTsKICAgIHJldHVybiB7CiAgICAgIC4uLnVzZXJGaWx0ZXIsCiAgICAgIG9yZGVyOiBvcmRlcmVkSGVhZGVyLAogICAgfTsKICB9CgogIHByaXZhdGUgbmV4dEZpbHRlcnMocmVkdWNlOiAoZmlsdGVyczogVXNlclRhYmxlRmlsdGVycykgPT4gVXNlclRhYmxlRmlsdGVycykgewogICAgY29uc3QgY3VycmVudEZpbHRlcnMgPSB0aGlzLnRhYmxlRmlsdGVycyQuZ2V0VmFsdWUoKTsKICAgIHRoaXMudGFibGVGaWx0ZXJzJC5uZXh0KHJlZHVjZShjdXJyZW50RmlsdGVycykpOwogIH0KCiAgcHJpdmF0ZSB0YWJsZUZpbHRlcnNUb1VzZXJGaWx0ZXJzKGZpbHRlcnM6IFVzZXJUYWJsZUZpbHRlcnMpOiBVc2VyRmlsdGVyIHsKICAgIHJldHVybiB7CiAgICAgIC4uLmZpbHRlcnMsCiAgICAgIG9yZGVyOiBbZmlsdGVycy5vcmRlci5oZWFkZXIudmFsdWUsIGZpbHRlcnMub3JkZXIub3JkZXJdLAogICAgfTsKICB9</text>
+        <text>import {
+  CardModule,
+  NavTabsModule,
+  SmartTableModule,
+  PageActionsModule,
+  PopoverLayoutModule, PageHeaderModule,
+} from '@certemy/ui-components';</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkBJbmplY3RhYmxlKCkKZXhwb3J0IGNsYXNzIE51bWJlclBhcmFtR3VhcmQgaW1wbGVtZW50cyBDYW5BY3RpdmF0ZSB7CiAgY29uc3RydWN0b3IoKSB7CiAgfQoKICBjYW5BY3RpdmF0ZShhY3RpdmF0ZWRSb3V0ZVNuYXBzaG90OiBBY3RpdmF0ZWRSb3V0ZVNuYXBzaG90KTogT2JzZXJ2YWJsZTxib29sZWFuPiB7CiAgICBjb25zdCBhbGxOdW1iZXJzID0gYWN0aXZhdGVkUm91dGVTbmFwc2hvdC5kYXRhWydudW1iZXJQYXJhbXMnXQogICAgICAubWFwKHBhcmFtTmFtZSA9PiBhY3RpdmF0ZWRSb3V0ZVNuYXBzaG90LnBhcmFtc1twYXJhbU5hbWVdKQogICAgICAuZXZlcnkocGFyYW0gPT4gIWlzTmFOKHBhcmFtKSk7CgogICAgcmV0dXJuIE9ic2VydmFibGUub2YoYWxsTnVtYmVycykKICB9Cn0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiRwYWdlLXBhZGRpbmc6IDE1cHg7Cgo6aG9zdCB7CiAgZGlzcGxheTogZmxleDsKICB3aWR0aDogMTAwJTsKICBwYWRkaW5nOiAkcGFnZS1wYWRkaW5nIDA7Cn0KCi5wYWdlIHsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtICN7JGhlYWRlci1oZWlnaHR9IC0gKDIgKiAjeyRwYWdlLXBhZGRpbmd9KSk7CiAgd2lkdGg6IDEwMCU7CiAgcGFkZGluZy10b3A6IDEwcHg7Cn0KCi5uYXZpZ2F0aW9uIHsKICBib3JkZXItYm90dG9tOiAxcHggc29saWQgJGJvcmRlci1jb2xvcjsKfQoKLmZpbHRlcnMtcm93IHsKICBkaXNwbGF5OiBmbGV4OwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGhlaWdodDogNTZweDsKICBwYWRkaW5nOiAwIDMwcHg7Cn0KCi5zZWFyY2ggewogIHdpZHRoOiAzMDBweDsKfQoKLmNhcmQtZm9vdGVyIHsKICBib3JkZXItdG9wOiAxcHggc29saWQgJGJvcmRlci1jb2xvcjsKICBtaW4taGVpZ2h0OiA1MHB4Owp9CgoudHJhY2tlZC1pdGVtIHsKICBmb250LWZhbWlseTogJGZvbnQtZmFtaWx5LW5vdG87CiAgZm9udC1zaXplOiAxM3B4OwogIGxldHRlci1zcGFjaW5nOiAtMC4zcHg7CiAgY29sb3I6ICM0ZjhiZDM7CiAgJi0tZW1wdHkgCiAgICBjb2xvcjogJGNvbG9yLWRpc2FibGVkOwogIH0KfQoKLy8gb3ZlcmlkZSBkZWZ1bGF0IHBvcG92ZXIgc3R5bGUKL2RlZXAvIC5wb3BvdmVyLWJvZHkgewogIHBhZGRpbmc6IDA7Cn0KCi50cmFja2VkLWNlcnQgewogIHBhZGRpbmc6IDZweCAwOwogIGZvbnQtZmFtaWx5OiAkZm9udC1mYW1pbHktbm90bzsKICBkaXNwbGF5OiBmbGV4OwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKCiAgJl9fbmFtZSB7CiAgICBtYXJnaW4tcmlnaHQ6IDIwcHg7CiAgfQp9Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IEBDb21wdXRlZEZyb20oJ3RhYmxlRGF0YScpCiAgZ2V0IHRhYnMoKTogTmF2VGFiW10gewogICAgcmV0dXJuIFt7IGRpc3BsYXk6IGBNeSBwcm9mZXNzaW9uYWxzICgke3RoaXMudGFibGVEYXRhLmZ1bGxfY291bnR9KWAsIGxpbms6ICcvZW1wbG95ZXIvdXNlcnMnIH1dOwogIH0KCiAgQFZpZXdDaGlsZCgndHJhY2tlZFRlbXBsYXRlJykKICBzZXQgdHJhY2tlZFRlbXBsYXRlKHZhbHVlKSB7CiAgICB0aGlzLmNlcnRpZmljYXRpb25zSGVhZGVyLnZhbHVlID0gdmFsdWU7CiAgfQoKICBAVmlld0NoaWxkKCd0cmFja2VkUG9wb3ZlclRlbXBsYXRlJykKICBzZXQgdHJhY2tlZFBvcG92ZXJUZW1wbGF0ZSh2YWx1ZSkgewogICAgdGhpcy5jZXJ0aWZpY2F0aW9uc0hlYWRlci5wb3BvdmVyLnRlbXBsYXRlID0gdmFsdWU7CiAgfQoKICBjb25maWc6IFNtYXJ0VGFibGUuQ29uZmlnID0geyBub0VudHJpZXM6ICdUaGVyZSBpcyBubyBkYXRhIHRvIGRpc3BsYXknIH07CgogIHByaXZhdGUgY2VydGlmaWNhdGlvbnNIZWFkZXI6IFNtYXJ0VGFibGUuSGVhZGVyID0gewogICAgbmFtZTogJ0NlcnRpZmljYXRpb24nLAogICAgdmFsdWU6IG51bGwsCiAgICB0eXBlOiBTbWFydFRhYmxlLkNvbHVtblR5cGVJZC5URU1QTEFURSwKICAgIHBvcG92ZXI6IHsgdGVtcGxhdGU6IG51bGwsIHNob3VsZE9wZW46IHJvdyA9PiByb3cudHJhY2tlZC5sZW5ndGgsIHBsYWNlbWVudDogJ2xlZnQnIH0sCiAgfTsKCiAgQFZpZXdDaGlsZCgnaW52aXRlc1RlbXBsYXRlJykKICBzZXQgaW52aXRlc1RlbXBsYXRlKHZhbHVlKSB7CiAgICB0aGlzLmludml0ZXNIZWFkZXIudmFsdWUgPSB2YWx1ZTsKICB9CgogIEBWaWV3Q2hpbGQoJ2ludml0ZXNQb3BvdmVyVGVtcGxhdGUnKQogIHNldCBpbnZpdGVzUG9wb3ZlclRlbXBsYXRlKHZhbHVlKSB7CiAgICB0aGlzLmludml0ZXNIZWFkZXIucG9wb3Zlci50ZW1wbGF0ZSA9IHZhbHVlOwogIH0KCiAgcHJpdmF0ZSBpbnZpdGVzSGVhZGVyOiBTbWFydFRhYmxlLkhlYWRlciA9IHsKICAgIG5hbWU6ICdJbnZpdGF0aW9uIHN0YXR1cycsCiAgICB2YWx1ZTogbnVsbCwKICAgIHR5cGU6IFNtYXJ0VGFibGUuQ29sdW1uVHlwZUlkLlRFTVBMQVRFLAogICAgcG9wb3ZlcjogeyB0ZW1wbGF0ZTogbnVsbCwgc2hvdWxkT3Blbjogcm93ID0+IHJvdy5pbnZpdGVzLmxlbmd0aCA+IDEsIHBsYWNlbWVudDogJ2xlZnQnIH0sCiAgfTsKCiAgdGFibGVIZWFkZXJzOiBTbWFydFRhYmxlLkhlYWRlcltdID0gWwogICAgeyBuYW1lOiAnRmlyc3QgbmFtZScsIHZhbHVlOiAnZmlyc3RfbmFtZScsIHNvcnRhYmxlOiB0cnVlIH0sCiAgICB7IG5hbWU6ICdMYXN0IG5hbWUnLCB2YWx1ZTogJ2xhc3RfbmFtZScsIHNvcnRhYmxlOiB0cnVlIH0sCiAgICB7IG5hbWU6ICdFbWFpbCcsIHZhbHVlOiAnZW1haWwnLCBzb3J0YWJsZTogdHJ1ZSB9LAogICAgdGhpcy5jZXJ0aWZpY2F0aW9uc0hlYWRlciwKICAgIHRoaXMuaW52aXRlc0hlYWRlciwKICBdOwogIEFERF9QUk9GRVNTSU9OQUxTID0gJ0FERF9QUk9GRVNTSU9OQUxTJzsKICBhY3Rpb25zOiBQYWdlQWN0aW9uW10gPSBbeyB0eXBlOiB0aGlzLkFERF9QUk9GRVNTSU9OQUxTLCBuYW1lOiAnKyBBZGQgUHJvZmVzc2lvbmFscycgfV07CiAgdGFibGVEYXRhOiBVc2VyTGlzdFJlc3VsdDsKICB0YWJsZUZpbHRlcnMkID0gbmV3IEJlaGF2aW9yU3ViamVjdDxVc2VyVGFibGVGaWx0ZXJzPih0aGlzLnVzZXJGaWx0ZXJzVG9UYWJsZUZpbHRlcnMobmV3IFVzZXJGaWx0ZXIoKSkpOwoKICBwcml2YXRlIHJlYWRvbmx5IG9uRGVzdHJveSQgPSBuZXcgU3ViamVjdCgpOwoKICBjb25zdHJ1Y3RvcigKICAgIHByaXZhdGUgcm91dGVyOiBSb3V0ZXIsCiAgICBwcml2YXRlIGFjdGl2YXRlZFJvdXRlOiBBY3RpdmF0ZWRSb3V0ZSwKICAgIHByaXZhdGUgZW1wbG95ZXJVc2Vyc1NlcnZpY2U6IFByb2Zlc3Npb25hbFN1cHBvcnRTZXJ2aWNlLAogICkge30KCiAgbmdPbkluaXQoKSB7CiAgICB0aGlzLnRhYmxlRGF0YSA9IDxVc2VyTGlzdFJlc3VsdD50aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LmRhdGEudXNlcnM7CiAgICB0aGlzLnRhYmxlRmlsdGVycyQKICAgICAgLnBpcGUoCiAgICAgICAgc2tpcCgxKSwKICAgICAgICBkZWJvdW5jZVRpbWUoNTAwKSwKICAgICAgICBtYXAoZWwgPT4gdGhpcy50YWJsZUZpbHRlcnNUb1VzZXJGaWx0ZXJzKGVsKSksCiAgICAgICAgc3dpdGNoTWFwKGZpbHRlcnMgPT4KICAgICAgICAgIHRoaXMuZW1wbG95ZXJVc2Vyc1NlcnZpY2UuZ2V0VXNlcnMoZmlsdGVycykucGlwZShjYXRjaEVycm9yKCgpID0+IDxPYnNlcnZhYmxlPGFueT4+bmV2ZXIoKSkpLAogICAgICAgICksCiAgICAgICAgdGFrZVVudGlsKHRoaXMub25EZXN0cm95JCksCiAgICAgICkKICAgICAgLnN1YnNjcmliZShyZXMgPT4gKHRoaXMudGFibGVEYXRhID0gcmVzKSk7CiAgfQoKICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMub25EZXN0cm95JC5uZXh0KCk7CiAgICB0aGlzLm9uRGVzdHJveSQuY29tcGxldGUoKTsKICB9CgogIG9wZW5Vc2VyRGV0YWlscyh1c2VyOiBVc2VyKSB7CiAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKGAvZW1wbG95ZXIvdXNlcnMvJHt1c2VyLmlkfS9jZXJ0aWZpY2F0aW9uc2ApOwogIH0KCiAgb25Sb3dBY3Rpb24oYWN0aW9uKSB7CiAgICBpZiAoYWN0aW9uID09PSB0aGlzLkFERF9QUk9GRVNTSU9OQUxTKSB7CiAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwoYC9lbXBsb3llci91c2Vycy9uZXdgKTsKICAgIH0KICB9CgogIG9uU2VhcmNoKHNlYXJjaDogc3RyaW5nKSB7CiAgICB0aGlzLm5leHRGaWx0ZXJzKGZpbHRlcnMgPT4gKHsKICAgICAgLi4uZmlsdGVycywKICAgICAgcGFnZTogMSwKICAgICAgc2VhcmNoLAogICAgfSkpOwogIH0KCiAgb25QYWdlQ2hhbmdlKHBhZ2U6IG51bWJlcikgewogICAgdGhpcy5uZXh0RmlsdGVycyhmaWx0ZXJzID0+ICh7CiAgICAgIC4uLmZpbHRlcnMsCiAgICAgIHBhZ2UsCiAgICB9KSk7CiAgfQoKICBvbk9yZGVyQ2hhbmdlKG9yZGVyZWRIZWFkZXI6IFNtYXJ0VGFibGUuT3JkZXJlZEhlYWRlcikgewogICAgdGhpcy5uZXh0RmlsdGVycyhmaWx0ZXJzID0+ICh7CiAgICAgIC4uLmZpbHRlcnMsCiAgICAgIHBhZ2U6IDEsCiAgICAgIG9yZGVyOiBvcmRlcmVkSGVhZGVyLAogICAgfSkpOwogIH0KCiAgcHJpdmF0ZSB1c2VyRmlsdGVyc1RvVGFibGVGaWx0ZXJzKHVzZXJGaWx0ZXI6IFVzZXJGaWx0ZXIpOiBVc2VyVGFibGVGaWx0ZXJzIHsKICAgIGNvbnN0IFtoZWFkZXJWYWx1ZSwgb3JkZXJdID0gdXNlckZpbHRlci5vcmRlcjsKICAgIGNvbnN0IGhlYWRlciA9IHRoaXMudGFibGVIZWFkZXJzLmZpbmQoZWwgPT4gZWwudmFsdWUgPT09IGhlYWRlclZhbHVlKTsKICAgIGNvbnN0IG9yZGVyZWRIZWFkZXI6IFNtYXJ0VGFibGUuT3JkZXJlZEhlYWRlciA9IHsgaGVhZGVyLCBvcmRlcjogPFNtYXJ0VGFibGUuT3JkZXI+b3JkZXIgfTsKICAgIHJldHVybiB7CiAgICAgIC4uLnVzZXJGaWx0ZXIsCiAgICAgIG9yZGVyOiBvcmRlcmVkSGVhZGVyLAogICAgfTsKICB9CgogIHByaXZhdGUgbmV4dEZpbHRlcnMocmVkdWNlOiAoZmlsdGVyczogVXNlclRhYmxlRmlsdGVycykgPT4gVXNlclRhYmxlRmlsdGVycykgewogICAgY29uc3QgY3VycmVudEZpbHRlcnMgPSB0aGlzLnRhYmxlRmlsdGVycyQuZ2V0VmFsdWUoKTsKICAgIHRoaXMudGFibGVGaWx0ZXJzJC5uZXh0KHJlZHVjZShjdXJyZW50RmlsdGVycykpOwogIH0KCiAgcHJpdmF0ZSB0YWJsZUZpbHRlcnNUb1VzZXJGaWx0ZXJzKGZpbHRlcnM6IFVzZXJUYWJsZUZpbHRlcnMpOiBVc2VyRmlsdGVyIHsKICAgIHJldHVybiB7CiAgICAgIC4uLmZpbHRlcnMsCiAgICAgIG9yZGVyOiBbZmlsdGVycy5vcmRlci5oZWFkZXIudmFsdWUsIGZpbHRlcnMub3JkZXIub3JkZXJdLAogICAgfTsKICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CkBJbmplY3RhYmxlKCkKZXhwb3J0IGNsYXNzIE51bWJlclBhcmFtR3VhcmQgaW1wbGVtZW50cyBDYW5BY3RpdmF0ZSB7CiAgY29uc3RydWN0b3IoKSB7CiAgfQoKICBjYW5BY3RpdmF0ZShhY3RpdmF0ZWRSb3V0ZVNuYXBzaG90OiBBY3RpdmF0ZWRSb3V0ZVNuYXBzaG90KTogT2JzZXJ2YWJsZTxib29sZWFuPiB7CiAgICBjb25zdCBhbGxOdW1iZXJzID0gYWN0aXZhdGVkUm91dGVTbmFwc2hvdC5kYXRhWydudW1iZXJQYXJhbXMnXQogICAgICAubWFwKHBhcmFtTmFtZSA9PiBhY3RpdmF0ZWRSb3V0ZVNuYXBzaG90LnBhcmFtc1twYXJhbU5hbWVdKQogICAgICAuZXZlcnkocGFyYW0gPT4gIWlzTmFOKHBhcmFtKSk7CgogICAgcmV0dXJuIE9ic2VydmFibGUub2YoYWxsTnVtYmVycykKICB9Cn0K</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgc2VsZWN0b3I6ICdldmlkZW5jZS1maWxlLWRldGFpbHMnLAogIHN0eWxlVXJsczogWycuL2V2aWRlbmNlLWZpbGUtZGV0YWlscy5tb2RhbC5jb21wb25lbnQuc2NzcyddLAogIHRlbXBsYXRlVXJsOiAnLi9ldmlkZW5jZS1maWxlLWRldGFpbHMubW9kYWwuY29tcG9uZW50Lmh0bWwnLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRoaXMuZmlsdGVycy5wZXJpb2QuZGF0ZVN0YXJ0ID0gdGhpcy5mb3JtYXREYXRlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRoaXMuZmlsdGVycy5wZXJpb2QuZGF0ZUZpbmlzaCA9IHRoaXMuZm9ybWF0RGF0ZSgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b19kYXRlOiBmaWx0ZXJzLnBlcmlvZC5kYXRlRmluaXNoLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tX2RhdGU6IGZpbHRlcnMucGVyaW9kLmRhdGVTdGFydCwK</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
     </registers>
     <search>
