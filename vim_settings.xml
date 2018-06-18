@@ -42,7 +42,7 @@
         <mark key="[" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/theme/styles/variables.scss" timestamp="1529067307394" />
-      <file name="/Dummy.txt" timestamp="1529307654404">
+      <file name="/Dummy.txt" timestamp="1529309053923">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -130,10 +130,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>create support menu and css</text>
+        <text>create routing</text>
       </register>
       <register name="-" type="4">
-        <text>create support menu and css</text>
+        <text>create routing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
