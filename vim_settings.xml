@@ -17,13 +17,14 @@
         <mark key="." line="158" column="11" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/custom_field_value/index.js" timestamp="1529567106539" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529579406731">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529582949285">
         <mark key="'" line="46" column="62" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="38" column="49" />
-        <mark key="." line="38" column="49" />
+        <mark key="[" line="14" column="95" />
+        <mark key="]" line="14" column="95" />
+        <mark key="." line="14" column="95" />
+        <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/smart-form/smart-form.component.html" timestamp="1529579740737" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/smart-form/smart-form.component.html" timestamp="1529582074246" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.service.ts" timestamp="1529567142727">
         <mark key="'" line="19" column="25" />
         <mark key="[" line="38" column="21" />
@@ -35,9 +36,11 @@
       <file name="/JavaScript Console" timestamp="1529567297516">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components-guide/src/form-components-page/form-components-page.component.html" timestamp="1529582113129" />
       <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/common/validators/custom-validators/custom.validator.ts" timestamp="1529577863889">
         <mark key="[" line="159" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.module.ts" timestamp="1529582508189" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/utils/formdata-builder.ts" timestamp="1529566409333" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload/file-upload.component.ts" timestamp="1529565243788">
         <mark key="[" line="10" column="46" />
@@ -45,30 +48,44 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529579344316">
+      <file name="/Dummy.txt" timestamp="1529582384426">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.ts" timestamp="1529580904564">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.ts" timestamp="1529582345195">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/utils/helpers.ts" timestamp="1529579134147" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload.helpers.ts" timestamp="1529506830528">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/flows/specific-course-flow/specific-course-flow.component.ts" timestamp="1529566174447" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/smart-form/smart-form.component.ts" timestamp="1529580019910" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.module.ts" timestamp="1529582471116">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="57" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/index.ts" timestamp="1529580942881">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1529579470490">
-        <mark key="[" line="52" column="41" />
-        <mark key="]" line="52" column="23" />
-        <mark key="^" line="52" column="23" />
-        <mark key="." line="52" column="23" />
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.html" timestamp="1529582038919">
+        <mark key="[" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1529582778890">
+        <mark key="[" line="54" column="87" />
+        <mark key="]" line="54" column="91" />
+        <mark key="^" line="51" column="58" />
+        <mark key="." line="54" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -135,10 +152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>range</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>range</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
@@ -147,33 +164,35 @@
         <text>description</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBuZ09uSW5pdCgpIHsKICAgIHRoaXMuY29udHJvbC52YWx1ZUNoYW5nZXMucGlwZSh0YWtlVW50aWwodGhpcy5vbkRlc3Ryb3kkKSkuc3Vic2NyaWJlKHZhbHVlID0+IHsKICAgICAgdGhpcy5wcm9wYWdhdGVDaGFuZ2UodmFsdWUpOwogICAgICB0aGlzLm9uVG91Y2hlZCgpOwogICAgfSk7CiAgfQoKICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMub25EZXN0cm95JC5uZXh0KCk7CiAgICB0aGlzLm9uRGVzdHJveSQuY29tcGxldGUoKTsKICB9</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGNoYW5nZURldGVjdG9yOiBDaGFuZ2VEZXRlY3RvclJlZikge30KCiAgbmdPbkluaXQoKSB7CiAgICB0aGlzLmNvbnRyb2wudmFsdWVDaGFuZ2VzLnBpcGUodGFrZVVudGlsKHRoaXMub25EZXN0cm95JCkpLnN1YnNjcmliZSh2YWx1ZSA9PiB7CiAgICAgIHRoaXMucHJvcGFnYXRlQ2hhbmdlKHZhbHVlKTsKICAgICAgdGhpcy5vblRvdWNoZWQoKTsKICAgIH0pOwogIH0KCiAgbmdPbkRlc3Ryb3koKSB7CiAgICB0aGlzLm9uRGVzdHJveSQubmV4dCgpOwogICAgdGhpcy5vbkRlc3Ryb3kkLmNvbXBsZXRlKCk7CiAgfQoKICB3cml0ZVZhbHVlKHZhbHVlID0gJycpIHsKICAgIHRoaXMuY29udHJvbC5zZXRWYWx1ZSh2YWx1ZSwgeyBlbWl0RXZlbnQ6IGZhbHNlIH0pOwogICAgLy8gTmdNb2RlbCB3b3JrcyBpbmNvcnJlY3RseSB3aGVuIHVzaW5nIG9uUHVzaCBodHRwczovL2dpdGh1Yi5jb20vYW5ndWxhci9hbmd1bGFyL2lzc3Vlcy8xMDgxNgogICAgdGhpcy5jaGFuZ2VEZXRlY3Rvci5tYXJrRm9yQ2hlY2soKTsKICB9CgogIHJlZ2lzdGVyT25DaGFuZ2UoZm46IGFueSkgewogICAgdGhpcy5wcm9wYWdhdGVDaGFuZ2UgPSBmbjsKICB9CgogIHJlZ2lzdGVyT25Ub3VjaGVkKGZuOiAoKSA9PiBhbnkpOiB2b2lkIHsKICAgIHRoaXMub25Ub3VjaGVkID0gZm47CiAgfQoKICB0cmFja2J5Rm4oXywgZmllbGQ6IFNtYXJ0Rm9ybS5GaWVsZE9wdGlvbikgewogICAgcmV0dXJuIGZpZWxkLmlkOwogIH0KCiAgc2V0RGlzYWJsZWRTdGF0ZShpc0Rpc2FibGVkOiBib29sZWFuID0gZmFsc2UpOiB2b2lkIHsKICAgIGNvbnN0IGNvbW1hbmQgPSBpc0Rpc2FibGVkID8gJ2Rpc2FibGUnIDogJ2VuYWJsZSc7CiAgICB0aGlzLmNvbnRyb2xbY29tbWFuZF0oeyBlbWl0RXZlbnQ6IGZhbHNlIH0pOwogIH0=</text>
       </register>
       <register name="2" type="4">
+        <text>console.log('prev value: ', this._name);
+    console.log('got name: ', name);
+    this._name = name;</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBuZ09uSW5pdCgpIHsKICAgIHRoaXMuY29udHJvbC52YWx1ZUNoYW5nZXMucGlwZSh0YWtlVW50aWwodGhpcy5vbkRlc3Ryb3kkKSkuc3Vic2NyaWJlKHZhbHVlID0+IHsKICAgICAgdGhpcy5wcm9wYWdhdGVDaGFuZ2UodmFsdWUpOwogICAgICB0aGlzLm9uVG91Y2hlZCgpOwogICAgfSk7CiAgfQoKICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMub25EZXN0cm95JC5uZXh0KCk7CiAgICB0aGlzLm9uRGVzdHJveSQuY29tcGxldGUoKTsKICB9</text>
+      </register>
+      <register name="4" type="4">
         <text>',
 '</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>'
 '</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCBjaC1zZWxlY3QiIGlkPSJyZXF1ZXN0X3R5cGUiCiAgICAgICAgICAgICAgICAgICAgICAgIChbbmdNb2RlbF0pPSJzZWxlY3RlZFJlcXVlc3RUeXBlIgogICAgICAgICAgICAgICAgICAgICAgICAobmdNb2RlbENoYW5nZSk9ImNoYW5nZSgkZXZlbnQpIgogICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogKG5ld1N1cHBvcnRSZXF1ZXN0Rm9ybS5jb250cm9scy5yZXF1ZXN0X3R5cGUuZXJyb3JzPy5yZXF1aXJlZCAmJiBpc0Zvcm1TdWJtaXR0ZWQpfSI+CiAgICAgICAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IiIgZGlzYWJsZWQ+UGxlYXNlIHNlbGVjdDwvb3B0aW9uPi0tPgogICAgICAgICAgICAgICAgICAgIDxvcHRpb24gKm5nRm9yPSJsZXQgcmVxdWVzdFR5cGUgb2YgcmVxdWVzdFR5cGVzIiBbbmdWYWx1ZV09InJlcXVlc3RUeXBlIj57e3JlcXVlc3RUeXBlLm5hbWV9fTwvb3B0aW9uPgogICAgICAgICAgICAgICAgPC9zZWxlY3Q+</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>(filters: UserFilter = new UserFilter())</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0icmVxdWVzdF90eXBlIiBjbGFzcz0iZm9ybS1sYWJlbCBmb3JtLWxhYmVsLS1ib2xkICByZXF1aXJlZCI+Rmlyc3QgbmFtZTwvbGFiZWw+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAuY2hpbGQgLnJpZ2h0IHsKICAgIGRpc3BsYXk6IG5vbmU7CiAgfQogIC5jaGlsZCAubGVmdCB7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHBhdGg6ICdyZXF1ZXN0cycsCiAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2ZlYXR1cmVzL2VtcGxveWVyLWFkZC11c2Vycy9lbXBsb3llci1hZGQtdXNlcnMubW9kdWxlI0VtcGxveWVyQWRkVXNlcnNNb2R1bGUnLAogICAgICB9LAogICAgICB7CiAgICAgICAgcGF0aDogJ25ldy1yZXF1ZXN0JywKICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvZmVhdHVyZXMvZW1wbG95ZXItYWRkLXVzZXJzL2VtcGxveWVyLWFkZC11c2Vycy5tb2R1bGUjRW1wbG95ZXJBZGRVc2Vyc01vZHVsZScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBwYXRoOiAnZmFxJywKICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvZmVhdHVyZXMvZW1wbG95ZXItYWRkLXVzZXJzL2VtcGxveWVyLWFkZC11c2Vycy5tb2R1bGUjRW1wbG95ZXJBZGRVc2Vyc01vZHVsZScsCiAgICAgIH0s</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHBhdGg6ICdyZXF1ZXN0cycsCiAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2ZlYXR1cmVzL2VtcGxveWVyLWFkZC11c2Vycy9lbXBsb3llci1hZGQtdXNlcnMubW9kdWxlI0VtcGxveWVyQWRkVXNlcnNNb2R1bGUnLAogICAgICB9LAogICAgICB7CiAgICAgICAgcGF0aDogJ25ldy1yZXF1ZXN0JywKICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvZmVhdHVyZXMvZW1wbG95ZXItYWRkLXVzZXJzL2VtcGxveWVyLWFkZC11c2Vycy5tb2R1bGUjRW1wbG95ZXJBZGRVc2Vyc01vZHVsZScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBwYXRoOiAnZmFxJywKICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvZmVhdHVyZXMvZW1wbG95ZXItYWRkLXVzZXJzL2VtcGxveWVyLWFkZC11c2Vycy5tb2R1bGUjRW1wbG95ZXJBZGRVc2Vyc01vZHVsZScsCiAgICAgIH0s</text>
+        <text encoding="base64">ICAuY2hpbGQgLnJpZ2h0IHsKICAgIGRpc3BsYXk6IG5vbmU7CiAgfQogIC5jaGlsZCAubGVmdCB7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
       </register>
     </registers>
     <search>
