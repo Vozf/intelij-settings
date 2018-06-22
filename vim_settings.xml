@@ -21,6 +21,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="31" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/organization-settings/registry/organization-registry.component.ts" timestamp="1529653126104" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-assignments/steps/supervisors-step/supervisors-step.component.ts" timestamp="1529652290262" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529588128894">
         <mark key="'" line="46" column="62" />
         <mark key="[" line="64" column="96" />
@@ -47,11 +49,11 @@
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529652201703">
+      <file name="/Dummy.txt" timestamp="1529653629973">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.ts" timestamp="1529651480574">
         <mark key="[" line="12" column="41" />
@@ -71,11 +73,11 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.module.ts" timestamp="1529582471116">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="57" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.module.ts" timestamp="1529653443572">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="25" column="57" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
@@ -96,12 +98,13 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1529652042030">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="55" column="65" />
-        <mark key="." line="1" column="33" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1529654635843">
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="111" column="21" />
+        <mark key="^" line="111" column="21" />
+        <mark key="." line="111" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-step/education/flows/opportunities-flow/opportunities-flow-custom/opportunities-flow-custom.component.ts" timestamp="1529653380131" />
     </filemarks>
     <jumps>
       <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
@@ -167,10 +170,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Validators</text>
+        <text>prettier</text>
       </register>
       <register name="-" type="4">
-        <text>Validators</text>
+        <text>prettier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
