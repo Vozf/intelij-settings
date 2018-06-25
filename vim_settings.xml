@@ -3,11 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.scss" timestamp="1529670301491">
-        <mark key="[" line="1" column="16" />
+      <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.html" timestamp="1529650768067">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.scss" timestamp="1529910436585">
+        <mark key="[" line="71" column="3" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529910133992">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.ts" timestamp="1529651480574">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.constants.ts" timestamp="1529909221420">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.ts" timestamp="1529910122398">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="/fragment.js" timestamp="1529567409684">
         <mark key="[" line="0" column="4" />
@@ -21,58 +48,6 @@
         <mark key="^" line="158" column="1" />
         <mark key="." line="158" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/file-upload/file-upload.constants.ts" timestamp="1529671023414" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.module.ts" timestamp="1529591312701">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="14" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="31" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529672705954">
-        <mark key="[" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529588128894">
-        <mark key="'" line="46" column="62" />
-        <mark key="[" line="64" column="96" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.component.html" timestamp="1529591233415">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1529567297516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload/file-upload.component.ts" timestamp="1529565243788">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.html" timestamp="1529650768067">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1529677916080">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.ts" timestamp="1529651480574">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.ts" timestamp="1529672957009">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/package.json" timestamp="1529651642673">
         <mark key="'" line="36" column="100" />
         <mark key="[" line="36" column="72" />
@@ -80,21 +55,46 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="36" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.scss" timestamp="1529670096437">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.module.ts" timestamp="1529911624446">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.module.ts" timestamp="1529653443572">
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="20" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
+        <mark key="[" line="0" column="84" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529911106316">
+        <mark key="'" line="51" column="62" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.component.html" timestamp="1529591233415">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.scss" timestamp="1529911096724">
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="68" column="10" />
+        <mark key="." line="68" column="10" />
+        <mark key="^" line="68" column="10" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1529567297516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.module.ts" timestamp="1529909085417">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="26" column="33" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.service.ts" timestamp="1529908912319" />
       <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/form-controls/form-control-errors/form-control-errors.component.scss" timestamp="1529585544263">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -111,11 +111,17 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1529677913397">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="1" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1529910110622">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="2" />
         <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+        <mark key="." line="42" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_shared_web/libs/ui-components/src/file-upload/file-upload/file-upload.component.ts" timestamp="1529565243788">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -182,10 +188,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prettier</text>
+        <text>Support</text>
       </register>
       <register name="-" type="4">
-        <text>prettier</text>
+        <text>Support</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
