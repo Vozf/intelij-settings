@@ -14,7 +14,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529913561905">
+      <file name="/Dummy.txt" timestamp="1529915652806">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -64,9 +64,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529912715309">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529915357624">
         <mark key="'" line="51" column="62" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
         <mark key="^" line="19" column="40" />
+        <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.component.html" timestamp="1529591233415">
         <mark key="[" line="0" column="3" />
@@ -182,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prettier</text>
+        <text>/../../</text>
       </register>
       <register name="-" type="4">
-        <text>prettier</text>
+        <text>/../../</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
