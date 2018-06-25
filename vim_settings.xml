@@ -9,14 +9,14 @@
         <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.scss" timestamp="1529910436585">
-        <mark key="[" line="71" column="3" />
+        <mark key="[" line="70" column="3" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529910133992">
+      <file name="/Dummy.txt" timestamp="1529913561905">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="7" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -64,11 +64,8 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529911106316">
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1529912715309">
         <mark key="'" line="51" column="62" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
         <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.component.html" timestamp="1529591233415">
@@ -76,11 +73,8 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.scss" timestamp="1529911096724">
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="68" column="10" />
-        <mark key="." line="68" column="10" />
-        <mark key="^" line="68" column="10" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.scss" timestamp="1529912524215">
+        <mark key="^" line="69" column="10" />
       </file>
       <file name="/JavaScript Console" timestamp="1529567297516">
         <mark key="[" line="0" column="0" />
@@ -188,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Support</text>
+        <text>prettier</text>
       </register>
       <register name="-" type="4">
-        <text>Support</text>
+        <text>prettier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
