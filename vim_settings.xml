@@ -27,7 +27,7 @@
         <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
-        <mark key="[" line="64" column="58" />
+        <mark key="[" line="62" column="58" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.component.html" timestamp="1529591233415">
         <mark key="[" line="0" column="3" />
@@ -57,9 +57,9 @@
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530085251058">
+      <file name="/Dummy.txt" timestamp="1530090215655">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="7" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -68,6 +68,7 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/user-row/user-row.component.html" timestamp="1530089402438" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.ts" timestamp="1529910122398">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="2" />
@@ -79,6 +80,10 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
+        <mark key="[" line="62" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/node_modules/certemy-shared/libs/ui-components/src/form-controls/typeahead/typeahead.component.ts" timestamp="1530089007189" />
       <file name="$USER_HOME$/projects/certemy_api/config/routes/support_request/index.js" timestamp="1530085472743">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -104,9 +109,16 @@
         <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.ts" timestamp="1530085545456" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-simple/invite-user-simple.component.html" timestamp="1529929139002">
-        <mark key="[" line="21" column="151" />
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
+        <mark key="[" line="14" column="114" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-simple/invite-user-simple.component.html" timestamp="1530090519709">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-simple/invite-user-simple.component.ts" timestamp="1530089880382" />
     </filemarks>
     <jumps>
       <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
@@ -172,10 +184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HttpStatus.NO_CONTENT</text>
+        <text>messageForInvitation</text>
       </register>
       <register name="-" type="4">
-        <text>HttpStatus.NO_CONTENT</text>
+        <text>messageForInvitation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
