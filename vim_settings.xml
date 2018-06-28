@@ -3,20 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1530112948831">
+      <file name="/Dummy.txt" timestamp="1530172964644">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/professional.route.ts" timestamp="1530172458527">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.module.ts" timestamp="1530172385114" />
+      <file name="$USER_HOME$/projects/certemy_web/src/environments/environment.ts" timestamp="1530173054631">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
@@ -125,13 +136,14 @@
       <jump line="36" column="100" filename="$USER_HOME$/projects/certemy_web/package.json" />
       <jump line="46" column="62" filename="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" />
       <jump line="160" column="19" filename="$USER_HOME$/projects/certemy_shared_web/libs/common/validators/custom-validators/custom.validator.ts" />
+      <jump line="31" column="6" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/professional.route.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'../../../'</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>'../../../'</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
