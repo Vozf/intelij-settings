@@ -9,6 +9,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/pages/imposer/imposer.module.ts" timestamp="1530178632491">
+        <mark key="[" line="11" column="110" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
       </file>
@@ -17,6 +23,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/organization-dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1530178043920" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
@@ -37,6 +44,11 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/organization-dashboard/test-registration-certification/test-registration-certification.module.ts" timestamp="1530178466508">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
@@ -55,6 +67,9 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/organization-dashboard/organization-dashboard.module.ts" timestamp="1530178405225">
+        <mark key="[" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
@@ -140,10 +155,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>SmartModalModule</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>SmartModalModule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
