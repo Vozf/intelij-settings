@@ -8,12 +8,6 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
-        <mark key="[" line="0" column="84" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
-        <mark key="[" line="62" column="58" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" timestamp="1530112900623">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="23" />
@@ -23,9 +17,6 @@
         <mark key="[" line="12" column="64" />
         <mark key="]" line="12" column="64" />
         <mark key="." line="12" column="64" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1530084336135">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/services/profile/profile.service.ts" timestamp="1530099809939">
         <mark key="[" line="150" column="79" />
@@ -43,21 +34,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
-        <mark key="[" line="11" column="19" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/pages/professional/professional.route.ts" timestamp="1530172458527">
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_icrc_web/libs/icrc-api/services/custom/Candidate.ts" timestamp="1532938639493" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/organization-dashboard/test-registration-certification/test-registration-certification.component.ts" timestamp="1532935168396" />
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
-        <mark key="[" line="62" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
-        <mark key="[" line="54" column="83" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/support_request/index.js" timestamp="1530085472743">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -68,12 +51,7 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
-        <mark key="[" line="14" column="114" />
-      </file>
+      <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/ethical-violation/hooks/before-create-violation.hook.js" timestamp="1532938132897" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-simple/invite-user-simple.component.html" timestamp="1530108974029">
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
