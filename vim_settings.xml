@@ -18,11 +18,17 @@
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532951336087">
+      <file name="$USER_HOME$/projects/certemy_api/dist/app/services/log_form_instance/index.js" timestamp="1533024663643">
+        <mark key="[" line="277" column="18" />
+        <mark key="]" line="277" column="12" />
+        <mark key="^" line="277" column="12" />
+        <mark key="." line="277" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1533025279406">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_web/libs/candidate/src/candidate-violation-form-modal/candidate-violation-form-modal.component.ts" timestamp="1532949720147">
         <mark key="[" line="102" column="10" />
@@ -53,7 +59,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/certemy_web/README.md" timestamp="1533023917958" />
+      <file name="$USER_HOME$/projects/certemy_web/README.md" timestamp="1533024505845" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
@@ -129,10 +135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>17</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>17</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
