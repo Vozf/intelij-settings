@@ -1,0 +1,34 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5676251" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="KEYMAP" value="context men&#10;branch" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="PLUGIN_FILTER" value="settin&#10;BrowseWordAtCaret" />
+    <property name="SearchEveryWhereHistory" value="C" />
+    <property name="SettingsSearchHistory" value="reposit&#10;preferen&#10;repos&#10;tab&#10;quote" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="mt.oceanic" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="evlsprt3.173" value="16" />
+    <property name="evlsprt3.181" value="19" />
+    <property name="evlsprt3.WS-181.3494.18" value="15" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/certemy_shared_web&#10;/home/vozman/projects/certemy_icrc_web&#10;/home/vozman/projects/certemy_web&#10;/home/vozman/projects/cifar10&#10;/home/vozman/projects/certemy_worker/source/app.js&#10;/home/vozman/projects/certemy_api&#10;/home/vozman/projects/slides/slide-analysis-web&#10;/home/vozman/projects/certemy_worker&#10;/home/vozman/projects/certemy_api/bin/www&#10;/usr/lib/node_modules/nodemon/bin/nodemon.js" />
+    <property name="file.gist.reindex.count" value="17811" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="selected.color.option.type" value="RIGHT_MARGIN_COLOR" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Punctuation" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+  </component>
+</application>

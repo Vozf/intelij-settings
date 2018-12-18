@@ -6,12 +6,7 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="Vozf" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.idl.iv:visual-search/core.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/visual-search" />
   </component>
 </application>
