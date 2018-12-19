@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1545213565419" />
       <file name="/Python Console" timestamp="1545147482845">
         <mark key="[" line="0" column="0" />
       </file>
@@ -269,6 +270,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
