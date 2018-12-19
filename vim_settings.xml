@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1545213565419" />
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1545216012489" />
       <file name="/Python Console" timestamp="1545147482845">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545216611448" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="9" column="6" />
@@ -70,6 +71,12 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/visual-search/core/requirements.txt" timestamp="1545215883279">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/image/requirements.txt" timestamp="1545146707260">
         <mark key="[" line="10" column="14" />
@@ -157,10 +164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>products</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>products</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
