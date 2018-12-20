@@ -4,7 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1545216012489" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545222550836" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545303772969">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="75" />
+        <mark key="^" line="25" column="75" />
+        <mark key="." line="25" column="75" />
+      </file>
       <file name="/Python Console" timestamp="1545147482845">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,7 +25,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545216611448" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545303830358" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="9" column="6" />
@@ -180,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFyZ3MuZGF0YXNldF9wYXRoLAogICAgICAgIGFyZ3Mub3V0cHV0X2ltYWdlc19mb2xkZXJfcGF0aCwKICAgICAgICBhcmdzLm91dHB1dF9kYXRhc2V0X2ZpbGVfcGF0aA==</text>
+        <text>н</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>н</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
