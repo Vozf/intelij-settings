@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1545216012489" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545303772969">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="25" column="75" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545305589020">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
         <mark key="^" line="25" column="75" />
-        <mark key="." line="25" column="75" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="/Python Console" timestamp="1545147482845">
         <mark key="[" line="0" column="0" />
@@ -68,7 +68,7 @@
         <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/image/train_embedding_network.py" timestamp="1545148123227" />
-      <file name="/Dummy.txt" timestamp="1545145571939">
+      <file name="/Dummy.txt" timestamp="1545305091066">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -185,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>н</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>н</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
