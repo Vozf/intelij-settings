@@ -27,6 +27,12 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1545302769566">
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="68" column="58" />
+        <mark key="." line="68" column="58" />
+        <mark key="^" line="68" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
@@ -174,7 +180,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IGFyZ3MuZGF0YXNldF9wYXRoLAogICAgICAgIGFyZ3Mub3V0cHV0X2ltYWdlc19mb2xkZXJfcGF0aCwKICAgICAgICBhcmdzLm91dHB1dF9kYXRhc2V0X2ZpbGVfcGF0aA==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -186,37 +192,37 @@
         <text>description</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IGFyZ3MuZGF0YXNldF9wYXRoLAogICAgICAgIGFyZ3Mub3V0cHV0X2ltYWdlc19mb2xkZXJfcGF0aCwKICAgICAgICBhcmdzLm91dHB1dF9kYXRhc2V0X2ZpbGVfcGF0aA==</text>
+      </register>
+      <register name="2" type="4">
         <text>:host {
   overflow: scroll;
 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGNoYW5nZURldGVjdG9yOiBDaGFuZ2VEZXRlY3RvclJlZikge30KCiAgbmdPbkluaXQoKSB7CiAgICB0aGlzLmNvbnRyb2wudmFsdWVDaGFuZ2VzLnBpcGUodGFrZVVudGlsKHRoaXMub25EZXN0cm95JCkpLnN1YnNjcmliZSh2YWx1ZSA9PiB7CiAgICAgIHRoaXMucHJvcGFnYXRlQ2hhbmdlKHZhbHVlKTsKICAgICAgdGhpcy5vblRvdWNoZWQoKTsKICAgIH0pOwogIH0KCiAgbmdPbkRlc3Ryb3koKSB7CiAgICB0aGlzLm9uRGVzdHJveSQubmV4dCgpOwogICAgdGhpcy5vbkRlc3Ryb3kkLmNvbXBsZXRlKCk7CiAgfQoKICB3cml0ZVZhbHVlKHZhbHVlID0gJycpIHsKICAgIHRoaXMuY29udHJvbC5zZXRWYWx1ZSh2YWx1ZSwgeyBlbWl0RXZlbnQ6IGZhbHNlIH0pOwogICAgLy8gTmdNb2RlbCB3b3JrcyBpbmNvcnJlY3RseSB3aGVuIHVzaW5nIG9uUHVzaCBodHRwczovL2dpdGh1Yi5jb20vYW5ndWxhci9hbmd1bGFyL2lzc3Vlcy8xMDgxNgogICAgdGhpcy5jaGFuZ2VEZXRlY3Rvci5tYXJrRm9yQ2hlY2soKTsKICB9CgogIHJlZ2lzdGVyT25DaGFuZ2UoZm46IGFueSkgewogICAgdGhpcy5wcm9wYWdhdGVDaGFuZ2UgPSBmbjsKICB9CgogIHJlZ2lzdGVyT25Ub3VjaGVkKGZuOiAoKSA9PiBhbnkpOiB2b2lkIHsKICAgIHRoaXMub25Ub3VjaGVkID0gZm47CiAgfQoKICB0cmFja2J5Rm4oXywgZmllbGQ6IFNtYXJ0Rm9ybS5GaWVsZE9wdGlvbikgewogICAgcmV0dXJuIGZpZWxkLmlkOwogIH0KCiAgc2V0RGlzYWJsZWRTdGF0ZShpc0Rpc2FibGVkOiBib29sZWFuID0gZmFsc2UpOiB2b2lkIHsKICAgIGNvbnN0IGNvbW1hbmQgPSBpc0Rpc2FibGVkID8gJ2Rpc2FibGUnIDogJ2VuYWJsZSc7CiAgICB0aGlzLmNvbnRyb2xbY29tbWFuZF0oeyBlbWl0RXZlbnQ6IGZhbHNlIH0pOwogIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>console.log('prev value: ', this._name);
     console.log('got name: ', name);
     this._name = name;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBuZ09uSW5pdCgpIHsKICAgIHRoaXMuY29udHJvbC52YWx1ZUNoYW5nZXMucGlwZSh0YWtlVW50aWwodGhpcy5vbkRlc3Ryb3kkKSkuc3Vic2NyaWJlKHZhbHVlID0+IHsKICAgICAgdGhpcy5wcm9wYWdhdGVDaGFuZ2UodmFsdWUpOwogICAgICB0aGlzLm9uVG91Y2hlZCgpOwogICAgfSk7CiAgfQoKICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMub25EZXN0cm95JC5uZXh0KCk7CiAgICB0aGlzLm9uRGVzdHJveSQuY29tcGxldGUoKTsKICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>',
 '</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>'
 '</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCBjaC1zZWxlY3QiIGlkPSJyZXF1ZXN0X3R5cGUiCiAgICAgICAgICAgICAgICAgICAgICAgIChbbmdNb2RlbF0pPSJzZWxlY3RlZFJlcXVlc3RUeXBlIgogICAgICAgICAgICAgICAgICAgICAgICAobmdNb2RlbENoYW5nZSk9ImNoYW5nZSgkZXZlbnQpIgogICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogKG5ld1N1cHBvcnRSZXF1ZXN0Rm9ybS5jb250cm9scy5yZXF1ZXN0X3R5cGUuZXJyb3JzPy5yZXF1aXJlZCAmJiBpc0Zvcm1TdWJtaXR0ZWQpfSI+CiAgICAgICAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IiIgZGlzYWJsZWQ+UGxlYXNlIHNlbGVjdDwvb3B0aW9uPi0tPgogICAgICAgICAgICAgICAgICAgIDxvcHRpb24gKm5nRm9yPSJsZXQgcmVxdWVzdFR5cGUgb2YgcmVxdWVzdFR5cGVzIiBbbmdWYWx1ZV09InJlcXVlc3RUeXBlIj57e3JlcXVlc3RUeXBlLm5hbWV9fTwvb3B0aW9uPgogICAgICAgICAgICAgICAgPC9zZWxlY3Q+</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>(filters: UserFilter = new UserFilter())</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0icmVxdWVzdF90eXBlIiBjbGFzcz0iZm9ybS1sYWJlbCBmb3JtLWxhYmVsLS1ib2xkICByZXF1aXJlZCI+Rmlyc3QgbmFtZTwvbGFiZWw+Cg==</text>
       </register>
     </registers>
     <search>
