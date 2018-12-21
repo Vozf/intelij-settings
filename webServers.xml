@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00a7a407-22bd-4cbf-ace8-6eb24d5046e6" name="a_yaroshevich@gpu-04.indatalabs.com:2200" url="http:///">
+        <fileTransfer host="gpu-04.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
