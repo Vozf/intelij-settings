@@ -3,21 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1545216012489" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545393079143">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
-        <mark key="^" line="25" column="75" />
-        <mark key="." line="44" column="4" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545396334105">
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="25" column="74" />
       </file>
-      <file name="/Python Console" timestamp="1545147482845">
+      <file name="/Python Console" timestamp="1545394923686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1545147510743">
+      <file name="/fragment.py" timestamp="1545395083165">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -25,7 +26,6 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545303830358" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="9" column="6" />
@@ -62,14 +62,13 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/image/train_embedding_network.py" timestamp="1545148123227" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1545394968654" />
       <file name="/Dummy.txt" timestamp="1545305091066">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/image/indatalabs/indexer/wrappers/common.py" timestamp="1545147505282" />
       <file name="/code.py" timestamp="1545299886897">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +92,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/remote/data/LAMODA/Fashion/products/all_products.linejson" timestamp="1545298986918" />
       <file name="$USER_HOME$/projects/visual-search/core/image/requirements.txt" timestamp="1545146707260">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="9" />
@@ -106,8 +104,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/image/indatalabs/image/models/embedding_network/feature_extractor.py" timestamp="1545206561306" />
-      <file name="$USER_HOME$/projects/visual-search/core/image/indatalabs/image/models/losses.py" timestamp="1545206708277" />
       <file name="$USER_HOME$/projects/certemy_api/dist/app/services/log_form_instance/index.js" timestamp="1533024663643">
         <mark key="[" line="277" column="18" />
         <mark key="]" line="277" column="12" />
@@ -180,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>len</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>len</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
