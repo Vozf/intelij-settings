@@ -39,6 +39,13 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/utils/utils.py" timestamp="1545471292591">
+        <mark key="'" line="37" column="14" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+      </file>
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +116,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545471406254">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_api/dist/app/services/log_form_instance/index.js" timestamp="1533024663643">
         <mark key="[" line="277" column="18" />
         <mark key="]" line="277" column="12" />
@@ -178,13 +191,14 @@
       <jump line="46" column="62" filename="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/new-request/new-request.component.html" />
       <jump line="160" column="19" filename="$USER_HOME$/projects/certemy_shared_web/libs/common/validators/custom-validators/custom.validator.ts" />
       <jump line="31" column="6" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/professional.route.ts" />
+      <jump line="37" column="14" filename="$USER_HOME$/projects/visual-search/core/utils/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
