@@ -9,9 +9,6 @@
         <mark key="^" line="25" column="74" />
         <mark key="." line="25" column="74" />
       </file>
-      <file name="/Python Console" timestamp="1545400222889">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,6 +23,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545468520193" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="9" column="6" />
@@ -98,6 +96,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/slim_backbones.py" timestamp="1545468490777" />
       <file name="$USER_HOME$/projects/visual-search/core/image/requirements.txt" timestamp="1545146707260">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="9" />
