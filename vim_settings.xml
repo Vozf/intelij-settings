@@ -3,10 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545473491467">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545476994355">
+        <mark key="[" line="121" column="41" />
         <mark key="]" line="122" column="28" />
         <mark key="^" line="122" column="28" />
         <mark key="." line="122" column="28" />
+      </file>
+      <file name="/Python Console" timestamp="1545476905508">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
@@ -22,7 +26,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545474117777">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545476898083">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="69" column="11" />
         <mark key="^" line="69" column="11" />
@@ -120,6 +124,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1545477627219" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545471406254">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="7" />
