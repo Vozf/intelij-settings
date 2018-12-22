@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545476994355">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545478616117">
         <mark key="[" line="121" column="41" />
-        <mark key="]" line="122" column="28" />
-        <mark key="^" line="122" column="28" />
-        <mark key="." line="122" column="28" />
+        <mark key="]" line="165" column="0" />
+        <mark key="^" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="/Python Console" timestamp="1545476905508">
         <mark key="[" line="0" column="0" />
@@ -26,11 +26,8 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545476898083">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="11" />
-        <mark key="^" line="69" column="11" />
-        <mark key="." line="69" column="11" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545479064463">
+        <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
@@ -127,9 +124,6 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1545477627219" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545471406254">
         <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="7" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/dist/app/services/log_form_instance/index.js" timestamp="1533024663643">
         <mark key="[" line="277" column="18" />
