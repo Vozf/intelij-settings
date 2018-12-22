@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545479064463">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545484908518">
         <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
@@ -95,6 +95,7 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1545484918541" />
       <file name="$USER_HOME$/projects/visual-search/core/documentation/deploy.md" timestamp="1545397030179">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="1" />
