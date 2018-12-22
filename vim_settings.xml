@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545465788382">
-        <mark key="[" line="73" column="5" />
-        <mark key="]" line="25" column="74" />
-        <mark key="^" line="25" column="74" />
-        <mark key="." line="25" column="74" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545473491467">
+        <mark key="]" line="122" column="28" />
+        <mark key="^" line="122" column="28" />
+        <mark key="." line="122" column="28" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
@@ -23,7 +22,12 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545468520193" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1545474117777">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="11" />
+        <mark key="^" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="9" column="6" />
@@ -74,7 +78,7 @@
         <mark key="^" line="34" column="6" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1545394968654" />
-      <file name="/Dummy.txt" timestamp="1545399617567">
+      <file name="/Dummy.txt" timestamp="1545474428711">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -194,8 +198,8 @@
       <jump line="37" column="14" filename="$USER_HOME$/projects/visual-search/core/utils/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -210,28 +214,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Mykg0J/QvtC/0YDQsNCy0LjRgtGMIGB0cmFpbmluZy9ibG9ja3MvbW9kZWwvbW9kZWwucHlgLiDQn9C+0LzQtdC90Y/RgtGMINC90YPQttC90L4g0LHRg9C00LXRgiDRgtC+0LvRjNC60L4g0LjQvNC/0L7RgNGC0YssIGBwcmV0cmFpbmVkX21vZGVsX2NoZWNrcG9pbnRfZmlsZWAg0LggYGdldF9wcmV0cmFpbmVkX2ZlYXR1cmVzYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Mykg0J/QvtC/0YDQsNCy0LjRgtGMIGB0cmFpbmluZy9ibG9ja3MvbW9kZWwvbW9kZWwucHlgLiDQn9C+0LzQtdC90Y/RgtGMINC90YPQttC90L4g0LHRg9C00LXRgiDRgtC+0LvRjNC60L4g0LjQvNC/0L7RgNGC0YssIGBwcmV0cmFpbmVkX21vZGVsX2NoZWNrcG9pbnRfZmlsZWAg0LggYGdldF9wcmV0cmFpbmVkX2ZlYXR1cmVzYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFyIC16eHZmIC4vZGF0YS9wcmV0cmFpbmVkX21vZGVscy9tb2JpbGVuZXRfdjFfMS4wXzIyNC50Z3ogIC1DIGRhdGEvcHJldHJhaW5lZF9tb2RlbHMvbW9iaWxlbmV0X3YxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWtkaXIgZGF0YS9wcmV0cmFpbmVkX21vZGVscy9tb2JpbGVuZXRfdjEK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2dldCBodHRwOi8vZG93bmxvYWQudGVuc29yZmxvdy5vcmcvbW9kZWxzL21vYmlsZW5ldF92MV8yMDE4XzAyXzIyL21vYmlsZW5ldF92MV8xLjBfMjI0LnRneiAtUCBkYXRhL3ByZXRyYWluZWRfbW9kZWxzLwo=</text>
+        <text encoding="base64">dGFyIC16eHZmIC4vZGF0YS9wcmV0cmFpbmVkX21vZGVscy9tb2JpbGVuZXRfdjFfMS4wXzIyNC50Z3ogIC1DIGRhdGEvcHJldHJhaW5lZF9tb2RlbHMvbW9iaWxlbmV0X3YxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2QgY29yZS8K</text>
+        <text encoding="base64">bWtkaXIgZGF0YS9wcmV0cmFpbmVkX21vZGVscy9tb2JpbGVuZXRfdjEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgc2gK</text>
+        <text encoding="base64">d2dldCBodHRwOi8vZG93bmxvYWQudGVuc29yZmxvdy5vcmcvbW9kZWxzL21vYmlsZW5ldF92MV8yMDE4XzAyXzIyL21vYmlsZW5ldF92MV8xLjBfMjI0LnRneiAtUCBkYXRhL3ByZXRyYWluZWRfbW9kZWxzLwo=</text>
       </register>
     </registers>
     <search>
