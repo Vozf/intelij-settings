@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545815849133">
-        <mark key="[" line="175" column="26" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1545827383132">
+        <mark key="[" line="176" column="15" />
         <mark key="]" line="53" column="7" />
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
