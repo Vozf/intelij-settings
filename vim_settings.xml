@@ -59,6 +59,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/measurers.py" timestamp="1545811508619" />
+      <file name="$USER_HOME$/projects/visual-search/core/documentation/time profiling.md" timestamp="1545828367240">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="2" column="86" />
+        <mark key="^" line="2" column="86" />
+        <mark key="." line="2" column="86" />
+      </file>
       <file name="$USER_HOME$/projects/visual-search/core/image/index_lamoda_images.py" timestamp="1545147820514">
         <mark key="[" line="6" column="183" />
         <mark key="]" line="6" column="181" />
@@ -214,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YGBgCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>start training process</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
@@ -226,31 +232,31 @@
         <text>description</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YGBgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIHJuZApwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgc2gKY29uZGEgY3JlYXRlIC1uIHJuZCBweXRob249My42Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiogQ3JlYXRlIGNvbmRhIGVudiwgYWN0aXZhdGUgZW52LCBpbnN0YWxsIHJlcXVpcmVtZW50cyB2aWEgcGlwOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mykg0J/QvtC/0YDQsNCy0LjRgtGMIGB0cmFpbmluZy9ibG9ja3MvbW9kZWwvbW9kZWwucHlgLiDQn9C+0LzQtdC90Y/RgtGMINC90YPQttC90L4g0LHRg9C00LXRgiDRgtC+0LvRjNC60L4g0LjQvNC/0L7RgNGC0YssIGBwcmV0cmFpbmVkX21vZGVsX2NoZWNrcG9pbnRfZmlsZWAg0LggYGdldF9wcmV0cmFpbmVkX2ZlYXR1cmVzYAo=</text>
+        <text encoding="base64">YmFzaCBBbmFjb25kYTMtNS4yLjAtTGludXgteDg2XzY0LnNoCmBgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCndnZXQgaHR0cHM6Ly9yZXBvLmNvbnRpbnV1bS5pby9hcmNoaXZlL0FuYWNvbmRhMy01LjIuMC1MaW51eC14ODZfNjQuc2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">IyMgUmVxdWlyZW1lbnRzCiogaW5zdGFsbCBBbmFjb25kYTMgIGh0dHBzOi8vd3d3LmFuYWNvbmRhLmNvbS9kb3dubG9hZC8jbGludXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFyIC16eHZmIC4vZGF0YS9wcmV0cmFpbmVkX21vZGVscy9tb2JpbGVuZXRfdjFfMS4wXzIyNC50Z3ogIC1DIGRhdGEvcHJldHJhaW5lZF9tb2RlbHMvbW9iaWxlbmV0X3YxCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWtkaXIgZGF0YS9wcmV0cmFpbmVkX21vZGVscy9tb2JpbGVuZXRfdjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
