@@ -6,6 +6,11 @@
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
+      <webServer id="09e13b71-a7e0-4dae-994a-09cf9f3fc7aa" name="gpu-01.local" url="http:///">
+        <fileTransfer host="gpu-01.idl.iv" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
