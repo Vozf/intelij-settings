@@ -9,7 +9,6 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/writers.py" timestamp="1545810103983" />
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,7 +63,6 @@
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/measurers.py" timestamp="1545811508619" />
       <file name="$USER_HOME$/projects/visual-search/core/documentation/time profiling.md" timestamp="1545912179695">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -104,7 +102,7 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/code.py" timestamp="1545912495892">
+      <file name="/code.py" timestamp="1546001720997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/ethical-violation/hooks/before-create-violation.hook.js" timestamp="1532951156766">
@@ -124,7 +122,6 @@
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1545921076139" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
@@ -146,8 +143,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1545809680594" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1545815857579" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545811488716">
         <mark key="[" line="20" column="0" />
       </file>
