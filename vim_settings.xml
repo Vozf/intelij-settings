@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546097046948">
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="85" column="5" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546100449138">
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="73" column="5" />
         <mark key="^" line="79" column="5" />
-        <mark key="." line="85" column="5" />
+        <mark key="." line="73" column="5" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1546080054687" />
       <file name="/Python Console" timestamp="1546079757779">
@@ -132,7 +132,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1546083150836">
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1546098870769">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -219,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
