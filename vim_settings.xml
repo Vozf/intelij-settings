@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546089002319">
-        <mark key="[" line="85" column="4" />
-        <mark key="]" line="85" column="5" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546091743691">
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="79" column="5" />
         <mark key="^" line="30" column="40" />
-        <mark key="." line="85" column="5" />
+        <mark key="." line="79" column="5" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1546080054687" />
       <file name="/Python Console" timestamp="1546079757779">
