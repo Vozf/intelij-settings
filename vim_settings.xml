@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546101276376">
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="5" />
-        <mark key="^" line="79" column="5" />
-        <mark key="." line="73" column="5" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546213180048">
+        <mark key="'" line="173" column="4" />
+        <mark key="[" line="136" column="11" />
+        <mark key="]" line="127" column="11" />
+        <mark key="^" line="127" column="11" />
+        <mark key="." line="127" column="11" />
       </file>
       <file name="/Python Console" timestamp="1546079757779">
         <mark key="[" line="0" column="0" />
@@ -94,7 +95,7 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/code.py" timestamp="1546210572959">
+      <file name="/code.py" timestamp="1546212731028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/ethical-violation/hooks/before-create-violation.hook.js" timestamp="1532951156766">
@@ -215,6 +216,8 @@
       <jump line="34" column="19" filename="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" />
       <jump line="37" column="14" filename="$USER_HOME$/projects/visual-search/core/utils/utils.py" />
       <jump line="15" column="4" filename="$USER_HOME$/projects/visual-search/core/utils/utils.py" />
+      <jump line="160" column="24" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
+      <jump line="173" column="4" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
