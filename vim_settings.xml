@@ -3,20 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546502090583">
-        <mark key="'" line="173" column="4" />
-        <mark key="[" line="136" column="11" />
-        <mark key="]" line="127" column="11" />
-        <mark key="^" line="127" column="11" />
-        <mark key="." line="127" column="11" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546509400255">
+        <mark key="'" line="174" column="4" />
+        <mark key="[" line="138" column="22" />
+        <mark key="]" line="139" column="31" />
+        <mark key="^" line="139" column="31" />
+        <mark key="." line="139" column="31" />
       </file>
-      <file name="/Python Console" timestamp="1546442976566">
+      <file name="/Python Console" timestamp="1546508966272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1546444918392">
+      <file name="/fragment.py" timestamp="1546508847707">
+        <mark key="'" line="0" column="75" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -91,7 +92,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1546441969967" />
       <file name="/Dummy.txt" timestamp="1546081767240">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -107,18 +107,24 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1546502680450">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1546510293793">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/documentation/deploy.md" timestamp="1546081093542">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1546445594897" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1546509352824">
+        <mark key="'" line="144" column="12" />
+        <mark key="[" line="150" column="46" />
+        <mark key="]" line="76" column="27" />
+        <mark key="^" line="76" column="27" />
+        <mark key="." line="76" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
@@ -137,11 +143,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1546503402307">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="15" column="7" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1546503604793">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
         <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -151,7 +157,12 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1546445650829" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1546509563181">
+        <mark key="[" line="34" column="81" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="81" />
+      </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545811488716">
         <mark key="[" line="18" column="0" />
       </file>
@@ -229,13 +240,16 @@
       <jump line="15" column="4" filename="$USER_HOME$/projects/visual-search/core/utils/utils.py" />
       <jump line="160" column="24" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
       <jump line="173" column="4" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" />
+      <jump line="134" column="12" filename="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" />
+      <jump line="0" column="75" filename="/fragment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
@@ -244,31 +258,31 @@
         <text>description</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRyaWNfbmFtZSwgbWV0cmljID0gbWV0cmljX2RpY3RbJ21ldHJpY19uYW1lJ10sIG1ldHJpY19kaWN0WydtZXRyaWMnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIHN1bW1hcmllcyA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfcl9hdF9rCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfbG9zcywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfYWNjdXJhY3ksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1bW1hcmllc192YWwgPSB0Zi5zdW1tYXJ5Lm1lcmdlKFsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIF0pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfcl9hdF9rCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfbG9zcywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfYWNjdXJhY3ksCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFZhbGlkYXRpb24KCiAgICAgICAgIyBwbGFjZWhvbGRlci3RiyDQvdGD0LbQvdGLLCDRh9GC0L7QsdGLINC80L7QttC90L4g0LHRi9C70L4g0L/QvtGB0YfQuNGC0LDRgtGMINGH0YLQvi3RgtC+INC90LAg0LHQvtC70YzRiNC10Lwg0LTQsNGC0LDRgdC10YLQtSjRh9C10Lwt0YLQviDQsdC+0LvRjNGI0LUg0LHQsNGC0YfQsCkKICAgICAgICAjINC/0L7RjdGC0L7QvNGDINC80Ysg0LPQtNC1LdGC0L4g0YHRh9C40YLQsNC10LwsINC6INC/0YDQuNC80LXRgNGDLCBhY2N1cmFjeSDQtNC70Y8g0LLQsNC70LjQtNCw0YbQuNC+0L3QvdC+0LPQviDQtNCw0YLQsNGB0LXRgtCwLAogICAgICAgICMg0LAg0L/QvtGC0L7QvCDQv9C40YXQsNC10Lwg0LjRhSDQvdCwINC80LXRgdGC0L4gcGxhY2Vob2xlci3QvtCyLCDQv9GA0LjQvNC10YDQvdC+INCy0L7RgiDRgtCw0Lo6CiAgICAgICAgIyBzZXNzLnJ1bihzdW1tYXJpZXNfdmFsaWRhdGlvbiwgIGZlZWRfZGljdD17bW9kZWwuZnVsbF9hY2N1cmFjeTogdmFsX2FjY3VyYWN5LCBtb2RlbC5mdWxsX2xvc3M6IHZhbF9sb3NzfSkKICAgICAgICAjCiAgICAgICAgIyDQktC+0LfQvNC+0LbQvdC+INGB0YPRidC10YHRgtCy0YPQtdGCINCx0L7Qu9C10LUg0Y3Qu9C10LPQsNC90YLQvdC+0LUg0YDQtdGI0LXQvdC40LUsINC90L4g0Y8g0L3QtSDQvdCw0YjQtdC7LgoKICAgICAgICBzZWxmLmZ1bGxfYWNjdXJhY3kgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT0oKSwgbmFtZT0nZnVsbF9hY2N1cmFjeV9wbGFjZWhvbGRlcicpCiAgICAgICAgc2VsZi5mdWxsX2xvc3MgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT0oKSwgbmFtZT0nZnVsbF9sb3NzX3BsYWNlaG9sZGVyJykKICAgICAgICBzZWxmLmZ1bGxfcl9hdF9rID0gdGYucGxhY2Vob2xkZXIodGYuZmxvYXQzMiwgc2hhcGU9KCksIG5hbWU9J2Z1bGxfcl9hdF9rX3BsYWNlaG9sZGVyJykKCiAgICAgICAgc2VsZi5zdW1tYXJ5X2Z1bGxfYWNjdXJhY3kgPSB0Zi5zdW1tYXJ5LnNjYWxhcignZnVsbF9hY2N1cmFjeScsIHNlbGYuZnVsbF9hY2N1cmFjeSkKICAgICAgICBzZWxmLnN1bW1hcnlfZnVsbF9sb3NzID0gdGYuc3VtbWFyeS5zY2FsYXIoJ3RyaXBsZXRfbG9zcycsIHNlbGYuZnVsbF9sb3NzKQogICAgICAgIHNlbGYuc3VtbWFyeV9mdWxsX3JfYXRfayA9IHRmLnN1bW1hcnkuc2NhbGFyKCdyX2F0X2tfcGxhY2Vob2xkZXInLCBzZWxmLmZ1bGxfcl9hdF9rKQo=</text>
+        <text encoding="base64">ICAgIHN1bW1hcmllc192YWwgPSB0Zi5zdW1tYXJ5Lm1lcmdlKFsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc3VtbWFyeV93cml0ZXJfdmFsLmFkZF9zdW1tYXJ5KHN1bW1hcnlfdmFsLCBzdGVwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
