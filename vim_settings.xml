@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546518132172" />
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1546518539696">
         <mark key="[" line="11" column="61" />
       </file>
@@ -81,13 +80,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546518998181">
+      <file name="/Dummy.txt" timestamp="1546526028969">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/code.py" timestamp="1546519318016">
+      <file name="/code.py" timestamp="1546525849572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/ethical-violation/hooks/before-create-violation.hook.js" timestamp="1532951156766">
@@ -96,13 +95,12 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1546515097461" />
       <file name="$USER_HOME$/projects/visual-search/core/documentation/deploy.md" timestamp="1546081093542">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1546516020695">
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1546526117753">
         <mark key="'" line="138" column="12" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
@@ -132,8 +130,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="/utils.py" timestamp="1546515961302" />
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-609223000/-552574373/tensorflow/python/summary/summary.py" timestamp="1546512701568" />
       <file name="$USER_HOME$/projects/fp/app/Main.hs" timestamp="1546215807725">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="10" />
