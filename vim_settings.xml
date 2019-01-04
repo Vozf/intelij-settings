@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546610020889">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="145" column="94" />
-        <mark key="^" line="145" column="94" />
-        <mark key="." line="145" column="94" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546612373433">
+        <mark key="[" line="169" column="28" />
+        <mark key="]" line="169" column="29" />
+        <mark key="^" line="159" column="27" />
+        <mark key="." line="169" column="29" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1546518539696">
         <mark key="[" line="11" column="61" />
@@ -27,10 +27,11 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1546609879693">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1546612995553">
+        <mark key="[" line="121" column="40" />
+        <mark key="]" line="217" column="24" />
+        <mark key="." line="217" column="24" />
+        <mark key="^" line="217" column="24" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
         <mark key="[" line="12" column="55" />
@@ -47,6 +48,7 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/utils/utils.py" timestamp="1546612022570" />
       <file name="$USER_HOME$/projects/visual-search/core/documentation/time_profiling.md" timestamp="1545912398518">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="67" />
@@ -89,7 +91,13 @@
       <file name="$USER_HOME$/projects/visual-search/core/documentation/models_batch_size.md" timestamp="1546609848846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546607158267">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1546612283107">
+        <mark key="[" line="40" column="94" />
+        <mark key="]" line="40" column="88" />
+        <mark key="^" line="40" column="88" />
+        <mark key="." line="40" column="88" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546612470264">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
