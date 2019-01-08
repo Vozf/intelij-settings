@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1546951840137">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1546956360298">
         <mark key="[" line="5" column="76" />
         <mark key="]" line="25" column="41" />
         <mark key="." line="25" column="41" />
@@ -97,8 +97,8 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/documentation/models_batch_size.md" timestamp="1546623600543">
-        <mark key="[" line="1" column="11" />
+      <file name="$USER_HOME$/projects/visual-search/core/documentation/models_batch_size.md" timestamp="1546956371422">
+        <mark key="[" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1546622617797">
         <mark key="[" line="40" column="80" />
