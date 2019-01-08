@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546624632761">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="5" />
-        <mark key="^" line="33" column="73" />
-        <mark key="." line="69" column="5" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1546951915424">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="31" column="30" />
+        <mark key="." line="31" column="30" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1546518539696">
         <mark key="[" line="11" column="61" />
@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1546623884010">
-        <mark key="[" line="121" column="40" />
-        <mark key="]" line="217" column="24" />
-        <mark key="." line="217" column="24" />
-        <mark key="^" line="217" column="24" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1546951840137">
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/serialize.py" timestamp="1546947601453" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/modules/member-board-admin/hooks/before-get-member-board-admins-with-count.hook.js" timestamp="1532955512843">
