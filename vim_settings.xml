@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547106486190">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547110516722">
         <mark key="[" line="68" column="4" />
         <mark key="]" line="68" column="5" />
         <mark key="^" line="62" column="5" />
@@ -70,7 +70,7 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/project_settings.py" timestamp="1547026512606" />
+      <file name="$USER_HOME$/projects/visual-search/core/project_settings.py" timestamp="1547112255731" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,7 +116,7 @@
         <mark key="^" line="40" column="78" />
         <mark key="." line="40" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547048018877">
+      <file name="/Dummy.txt" timestamp="1547112938404">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -185,8 +185,11 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547046368380">
-        <mark key="[" line="0" column="24" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547112786179">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1547043703608">
         <mark key="[" line="34" column="76" />
@@ -274,11 +277,11 @@
       <jump line="64" column="75" filename="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>TRAINING</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -293,25 +296,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">NDU0NTI4MAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">NTI5OTQ1Ngo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRyaWNfbmFtZSwgbWV0cmljID0gbWV0cmljX2RpY3RbJ21ldHJpY19uYW1lJ10sIG1ldHJpY19kaWN0WydtZXRyaWMnXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1bW1hcmllcyA9IFtdCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">NDU0NTI4MAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">NTI5OTQ1Ngo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtZXRyaWNfbmFtZSwgbWV0cmljID0gbWV0cmljX2RpY3RbJ21ldHJpY19uYW1lJ10sIG1ldHJpY19kaWN0WydtZXRyaWMnXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIHN1bW1hcmllcyA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2Z1bGxfcl9hdF9rCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
