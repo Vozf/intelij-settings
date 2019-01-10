@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547116796607">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547122658377">
         <mark key="[" line="52" column="70" />
         <mark key="]" line="52" column="68" />
         <mark key="^" line="52" column="68" />
@@ -21,7 +21,7 @@
         <mark key="^" line="69" column="23" />
         <mark key="." line="63" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1547045695585">
+      <file name="/Python Console" timestamp="1547122139977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1547118688828">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1547121836163">
         <mark key="a" line="5" column="88" />
         <mark key="[" line="19" column="25" />
         <mark key="]" line="81" column="28" />
@@ -187,12 +187,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547117793243">
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547122686497">
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1547116808375">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1547122103303">
         <mark key="'" line="13" column="53" />
         <mark key="[" line="44" column="52" />
         <mark key="]" line="44" column="51" />
