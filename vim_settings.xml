@@ -21,11 +21,11 @@
         <mark key="[" line="54" column="83" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/serialize.py" timestamp="1547031438234" />
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1547045010547">
-        <mark key="[" line="67" column="59" />
-        <mark key="]" line="67" column="59" />
-        <mark key="." line="67" column="59" />
-        <mark key="^" line="67" column="18" />
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1547219569927">
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="73" column="8" />
+        <mark key="." line="73" column="8" />
+        <mark key="^" line="68" column="65" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1547215935467" />
       <file name="$USER_HOME$/projects/visual-search/core/project_settings.py" timestamp="1547112255731" />
@@ -218,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>299</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>299</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
