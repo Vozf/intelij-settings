@@ -33,6 +33,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Indent Selection">
+        <Item>
+          <IdeaActionID>EditorIndentSelection</IdeaActionID>
+          <ShortCut>'Tab'</ShortCut>
+          <Description>Indent Selection</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Navigation Bar">
         <Item>
           <IdeaActionID>ShowNavBar</IdeaActionID>
