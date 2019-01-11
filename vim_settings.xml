@@ -27,6 +27,7 @@
         <mark key="." line="67" column="59" />
         <mark key="^" line="67" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1547215935467" />
       <file name="$USER_HOME$/projects/visual-search/core/project_settings.py" timestamp="1547112255731" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
@@ -66,7 +67,7 @@
         <mark key="^" line="60" column="64" />
         <mark key="." line="60" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1547132928212">
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1547215948206">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="60" />
         <mark key="." line="11" column="60" />
