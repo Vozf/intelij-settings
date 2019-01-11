@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547124707158">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547224658060">
         <mark key="[" line="46" column="12" />
         <mark key="]" line="52" column="68" />
         <mark key="^" line="52" column="68" />
@@ -21,11 +21,11 @@
         <mark key="[" line="54" column="83" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/serialize.py" timestamp="1547031438234" />
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1547219569927">
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="8" />
-        <mark key="." line="73" column="8" />
-        <mark key="^" line="68" column="65" />
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1547223922682">
+        <mark key="[" line="64" column="13" />
+        <mark key="]" line="72" column="38" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="38" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1547215935467" />
       <file name="$USER_HOME$/projects/visual-search/core/project_settings.py" timestamp="1547112255731" />
@@ -44,14 +44,14 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1547209964304">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1547224671753">
         <mark key="a" line="55" column="91" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="4" />
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1547212555849">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1547224851649">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="36" column="99" />
         <mark key="^" line="36" column="99" />
@@ -72,7 +72,7 @@
         <mark key="]" line="11" column="60" />
         <mark key="." line="11" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1547124099135">
+      <file name="/Python Console" timestamp="1547224646460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/writers.py" timestamp="1547130955495" />
@@ -107,6 +107,9 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547223895875">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code.py" timestamp="1547036159300">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,18 +128,19 @@
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/slim_backbones.py" timestamp="1547208755233" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/slim_backbones.py" timestamp="1547225032101" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-750328874/-52621065/nets/mobilenet/mobilenet_v2.py" timestamp="1547225023421" />
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1547127456348">
         <mark key="[" line="32" column="88" />
         <mark key="]" line="21" column="11" />
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547212498990">
-        <mark key="[" line="9" column="21" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547224627102">
+        <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
