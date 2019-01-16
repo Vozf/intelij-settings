@@ -25,6 +25,7 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/object-detection-utils/pipeline/dataset/converting/pascal_voc_xml_to_tf_record/main.py" timestamp="1547642494494" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
       </file>
@@ -63,6 +64,7 @@
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/object-detection-utils/pipeline/dataset/converting/pascal_voc_xml_to_tf_record/pascal_voc_xml_to_tf_record.py" timestamp="1547643260307" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
       </file>
@@ -87,13 +89,6 @@
         <mark key="[" line="59" column="21" />
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1547132177205">
-        <mark key="'" line="138" column="12" />
-        <mark key="[" line="89" column="77" />
-        <mark key="]" line="81" column="50" />
-        <mark key="^" line="83" column="37" />
-        <mark key="." line="81" column="66" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
@@ -127,13 +122,6 @@
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1547212534778">
-        <mark key="'" line="13" column="53" />
-        <mark key="[" line="63" column="56" />
-        <mark key="]" line="60" column="64" />
-        <mark key="^" line="60" column="64" />
-        <mark key="." line="60" column="64" />
       </file>
     </filemarks>
     <jumps>
