@@ -3,27 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1547479972766">
-        <mark key="[" line="38" column="75" />
-        <mark key="]" line="53" column="68" />
-        <mark key="^" line="53" column="68" />
-        <mark key="." line="53" column="68" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1547215948206">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="60" />
-      </file>
+      <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1547734505222" />
       <file name="/Python Console" timestamp="1547555587421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1547045983545">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -70,24 +55,18 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1547734147476" />
+      <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1547735027000">
+        <mark key="[" line="49" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547553186331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1547728195801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1547132562100">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1547458443314">
         <mark key="a" line="45" column="91" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/documentation/deploy.md" timestamp="1547218479449">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
@@ -98,6 +77,7 @@
         <mark key="^" line="88" column="3" />
         <mark key="." line="88" column="3" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373/tensorflow/core/framework/graph_pb2.py" timestamp="1547733257335" />
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1547463295932">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="36" column="99" />
@@ -116,11 +96,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547729708250">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="17" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1547732583738">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/proxy_list.txt" timestamp="1547725366526" />
     </filemarks>
