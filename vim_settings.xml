@@ -55,10 +55,11 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1547555779205">
-        <mark key="]" line="55" column="47" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="55" column="47" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1547725677898">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="65" column="22" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
@@ -106,11 +107,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1547639979929">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="118" column="0" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1547726203991">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="94" />
+        <mark key="." line="10" column="94" />
+        <mark key="^" line="10" column="94" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -121,6 +122,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/proxy_list.txt" timestamp="1547725366526" />
     </filemarks>
     <jumps>
       <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
@@ -197,11 +199,11 @@
       <jump line="13" column="53" filename="$USER_HOME$/projects/visual-search/core/training/utils/other.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjE0LjEzMmY0OGI2NEJlaTRxJg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjE0LjEzMmY0OGI2NEJlaTRxJg==</text>
+        <text>/path/to/proxy/list.txt'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -209,17 +211,17 @@
       <register name="0" type="4">
         <text>description</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZW1iZWRkaW5nc19hbmNob3JzID0gdGVtcGxhdGUoc2VsZi5mZWF0dXJlc19hbmNob3JzKQoKICAgICAgICAgICAgZW1iZWRkaW5nc19wb3NpdGl2ZXMgPSB0ZW1wbGF0ZShzZWxmLmZlYXR1cmVzX3Bvc2l0aXZlcykKICAgICAgICAgICAgZW1iZWRkaW5nc19uZWdhdGl2ZXMgPSB0ZW1wbGF0ZShzZWxmLmZlYXR1cmVzX25lZ2F0aXZlcykKICAgICAgICAgICAgCiAgICAgICAgICAgIGVtYmVkZGluZ3NfYW5jaG9ycyA9IHNlbGYubm9ybWFsaXplX3ZlY3RvcnMoZW1iZWRkaW5nc19hbmNob3JzKQogICAgICAgICAgICBlbWJlZGRpbmdzX3Bvc2l0aXZlcyA9IHNlbGYubm9ybWFsaXplX3ZlY3RvcnMoZW1iZWRkaW5nc19wb3NpdGl2ZXMpCiAgICAgICAgICAgIGVtYmVkZGluZ3NfbmVnYXRpdmVzID0gc2VsZi5ub3JtYWxpemVfdmVjdG9ycyhlbWJlZGRpbmdzX25lZ2F0aXZlcyk=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -231,10 +233,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">NDU0NTI4MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">NTI5OTQ1Ngo=</text>
+        <text encoding="base64">NDU0NTI4MAo=</text>
       </register>
     </registers>
     <search>
