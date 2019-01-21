@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1547734505222" />
       <file name="/Python Console" timestamp="1547735778651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,7 +54,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1547734147476" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1547736393755">
         <mark key="[" line="49" column="21" />
       </file>
@@ -77,7 +75,6 @@
         <mark key="^" line="88" column="3" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373/tensorflow/core/framework/graph_pb2.py" timestamp="1547733257335" />
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1547463295932">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="36" column="99" />
@@ -87,7 +84,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1547819033049">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1548059037278">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="10" column="94" />
         <mark key="." line="10" column="96" />
@@ -102,7 +99,6 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/proxy_list.txt" timestamp="1547725366526" />
     </filemarks>
     <jumps>
       <jump line="16" column="21" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
