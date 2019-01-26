@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1548498102923">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="22" />
+      </file>
       <file name="/Python Console" timestamp="1548255855489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,11 +36,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1547478738213">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="67" column="23" />
-        <mark key="." line="69" column="24" />
-        <mark key="^" line="67" column="23" />
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1548497435614">
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="18" />
+        <mark key="." line="67" column="18" />
+        <mark key="^" line="67" column="18" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
@@ -44,6 +50,12 @@
         <mark key="]" line="94" column="0" />
         <mark key="^" line="65" column="22" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1548498082152">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
       </file>
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
@@ -180,11 +192,11 @@
       <jump line="13" column="53" filename="$USER_HOME$/projects/visual-search/core/training/utils/other.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Stanford_Online_Products</text>
       </register>
       <register name="-" type="4">
-        <text>/path/to/proxy/list.txt'</text>
+        <text>Stanford_Online_Products</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
