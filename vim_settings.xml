@@ -84,14 +84,13 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1548512196111" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1548510667185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1548255854273">
+      <file name="/code.py" timestamp="1548677103459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
@@ -112,7 +111,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/object-detection-utils/pipeline/model/inference/cv_infrastructure/images/detection.py" timestamp="1548238563303" />
       <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1548235096345">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="10" column="94" />
@@ -122,7 +120,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/items.py" timestamp="1548239553730" />
       <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1548514668517">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="21" />
