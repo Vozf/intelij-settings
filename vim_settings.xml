@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1548510507201">
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="11" />
-        <mark key="." line="40" column="11" />
-        <mark key="^" line="40" column="22" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1548840033902">
+        <mark key="[" line="60" column="81" />
+        <mark key="]" line="60" column="123" />
+        <mark key="." line="60" column="123" />
+        <mark key="^" line="60" column="123" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1548513454026">
         <mark key="[" line="11" column="60" />
@@ -120,7 +120,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1548774752577">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1548840064467">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="21" />
         <mark key="^" line="9" column="23" />
