@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="00a7a407-22bd-4cbf-ace8-6eb24d5046e6" name="a_yaroshevich@gpu-04.indatalabs.com:2200" url="http:///">
+      <webServer id="00a7a407-22bd-4cbf-ace8-6eb24d5046e6" name="gpu-04" url="http:///">
         <fileTransfer host="gpu-04.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
           <option name="port" value="2200" />
         </fileTransfer>
@@ -18,6 +18,16 @@
       </webServer>
       <webServer id="0698b334-cf13-4eab-ba5b-de883d61e27c" name="gpustorage" url="http:///">
         <fileTransfer host="gpu-storage.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="781bfb7b-9fed-4e18-95ba-f365985fb850" name="gpu-02" url="http:///">
+        <fileTransfer host="gpu-02.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5f514970-0ad5-4c78-80d3-646043e035bb" name="gpu-03" url="http:///">
+        <fileTransfer host="gpu-03.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
