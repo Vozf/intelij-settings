@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549020616867">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549025302117">
         <mark key="]" line="61" column="119" />
         <mark key="." line="61" column="119" />
         <mark key="^" line="61" column="119" />
@@ -29,6 +29,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/documentation/inference.md" timestamp="1549025324047" />
       <file name="/a.dummy" timestamp="1547131854102">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,6 +48,7 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/serialize.py" timestamp="1549025341554" />
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1548932804264">
         <mark key="'" line="68" column="19" />
         <mark key="[" line="68" column="10" />
@@ -120,8 +122,8 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549020127563">
-        <mark key="[" line="9" column="21" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549025543239">
+        <mark key="[" line="26" column="58" />
         <mark key="]" line="9" column="22" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="22" />
