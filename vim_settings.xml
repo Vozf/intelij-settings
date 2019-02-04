@@ -138,12 +138,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549040108570">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549271783629">
         <mark key="'" line="27" column="21" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549036582676">
         <mark key="[" line="0" column="13" />
@@ -231,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>metrics_values</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>metrics_values</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
