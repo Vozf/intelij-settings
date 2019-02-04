@@ -254,7 +254,7 @@
           <IdeaActionID>PublishGroup.UploadTo</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+X'</ShortCut>
           <Description>Upload to...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
