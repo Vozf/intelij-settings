@@ -43,8 +43,8 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="96" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/augmenters.py" timestamp="1547479452267">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/augmenters.py" timestamp="1549370326574">
+        <mark key="[" line="10" column="20" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
@@ -71,6 +71,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
+      <file name="/augmenters.py" timestamp="1549370247008" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
