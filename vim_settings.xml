@@ -49,12 +49,12 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1548932804264">
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1549449561374">
         <mark key="'" line="68" column="19" />
-        <mark key="[" line="68" column="10" />
-        <mark key="]" line="68" column="10" />
-        <mark key="." line="68" column="10" />
-        <mark key="^" line="70" column="35" />
+        <mark key="[" line="65" column="37" />
+        <mark key="]" line="68" column="66" />
+        <mark key="." line="68" column="66" />
+        <mark key="^" line="68" column="66" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549265465162">
+      <file name="/Dummy.txt" timestamp="1549448979667">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -236,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjExMy40MDdlNDhiNnFmUWF2ZSZnPXkn</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjExMy40MDdlNDhiNnFmUWF2ZSZnPXkn</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
