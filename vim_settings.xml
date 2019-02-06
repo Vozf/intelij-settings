@@ -135,11 +135,10 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1548235096345">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="10" column="94" />
-        <mark key="." line="10" column="96" />
-        <mark key="^" line="10" column="94" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549443685197">
+        <mark key="]" line="36" column="97" />
+        <mark key="." line="36" column="97" />
+        <mark key="^" line="36" column="97" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -237,16 +236,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjExMy40MDdlNDhiNnFmUWF2ZSZnPXkn</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjExMy40MDdlNDhiNnFmUWF2ZSZnPXkn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>description</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cHM6Ly93d3cuYWxpZXhwcmVzcy5jb20vY2F0ZWdvcnkvMzIyL3Nob2VzLmh0bWw/c3BtPTIxMTQuc2VhcmNoMDEwMS4xLjEwNC40MDdlNDhiNnFmUWF2ZSZnPXknLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
