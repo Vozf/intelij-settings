@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549457523878">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549542109720">
         <mark key="'" line="63" column="30" />
         <mark key="[" line="62" column="64" />
         <mark key="]" line="58" column="58" />
@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1549039771124">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1549542372955">
         <mark key="[" line="32" column="23" />
         <mark key="]" line="32" column="23" />
         <mark key="." line="32" column="23" />
@@ -56,12 +56,6 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1548061480883">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="65" column="22" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1549265642955">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="7" />
@@ -71,12 +65,6 @@
       <file name="/augmenters.py" timestamp="1549370247008" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/object-detection-utils/pipeline/model/inference/cv_infrastructure/utils/drawing.py" timestamp="1548249699106">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
@@ -88,7 +76,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549461767346">
+      <file name="/Dummy.txt" timestamp="1549542864175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -98,7 +86,7 @@
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1549277999687" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1549540882597" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1549538144793">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1549542820937">
         <mark key="[" line="43" column="51" />
         <mark key="]" line="43" column="53" />
         <mark key="." line="43" column="53" />
@@ -111,18 +99,6 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/slim_backbones.py" timestamp="1547480012718">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="88" column="3" />
-        <mark key="^" line="88" column="3" />
-        <mark key="." line="88" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1547463295932">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="36" column="99" />
-        <mark key="^" line="36" column="99" />
-        <mark key="." line="36" column="99" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
@@ -141,18 +117,18 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549454264486">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549542889099">
         <mark key="'" line="27" column="21" />
-        <mark key="[" line="22" column="19" />
+        <mark key="[" line="27" column="36" />
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549036582676">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549542503281">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+        <mark key="^" line="50" column="7" />
       </file>
     </filemarks>
     <jumps>
