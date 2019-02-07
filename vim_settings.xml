@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549542109720">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549553964066">
         <mark key="'" line="63" column="30" />
-        <mark key="[" line="62" column="64" />
-        <mark key="]" line="58" column="58" />
-        <mark key="." line="58" column="58" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
         <mark key="^" line="58" column="58" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1549294515915">
@@ -40,7 +40,7 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="96" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/augmenters.py" timestamp="1549370326574">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/augmenters.py" timestamp="1549554043774">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
@@ -209,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>step</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>step</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
