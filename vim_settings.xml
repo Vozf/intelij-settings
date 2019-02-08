@@ -53,6 +53,9 @@
         <mark key="." line="68" column="66" />
         <mark key="^" line="68" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549619821950">
+        <mark key="[" line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
@@ -62,6 +65,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/scrapy/dupefilters.py" timestamp="1549619860230" />
       <file name="/augmenters.py" timestamp="1549370247008" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
@@ -108,7 +112,7 @@
         <mark key="]" line="39" column="81" />
         <mark key="." line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549443685197">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549619718415">
         <mark key="]" line="36" column="97" />
         <mark key="." line="36" column="97" />
         <mark key="^" line="36" column="97" />
