@@ -56,11 +56,11 @@
         <mark key="." line="68" column="66" />
         <mark key="^" line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549650297152">
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="122" column="23" />
-        <mark key="^" line="122" column="23" />
-        <mark key="." line="122" column="23" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549652514667">
+        <mark key="[" line="117" column="60" />
+        <mark key="]" line="117" column="60" />
+        <mark key="^" line="129" column="32" />
+        <mark key="." line="117" column="60" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
@@ -87,12 +87,6 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/urls.py" timestamp="1549651011694">
-        <mark key="[" line="155" column="421" />
-        <mark key="]" line="155" column="421" />
-        <mark key="^" line="155" column="421" />
-        <mark key="." line="155" column="421" />
       </file>
       <file name="/steps.py" timestamp="1549274149348" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
@@ -130,7 +124,7 @@
         <mark key="]" line="39" column="81" />
         <mark key="." line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549650717383">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549652477485">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
@@ -232,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aliexpress</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>aliexpress</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
