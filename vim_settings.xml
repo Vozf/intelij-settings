@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1548765576210">
         <mark key="[" line="64" column="8" />
       </file>
+      <file name="/Python Console" timestamp="1549622777987">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,11 +56,20 @@
         <mark key="." line="68" column="66" />
         <mark key="^" line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549619821950">
-        <mark key="[" line="103" column="0" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549623510614">
+        <mark key="[" line="122" column="15" />
+        <mark key="]" line="122" column="23" />
+        <mark key="^" line="122" column="23" />
+        <mark key="." line="122" column="23" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1549621847237">
+        <mark key="[" line="67" column="27" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1549265642955">
         <mark key="[" line="24" column="4" />
@@ -112,7 +124,7 @@
         <mark key="]" line="39" column="81" />
         <mark key="." line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549619718415">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549622528866">
         <mark key="]" line="36" column="97" />
         <mark key="." line="36" column="97" />
         <mark key="^" line="36" column="97" />
@@ -213,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>ur</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>ur</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -231,22 +243,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViaXRlbXNfZGljdFsoaSwgaildID0geydpbWdfcGF0aCc6IGltZ19wYXRoLCAnY2Fzcyc6IGl0ZW1bJ2NsYXNzJ119Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3ViaXRlbXNfZGljdFsoaSwgaildID0geydpbWdfcGF0aCc6IGltZ19wYXRoLCAnY2Fzcyc6IGl0ZW1bJ2NsYXNzJ119Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZW1iZWRkaW5nc19hbmNob3JzID0gdGVtcGxhdGUoc2VsZi5mZWF0dXJlc19hbmNob3JzKQoKICAgICAgICAgICAgZW1iZWRkaW5nc19wb3NpdGl2ZXMgPSB0ZW1wbGF0ZShzZWxmLmZlYXR1cmVzX3Bvc2l0aXZlcykKICAgICAgICAgICAgZW1iZWRkaW5nc19uZWdhdGl2ZXMgPSB0ZW1wbGF0ZShzZWxmLmZlYXR1cmVzX25lZ2F0aXZlcykKICAgICAgICAgICAgCiAgICAgICAgICAgIGVtYmVkZGluZ3NfYW5jaG9ycyA9IHNlbGYubm9ybWFsaXplX3ZlY3RvcnMoZW1iZWRkaW5nc19hbmNob3JzKQogICAgICAgICAgICBlbWJlZGRpbmdzX3Bvc2l0aXZlcyA9IHNlbGYubm9ybWFsaXplX3ZlY3RvcnMoZW1iZWRkaW5nc19wb3NpdGl2ZXMpCiAgICAgICAgICAgIGVtYmVkZGluZ3NfbmVnYXRpdmVzID0gc2VsZi5ub3JtYWxpemVfdmVjdG9ycyhlbWJlZGRpbmdzX25lZ2F0aXZlcyk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
