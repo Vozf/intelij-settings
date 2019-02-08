@@ -56,7 +56,7 @@
         <mark key="." line="68" column="66" />
         <mark key="^" line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549623510614">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/middlewares.py" timestamp="1549650297152">
         <mark key="[" line="122" column="15" />
         <mark key="]" line="122" column="23" />
         <mark key="^" line="122" column="23" />
@@ -87,6 +87,12 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
+      </file>
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/urls.py" timestamp="1549651011694">
+        <mark key="[" line="155" column="421" />
+        <mark key="]" line="155" column="421" />
+        <mark key="^" line="155" column="421" />
+        <mark key="." line="155" column="421" />
       </file>
       <file name="/steps.py" timestamp="1549274149348" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
@@ -124,11 +130,11 @@
         <mark key="]" line="39" column="81" />
         <mark key="." line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549647062130">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="9" column="1" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549650717383">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -226,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ur</text>
+        <text>aliexpress</text>
       </register>
       <register name="-" type="4">
-        <text>ur</text>
+        <text>aliexpress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
