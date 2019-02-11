@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549887970763">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549901014366">
         <mark key="'" line="63" column="30" />
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="4" />
@@ -19,19 +19,19 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1548765576210">
         <mark key="[" line="64" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1549897011105">
+      <file name="/Python Console" timestamp="1549900490901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1549265648303">
+      <file name="/fragment.py" timestamp="1549900686485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1547131854102">
+      <file name="/a.dummy" timestamp="1549900874731">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
@@ -79,11 +79,11 @@
         <mark key="[" line="0" column="84" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/semihard_triplet_producer.py" timestamp="1549895569474" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1549889725862" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1549900921143" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549557216958">
+      <file name="/Dummy.txt" timestamp="1549903036127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -115,7 +115,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1549897005737">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1549901913698">
         <mark key="[" line="82" column="63" />
         <mark key="]" line="82" column="23" />
         <mark key="^" line="82" column="23" />
@@ -141,15 +141,15 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549896712708">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549902465233">
         <mark key="'" line="27" column="21" />
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549896723761">
-        <mark key="[" line="87" column="27" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549902966289">
+        <mark key="[" line="81" column="97" />
         <mark key="]" line="88" column="27" />
         <mark key="." line="88" column="27" />
         <mark key="^" line="88" column="27" />
@@ -234,10 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>

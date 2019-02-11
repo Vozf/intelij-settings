@@ -54,7 +54,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Indent Selection">
@@ -126,7 +126,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'train'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -134,7 +134,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>29</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -182,7 +182,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -222,7 +222,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'train'</Description>
-          <Count>110</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -254,7 +254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>69</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -278,7 +278,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
