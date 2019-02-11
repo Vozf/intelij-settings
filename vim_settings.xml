@@ -86,7 +86,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/urls.py" timestamp="1549876945816" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
@@ -126,11 +125,11 @@
         <mark key="]" line="39" column="81" />
         <mark key="." line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549878932528">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549884065190">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
