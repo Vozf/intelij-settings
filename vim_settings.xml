@@ -65,7 +65,7 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1549621847237">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1549875713589">
         <mark key="[" line="67" column="27" />
         <mark key="]" line="66" column="0" />
         <mark key="^" line="66" column="0" />
@@ -77,8 +77,6 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/scrapy/dupefilters.py" timestamp="1549619860230" />
-      <file name="/augmenters.py" timestamp="1549370247008" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,7 +86,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="/steps.py" timestamp="1549274149348" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
@@ -100,8 +97,6 @@
       <file name="/code.py" timestamp="1549267377737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1549277999687" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1549540882597" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1549542820937">
         <mark key="[" line="43" column="51" />
         <mark key="]" line="43" column="53" />
@@ -116,6 +111,7 @@
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1549875749815" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
