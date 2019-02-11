@@ -85,6 +85,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1549889725862" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
@@ -119,6 +120,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1549889821154" />
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1549546954771">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="39" column="81" />
@@ -146,7 +148,7 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549888001522">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549888199454">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="50" column="7" />
         <mark key="." line="50" column="7" />
