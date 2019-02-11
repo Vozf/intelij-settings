@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549901014366">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1549904129682">
         <mark key="'" line="63" column="30" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
+        <mark key="[" line="66" column="41" />
+        <mark key="]" line="66" column="41" />
+        <mark key="." line="66" column="41" />
         <mark key="^" line="58" column="58" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1549294515915">
@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1549900874731">
+      <file name="/a.dummy" timestamp="1549904160337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
@@ -234,10 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>et_global_step()</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>et_global_step()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
