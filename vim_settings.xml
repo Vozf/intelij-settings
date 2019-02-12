@@ -83,7 +83,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549903036127">
+      <file name="/Dummy.txt" timestamp="1549967520806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -115,7 +115,7 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1549901913698">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1549967540028">
         <mark key="[" line="82" column="63" />
         <mark key="]" line="82" column="23" />
         <mark key="^" line="82" column="23" />
@@ -141,12 +141,12 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549902465233">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549967451450">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549902966289">
         <mark key="[" line="81" column="97" />
