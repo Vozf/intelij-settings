@@ -141,7 +141,7 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1549982671727">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550055439366">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -234,10 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3500</text>
+        <text>Non</text>
       </register>
       <register name="-" type="4">
-        <text>3500</text>
+        <text>Non</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
