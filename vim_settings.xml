@@ -65,7 +65,7 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1550147584526">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1550164573458">
         <mark key="[" line="66" column="81" />
         <mark key="]" line="66" column="15" />
         <mark key="^" line="24" column="7" />
@@ -80,8 +80,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1550156425527">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1550164641158">
         <mark key="[" line="7" column="126" />
+        <mark key="]" line="45" column="80" />
+        <mark key="^" line="45" column="80" />
+        <mark key="." line="45" column="80" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
@@ -146,11 +149,11 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550148803612">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="28" column="18" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550164991286">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1550147614174" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549902966289">
@@ -241,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>INFERENCE_BATCH_SIZE</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>INFERENCE_BATCH_SIZE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</text>
