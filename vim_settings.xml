@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1550065637142">
-        <mark key="'" line="89" column="18" />
-        <mark key="[" line="86" column="17" />
-        <mark key="]" line="86" column="17" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="86" column="17" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1550146289778">
+        <mark key="'" line="104" column="18" />
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="12" />
+        <mark key="^" line="93" column="11" />
+        <mark key="." line="70" column="12" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1550139941295">
         <mark key="[" line="39" column="32" />
@@ -235,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trange</text>
+        <text>preprocessed_images</text>
       </register>
       <register name="-" type="4">
-        <text>trange</text>
+        <text>preprocessed_images</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</text>
@@ -247,29 +247,29 @@
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1vZGVsLnN1bW1hcnlfZmVhdHVyZXNfYW5jaG9ycywKICAgICAgICAjIG1vZGVsLnN1bW1hcnlfZmVhdHVyZXNfcG9zaXRpdmVzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEVNUF9ESVJFQ1RPUllfUEFUSCA9IFBhdGgoJy90bXAvdmlzdWFsX3NlYXJjaCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-        model</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vZGVsLnN1bW1hcnlfZmVhdHVyZXNfYW5jaG9ycywKICAgICAgICAjIG1vZGVsLnN1bW1hcnlfZmVhdHVyZXNfcG9zaXRpdmVzLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEVNUF9ESVJFQ1RPUllfUEFUSCA9IFBhdGgoJy90bXAvdmlzdWFsX3NlYXJjaCcpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViaXRlbXNfZGljdFsoaSwgaildID0geydpbWdfcGF0aCc6IGltZ19wYXRoLCAnY2Fzcyc6IGl0ZW1bJ2NsYXNzJ119Cg==</text>
+      <register name="8" type="4">
+        <text>,
+        model</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
