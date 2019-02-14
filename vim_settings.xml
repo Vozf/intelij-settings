@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1550074824291">
-        <mark key="'" line="66" column="30" />
-        <mark key="[" line="88" column="86" />
-        <mark key="]" line="89" column="51" />
-        <mark key="." line="89" column="51" />
-        <mark key="^" line="89" column="51" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1550139186113">
+        <mark key="'" line="67" column="30" />
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="94" column="35" />
+        <mark key="." line="94" column="35" />
+        <mark key="^" line="94" column="51" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1549294515915">
         <mark key="[" line="11" column="61" />
@@ -63,11 +63,11 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1549895418928">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="7" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1550139637963">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="15" />
         <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+        <mark key="." line="66" column="15" />
       </file>
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
@@ -92,10 +92,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1549896527645" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550075884209">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="7" column="103" />
-        <mark key="." line="7" column="103" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550139305794">
+        <mark key="'" line="22" column="45" />
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="80" />
+        <mark key="." line="6" column="80" />
         <mark key="^" line="7" column="103" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1549273120762">
@@ -233,16 +234,17 @@
       <jump line="27" column="21" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
       <jump line="63" column="30" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
       <jump line="89" column="18" filename="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" />
+      <jump line="22" column="45" filename="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>zip</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>zip</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxdXD4=</text>
+        <text encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
@@ -277,9 +279,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxdXD4=</last-search>
+      <last-search encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxdXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -287,6 +289,7 @@
       <history-search>
         <entry encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</entry>
         <entry encoding="base64">XDxdXD4=</entry>
+        <entry encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>g0</entry>
