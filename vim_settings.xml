@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1550139186113">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1550140166745">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="94" column="35" />
-        <mark key="]" line="94" column="35" />
-        <mark key="." line="94" column="35" />
+        <mark key="[" line="81" column="44" />
+        <mark key="]" line="81" column="44" />
+        <mark key="." line="81" column="44" />
         <mark key="^" line="94" column="51" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1549294515915">
@@ -92,12 +92,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1549896527645" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550139305794">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550140272937">
         <mark key="'" line="22" column="45" />
-        <mark key="[" line="6" column="80" />
-        <mark key="]" line="6" column="80" />
-        <mark key="." line="6" column="80" />
-        <mark key="^" line="7" column="103" />
+        <mark key="[" line="19" column="92" />
+        <mark key="]" line="18" column="72" />
+        <mark key="." line="18" column="72" />
+        <mark key="^" line="18" column="72" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1549273120762">
         <mark key="[" line="153" column="53" />
@@ -123,11 +123,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="86" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1550074179986">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1550139941295">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549884065190">
         <mark key="[" line="13" column="17" />
@@ -238,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zip</text>
+        <text>step</text>
       </register>
       <register name="-" type="4">
-        <text>zip</text>
+        <text>step</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</text>
