@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1550144929239">
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1550145217724">
         <mark key="'" line="61" column="30" />
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -78,8 +78,6 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/semihard_triplet_producer.py" timestamp="1549895569474" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1549969336377" />
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
@@ -91,7 +89,6 @@
       <file name="/code.py" timestamp="1549267377737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1549896527645" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550140272937">
         <mark key="'" line="22" column="45" />
         <mark key="[" line="19" column="92" />
