@@ -94,7 +94,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550229533996">
+      <file name="/Dummy.txt" timestamp="1550248243196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,11 +102,11 @@
       <file name="/code.py" timestamp="1549267377737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550163620639">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550247619848">
         <mark key="'" line="22" column="45" />
-        <mark key="[" line="19" column="92" />
-        <mark key="]" line="18" column="72" />
-        <mark key="." line="18" column="72" />
+        <mark key="[" line="47" column="70" />
+        <mark key="]" line="47" column="71" />
+        <mark key="." line="47" column="71" />
         <mark key="^" line="18" column="72" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1550166744880">
@@ -154,8 +154,8 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550246939580">
-        <mark key="[" line="31" column="22" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550248047495">
+        <mark key="[" line="39" column="29" />
         <mark key="]" line="31" column="50" />
         <mark key="^" line="31" column="50" />
         <mark key="." line="31" column="50" />
