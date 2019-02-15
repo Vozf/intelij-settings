@@ -57,8 +57,8 @@
         <mark key="^" line="129" column="32" />
         <mark key="." line="117" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1550227535338">
-        <mark key="[" line="65" column="63" />
+      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/dataset_images_resize.py" timestamp="1550229617722">
+        <mark key="[" line="80" column="0" />
         <mark key="]" line="65" column="63" />
         <mark key="^" line="65" column="63" />
         <mark key="." line="65" column="63" />
@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550148495894">
+      <file name="/Dummy.txt" timestamp="1550229533996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
