@@ -25,10 +25,10 @@
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1550147519251">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/fragment.py" timestamp="1550489364065">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -110,7 +110,7 @@
         <mark key="." line="59" column="32" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1550488424290">
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1550489217460">
         <mark key="[" line="149" column="46" />
         <mark key="]" line="153" column="53" />
         <mark key="." line="81" column="82" />
@@ -252,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.confusion_matrix_tensor_name</text>
+        <text>].unique()</text>
       </register>
       <register name="-" type="4">
-        <text>self.confusion_matrix_tensor_name</text>
+        <text>].unique()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</text>
