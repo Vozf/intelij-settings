@@ -87,6 +87,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/urls.py" timestamp="1550656340399">
+        <mark key="[" line="185" column="1" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1550483182224">
         <mark key="[" line="7" column="126" />
         <mark key="]" line="45" column="80" />
@@ -96,7 +102,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550652958481">
+      <file name="/Dummy.txt" timestamp="1550655898276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -105,24 +111,24 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1550491488080" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550653785085">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550655884013">
         <mark key="'" line="22" column="45" />
         <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="53" />
-        <mark key="." line="10" column="53" />
-        <mark key="^" line="68" column="41" />
+        <mark key="]" line="73" column="15" />
+        <mark key="." line="73" column="15" />
+        <mark key="^" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1550653675874">
-        <mark key="'" line="115" column="32" />
-        <mark key="[" line="160" column="9" />
-        <mark key="]" line="160" column="9" />
-        <mark key="." line="160" column="9" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1550655398557">
+        <mark key="'" line="114" column="32" />
+        <mark key="[" line="72" column="99" />
+        <mark key="]" line="166" column="52" />
+        <mark key="." line="166" column="52" />
         <mark key="^" line="66" column="83" />
       </file>
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1549878365675">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1550656497031">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
@@ -160,14 +166,16 @@
         <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373/tensorflow/python/training/saver.py" timestamp="1550595487234" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550501025434">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="31" column="50" />
-        <mark key="^" line="31" column="50" />
-        <mark key="." line="31" column="50" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550655575536">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1550594692676">
-        <mark key="[" line="50" column="29" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1550655437267">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="79" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1549902966289">
         <mark key="[" line="81" column="97" />
@@ -263,10 +271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MetricRecallAtK</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>MetricRecallAtK</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -275,14 +283,18 @@
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
       </register>
       <register name="1" type="4">
+        <text>and self.tensorboard_num_images
+                and self.tensorboard_num_closest)</text>
+      </register>
+      <register name="2" type="4">
         <text>elf.counted_embeddings.clear()
         self.embeddings_updater.update_embeddings(self.model)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>t
                 (</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>dist  = np.subtract.outer( set1[:,0], set2[:,0] )**2
 dist += np.subtract.outer( set1[:,1], set2[:,1] )**2
 dist += np.subtract.outer( set1[:,2], set2[:,2] )**2
@@ -294,14 +306,11 @@ a += np.array([[ 0,  0,  0,  0,  0,  0,  0,  0,  0,  0],
 s1 = np.sort(dist,axis=1)
 s2 = np.take(dist,a)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmEgKz0gbnAuYXJyYXkoW1sgMCwgIDAsICAwLCAgMCwgIDAsICAwLCAgMCwgIDAsICAwLCAgMF0sCiAgICAgICAgICAgICAgIFsxMCwgMTAsIDEwLCAxMCwgMTAsIDEwLCAxMCwgMTAsIDEwLCAxMF0sCiAgICAgICAgICAgICAgIFsyMCwgMjAsIDIwLCAyMCwgMjAsIDIwLCAyMCwgMjAsIDIwLCAyMF0sCiAgICAgICAgICAgICAgIFszMCwgMzAsIDMwLCAzMCwgMzAsIDMwLCAzMCwgMzAsIDMwLCAzMF1dKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CnRmLlN1bW1hcnkodmFsdWU9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
