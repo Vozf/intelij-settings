@@ -65,7 +65,8 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1549886003511">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1550659214322">
+        <mark key="[" line="64" column="56" />
         <mark key="]" line="66" column="0" />
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -102,7 +103,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550655898276">
+      <file name="/Dummy.txt" timestamp="1550659342920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,11 +129,11 @@
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1550656497031">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="13" column="46" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1550659415968">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
@@ -150,11 +151,11 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1549884065190">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="11" column="20" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550659752140">
+        <mark key="[" line="55" column="14" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -271,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ali_woman_upper</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ali_woman_upper</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
