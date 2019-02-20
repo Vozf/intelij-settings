@@ -65,11 +65,11 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1550659214322">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="66" column="0" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1550681365333">
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="67" column="13" />
         <mark key="^" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="." line="67" column="13" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1550164573458">
         <mark key="[" line="66" column="81" />
@@ -151,11 +151,11 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550679100875">
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="11" />
-        <mark key="." line="62" column="11" />
-        <mark key="^" line="62" column="11" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550681151607">
+        <mark key="[" line="63" column="44" />
+        <mark key="]" line="51" column="95" />
+        <mark key="." line="51" column="95" />
+        <mark key="^" line="63" column="7" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tqdm</text>
+        <text>ERROR</text>
       </register>
       <register name="-" type="4">
-        <text>tqdm</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
