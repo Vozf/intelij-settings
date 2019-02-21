@@ -129,10 +129,10 @@
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1550659415968">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1550736018907">
         <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
@@ -151,7 +151,7 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550734583758">
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550735595969">
         <mark key="[" line="54" column="54" />
         <mark key="]" line="54" column="54" />
         <mark key="." line="54" column="54" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'price_asc', 'price_desc',</text>
+        <text>temp</text>
       </register>
       <register name="-" type="4">
-        <text>'price_asc', 'price_desc',</text>
+        <text>temp</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
