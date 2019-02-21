@@ -151,10 +151,10 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550683657903">
-        <mark key="[" line="58" column="62" />
-        <mark key="]" line="58" column="32" />
-        <mark key="." line="58" column="32" />
+      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1550734583758">
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="54" />
+        <mark key="." line="54" column="54" />
         <mark key="^" line="58" column="32" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">P3NwbT1hMmcwdi5zZWFyY2gwMTAxLjEuMTMuNDBhMTVkOGJsTVFkOTcmZz15Jw==</text>
+        <text>'price_asc', 'price_desc',</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">P3NwbT1hMmcwdi5zZWFyY2gwMTAxLjEuMTMuNDBhMTVkOGJsTVFkOTcmZz15Jw==</text>
+        <text>'price_asc', 'price_desc',</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
