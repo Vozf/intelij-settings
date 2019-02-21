@@ -162,11 +162,11 @@
         <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373/tensorflow/python/training/saver.py" timestamp="1550595487234" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550756719298">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550758982130">
         <mark key="[" line="40" column="47" />
-        <mark key="]" line="40" column="47" />
-        <mark key="^" line="34" column="32" />
-        <mark key="." line="40" column="47" />
+        <mark key="]" line="48" column="48" />
+        <mark key="^" line="48" column="48" />
+        <mark key="." line="48" column="48" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1550655437267">
         <mark key="[" line="15" column="45" />
