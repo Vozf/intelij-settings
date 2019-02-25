@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1550748079349">
         <mark key="[" line="64" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1550662461529">
+      <file name="/Python Console" timestamp="1551091968900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1532953488778">
@@ -75,8 +75,6 @@
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/measurers.py" timestamp="1550482837316" />
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373/tensorflow/core/framework/summary_pb2.py" timestamp="1550500404083" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
       </file>
@@ -106,7 +104,6 @@
       <file name="/code.py" timestamp="1549267377737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/readers.py" timestamp="1550491488080" />
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550655884013">
         <mark key="'" line="22" column="45" />
         <mark key="[" line="10" column="53" />
@@ -161,7 +158,6 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373/tensorflow/python/training/saver.py" timestamp="1550595487234" />
       <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1550758982130">
         <mark key="[" line="40" column="47" />
         <mark key="]" line="48" column="48" />
