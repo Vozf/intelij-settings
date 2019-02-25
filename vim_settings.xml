@@ -104,10 +104,10 @@
       <file name="/code.py" timestamp="1549267377737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551092537381">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551105591059">
+        <mark key="]" line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+        <mark key="." line="15" column="78" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550655884013">
         <mark key="'" line="22" column="45" />
@@ -320,6 +320,9 @@ s2 = np.take(dist,a)</text>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
     </registers>
     <search>
       <last-search>top</last-search>
@@ -337,6 +340,7 @@ s2 = np.take(dist,a)</text>
       </history-search>
       <history-cmd>
         <entry>g0</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
