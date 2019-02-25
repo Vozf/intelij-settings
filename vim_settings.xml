@@ -104,6 +104,11 @@
       <file name="/code.py" timestamp="1549267377737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551092537381">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550655884013">
         <mark key="'" line="22" column="45" />
         <mark key="[" line="10" column="53" />
@@ -263,10 +268,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>[
+    categories,color,colors,example_images_urls,image_urls,item_id,title,url</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -275,18 +281,22 @@
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
       </register>
       <register name="1" type="4">
+        <text>[
+    categories,color,colors,example_images_urls,image_urls,item_id,title,url</text>
+      </register>
+      <register name="2" type="4">
         <text>and self.tensorboard_num_images
                 and self.tensorboard_num_closest)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>elf.counted_embeddings.clear()
         self.embeddings_updater.update_embeddings(self.model)</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>t
                 (</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>dist  = np.subtract.outer( set1[:,0], set2[:,0] )**2
 dist += np.subtract.outer( set1[:,1], set2[:,1] )**2
 dist += np.subtract.outer( set1[:,2], set2[:,2] )**2
@@ -298,14 +308,11 @@ a += np.array([[ 0,  0,  0,  0,  0,  0,  0,  0,  0,  0],
 s1 = np.sort(dist,axis=1)
 s2 = np.take(dist,a)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmEgKz0gbnAuYXJyYXkoW1sgMCwgIDAsICAwLCAgMCwgIDAsICAwLCAgMCwgIDAsICAwLCAgMF0sCiAgICAgICAgICAgICAgIFsxMCwgMTAsIDEwLCAxMCwgMTAsIDEwLCAxMCwgMTAsIDEwLCAxMF0sCiAgICAgICAgICAgICAgIFsyMCwgMjAsIDIwLCAyMCwgMjAsIDIwLCAyMCwgMjAsIDIwLCAyMF0sCiAgICAgICAgICAgICAgIFszMCwgMzAsIDMwLCAzMCwgMzAsIDMwLCAzMCwgMzAsIDMwLCAzMF1dKQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CnRmLlN1bW1hcnkodmFsdWU9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
