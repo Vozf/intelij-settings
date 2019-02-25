@@ -141,10 +141,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/fp/app/Main.hs" timestamp="1546215807725">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
+      <file name="$USER_HOME$/projects/fp/app/Main.hs" timestamp="1551109599680">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545811488716">
         <mark key="[" line="18" column="0" />
@@ -231,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICggc29tZUZ1bmMsCiAgICBmdW5jCiAgICApIA==</text>
+        <text>putStrLn &quot;hi&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>putStrLn &quot;hi&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
