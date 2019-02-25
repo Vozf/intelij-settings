@@ -150,10 +150,10 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545811488716">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fp/src/Lib.hs" timestamp="1551108171087">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/projects/fp/src/Lib.hs" timestamp="1551110425754">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/dist/app/services/log_form_instance/index.js" timestamp="1533024663643">
         <mark key="[" line="277" column="18" />
@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>putStrLn &quot;hi&quot;</text>
+        <text>foldr</text>
       </register>
       <register name="-" type="4">
-        <text>putStrLn &quot;hi&quot;</text>
+        <text>foldr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
