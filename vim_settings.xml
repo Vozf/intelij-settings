@@ -13,6 +13,11 @@
       <file name="/Python Console" timestamp="1546079757779">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/fp/src/Base.hs" timestamp="1551112933431">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="/fragment.js" timestamp="1532953488778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,18 +147,18 @@
         <mark key="[" line="62" column="21" />
       </file>
       <file name="$USER_HOME$/projects/fp/app/Main.hs" timestamp="1551109599680">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
         <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1545811488716">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fp/src/Lib.hs" timestamp="1551110425754">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
+      <file name="$USER_HOME$/projects/fp/src/Lib.hs" timestamp="1551112616491">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/dist/app/services/log_form_instance/index.js" timestamp="1533024663643">
         <mark key="[" line="277" column="18" />
@@ -232,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>foldr</text>
+        <text>const, (.)</text>
       </register>
       <register name="-" type="4">
-        <text>foldr</text>
+        <text>const, (.)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0aWZpY2F0ZVw+</text>
@@ -244,31 +249,31 @@
         <text>description</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IGEgRW1wdHkgPSBDb25zIGEgRW1wdHkKcHJlcGVuZCBhIGxpc3QgPSBDb25zIGEgbGlzdA==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICggc29tZUZ1bmMsCiAgICBmdW5jCiAgICApIA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaW50KGYnbG9nIHN1bW1hcmllcyB0byB7Y3VycmVudF9zdW1tYXJ5X2ZvbGRlcn0nKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGN1cnJlbnRfdHJhaW5fc3VtbWFyeV9mb2xkZXIgPSBvcy5wYXRoLmpvaW4odHJhaW5fc3VtbWFyeV9mb2xkZXIsIGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCclWS0lbS0lZF8lSC0lTS0lUycpKQogICAgY3VycmVudF92YWxfc3VtbWFyeV9mb2xkZXIgPSBvcy5wYXRoLmpvaW4odmFsX3N1bW1hcnlfZm9sZGVyLCBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgnJVktJW0tJWRfJUgtJU0tJVMnKSkKICAgIG9zLm1ha2VkaXJzKGN1cnJlbnRfdHJhaW5fc3VtbWFyeV9mb2xkZXIpCiAgICBvcy5tYWtlZGlycyhjdXJyZW50X3RyYWluX3N1bW1hcnlfZm9sZGVyKQoKICAgIHN1bW1hcnlfd3JpdGVyX3RyYWluID0gdGYuc3VtbWFyeS5GaWxlV3JpdGVyKHRyYWluX3N1bW1hcnlfZm9sZGVyLCBzZXNzLmdyYXBoKQogICAgc3VtbWFyeV93cml0ZXJfdmFsID0gdGYuc3VtbWFyeS5GaWxlV3JpdGVyKHZhbF9zdW1tYXJ5X2ZvbGRlciwgc2Vzcy5ncmFwaCk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgcHJpbnRfcHJvZl9kYXRhCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50X3Byb2ZfZGF0YSh3aG9sZV90aW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdob2xlX3RpbWUgPSB0aW1lLnRpbWUoKSAtIHN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3Byb2ZfZGF0YSh3aG9sZV90aW1lKQo=</text>
       </register>
     </registers>
     <search>
