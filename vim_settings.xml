@@ -65,11 +65,11 @@
         <mark key="^" line="73" column="13" />
         <mark key="." line="73" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1551267887617">
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1551269762662">
         <mark key="[" line="22" column="114" />
-        <mark key="]" line="67" column="15" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="67" column="15" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
@@ -95,7 +95,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551191049229">
+      <file name="/Dummy.txt" timestamp="1551269832294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -162,11 +162,11 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1551265389501">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="50" column="48" />
-        <mark key="^" line="50" column="48" />
-        <mark key="." line="50" column="48" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1551269864784">
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="47" column="48" />
+        <mark key="^" line="47" column="48" />
+        <mark key="." line="47" column="48" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1551267257620">
         <mark key="[" line="15" column="45" />
