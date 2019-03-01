@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1551358746929">
-        <mark key="'" line="65" column="30" />
-        <mark key="]" line="34" column="15" />
-        <mark key="." line="34" column="15" />
-        <mark key="^" line="34" column="15" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/train.py" timestamp="1551444721624">
+        <mark key="'" line="69" column="24" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1549294515915">
         <mark key="[" line="11" column="61" />
@@ -162,11 +163,12 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1551441136064">
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1551444665030">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="82" />
-        <mark key="]" line="33" column="80" />
-        <mark key="^" line="33" column="80" />
-        <mark key="." line="33" column="80" />
+        <mark key="]" line="32" column="75" />
+        <mark key="^" line="32" column="75" />
+        <mark key="." line="32" column="75" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1551267257620">
         <mark key="[" line="15" column="45" />
@@ -264,17 +266,20 @@
       <jump line="163" column="27" filename="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" />
       <jump line="116" column="20" filename="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" />
       <jump line="117" column="32" filename="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" />
+      <jump line="32" column="71" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
+      <jump line="4" column="17" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
+      <jump line="69" column="24" filename="$USER_HOME$/projects/visual-search/core/training/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[
-    categories,color,colors,example_images_urls,image_urls,item_id,title,url</text>
+        <text>tqdm import</text>
       </register>
       <register name="-" type="4">
-        <text>_id</text>
+        <text>tqdm import</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text encoding="base64">XDx0cWRtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
@@ -324,9 +329,9 @@ s2 = np.take(dist,a)</text>
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search encoding="base64">XDx0cWRtXD4=</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
+      <last-pattern encoding="base64">XDx0cWRtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -336,6 +341,9 @@ s2 = np.take(dist,a)</text>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry encoding="base64">XDxzdW1tYXJpZXNfdHJhaW5cPg==</entry>
         <entry>top</entry>
+        <entry encoding="base64">XDxzaG9lc1w+</entry>
+        <entry encoding="base64">XDxNQVJHSU5fQUxQSEFcPg==</entry>
+        <entry encoding="base64">XDx0cWRtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g0</entry>
