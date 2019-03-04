@@ -39,10 +39,10 @@
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1551367396128">
-        <mark key="[" line="117" column="93" />
-        <mark key="]" line="190" column="13" />
-        <mark key="." line="190" column="13" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" timestamp="1551696023173">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
         <mark key="^" line="190" column="7" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/augmenters.py" timestamp="1550063494863">
