@@ -110,12 +110,12 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1550655884013">
+      <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1551886560775">
         <mark key="'" line="22" column="45" />
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="73" column="15" />
-        <mark key="^" line="73" column="15" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1551858416502">
         <mark key="'" line="114" column="32" />
@@ -167,12 +167,11 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1551885870021">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1551886514679">
+        <mark key="'" line="6" column="22" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1551858427664">
         <mark key="[" line="45" column="14" />
@@ -277,10 +276,12 @@
       <jump line="108" column="85" filename="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" />
       <jump line="50" column="12" filename="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" />
       <jump line="88" column="82" filename="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
+      <jump line="6" column="22" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VFJBSU5JTkdfU1RFUFNfQ09VTlQ6IE9wdGlvbmFsW2ludF0gPSBOb25lCg==</text>
+      <register name="&quot;" type="4">
+        <text>l.negatives: negatives,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1212,7 +1213,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>l.negatives: negatives,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
@@ -1221,34 +1222,37 @@
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFJBSU5JTkdfU1RFUFNfQ09VTlQ6IE9wdGlvbmFsW2ludF0gPSBOb25lCg==</text>
+        <text encoding="base64">KFtsbG9dKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IkhlbGxvIgo=</text>
+        <text encoding="base64">VFJBSU5JTkdfU1RFUFNfQ09VTlQ6IE9wdGlvbmFsW2ludF0gPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IkhlbGxvIgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnaGVsbG8gd29ybGYnCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[
     categories,color,colors,example_images_urls,image_urls,item_id,title,url</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>and self.tensorboard_num_images
                 and self.tensorboard_num_closest)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>elf.counted_embeddings.clear()
         self.embeddings_updater.update_embeddings(self.model)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>t
                 (</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>dist  = np.subtract.outer( set1[:,0], set2[:,0] )**2
 dist += np.subtract.outer( set1[:,1], set2[:,1] )**2
 dist += np.subtract.outer( set1[:,2], set2[:,2] )**2
@@ -1259,9 +1263,6 @@ a += np.array([[ 0,  0,  0,  0,  0,  0,  0,  0,  0,  0],
                [30, 30, 30, 30, 30, 30, 30, 30, 30, 30]])
 s1 = np.sort(dist,axis=1)
 s2 = np.take(dist,a)</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmEgKz0gbnAuYXJyYXkoW1sgMCwgIDAsICAwLCAgMCwgIDAsICAwLCAgMCwgIDAsICAwLCAgMF0sCiAgICAgICAgICAgICAgIFsxMCwgMTAsIDEwLCAxMCwgMTAsIDEwLCAxMCwgMTAsIDEwLCAxMF0sCiAgICAgICAgICAgICAgIFsyMCwgMjAsIDIwLCAyMCwgMjAsIDIwLCAyMCwgMjAsIDIwLCAyMF0sCiAgICAgICAgICAgICAgIFszMCwgMzAsIDMwLCAzMCwgMzAsIDMwLCAzMCwgMzAsIDMwLCAzMF1dKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
