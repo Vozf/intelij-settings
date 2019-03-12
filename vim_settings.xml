@@ -30,14 +30,20 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" timestamp="1552393481402">
+        <mark key="[" line="102" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552391480796">
-        <mark key="[" line="3" column="56" />
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552393468016">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
