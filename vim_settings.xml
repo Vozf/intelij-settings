@@ -36,6 +36,9 @@
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552391480796">
+        <mark key="[" line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
@@ -67,6 +70,7 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/package.json" timestamp="1552390611009" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,11 +102,6 @@
       </file>
       <file name="/code.py" timestamp="1552300481956">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551105591059">
-        <mark key="]" line="15" column="78" />
-        <mark key="^" line="15" column="78" />
-        <mark key="." line="15" column="78" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/utils/steps.py" timestamp="1551886560775">
         <mark key="'" line="22" column="45" />
