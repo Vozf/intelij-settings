@@ -30,7 +30,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" timestamp="1552393481402">
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" timestamp="1552400572599">
         <mark key="[" line="102" column="41" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
@@ -39,11 +39,11 @@
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552396207793">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="56" />
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552400237272">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="52" />
-        <mark key="." line="3" column="56" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
@@ -280,7 +280,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>one</text>
+        <text>/api</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1212,7 +1212,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text>/api</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
