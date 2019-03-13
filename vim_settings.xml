@@ -43,11 +43,11 @@
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552486635687">
-        <mark key="[" line="3" column="68" />
-        <mark key="]" line="3" column="72" />
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552494134928">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="50" />
         <mark key="^" line="3" column="72" />
-        <mark key="." line="3" column="72" />
+        <mark key="." line="3" column="50" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
@@ -286,7 +286,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>api.indatalabs.com:</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1218,7 +1218,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>api.indatalabs.com:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
