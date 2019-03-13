@@ -30,8 +30,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" timestamp="1552476159993">
-        <mark key="[" line="102" column="41" />
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" timestamp="1552481769834">
+        <mark key="'" line="133" column="46" />
+        <mark key="[" line="136" column="114" />
+        <mark key="]" line="136" column="114" />
+        <mark key="^" line="133" column="33" />
+        <mark key="." line="136" column="114" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -101,9 +105,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/styles.scss" timestamp="1552401937401">
-        <mark key="[" line="25" column="10" />
-      </file>
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/styles.scss" timestamp="1552481901373" />
       <file name="/Dummy.txt" timestamp="1552392175453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -280,10 +282,11 @@
       <jump line="88" column="82" filename="$USER_HOME$/projects/visual-search/core/training/blocks/model/model.py" />
       <jump line="7" column="6" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
       <jump line="6" column="22" filename="$USER_HOME$/projects/visual-search/core/training/config.py" />
+      <jump line="133" column="46" filename="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/api</text>
+        <text>this</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1215,7 +1218,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/api</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
