@@ -17,33 +17,15 @@
         <mark key="]" line="148" column="7" />
         <mark key="." line="148" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/triplets_producers/simple_triplet_producer.py" timestamp="1551269762662">
-        <mark key="[" line="22" column="114" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/noise2noise/model.py" timestamp="1552910042132">
+      <file name="$USER_HOME$/projects/noise2noise/model.py" timestamp="1552914778536">
         <mark key="u" line="55" column="36" />
-        <mark key="[" line="56" column="52" />
-        <mark key="]" line="55" column="52" />
-        <mark key="^" line="55" column="52" />
-        <mark key="." line="55" column="52" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="12" />
+        <mark key="^" line="96" column="46" />
+        <mark key="." line="55" column="12" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/urls.py" timestamp="1552299979543">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="56" />
-        <mark key="^" line="3" column="56" />
-        <mark key="." line="3" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/embeddings_processing/updaters.py" timestamp="1550757678260">
-        <mark key="[" line="7" column="126" />
-        <mark key="]" line="45" column="80" />
-        <mark key="^" line="45" column="80" />
-        <mark key="." line="45" column="80" />
       </file>
       <file name="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/styles.scss" timestamp="1552481901373" />
       <file name="$USER_HOME$/projects/test/main.py" timestamp="1552897802163">
@@ -52,25 +34,7 @@
         <mark key="^" line="96" column="12" />
         <mark key="." line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/pipelines.py" timestamp="1550736018907">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/test/main2.py" timestamp="1552898196365" />
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/summaries.py" timestamp="1550139941295">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/spiders/aliexpress.py" timestamp="1552300025182">
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
@@ -83,25 +47,13 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/utils/other.py" timestamp="1551859652297">
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="56" column="24" />
-        <mark key="^" line="56" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/datasets_processing/preprocessing.py" timestamp="1549294515915">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="61" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="24" column="56" />
-      </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
         <mark key="[" line="64" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1552909972029">
+      <file name="/Python Console" timestamp="1552913547443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1551859721143">
+      <file name="/fragment.py" timestamp="1552913585361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -129,20 +81,9 @@
         <mark key="." line="53" column="45" />
         <mark key="^" line="53" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/augmenters.py" timestamp="1550063494863">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="12" column="30" />
-      </file>
+      <file name="$USER_HOME$/projects/noise2noise/train.py" timestamp="1552913199543" />
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapping/aliexpress/aliexpress/aliexpress/settings.py" timestamp="1552299905770">
-        <mark key="[" line="75" column="2" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/face-recognition-demo/static/package.json" timestamp="1552390611009" />
       <file name="/JavaScript Console" timestamp="1532951088067">
@@ -157,7 +98,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552392175453">
+      <file name="/Dummy.txt" timestamp="1552914349176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -171,6 +112,11 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/slim_backbones.py" timestamp="1552567370392" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
+      </file>
+      <file name="$USER_HOME$/projects/noise2noise/data.py" timestamp="1552914021887">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1551858427664">
         <mark key="[" line="45" column="14" />
@@ -275,7 +221,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1207,7 +1153,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
@@ -1216,34 +1162,34 @@
         <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5X2RfcG9zLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmRlZiBnZXRfd2VpZ2h0KHNoYXBlLCBnYWluPW5wLnNxcnQoMikpOgogICAgZmFuX2luID0gbnAucHJvZChzaGFwZVs6LTFdKSAjIFtrZXJuZWwsIGtlcm5lbCwgZm1hcHNfaW4sIGZtYXBzX291dF0gb3IgW2luLCBvdXRdCiAgICBzdGQgPSBnYWluIC8gbnAuc3FydChmYW5faW4pICMgSGUgaW5pdAogICAgdyA9IHRmLmdldF92YXJpYWJsZSgnd2VpZ2h0Jywgc2hhcGU9c2hhcGUsIGluaXRpYWxpemVyPXRmLmluaXRpYWxpemVycy5yYW5kb21fbm9ybWFsKDAsIHN0ZCkpCiAgICByZXR1cm4gdwoKIy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDb252b2x1dGlvbmFsIGxheWVyLg==</text>
+        <text encoding="base64">ZGVmIGdldF93ZWlnaHQoc2hhcGUsIGdhaW49bnAuc3FydCgyKSk6CiAgICBmYW5faW4gPSBucC5wcm9kKHNoYXBlWzotMV0pICMgW2tlcm5lbCwga2VybmVsLCBmbWFwc19pbiwgZm1hcHNfb3V0XSBvciBbaW4sIG91dF0KICAgIHN0ZCA9IGdhaW4gLyBucC5zcXJ0KGZhbl9pbikgIyBIZSBpbml0CiAgICB3ID0gdGYuZ2V0X3ZhcmlhYmxlKCd3ZWlnaHQnLCBzaGFwZT1zaGFwZSwgaW5pdGlhbGl6ZXI9dGYuaW5pdGlhbGl6ZXJzLnJhbmRvbV9ub3JtYWwoMCwgc3RkKSkKICAgIHJldHVybiB3CgojLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIENvbnZvbHV0aW9uYWwgbGF5ZXIuCgpkZWYgYXBwbHlfYmlhcyh4KToKICAgIGIgPSB0Zi5nZXRfdmFyaWFibGUoJ2JpYXMnLCBzaGFwZT1beC5zaGFwZVsxXV0sIGluaXRpYWxpemVyPXRmLmluaXRpYWxpemVycy56ZXJvcygpKQogICAgYiA9IHRmLmNhc3QoYiwgeC5kdHlwZSkKICAgIGlmIGxlbih4LnNoYXBlKSA9PSAyOgogICAgICAgIHJldHVybiB4ICsgYgogICAgcmV0dXJuIHggKyB0Zi5yZXNoYXBlKGIsIFsxLCAtMSwgMSwgMV0pCgpkZWYgY29udjJkX2JpYXMoeCwgZm1hcHMsIGtlcm5lbCwgZ2Fpbj1ucC5zcXJ0KDIpKToKICAgIGFzc2VydCBrZXJuZWwgPj0gMSBhbmQga2VybmVsICUgMiA9PSAxCiAgICB3ID0gZ2V0X3dlaWdodChba2VybmVsLCBrZXJuZWwsIHguc2hhcGVbMV0udmFsdWUsIGZtYXBzXSwgZ2Fpbj1nYWluKQogICAgdyA9IHRmLmNhc3QodywgeC5kdHlwZSkKICAgIHJldHVybiBhcHBseV9iaWFzKHRmLm5uLmNvbnYyZCh4LCB3LCBzdHJpZGVzPVsxLDEsMSwxXSwgcGFkZGluZz0nU0FNRScsIGRhdGFfZm9ybWF0PSdOQ0hXJykpCgpkZWYgbWF4cG9vbDJkKHgsIGs9Mik6CiAgICBrc2l6ZSA9IFsxLCAxLCBrLCBrXQogICAgcmV0dXJuIHRmLm5uLm1heF9wb29sKHgsIGtzaXplPWtzaXplLCBzdHJpZGVzPWtzaXplLCBwYWRkaW5nPSdTQU1FJywgZGF0YV9mb3JtYXQ9J05DSFcnKQoKIyBUT0RPIHVzZSBmdXNlZCB1cHNjYWxlK2NvbnYyZCBmcm9tIGdhbjIKZGVmIHVwc2NhbGUyZCh4LCBmYWN0b3I9Mik6CiAgICBhc3NlcnQgaXNpbnN0YW5jZShmYWN0b3IsIGludCkgYW5kIGZhY3RvciA+PSAxCiAgICBpZiBmYWN0b3IgPT0gMTogcmV0dXJuIHgKICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoJ1Vwc2NhbGUyRCcpOgogICAgICAgIHMgPSB4LnNoYXBlCiAgICAgICAgeCA9IHRmLnJlc2hhcGUoeCwgWy0xLCBzWzFdLCBzWzJdLCAxLCBzWzNdLCAxXSkKICAgICAgICB4ID0gdGYudGlsZSh4LCBbMSwgMSwgMSwgZmFjdG9yLCAxLCBmYWN0b3JdKQogICAgICAgIHggPSB0Zi5yZXNoYXBlKHgsIFstMSwgc1sxXSwgc1syXSAqIGZhY3Rvciwgc1szXSAqIGZhY3Rvcl0pCiAgICAgICAgcmV0dXJuIHgKCmRlZiBjb252X2xyKG5hbWUsIHgsIGZtYXBzKToKICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUobmFtZSk6CiAgICAgICAgcmV0dXJuIHRmLm5uLmxlYWt5X3JlbHUoY29udjJkX2JpYXMoeCwgZm1hcHMsIDMpLCBhbHBoYT0wLjEpCgpkZWYgY29udihuYW1lLCB4LCBmbWFwcywgZ2Fpbik6CiAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKG5hbWUpOgogICAgICAgIHJldHVybiBjb252MmRfYmlhcyh4LCBmbWFwcywgMywgZ2FpbikKCmRlZiBjb252X2xyKG5hbWUsIHgsIGZtYXBzKToKICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUobmFtZSk6CiAgICAgICAgcmV0dXJuIHRmLm5uLmxlYWt5X3JlbHUoY29udjJkX2JpYXMoeCwgZm1hcHMsIDMpLCBhbHBoYT0wLjEpCgpkZWYgY29udihuYW1lLCB4LCBmbWFwcywgZ2Fpbik6CiAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKG5hbWUpOgogICAgICAgIHJldHVybiBjb252MmRfYmlhcyh4LCBmbWFwcywgMywgZ2FpbikKCmRlZiBhdXRvZW5jb2Rlcih4LCB3aWR0aD0yNTYsIGhlaWdodD0yNTYsICoqX2t3YXJncyk6CiAgICB4LnNldF9zaGFwZShbTm9uZSwgMywgaGVpZ2h0LCB3aWR0aF0p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmRlZiBnZXRfd2VpZ2h0KHNoYXBlLCBnYWluPW5wLnNxcnQoMikpOgogICAgZmFuX2luID0gbnAucHJvZChzaGFwZVs6LTFdKSAjIFtrZXJuZWwsIGtlcm5lbCwgZm1hcHNfaW4sIGZtYXBzX291dF0gb3IgW2luLCBvdXRdCiAgICBzdGQgPSBnYWluIC8gbnAuc3FydChmYW5faW4pICMgSGUgaW5pdAogICAgdyA9IHRmLmdldF92YXJpYWJsZSgnd2VpZ2h0Jywgc2hhcGU9c2hhcGUsIGluaXRpYWxpemVyPXRmLmluaXRpYWxpemVycy5yYW5kb21fbm9ybWFsKDAsIHN0ZCkpCiAgICByZXR1cm4gdwoKIy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDb252b2x1dGlvbmFsIGxheWVyLg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KFtsbG9dKQo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VFJBSU5JTkdfU1RFUFNfQ09VTlQ6IE9wdGlvbmFsW2ludF0gPSBOb25lCg==</text>
+        <text encoding="base64">KFtsbG9dKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IkhlbGxvIgo=</text>
+        <text encoding="base64">VFJBSU5JTkdfU1RFUFNfQ09VTlQ6IE9wdGlvbmFsW2ludF0gPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
