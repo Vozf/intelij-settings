@@ -31,6 +31,11 @@
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
+      <webServer id="994ea521-e63f-4d23-a058-9224cdb6ce37" name="visual-search@api.indatalabs.com" url="http:///">
+        <fileTransfer host="api.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
