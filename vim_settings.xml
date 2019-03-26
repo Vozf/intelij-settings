@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1553608844847">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/stagdmservice2.public.ar_internal_metadata [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512988256">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,6 +29,18 @@
       <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513509736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1553608739941">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553607412218">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
       </file>
@@ -38,15 +53,26 @@
       <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513515189">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/test/main.py" timestamp="1552897802163">
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="12" />
+        <mark key="^" line="96" column="12" />
+        <mark key="." line="96" column="12" />
+      </file>
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553525955652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1553006885372" />
       <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513502883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1552907272767">
+        <mark key="[" line="104" column="3" />
+        <mark key="]" line="104" column="1" />
+        <mark key="." line="104" column="1" />
+        <mark key="^" line="104" column="1" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
@@ -67,6 +93,12 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/face-recognition-demo/static/.webpackrc.js" timestamp="1552553486594">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="/stagdmservice2.public.driver_notes [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512999833">
         <mark key="[" line="0" column="0" />
@@ -98,7 +130,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553512620324">
+      <file name="/Dummy.txt" timestamp="1553607516011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -106,7 +138,6 @@
       <file name="/code.py" timestamp="1552300481956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1553160419873" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
@@ -129,7 +160,6 @@
         <mark key="]" line="15" column="45" />
         <mark key="." line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1552993489919" />
       <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
         <mark key="[" line="0" column="0" />
       </file>
@@ -231,7 +261,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgbiA9IGNvbnYyZF91bml0KG4sIDQ4LCBuYW1lPSdlbmNfY29udjAnKQogICAgICAgIG4gPSBjb252MmRfdW5pdChuLCA0OCwgbmFtZT0nZW5jX2NvbnYxJykKICAgICAgICBuID0gbWF4X3Bvb2wobiwgbmFtZT0ncG9vbDEnKQogICAgICAgIHNraXBzLmFwcGVuZChuKQoKICAgICAgICBuID0gY29udjJkX3VuaXQobiwgNDgsIG5hbWU9J2VuY19jb252MicpCiAgICAgICAgbiA9IG1heF9wb29sKG4sIG5hbWU9J3Bvb2wyJykKICAgICAgICBza2lwcy5hcHBlbmQobikKCiAgICAgICAgbiA9IGNvbnYyZF91bml0KG4sIDQ4LCBuYW1lPSdlbmNfY29udjMnKQogICAgICAgIG4gPSBtYXhfcG9vbChuLCBuYW1lPSdwb29sMycpCiAgICAgICAgc2tpcHMuYXBwZW5kKG4pCgogICAgICAgIG4gPSBjb252MmRfdW5pdChuLCA0OCwgbmFtZT0nZW5jX2NvbnY0JykKICAgICAgICBuID0gbWF4X3Bvb2wobiwgbmFtZT0ncG9vbDQnKQogICAgICAgIHNraXBzLmFwcGVuZChuKQoKICAgICAgICBuID0gY29udjJkX3VuaXQobiwgNDgsIG5hbWU9J2VuY19jb252NScpCiAgICAgICAgbiA9IG1heF9wb29sKG4sIG5hbWU9J3Bvb2w1JykKICAgICAgICBuID0gY29udjJkX3VuaXQobiwgNDgsIG5hbWU9J2VuY19jb252NicpCgogICAgICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICBuID0gdXBzY2FsZShuLCBuYW1lPSd1cHNhbXBsZTUnKQogICAgICAgIG4gPSB0Zi5jb25jYXQoW24sIHNraXBzLnBvcCgpXSwgYXhpcz0zLCBuYW1lPSdjb25jYXQ1JykKICAgICAgICBuID0gY29udjJkX3VuaXQobiwgOTYsIG5hbWU9J2RlY19jb252NWEnKQogICAgICAgIG4gPSBjb252MmRfdW5pdChuLCA5NiwgbmFtZT0nZGVjX2NvbnY1YicpCgogICAgICAgIG4gPSB1cHNjYWxlKG4sIG5hbWU9J3Vwc2FtcGxlNCcpCiAgICAgICAgbiA9IHRmLmNvbmNhdChbbiwgc2tpcHMucG9wKCldLCBheGlzPTMsIG5hbWU9J2NvbmNhdDQnKQogICAgICAgIG4gPSBjb252MmRfdW5pdChuLCA5NiwgbmFtZT0nZGVjX2NvbnY0YScpCiAgICAgICAgbiA9IGNvbnYyZF91bml0KG4sIDk2LCBuYW1lPSdkZWNfY29udjRiJykKCiAgICAgICAgbiA9IHVwc2NhbGUobiwgbmFtZT0ndXBzYW1wbGUzJykKICAgICAgICBuID0gdGYuY29uY2F0KFtuLCBza2lwcy5wb3AoKV0sIGF4aXM9MywgbmFtZT0nY29uY2F0MycpCiAgICAgICAgbiA9IGNvbnYyZF91bml0KG4sIDk2LCBuYW1lPSdkZWNfY29udjNhJykKICAgICAgICBuID0gY29udjJkX3VuaXQobiwgOTYsIG5hbWU9J2RlY19jb252M2InKQoKICAgICAgICBuID0gdXBzY2FsZShuLCBuYW1lPSd1cHNhbXBsZTInKQogICAgICAgIG4gPSB0Zi5jb25jYXQoW24sIHNraXBzLnBvcCgpXSwgYXhpcz0zLCBuYW1lPSdjb25jYXQyJykKICAgICAgICBuID0gY29udjJkX3VuaXQobiwgOTYsIG5hbWU9J2RlY19jb252MmEnKQogICAgICAgIG4gPSBjb252MmRfdW5pdChuLCA5NiwgbmFtZT0nZGVjX2NvbnYyYicpCgogICAgICAgIG4gPSB1cHNjYWxlKG4sIG5hbWU9J3Vwc2FtcGxlMScpCiAgICAgICAgbiA9IHRmLmNvbmNhdChbbiwgc2tpcHMucG9wKCldLCBheGlzPTMsIG5hbWU9J2NvbmNhdDEnKQogICAgICAgIG4gPSBjb252MmRfdW5pdChuLCA2NCwgbmFtZT0nZGVjX2NvbnYxYScpCiAgICAgICAgbiA9IGNvbnYyZF91bml0KG4sIDMyLCBuYW1lPSdkZWNfY29udjFiJyk=</text>
+        <text>50</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1163,7 +1193,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gaussian</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
