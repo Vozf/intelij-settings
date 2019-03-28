@@ -30,11 +30,6 @@
       <file name="/images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/test/main3.py" timestamp="1552898889236">
-        <mark key="[" line="148" column="7" />
-        <mark key="]" line="148" column="7" />
-        <mark key="." line="148" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4_single_driver.html" timestamp="1553618069644">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="7" />
@@ -56,6 +51,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553776142689">
+        <mark key="[" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
@@ -141,10 +139,8 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553770691734">
+      <file name="/Dummy.txt" timestamp="1553776232729">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
         <mark key="[" line="0" column="0" />
@@ -163,21 +159,6 @@
       </file>
       <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/noise2noise/data.py" timestamp="1552919913482">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics_tools.py" timestamp="1551858427664">
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="79" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4.html" timestamp="1553615488642">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
         <mark key="[" line="0" column="0" />
