@@ -52,8 +52,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553776142689">
+      <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553789179853">
         <mark key="[" line="2" column="5" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
