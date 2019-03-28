@@ -50,7 +50,6 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" timestamp="1553610407693" />
       <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1553769681822">
         <mark key="'" line="12" column="69" />
         <mark key="[" line="47" column="35" />
@@ -70,15 +69,12 @@
       <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/venv/lib/python3.6/site-packages/wtforms/fields/core.py" timestamp="1553617402109" />
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/image_processing/processors.py" timestamp="1553006885372" />
       <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/venv/lib/python3.6/site-packages/wtforms/validators.py" timestamp="1553613113714" />
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
@@ -91,7 +87,7 @@
         <mark key="^" line="6" column="59" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1553770051357">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1553770337645">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -145,7 +141,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553770203162">
+      <file name="/Dummy.txt" timestamp="1553770691734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -153,7 +149,6 @@
       <file name="/code.py" timestamp="1552300481956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/quality_control/metrics.py" timestamp="1553160419873" />
       <file name="/i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151488">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,7 +174,6 @@
         <mark key="]" line="15" column="45" />
         <mark key="." line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/visual-search/core/training/config.py" timestamp="1552993489919" />
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4.html" timestamp="1553615488642">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
