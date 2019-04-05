@@ -24,17 +24,20 @@
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/views/Chat.vue" timestamp="1554462368110">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/projects/vlack_web/src/views/Chat.vue" timestamp="1554472270660">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
       <file name="/images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151640">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/Chat.vue" timestamp="1554471626663">
+        <mark key="." line="4" column="102" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4_single_driver.html" timestamp="1553618069644">
         <mark key="[" line="6" column="9" />
@@ -50,13 +53,6 @@
         <mark key="]" line="20" column="20" />
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1553769681822">
-        <mark key="'" line="12" column="69" />
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553789179853">
         <mark key="[" line="2" column="5" />
@@ -76,18 +72,19 @@
       <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151840">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/App.vue" timestamp="1554470846899" />
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1554465547908">
+      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1554470862700">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
@@ -125,6 +122,7 @@
       <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/package.json" timestamp="1554472267964" />
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,8 +183,8 @@
       <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1554465479584">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1554472212694">
+        <mark key="[" line="14" column="28" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="11" column="0" />
@@ -297,7 +295,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text>HelloWorld</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1229,7 +1227,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHRlbXBsYXRlPjwvdGVtcGxhdGU+</text>
+        <text>HelloWorld</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
