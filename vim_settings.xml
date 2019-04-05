@@ -24,6 +24,12 @@
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/views/Chat.vue" timestamp="1554462368110">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
       </file>
@@ -139,7 +145,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553776232729">
+      <file name="/Dummy.txt" timestamp="1554462102759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
@@ -154,11 +160,15 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/HelloWorld.vue" timestamp="1554133633645" />
       <file name="/stagdmservice2.public.families [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513138144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/views/Home.vue" timestamp="1554133936446" />
+      <file name="$USER_HOME$/projects/vlack_web/src/views/Home.vue" timestamp="1554461831361">
+        <mark key="'" line="9" column="55" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1553770337645">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -168,11 +178,11 @@
       <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1554132798085">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1554462182869">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
         <mark key="[" line="0" column="0" />
@@ -274,10 +284,11 @@
       <jump line="133" column="46" filename="$USER_HOME$/projects/face-recognition-demo/static/src/routes/IndexPage/IndexPage.jsx" />
       <jump line="9" column="12" filename="$USER_HOME$/projects/vebuin-ml-api/app.py" />
       <jump line="12" column="69" filename="$USER_HOME$/projects/vebuin-ml-api/app.py" />
+      <jump line="9" column="55" filename="$USER_HOME$/projects/vlack_web/src/views/Home.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>model.predict_proba(</text>
+        <text>HelloWorld</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1209,7 +1220,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>model.predict_proba(</text>
+        <text>HelloWorld</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
