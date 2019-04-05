@@ -88,12 +88,6 @@
         <mark key="^" line="6" column="59" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1553770337645">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
         <mark key="[" line="64" column="8" />
       </file>
@@ -121,6 +115,13 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4_single_driver_response.html" timestamp="1554470790663">
+        <mark key="'" line="10" column="56" />
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="11" column="67" />
+        <mark key="." line="6" column="1" />
+      </file>
       <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,6 +130,12 @@
       </file>
       <file name="$USER_HOME$/projects/tutorial-2-image-classifier/train.py" timestamp="1552901966136">
         <mark key="[" line="200" column="105" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1553770337645">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
@@ -142,7 +149,10 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553776232729">
+      <file name="/models.ipynb" timestamp="1553875942369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554469433487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
@@ -162,6 +172,12 @@
       </file>
       <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1554132798085">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
         <mark key="[" line="0" column="0" />
@@ -266,7 +282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>model.predict_proba(</text>
+        <text>%- endmacro %</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1198,7 +1214,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>model.predict_proba(</text>
+        <text>%- endmacro %</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
