@@ -36,11 +36,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store.ts" timestamp="1554737218813">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store.ts" timestamp="1554739213467">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
         <mark key="[" line="54" column="83" />
@@ -60,12 +60,8 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" timestamp="1554484795789">
-        <mark key="'" line="6" column="42" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" timestamp="1554739585423">
+        <mark key="[" line="1" column="28" />
       </file>
       <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151828">
         <mark key="[" line="0" column="0" />
@@ -134,12 +130,6 @@
       <file name="vim_settings.xml" timestamp="1554487246061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindowService.ts" timestamp="1554737579919">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
         <mark key="[" line="64" column="8" />
       </file>
@@ -152,12 +142,12 @@
       <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1554485897404">
-        <mark key="x" line="5" column="23" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="7" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1554742024754">
+        <mark key="x" line="7" column="23" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -201,7 +191,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554487090159">
+      <file name="/Dummy.txt" timestamp="1554742118308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
@@ -235,6 +225,7 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/1.vue" timestamp="1554741794962" />
       <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
         <mark key="[" line="34" column="1" />
       </file>
@@ -372,8 +363,8 @@
       <jump line="6" column="42" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXhpb3MuZ2V0KFJFU09VUkNFX05BTUUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>this: Vue)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1305,7 +1296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getAll</text>
+        <text>this: Vue)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
@@ -1314,34 +1305,34 @@
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXhpb3MuZ2V0KFJFU09VUkNFX05BTUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0bGluZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXhpb3MuZ2V0KFJFU09VUkNFX05BTUUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHNhIHsK</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZHNhIHsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9IklFPWVkZ2UiPgogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCxpbml0aWFsLXNjYWxlPTEuMCI+CiAgICA8bGluayByZWw9Imljb24iIGhyZWY9IjwlPSBCQVNFX1VSTCAlPmZhdml0Y29uLmljbyI+CiAgICA8dGl0bGU+VmxhY2s8L3RpdGxlPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IgogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzoxMDAsMzAwLDQwMCw1MDAsNzAwLDkwMCI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1NYXRlcmlhbCtJY29ucyI+Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9IklFPWVkZ2UiPgogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCxpbml0aWFsLXNjYWxlPTEuMCI+CiAgICA8bGluayByZWw9Imljb24iIGhyZWY9IjwlPSBCQVNFX1VSTCAlPmZhdml0Y29uLmljbyI+CiAgICA8dGl0bGU+VmxhY2s8L3RpdGxlPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IgogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzoxMDAsMzAwLDQwMCw1MDAsNzAwLDkwMCI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1NYXRlcmlhbCtJY29ucyI+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
