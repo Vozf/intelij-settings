@@ -249,14 +249,6 @@
           <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'npm serve'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'npm serve'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'rest-api#1'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -294,7 +286,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>15</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -334,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'npm serve'</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'rest-api#1'">
@@ -438,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'npm serve'</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'start'">
@@ -494,7 +486,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>50</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -519,14 +511,6 @@
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'</ShortCut>
           <Description>Type Declaration</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Update Project...">
-        <Item>
-          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'Ctrl+T'</ShortCut>
-          <Description>Update Project...</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
