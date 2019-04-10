@@ -127,8 +127,7 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1554737715862">
-        <mark key="[" line="12" column="14" />
+      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1554897418236">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
@@ -154,12 +153,12 @@
       <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1554896953686">
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1554897402822">
         <mark key="x" line="7" column="23" />
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="16" column="17" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
         <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
+        <mark key="." line="22" column="27" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -193,12 +192,6 @@
       </file>
       <file name="/stagdmservice2.public.users [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151864">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1554887137887">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
       </file>
       <file name="/dummy.sql" timestamp="1553525961510">
         <mark key="[" line="0" column="0" />
@@ -257,6 +250,12 @@
       </file>
       <file name="/stagdmservice2.public.families [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513138144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1554887137887">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
         <mark key="[" line="0" column="0" />
@@ -374,8 +373,8 @@
       <jump line="6" column="42" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1307,7 +1306,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this: Vue)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
