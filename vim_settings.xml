@@ -153,12 +153,13 @@
       <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1554897658125">
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1554900697838">
+        <mark key="'" line="6" column="14" />
         <mark key="x" line="7" column="23" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="22" column="27" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="31" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -271,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="65" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
-      <jump line="7" column="48" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.guard.ts" />
-      <jump line="86" column="75" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="34" column="57" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.actions.ts" />
       <jump line="26" column="70" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" />
@@ -371,10 +369,13 @@
       <jump line="7" column="25" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" />
       <jump line="8" column="10" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" />
       <jump line="6" column="42" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" />
+      <jump line="19" column="22" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
+      <jump line="15" column="9" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
+      <jump line="6" column="14" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>newValue</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1306,10 +1307,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>newValue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cWRtXD4=</text>
+        <text encoding="base64">XDxTdWJqZWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
@@ -1349,10 +1350,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cWRtXD4=</last-search>
+      <last-search encoding="base64">XDxTdWJqZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cWRtXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTdWJqZWN0XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1364,6 +1365,8 @@
         <entry encoding="base64">XDxzaG9lc1w+</entry>
         <entry encoding="base64">XDxNQVJHSU5fQUxQSEFcPg==</entry>
         <entry encoding="base64">XDx0cWRtXD4=</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDxTdWJqZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g0</entry>
