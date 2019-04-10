@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'app'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -502,6 +510,14 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View">
+        <Item>
+          <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
+          <ShortCut>'F2' or 'Enter' or 'Alt+Enter'</ShortCut>
+          <Description>View</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
