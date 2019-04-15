@@ -54,6 +54,18 @@
       <file name="/images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151640">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/actions.ts" timestamp="1555339306334">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/store.interface.ts" timestamp="1555337468555">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/Chat.vue" timestamp="1554480015349">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="25" />
@@ -153,12 +165,17 @@
       <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555332937541">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="25" column="83" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555338997852">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/state.ts" timestamp="1555339321222">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -202,7 +219,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554742118308">
+      <file name="/Dummy.txt" timestamp="1555339360675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
@@ -266,15 +283,24 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/mutations.ts" timestamp="1555339316339">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/store.ts" timestamp="1555339339228">
+        <mark key="'" line="11" column="57" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="17" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
-      <jump line="22" column="30" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.state.ts" />
-      <jump line="76" column="12" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" />
-      <jump line="81" column="98" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.component.ts" />
       <jump line="60" column="29" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="49" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="20" column="59" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
@@ -371,10 +397,14 @@
       <jump line="33" column="22" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
       <jump line="22" column="47" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
       <jump line="25" column="12" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
+      <jump line="29" column="37" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
+      <jump line="28" column="64" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
+      <jump line="9" column="20" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
+      <jump line="15" column="57" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSwgTWVzc2FnZXNTdGF0ZSB9IGZyb20gJ0Avc3RvcmUvc3RvcmUuaW50ZXJmYWNlJzsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1306,7 +1336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1315,36 +1345,34 @@
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSwgTWVzc2FnZXNTdGF0ZSB9IGZyb20gJ0Avc3RvcmUvc3RvcmUuaW50ZXJmYWNlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0V2l0aCgnJyksCg==</text>
+        <text encoding="base64">aW1wb3J0IENoYXRXaW5kb3dTZXJ2aWNlIGZyb20gJ0AvY29tcG9uZW50cy9DaGF0V2luZG93U2VydmljZSc7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        event: { msg: 'haha' },
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ0Avc3RvcmUvc3RvcmUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4gc3VucmlzZSwgc3Vuc2V0LCAtMQo=</text>
+        <text encoding="base64">ICAgIEBTdGF0ZSgnY291bnQnKSBjb3VudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBY3Rpb24oJ2ZvbycpIGFjdGlvbkZvbzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzdW4gPSBTdW4oaXRlbS5sYXRpdHVkZSwgaXRlbS5sb25naXR1ZGUpCiAgICAgICAgIyAgICAgbWVhc3VyZW1lbnRfZGF5ID0gaXRlbS5tZWFzdXJlbWVudF9kYXRlLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTApCiAgICAgICAgIyAgICAgc3VucmlzZSwgc3Vuc2V0ID0gc3VuLmdldF9zdW5yaXNlX3RpbWUobWVhc3VyZW1lbnRfZGF5KSwgc3VuLmdldF9zdW5zZXRfdGltZShtZWFzdXJlbWVudF9kYXkpCiAgICAgICAgIyAgICAgc3VucmlzZSwgc3Vuc2V0ID0gW3BkLlRpbWVzdGFtcChpdCkudHpfbG9jYWxpemUoTm9uZSkgZm9yIGl0IGluIFtzdW5yaXNlLCBzdW5zZXRdXQo=</text>
+        <text encoding="base64">ICAgIEBBY3Rpb24oJ2ZldGNoRGF0YScsIHsgbmFtZXNwYWNlIH0pIGZldGNoRGF0YTogYW55Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
