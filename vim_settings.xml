@@ -153,12 +153,12 @@
       <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555331952639">
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555332937541">
         <mark key="'" line="25" column="12" />
-        <mark key="[" line="30" column="59" />
-        <mark key="]" line="30" column="65" />
-        <mark key="." line="30" column="65" />
-        <mark key="^" line="30" column="65" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="25" column="83" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
@@ -373,8 +373,8 @@
       <jump line="25" column="12" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1306,7 +1306,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1314,37 +1314,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        event: { msg: 'haha' },
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0V2l0aCgnJyksCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4gc3VucmlzZSwgc3Vuc2V0LCAtMQo=</text>
+      <register name="3" type="4">
+        <text>{
+        event: { msg: 'haha' },
+    }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzdW4gPSBTdW4oaXRlbS5sYXRpdHVkZSwgaXRlbS5sb25naXR1ZGUpCiAgICAgICAgIyAgICAgbWVhc3VyZW1lbnRfZGF5ID0gaXRlbS5tZWFzdXJlbWVudF9kYXRlLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTApCiAgICAgICAgIyAgICAgc3VucmlzZSwgc3Vuc2V0ID0gc3VuLmdldF9zdW5yaXNlX3RpbWUobWVhc3VyZW1lbnRfZGF5KSwgc3VuLmdldF9zdW5zZXRfdGltZShtZWFzdXJlbWVudF9kYXkpCiAgICAgICAgIyAgICAgc3VucmlzZSwgc3Vuc2V0ID0gW3BkLlRpbWVzdGFtcChpdCkudHpfbG9jYWxpemUoTm9uZSkgZm9yIGl0IGluIFtzdW5yaXNlLCBzdW5zZXRdXQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4gc3VucmlzZSwgc3Vuc2V0LCAtMQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBzdW4gPSBTdW4oaXRlbS5sYXRpdHVkZSwgaXRlbS5sb25naXR1ZGUpCiAgICAgICAgIyAgICAgbWVhc3VyZW1lbnRfZGF5ID0gaXRlbS5tZWFzdXJlbWVudF9kYXRlLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTApCiAgICAgICAgIyAgICAgc3VucmlzZSwgc3Vuc2V0ID0gc3VuLmdldF9zdW5yaXNlX3RpbWUobWVhc3VyZW1lbnRfZGF5KSwgc3VuLmdldF9zdW5zZXRfdGltZShtZWFzdXJlbWVudF9kYXkpCiAgICAgICAgIyAgICAgc3VucmlzZSwgc3Vuc2V0ID0gW3BkLlRpbWVzdGFtcChpdCkudHpfbG9jYWxpemUoTm9uZSkgZm9yIGl0IGluIFtzdW5yaXNlLCBzdW5zZXRdXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBkYXRldGltZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gc3VudGltZSBpbXBvcnQgU3VuLCBTdW5UaW1lRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
