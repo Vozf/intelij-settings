@@ -78,12 +78,6 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" timestamp="1555431654314">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="27" column="13" />
-      </file>
       <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,12 +186,12 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555430860555">
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555434052604">
         <mark key="'" line="5" column="42" />
         <mark key="[" line="113" column="26" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
         <mark key="[" line="0" column="0" />
@@ -223,15 +217,15 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555430090538">
+      <file name="/Dummy.txt" timestamp="1555434059590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1554487220743">
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555433117662">
         <mark key="'" line="20" column="63" />
-        <mark key="[" line="32" column="1" />
+        <mark key="[" line="27" column="22" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
