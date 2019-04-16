@@ -78,8 +78,11 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" timestamp="1554739585423">
-        <mark key="[" line="1" column="28" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" timestamp="1555431654314">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151828">
         <mark key="[" line="0" column="0" />
@@ -189,7 +192,13 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555427039695" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555430860555">
+        <mark key="'" line="5" column="42" />
+        <mark key="[" line="113" column="26" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+      </file>
       <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,7 +223,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555339360675">
+      <file name="/Dummy.txt" timestamp="1555430090538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
@@ -253,6 +262,11 @@
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Message.vue" timestamp="1555430080032">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -296,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="29" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="49" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="20" column="59" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="22" column="117" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
@@ -396,10 +409,11 @@
       <jump line="28" column="64" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
       <jump line="9" column="20" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
       <jump line="15" column="57" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
+      <jump line="5" column="42" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>async</text>
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1331,7 +1345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>async</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1340,34 +1354,34 @@
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSwgTWVzc2FnZXNTdGF0ZSB9IGZyb20gJ0Avc3RvcmUvc3RvcmUuaW50ZXJmYWNlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENoYXRXaW5kb3dTZXJ2aWNlIGZyb20gJ0AvY29tcG9uZW50cy9DaGF0V2luZG93U2VydmljZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ0Avc3RvcmUvc3RvcmUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSwgTWVzc2FnZXNTdGF0ZSB9IGZyb20gJ0Avc3RvcmUvc3RvcmUuaW50ZXJmYWNlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTdGF0ZSgnY291bnQnKSBjb3VudDsK</text>
+        <text encoding="base64">aW1wb3J0IENoYXRXaW5kb3dTZXJ2aWNlIGZyb20gJ0AvY29tcG9uZW50cy9DaGF0V2luZG93U2VydmljZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBY3Rpb24oJ2ZvbycpIGFjdGlvbkZvbzsK</text>
+        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBY3Rpb24oJ2ZldGNoRGF0YScsIHsgbmFtZXNwYWNlIH0pIGZldGNoRGF0YTogYW55Owo=</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ0Avc3RvcmUvc3RvcmUnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIEBTdGF0ZSgnY291bnQnKSBjb3VudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIEBBY3Rpb24oJ2ZvbycpIGFjdGlvbkZvbzsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
