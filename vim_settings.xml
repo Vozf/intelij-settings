@@ -54,11 +54,11 @@
       <file name="/images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/actions.ts" timestamp="1555339306334">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="6" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/actions.ts" timestamp="1555425396303">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/store.interface.ts" timestamp="1555337468555">
         <mark key="[" line="3" column="0" />
@@ -171,8 +171,8 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/state.ts" timestamp="1555339321222">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/state.ts" timestamp="1555425281115">
+        <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -403,8 +403,8 @@
       <jump line="15" column="57" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSwgTWVzc2FnZXNTdGF0ZSB9IGZyb20gJ0Avc3RvcmUvc3RvcmUuaW50ZXJmYWNlJzsK</text>
+      <register name="&quot;" type="4">
+        <text>async</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1336,7 +1336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>async</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
