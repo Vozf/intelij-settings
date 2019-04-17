@@ -232,9 +232,14 @@
       <file name="/code.py" timestamp="1553771909638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1555504202544" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1555505992019">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555504230267">
-        <mark key="[" line="3" column="42" />
+        <mark key="[" line="2" column="42" />
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
@@ -320,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="110" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
-      <jump line="70" column="16" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
       <jump line="12" column="80" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="45" column="33" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/+state/certificate-details.effects.ts" />
@@ -420,10 +423,12 @@
       <jump line="11" column="3" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" />
       <jump line="10" column="7" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" />
       <jump line="15" column="31" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" />
+      <jump line="11" column="3" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" />
+      <jump line="10" column="7" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>items</text>
+        <text>ChatListItem</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1355,7 +1360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>ChatListItem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1363,17 +1368,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDx2LWxpc3Q+CiAgICAgICAgICAgICAgICA8Q2hhdExpc3RJdGVtCiAgICAgICAgICAgICAgICAgICAgdi1mb3I9IihpdGVtLCBpbmRleCkgaW4gY2hhdHMiCiAgICAgICAgICAgICAgICAgICAgOml0ZW09Iml0ZW0iCiAgICAgICAgICAgICAgICAgICAgOmtleT0iaW5kZXgiCiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L3YtbGlzdD4KICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgPHYtZmxleCBzdHlsZT0ibWluLWhlaWdodDogbWluLWNvbnRlbnQ7ICI+CiAgICAgICAgICAgIDx2LWxpc3Q+CiAgICAgICAgICAgICAgICA8Q2hhdExpc3RJdGVtCiAgICAgICAgICAgICAgICAgICAgdi1mb3I9IihpdGVtLCBpbmRleCkgaW4gY2hhdHMiCiAgICAgICAgICAgICAgICAgICAgOml0ZW09Iml0ZW0iCiAgICAgICAgICAgICAgICAgICAgOmtleT0iaW5kZXgiCiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L3YtbGlzdD4KICAgICAgICA8L3YtZmxleD4KICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
