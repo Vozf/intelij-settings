@@ -78,6 +78,7 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/index.vue" timestamp="1555495045407" />
       <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,6 +88,7 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
+      <file name="/Messages.vue" timestamp="1555493288289" />
       <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553789179853">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="4" column="13" />
@@ -136,10 +138,11 @@
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1554897418236">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1555493338104">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/forms.py" timestamp="1553619575490">
         <mark key="[" line="0" column="26" />
@@ -186,12 +189,12 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555434052604">
-        <mark key="'" line="5" column="42" />
-        <mark key="[" line="113" column="26" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555494827372">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
         <mark key="[" line="0" column="0" />
@@ -217,7 +220,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555434059590">
+      <file name="/Dummy.txt" timestamp="1555493277093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
@@ -257,10 +260,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Message.vue" timestamp="1555430080032">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Message.vue" timestamp="1555494343455">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -304,8 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
-      <jump line="20" column="59" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="22" column="117" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="63" column="110" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificates.component.ts" />
       <jump line="70" column="16" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/+state/certificates.effects.ts" />
@@ -404,10 +406,12 @@
       <jump line="9" column="20" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
       <jump line="15" column="57" filename="$USER_HOME$/projects/vlack_web/src/store/store.ts" />
       <jump line="5" column="42" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" />
+      <jump line="11" column="3" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" />
+      <jump line="10" column="7" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9J3RleHQtLXByaW1hcnknPlNhbmRyYSBBZGFtczwvc3Bhbj4gJm1kYXNoOyBEbyB5b3UgaGF2ZSBQYXJpcyByZWNvbW1lbmRhdGlvbnM/IEhhdmUgeW91IGV2ZXIgYmVlbj8=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1339,7 +1343,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9J3RleHQtLXByaW1hcnknPlNhbmRyYSBBZGFtczwvc3Bhbj4gJm1kYXNoOyBEbyB5b3UgaGF2ZSBQYXJpcyByZWNvbW1lbmRhdGlvbnM/IEhhdmUgeW91IGV2ZXIgYmVlbj8=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1348,34 +1352,34 @@
         <text encoding="base64">ICAgICAgICA8di1sYXlvdXQgY29sdW1uIGp1c3RpZnktZW5kPnsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZSwgTWVzc2FnZXNTdGF0ZSB9IGZyb20gJ0Avc3RvcmUvc3RvcmUuaW50ZXJmYWNlJzsK</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENoYXRXaW5kb3dTZXJ2aWNlIGZyb20gJ0AvY29tcG9uZW50cy9DaGF0V2luZG93U2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ0Avc3RvcmUvc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTdGF0ZSgnY291bnQnKSBjb3VudDsK</text>
+        <text encoding="base64">ICAgICAgICB7IGRpdmlkZXI6IHRydWUsIGluc2V0OiB0cnVlIH0sCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBY3Rpb24oJ2ZvbycpIGFjdGlvbkZvbzsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDx2LWxpc3Q+CiAgICAgICAgICAgICAgICA8TWVzc2FnZQogICAgICAgICAgICAgICAgICAgIHYtZm9yPSIoaXRlbSwgaW5kZXgpIGluIGl0ZW1zIgogICAgICAgICAgICAgICAgICAgIHYtYmluZDppdGVtPSJpdGVtIgogICAgICAgICAgICAgICAgICAgIDprZXk9ImluZGV4IgogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC92LWxpc3Q+CiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
