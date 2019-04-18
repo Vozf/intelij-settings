@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1553608844847">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.ar_internal_metadata [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512988256">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/.idea/httpRequests/http-requests-log.http" timestamp="1553611105826">
         <mark key="[" line="89" column="19" />
         <mark key="]" line="89" column="19" />
@@ -14,6 +20,15 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
+      </file>
+      <file name="/fragment.js" timestamp="1532953488778">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1550652374071">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/views/Chat.vue" timestamp="1555575589303">
         <mark key="[" line="13" column="21" />
@@ -32,6 +47,12 @@
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_api/app/services/imposer/index.js" timestamp="1529926735204">
+        <mark key="[" line="54" column="83" />
+      </file>
+      <file name="/images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151640">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/actions.ts" timestamp="1555595350115">
         <mark key="[" line="5" column="0" />
@@ -57,6 +78,9 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151828">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/models.py" timestamp="1553769586052">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="20" />
@@ -69,17 +93,47 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.call_center_people [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512994448">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList.vue" timestamp="1554484781775">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="23" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555577186277">
-        <mark key="[" line="22" column="0" />
+      <file name="/stagdmservice2.public.drivers_fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513125253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145838">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151802">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555600225890">
+        <mark key="[" line="1" column="22" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="0" />
+      </file>
+      <file name="/trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145859">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
+        <mark key="[" line="62" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
+        <mark key="[" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1555579996060">
         <mark key="[" line="16" column="19" />
@@ -93,6 +147,9 @@
         <mark key="^" line="6" column="59" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="vim_settings.xml" timestamp="1554487246061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1555589582632">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -105,18 +162,40 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555595607087">
-        <mark key="'" line="33" column="32" />
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="33" column="38" />
+      <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
+        <mark key="[" line="64" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/.env" timestamp="1554737093740">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1553769561732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555599210277">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/state.ts" timestamp="1555595056100">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="25" column="23" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
+        <mark key="[" line="11" column="19" />
+      </file>
+      <file name="/stagdmservice2.public.driver_notes [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512999833">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stagdmservice2.public.i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513165946">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
+        <mark key="[" line="62" column="58" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555587941229">
         <mark key="'" line="10" column="7" />
@@ -125,28 +204,55 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="17" column="8" />
       </file>
+      <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1532951088067">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/tutorial-2-image-classifier/train.py" timestamp="1552901966136">
+        <mark key="[" line="200" column="105" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
+        <mark key="[" line="0" column="84" />
+      </file>
+      <file name="/stagdmservice2.public.users [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151864">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/plugins/updateCurrentChat.ts" timestamp="1555595146346">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="13" column="2" />
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555595368595">
+      <file name="/dummy.sql" timestamp="1553525961510">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
+        <mark key="[" line="49" column="21" />
+      </file>
+      <file name="/models.ipynb" timestamp="1553875942369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555600447883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1555595219144">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="26" column="18" />
-        <mark key="." line="18" column="0" />
+      <file name="/code.py" timestamp="1553771909638">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555576858273">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="29" column="7" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1555600106033">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555600510622">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat.vue" timestamp="1554482478921">
         <mark key="[" line="14" column="26" />
@@ -159,6 +265,15 @@
         <mark key="]" line="15" column="13" />
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
+      </file>
+      <file name="/i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151488">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_icrc_api/server/lib/helpers/current-user/index.js" timestamp="1532948290389">
+        <mark key="[" line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
+        <mark key="[" line="14" column="114" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/store.types.ts" timestamp="1555594525032">
         <mark key="'" line="8" column="12" />
@@ -173,6 +288,9 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/plugins/vuetify.ts" timestamp="1555599496428">
+        <mark key="[" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/getters.ts" timestamp="1555590102439">
         <mark key="'" line="8" column="41" />
         <mark key="[" line="8" column="54" />
@@ -186,11 +304,17 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="/stagdmservice2.public.families [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513138144">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1554887137887">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
+      </file>
+      <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1555580762958">
         <mark key="[" line="11" column="20" />
@@ -211,9 +335,11 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
+      <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="157" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="154" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="153" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
@@ -313,10 +439,11 @@
       <jump line="8" column="12" filename="$USER_HOME$/projects/vlack_web/src/store/store.types.ts" />
       <jump line="27" column="22" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindowService.ts" />
       <jump line="34" column="32" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
+      <jump line="35" column="30" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-base);</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1248,7 +1375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-base);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1257,34 +1384,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogc29saWQgdmFyKC0tdi1zZWNvbmRhcnktYmFzZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGF0ZS5jaGF0cyA9IG1lc3NhZ2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGlucHV0OiBWdWVDb21wb25lbnQgPSB0aGlzLiRyZWZzLmlucHV0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU1lc3NhZ2VzKHN0YXRlLCBtZXNzYWdlczogTWVzc2FnZVR5cGVbXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHJlZnMuaW5wdXQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoJ3VwZGF0ZU1lc3NhZ2VzJywgW10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdGF0ZS5jaGF0cyA9IG1lc3NhZ2VzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU1lc3NhZ2VzKHsgY29tbWl0IH0pIHsK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZU1lc3NhZ2VzKHN0YXRlLCBtZXNzYWdlczogTWVzc2FnZVR5cGVbXSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIH0sCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB0aGlzLmZldGNoQ2hhdExpc3QoKS5zdWJzY3JpYmUobmV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoJ3VwZGF0ZU1lc3NhZ2VzJywgW10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGJlZm9yZVJvdXRlRW50ZXIoLCwgbmV4dCkgewo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZU1lc3NhZ2VzKHsgY29tbWl0IH0pIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
