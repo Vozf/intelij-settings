@@ -133,12 +133,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556034360652">
-        <mark key="'" line="35" column="14" />
-        <mark key="[" line="36" column="71" />
-        <mark key="]" line="36" column="70" />
-        <mark key="." line="36" column="70" />
-        <mark key="^" line="36" column="70" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556040235306">
+        <mark key="'" line="42" column="102" />
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+        <mark key="^" line="47" column="7" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
@@ -353,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="153" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="149" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="148" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
@@ -453,10 +452,11 @@
       <jump line="34" column="32" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
       <jump line="35" column="30" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" />
       <jump line="35" column="14" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" />
+      <jump line="42" column="102" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>]</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1388,7 +1388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1397,34 +1397,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwKHJlcyA9PiByZXMubWFwKHtuYW1lfSkgPT4gbmFtZSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmlsdGVyIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvZmlsdGVyJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRU1QVFkgfSBmcm9tICdyeGpzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZm9ya0pvaW4gfSBmcm9tICdyeGpzL29ic2VydmFibGUvZm9ya0pvaW4nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICIvaG9tZS9hX3lhcm9zaGV2aWNoL3Byb2plY3RzL3NsaWRlX2FuYWx5c2lzX2FwaS9zbGlkZXMvb2xkIgo=</text>
+        <text encoding="base64">Y29uc3QgW2ZvbGRlcnM6IE9ic2VydmFibGU8YW55PiwgaW1hZ2VzXSA9IHBhcnRpdGlvbigoeyBpc19mb2xkZXIgfSkgPT4gaXNfZm9sZGVyKShpdGVtcy5waXBlKAogICAgICAgICAgICBzd2l0Y2hNYXAoaXRzID0+IGZyb20oaXRzKSksCiAgICAgICAgKSk7CiAgICAgICAgaW1hZ2VzLnBpcGUocGx1Y2soJ25hbWUnKSwgc3dpdGNoTWFwKHRoaXMuZ2V0UHJldmlldykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlzX2ZvbGRlcjogdHJ1ZQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbWJpbmVMYXRlc3QgPSBtb2R1bGRkZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbe2lzX2ZvbGRlcjogZmFsc2UsIG5hbWU6ICJvbGQvVENHQS1XQi1BODFSLTAxQS0wMS1UUzEuQTYzNjIwMzAtODQwNS00Qjk1LTkxMjgtOTk1NUU2N0E5RERDLnN2cyJ9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwKHJlcyA9PiByZXMubWFwKHtuYW1lfSkgPT4gbmFtZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEltYWdlU2VydmVyUmVzcG9uc2Ugewo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZmlsdGVyIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvZmlsdGVyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEFwaVJlc3BvbnNlCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkZAo=</text>
+        <text encoding="base64">ICAgIG5hbWU6ICIvaG9tZS9hX3lhcm9zaGV2aWNoL3Byb2plY3RzL3NsaWRlX2FuYWx5c2lzX2FwaS9zbGlkZXMvb2xkIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
