@@ -133,10 +133,11 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556023047068">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="40" />
-        <mark key="." line="17" column="40" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556032481749">
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
@@ -304,6 +305,11 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="8" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.interface.ts" timestamp="1556031948998">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="8" />
@@ -449,7 +455,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>folders</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1381,7 +1387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>folders</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1390,34 +1396,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogc29saWQgdmFyKC0tdi1zZWNvbmRhcnktYmFzZSk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGlucHV0OiBWdWVDb21wb25lbnQgPSB0aGlzLiRyZWZzLmlucHV0Owo=</text>
+        <text encoding="base64">ICAgIG5hbWU6ICIvaG9tZS9hX3lhcm9zaGV2aWNoL3Byb2plY3RzL3NsaWRlX2FuYWx5c2lzX2FwaS9zbGlkZXMvb2xkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHJlZnMuaW5wdXQpOwo=</text>
+        <text encoding="base64">ICAgIGlzX2ZvbGRlcjogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbe2lzX2ZvbGRlcjogZmFsc2UsIG5hbWU6ICJvbGQvVENHQS1XQi1BODFSLTAxQS0wMS1UUzEuQTYzNjIwMzAtODQwNS00Qjk1LTkxMjgtOTk1NUU2N0E5RERDLnN2cyJ9XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGF0ZS5jaGF0cyA9IG1lc3NhZ2VzOwo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEltYWdlU2VydmVyUmVzcG9uc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU1lc3NhZ2VzKHN0YXRlLCBtZXNzYWdlczogTWVzc2FnZVR5cGVbXSkgewo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEFwaVJlc3BvbnNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ZGRkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoJ3VwZGF0ZU1lc3NhZ2VzJywgW10pOwo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogc29saWQgdmFyKC0tdi1zZWNvbmRhcnktYmFzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU1lc3NhZ2VzKHsgY29tbWl0IH0pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGlucHV0OiBWdWVDb21wb25lbnQgPSB0aGlzLiRyZWZzLmlucHV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
