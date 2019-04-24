@@ -133,12 +133,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556102444220">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556103875361">
         <mark key="'" line="42" column="102" />
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="80" column="51" />
-        <mark key="." line="80" column="51" />
-        <mark key="^" line="80" column="51" />
+        <mark key="[" line="82" column="59" />
+        <mark key="]" line="82" column="57" />
+        <mark key="." line="82" column="57" />
+        <mark key="^" line="82" column="57" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
