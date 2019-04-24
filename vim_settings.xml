@@ -133,12 +133,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556110496593">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556111751451">
         <mark key="'" line="42" column="102" />
-        <mark key="[" line="111" column="49" />
-        <mark key="]" line="111" column="3" />
-        <mark key="." line="111" column="3" />
-        <mark key="^" line="111" column="3" />
+        <mark key="[" line="61" column="48" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
+        <mark key="^" line="61" column="52" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
@@ -459,7 +459,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>name</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1391,7 +1391,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1400,34 +1400,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGx1Y2soJ25hbWUnKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRU1QVFkgfSBmcm9tICdyeGpzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFwKGl0ID0+IC5sb2coaXQsIDIpKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZm9ya0pvaW4gfSBmcm9tICdyeGpzL29ic2VydmFibGUvZm9ya0pvaW4nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAxKSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgW2ZvbGRlcnM6IE9ic2VydmFibGU8YW55PiwgaW1hZ2VzXSA9IHBhcnRpdGlvbigoeyBpc19mb2xkZXIgfSkgPT4gaXNfZm9sZGVyKShpdGVtcy5waXBlKAogICAgICAgICAgICBzd2l0Y2hNYXAoaXRzID0+IGZyb20oaXRzKSksCiAgICAgICAgKSk7CiAgICAgICAgaW1hZ2VzLnBpcGUocGx1Y2soJ25hbWUnKSwgc3dpdGNoTWFwKHRoaXMuZ2V0UHJldmlldykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbWJpbmVMYXRlc3QgPSBtb2R1bGRkZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwKHJlcyA9PiByZXMubWFwKHtuYW1lfSkgPT4gbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgc3dpdGNoTWFwKG5hbWVzID0+IGZvcmtKb2luKG5hbWVzLm1hcChuYW1lID0+IHRoaXMuZ2V0UHJldmlldyhuYW1lKSkpKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmlsdGVyIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvZmlsdGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgbWFwKHJlcyA9PiByZXMubWFwKCh7IG5hbWUgfSkgPT4gbmFtZSkpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gaW1hZ2VzLnBpcGUoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICIvaG9tZS9hX3lhcm9zaGV2aWNoL3Byb2plY3RzL3NsaWRlX2FuYWx5c2lzX2FwaS9zbGlkZXMvb2xkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCBuYW1lLCAnZ2V0UHJldmlldycsIHRoaXMpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
