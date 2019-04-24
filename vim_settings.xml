@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1553608844847">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556115396013">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+      </file>
       <file name="/stagdmservice2.public.ar_internal_metadata [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512988256">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,12 +139,12 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556111751451">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556114353041">
         <mark key="'" line="42" column="102" />
-        <mark key="[" line="61" column="48" />
-        <mark key="]" line="61" column="52" />
-        <mark key="." line="61" column="52" />
-        <mark key="^" line="61" column="52" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
@@ -212,6 +218,12 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.html" timestamp="1556115491293">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="47" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1556106566882">
         <mark key="[" line="0" column="0" />
       </file>
@@ -245,10 +257,15 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555600447883">
+      <file name="/Dummy.txt" timestamp="1556114558538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/similar-image.service.ts" timestamp="1556113690798">
+        <mark key="[" line="30" column="81" />
+        <mark key="]" line="30" column="81" />
+        <mark key="." line="30" column="81" />
       </file>
       <file name="/code.py" timestamp="1553771909638">
         <mark key="[" line="0" column="0" />
@@ -309,10 +326,11 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.interface.ts" timestamp="1556031948998">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.interface.ts" timestamp="1556113648667">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="15" column="51" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -322,6 +340,11 @@
       </file>
       <file name="/stagdmservice2.public.families [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513138144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/neural-network-evaluate.service.ts" timestamp="1556113700829">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="71" />
+        <mark key="." line="30" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1554887137887">
         <mark key="[" line="14" column="16" />
@@ -350,6 +373,11 @@
         <mark key="]" line="13" column="2" />
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.service.ts" timestamp="1556114511463">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="/stagdmservice2.public.images [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513174780">
         <mark key="[" line="0" column="0" />
@@ -459,7 +487,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>ngModelCdiwhange</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1391,7 +1419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>ngModelCdiwhange</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1400,34 +1428,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGx1Y2soJ25hbWUnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFwKGl0ID0+IC5sb2coaXQsIDIpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAxKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAzKSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgb2YgfSBmcm9tICdyeGpzL2ludGVybmFsL29ic2VydmFibGUvb2YnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgc3dpdGNoTWFwKG5hbWVzID0+IGZvcmtKb2luKG5hbWVzLm1hcChuYW1lID0+IHRoaXMuZ2V0UHJldmlldyhuYW1lKSkpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGx1Y2soJ25hbWUnKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgbWFwKHJlcyA9PiByZXMubWFwKCh7IG5hbWUgfSkgPT4gbmFtZSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFwKGl0ID0+IC5sb2coaXQsIDIpKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gaW1hZ2VzLnBpcGUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAxKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCBuYW1lLCAnZ2V0UHJldmlldycsIHRoaXMpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
