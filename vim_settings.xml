@@ -66,6 +66,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/uwsgi.ini" timestamp="1556192750489">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151802">
         <mark key="[" line="0" column="0" />
       </file>
@@ -542,8 +547,8 @@
       <jump line="99" column="26" filename="$USER_HOME$/projects/vebuin-ml-api/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1475,7 +1480,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PRODUCTION</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
