@@ -7,8 +7,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/hello.py" timestamp="1556206658737" />
-      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/start.sh" timestamp="1556209071439">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/start.sh" timestamp="1556210602580">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1550652374071">
         <mark key="[" line="0" column="0" />
@@ -101,10 +103,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b10079db-524c-4898-aa90-d9fccbf4abab/console.sql" timestamp="1554899514595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/uwsgi.ini" timestamp="1556206541435">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/uwsgi.ini" timestamp="1556211017941">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1555589582632">
         <mark key="[" line="31" column="0" />
@@ -227,7 +229,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/Dockerfile" timestamp="1556209230206">
+      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/Dockerfile" timestamp="1556210737077">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="9" />
         <mark key="^" line="23" column="9" />
@@ -266,7 +268,7 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1556200962910">
+      <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1556211290027">
         <mark key="'" line="99" column="26" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="93" column="34" />
@@ -289,8 +291,8 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="519" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/start.sh" timestamp="1556208626705">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/start.sh" timestamp="1556210320377">
+        <mark key="[" line="1" column="21" />
       </file>
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
         <mark key="[" line="0" column="0" />
@@ -320,7 +322,7 @@
         <mark key="^" line="6" column="59" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/Dockerfile" timestamp="1556200321695">
+      <file name="$USER_HOME$/projects/vebuin-ml-api/Dockerfile" timestamp="1556210891046">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
@@ -526,7 +528,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">O3NvY2tldCA9IDEyNy4wLjAuMTo1MDAwCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1467,34 +1469,34 @@
         <text>stage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">O3NvY2tldCA9IDEyNy4wLjAuMTo1MDAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q01EIFsidXdzZ2kgLS1pbmkgdXdzZ2kuaW5pIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L3RtcC8qCg==</text>
+        <text encoding="base64">Q01EIFsidXdzZ2kgLS1pbmkgdXdzZ2kuaW5pIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki5jc3YK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUbyBwcmV2ZW50IHN0b3JpbmcgZGV2L3RlbXBvcmFyeSBjb250YWluZXIgZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">L3RtcC8qCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
