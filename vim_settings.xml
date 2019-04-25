@@ -57,6 +57,9 @@
       <file name="$USER_HOME$/projects/slide_analysis_api/.gitignore" timestamp="1556021686235">
         <mark key="[" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/requirements.txt" timestamp="1556196942229">
+        <mark key="[" line="16" column="19" />
+      </file>
       <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145838">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,6 +95,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b10079db-524c-4898-aa90-d9fccbf4abab/console.sql" timestamp="1554899514595">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/uwsgi.ini" timestamp="1556196430650">
+        <mark key="[" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1555589582632">
         <mark key="[" line="31" column="0" />
@@ -285,6 +291,7 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="519" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/start.sh" timestamp="1556197110251" />
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,11 +327,11 @@
         <mark key="^" line="6" column="59" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/Dockerfile" timestamp="1556190474844">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/Dockerfile" timestamp="1556197731736">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="43" />
       </file>
       <file name="vim_settings.xml" timestamp="1554487246061">
         <mark key="[" line="0" column="0" />
@@ -334,13 +341,6 @@
       </file>
       <file name="/stagdmservice2.public.trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151854">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555599210277">
-        <mark key="x" line="7" column="23" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/data_properties.py" timestamp="1555314077585">
         <mark key="[" line="13" column="57" />
@@ -548,7 +548,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1480,7 +1480,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
