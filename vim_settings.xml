@@ -96,7 +96,7 @@
       <file name="/trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/previews/index.py" timestamp="1556120426582">
+      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/previews/index.py" timestamp="1556534552217">
         <mark key="'" line="36" column="53" />
         <mark key="[" line="36" column="18" />
         <mark key="]" line="36" column="51" />
@@ -117,11 +117,6 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1555589582632">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
         <mark key="[" line="64" column="8" />
       </file>
@@ -138,11 +133,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="25" column="23" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/.dockerignore" timestamp="1556189394772">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/organization-find-or-create/organization-find-or-create.component.html" timestamp="1529929254286">
         <mark key="[" line="11" column="19" />
