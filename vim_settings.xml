@@ -79,6 +79,12 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.component.ts" timestamp="1556535764694">
+        <mark key="[" line="37" column="73" />
+        <mark key="]" line="103" column="67" />
+        <mark key="^" line="103" column="67" />
+        <mark key="." line="103" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4_single_driver.html" timestamp="1553618069644">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="7" />
@@ -121,11 +127,11 @@
       <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.html" timestamp="1556534167557">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.html" timestamp="1556535873609">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145838">
         <mark key="[" line="0" column="0" />
