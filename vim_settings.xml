@@ -6,9 +6,9 @@
       <file name="/start_script.py" timestamp="1553608844847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556529825482">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556539998185">
         <mark key="'" line="66" column="49" />
-        <mark key="[" line="19" column="18" />
+        <mark key="[" line="27" column="5" />
         <mark key="]" line="19" column="60" />
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="60" />
@@ -140,11 +140,11 @@
       <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.html" timestamp="1556538817977">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.html" timestamp="1556538899137">
         <mark key="[" line="28" column="77" />
-        <mark key="]" line="28" column="77" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="28" column="77" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145838">
         <mark key="[" line="0" column="0" />
@@ -240,8 +240,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.html" timestamp="1556529461543">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.html" timestamp="1556539980336">
         <mark key="'" line="4" column="15" />
+        <mark key="[" line="7" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1556106566882">
         <mark key="[" line="0" column="0" />
@@ -318,6 +319,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556540156783">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="51" />
       </file>
       <file name="/i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151488">
         <mark key="[" line="0" column="0" />
@@ -500,7 +507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>Image</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1432,7 +1439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>Image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
