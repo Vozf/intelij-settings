@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1553608844847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556539998185">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556545192722">
         <mark key="'" line="66" column="49" />
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="19" column="60" />
-        <mark key="^" line="19" column="60" />
-        <mark key="." line="19" column="60" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/stagdmservice2.public.ar_internal_metadata [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553512988256">
         <mark key="[" line="0" column="0" />
@@ -112,8 +112,8 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556528126149">
-        <mark key="[" line="35" column="27" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556545098817">
+        <mark key="[" line="58" column="27" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
@@ -320,11 +320,11 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556542763253">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="17" column="51" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556545019153">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151488">
         <mark key="[" line="0" column="0" />
@@ -506,8 +506,8 @@
       <jump line="27" column="20" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ImagePreviewService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXIpOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1439,7 +1439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ImagePreviewService</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1448,34 +1448,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2FkZXJDb21wb25lbnR9IGZyb20gJy4uLy4uL3V0aWxzL2xvYWRlci9sb2FkZXIuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuPzogSW1hZ2VbXTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwLCBwYXJ0aXRpb24sIHRvQXJyYXksIG1lcmdlTWFwLCBtYXBUbyB9IGZyb20gJ3J4anMvb3BlcmF0b3JzJzsKaW1wb3J0IHsgSW1hZ2UsIEZpbGVBcGlSZXNwb25zZSwgRm9sZGVyQXBpUmVzcG9uc2UsIEltYWdlRm9sZGVyIH0gZnJvbSAnLi9pbWFnZS5pbnRlcmZhY2UnOwppbXBvcnQgeyBJbWFnZVNlcnZpY2UgfSBmcm9tICcuL2ltYWdlLnNlcnZpY2UnOwppbXBvcnQgeyBmcm9tIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vYnNlcnZhYmxlL2Zyb20nOwppbXBvcnQgeyBmb3JrSm9pbiB9IGZyb20gJ3J4anMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOiAoSW1hZ2VGb2xkZXIgfCBJbWFnZSlbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VNYXAoaW1hZ2UgPT4gdGhpcy5pbWFnZVNlcnZpY2UuZ2V0QmFzZTY0RnJvbUJsb2IoaW1hZ2UpKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJbWFnZUZvbGRlciBleHRlbmRzIEZpbGVBcGlSZXNwb25zZSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMb2FkZXJDb21wb25lbnR9IGZyb20gJy4uLy4uL3V0aWxzL2xvYWRlci9sb2FkZXIuY29tcG9uZW50JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuPzogSW1hZ2VbXTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBGb2xkZXJBcGlSZXNwb25zZSBleHRlbmRzIEZpbGVBcGlSZXNwb25zZSB7Cg==</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuOiAoSW1hZ2VGb2xkZXIgfCBJbWFnZSlbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJbWFnZUZvbGRlciBleHRlbmRzIEZpbGVBcGlSZXNwb25zZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
