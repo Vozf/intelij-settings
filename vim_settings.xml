@@ -320,10 +320,10 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556540156783">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="51" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556542763253">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
         <mark key="^" line="17" column="51" />
       </file>
       <file name="/i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151488">
@@ -507,7 +507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Image</text>
+        <text>ImagePreviewService</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1439,7 +1439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Image</text>
+        <text>ImagePreviewService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
