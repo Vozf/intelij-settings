@@ -131,10 +131,10 @@
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
         <mark key="[" line="64" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1556546442262">
+      <file name="/Python Console" timestamp="1556628510939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1556546634129">
+      <file name="/fragment.py" timestamp="1556628158617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -215,7 +215,7 @@
       <file name="/stagdmservice2.public.fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513147953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/precalculate.py" timestamp="1556546440931" />
+      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/precalculate.py" timestamp="1556627888722" />
       <file name="$USER_HOME$/projects/vlack_web/src/store/mutations.ts" timestamp="1555595364412">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -304,6 +304,12 @@
       <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/envs/docker-compose.dev.yml" timestamp="1556213522036">
         <mark key="[" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/descriptor_database_service/descriptor_database_read_service_class.py" timestamp="1556628522661">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1556211290027">
         <mark key="'" line="99" column="26" />
         <mark key="[" line="17" column="0" />
@@ -320,6 +326,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b8a895d-ca9f-4b2a-bbec-abe102a5e876/console.sql" timestamp="1554899543531">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/interface/slide_descriptor.py" timestamp="1556628431634" />
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_2_single_driver.html" timestamp="1554987371861">
         <mark key="'" line="13" column="66" />
         <mark key="[" line="13" column="47" />
@@ -346,8 +353,8 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/user-profile/shared/certificate-details/user-profile-certificate-details.interfaces.ts" timestamp="1530086962152">
         <mark key="[" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_service/setup.py" timestamp="1556546687180">
-        <mark key="[" line="4" column="15" />
+      <file name="$USER_HOME$/projects/slide_analysis_service/setup.py" timestamp="1556628551044">
+        <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
@@ -409,6 +416,9 @@
       <file name="/JavaScript Console" timestamp="1532951088067">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/descriptor_database_service/descriptor_database_read_service_class.py" timestamp="1556628544468">
+        <mark key="[" line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/tutorial-2-image-classifier/train.py" timestamp="1552901966136">
         <mark key="[" line="200" column="105" />
       </file>
@@ -424,7 +434,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556547370671">
+      <file name="/Dummy.txt" timestamp="1556628572945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -477,6 +487,7 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/search_service/search_service.py" timestamp="1556628446366" />
       <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/services/recalculate/__init__.py" timestamp="1556542538684">
         <mark key="[" line="0" column="76" />
         <mark key="]" line="0" column="70" />
