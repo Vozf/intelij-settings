@@ -69,6 +69,17 @@
       <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151802">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.component.html" timestamp="1556637745510">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.module.ts" timestamp="1556637695843">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
       <file name="/trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145859">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,6 +115,11 @@
       </file>
       <file name="/stagdmservice2.public.i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513165946">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.component.ts" timestamp="1556637748591">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.ts" timestamp="1556635909233">
         <mark key="[" line="24" column="5" />
@@ -263,11 +279,11 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556635783963">
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="63" column="42" />
-        <mark key="^" line="63" column="42" />
-        <mark key="." line="63" column="42" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556638046956">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/requests/requests.service.ts" timestamp="1529591270693">
         <mark key="[" line="7" column="0" />
@@ -281,6 +297,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="47" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/store/image/image-list/reducer.ts" timestamp="1556637461851">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
         <mark key="[" line="0" column="0" />
@@ -346,6 +367,12 @@
       </file>
       <file name="$USER_HOME$/projects/tutorial-2-image-classifier/train.py" timestamp="1552901966136">
         <mark key="[" line="200" column="105" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.reducer.ts" timestamp="1556637621113">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/projects/certemy_web/src/app/features/professional-support/professional-support.component.html" timestamp="1529910256160">
         <mark key="[" line="0" column="84" />
@@ -527,7 +554,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l information associated to this user profile will be permanently deleted.</text>
+        <text>diwscoreboardReducer</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1459,7 +1486,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l information associated to this user profile will be permanently deleted.</text>
+        <text>diwscoreboardReducer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1468,34 +1495,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlY3QsICdhcHAgc3Vic2NyaWJlZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">ICBvblNlbGVjdChyZWN0KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwLCBwYXJ0aXRpb24sIHRvQXJyYXksIG1lcmdlTWFwLCBtYXBUbyB9IGZyb20gJ3J4anMvb3BlcmF0b3JzJzsKaW1wb3J0IHsgSW1hZ2UsIEZpbGVBcGlSZXNwb25zZSwgRm9sZGVyQXBpUmVzcG9uc2UsIEltYWdlRm9sZGVyIH0gZnJvbSAnLi9pbWFnZS5pbnRlcmZhY2UnOwppbXBvcnQgeyBJbWFnZVNlcnZpY2UgfSBmcm9tICcuL2ltYWdlLnNlcnZpY2UnOwppbXBvcnQgeyBmcm9tIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vYnNlcnZhYmxlL2Zyb20nOwppbXBvcnQgeyBmb3JrSm9pbiB9IGZyb20gJ3J4anMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VNYXAoaW1hZ2UgPT4gdGhpcy5pbWFnZVNlcnZpY2UuZ2V0QmFzZTY0RnJvbUJsb2IoaW1hZ2UpKSwK</text>
+        <text encoding="base64">PCEtLTxhcHAtaW1hZ2UtaXRlbSAoc2VsZWN0KT0ib25TZWxlY3QoJGV2ZW50KSI+PC9hcHAtaW1hZ2UtaXRlbT4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2FkZXJDb21wb25lbnR9IGZyb20gJy4uLy4uL3V0aWxzL2xvYWRlci9sb2FkZXIuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">PCEtLVRoZSBjb250ZW50IGJlbG93IGlzIG9ubHkgYSBwbGFjZWhvbGRlciBhbmQgY2FuIGJlIHJlcGxhY2VkLi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuPzogSW1hZ2VbXTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICdAbmdyeC9zdG9yZSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOiAoSW1hZ2VGb2xkZXIgfCBJbWFnZSlbXTsK</text>
+        <text encoding="base64">ZGRkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
