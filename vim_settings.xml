@@ -156,12 +156,12 @@
       <file name="/stagdmservice2.public.i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513165946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" timestamp="1556797330144">
+      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" timestamp="1556805112829">
         <mark key="'" line="9" column="54" />
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="39" />
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="38" column="34" />
       </file>
       <file name="/a.sql" timestamp="1555584557466">
         <mark key="[" line="0" column="0" />
@@ -596,7 +596,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1528,7 +1528,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
