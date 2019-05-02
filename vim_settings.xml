@@ -62,12 +62,12 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/effects.ts" timestamp="1556648867101">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/effects.ts" timestamp="1556798130110">
         <mark key="'" line="24" column="46" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="8" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.interface.ts" timestamp="1556643851629">
         <mark key="[" line="2" column="0" />
@@ -157,10 +157,10 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/image-list-store.module.ts" timestamp="1556648769221">
-        <mark key="[" line="16" column="90" />
-        <mark key="]" line="16" column="90" />
-        <mark key="." line="16" column="90" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/image-list-store.module.ts" timestamp="1556798147997">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="72" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Message.vue" timestamp="1555503428561">
@@ -335,11 +335,11 @@
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/selectors.ts" timestamp="1556646482682">
         <mark key="[" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/actions.ts" timestamp="1556648638884">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/actions.ts" timestamp="1556798139614">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="22" column="32" />
-        <mark key="." line="22" column="29" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.scss" timestamp="1556529880517">
         <mark key="[" line="14" column="0" />
@@ -507,8 +507,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/slide_analysis_web/src/app/services/app-global-error-handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VMaXN0U2VydmljZSB9IGZyb20gJy4uLy4uL2NvbXBvbmVudHMvaW1hZ2UvaW1hZ2UtbGlzdC9pbWFnZS1saXN0LnNlcnZpY2UnOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1449,34 +1449,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwR2xvYmFsRXJyb3JoYW5kbGVyIH0gZnJvbSAnLi9zZXJ2aWNlcy9hcHAtZ2xvYmFsLWVycm9yLWhhbmRsZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VMaXN0U2VydmljZSB9IGZyb20gJy4uLy4uL2NvbXBvbmVudHMvaW1hZ2UvaW1hZ2UtbGlzdC9pbWFnZS1saXN0LnNlcnZpY2UnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlTGlzdFNlcnZpY2U6IEltYWdlTGlzdFNlcnZpY2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlUHJldmlld1NlcnZpY2U6IEltYWdlUHJldmlld1NlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlTGlzdFNlcnZpY2U6IEltYWdlTGlzdFNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9vcGVyYXRvcnMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwR2xvYmFsRXJyb3JoYW5kbGVyIH0gZnJvbSAnLi9zZXJ2aWNlcy9hcHAtZ2xvYmFsLWVycm9yLWhhbmRsZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tUHJvbWlzZSh0aGlzLm1vZGFsU2VydmljZS5vcGVuKEltYWdlTGlzdFJlY2FsY3VsYXRlTW9kYWxDb21wb25lbnQsIHsgc2l6ZTogJ2xnJyB9KS5yZXN1bHQpLnBpcGUoCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlTGlzdFNlcnZpY2U6IEltYWdlTGlzdFNlcnZpY2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlUHJldmlld1NlcnZpY2U6IEltYWdlUHJldmlld1NlcnZpY2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbWFnZUxpc3RTdG9yZUFjdGlvbnMuUmVjYWxjdWxhdGUoZm9sZGVyKSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9vcGVyYXRvcnMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFwKCgpID0+IHRoaXMuc3RvcmUkLmRpc3BhdGNoKAo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tUHJvbWlzZSh0aGlzLm1vZGFsU2VydmljZS5vcGVuKEltYWdlTGlzdFJlY2FsY3VsYXRlTW9kYWxDb21wb25lbnQsIHsgc2l6ZTogJ2xnJyB9KS5yZXN1bHQpLnBpcGUoCiAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
