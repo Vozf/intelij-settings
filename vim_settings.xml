@@ -12,7 +12,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550652374071">
+      <file name="/a.dummy" timestamp="1556813623639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/views/Chat.vue" timestamp="1555575589303">
@@ -45,6 +45,12 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/interface/slide_descriptor.py" timestamp="1556813085763">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="62" />
+      </file>
       <file name="/stagdmservice2.public.oauth_access_grants [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +59,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/utils/tile_stream_class.py" timestamp="1556812996936">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList.vue" timestamp="1554484781775">
         <mark key="[" line="5" column="23" />
@@ -125,6 +137,13 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindowService.ts" timestamp="1555594596191">
+        <mark key="'" line="27" column="22" />
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/image_resize_utils.py" timestamp="1551199757477">
         <mark key="[" line="64" column="8" />
       </file>
@@ -156,12 +175,12 @@
       <file name="/stagdmservice2.public.i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513165946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" timestamp="1556805112829">
+      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" timestamp="1556815024493">
         <mark key="'" line="9" column="54" />
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="34" />
-        <mark key="^" line="38" column="34" />
-        <mark key="." line="38" column="34" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="43" column="16" />
       </file>
       <file name="/a.sql" timestamp="1555584557466">
         <mark key="[" line="0" column="0" />
@@ -184,10 +203,24 @@
         <mark key="^" line="10" column="71" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/splitting_service/splitting_service.py" timestamp="1556813058930">
+        <mark key="'" line="39" column="36" />
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="40" />
+        <mark key="^" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/visual-search/core/utils/serialization/deserialize.py" timestamp="1548315640073">
         <mark key="[" line="49" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/descriptor_database_service/descriptor_database_write_service_class.py" timestamp="1556547315928" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555600510622">
+        <mark key="'" line="20" column="63" />
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/descriptor_database_service/descriptor_database_write_service_class.py" timestamp="1556812761656" />
       <file name="/i_beacons [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151488">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,6 +235,13 @@
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/getters.ts" timestamp="1555590102439">
+        <mark key="'" line="8" column="41" />
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="8" column="54" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -334,12 +374,19 @@
       <file name="/stagdmservice2.public.drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/precalculate.py" timestamp="1556546676861">
+      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/precalculate.py" timestamp="1556814889575">
         <mark key="'" line="14" column="68" />
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="64" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="14" column="64" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555600225890">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/docker-compose.yml" timestamp="1556212325116">
         <mark key="[" line="3" column="8" />
@@ -352,6 +399,7 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/tqdm/_tqdm.py" timestamp="1556814514251" />
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
       </file>
@@ -404,6 +452,13 @@
       <file name="$USER_HOME$/projects/certemy_api/config/routes/organization_old.js" timestamp="1529928970409">
         <mark key="[" line="62" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1555587941229">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="24" column="51" />
+      </file>
       <file name="/stagdmservice2.public.linked_drivers [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -428,7 +483,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556628572945">
+      <file name="/Dummy.txt" timestamp="1556814896034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -457,7 +512,7 @@
       <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/__init__.py" timestamp="1556545262849">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/requirements.txt" timestamp="1556649968315">
+      <file name="$USER_HOME$/projects/slide_analysis_api/requirements.txt" timestamp="1556813558149">
         <mark key="[" line="3" column="62" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/public/index.html" timestamp="1554485334533">
@@ -472,6 +527,13 @@
       <file name="$USER_HOME$/projects/certemy_web/src/app/components/organization-users/invite-user/invite-employer/invite-user-employer.component.html" timestamp="1530087231570">
         <mark key="[" line="14" column="114" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/store.types.ts" timestamp="1555594525032">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/plugins/vuetify.ts" timestamp="1555599496428">
         <mark key="[" line="5" column="19" />
       </file>
@@ -485,6 +547,13 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/search_service/search_service.py" timestamp="1556628446366" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/store.ts" timestamp="1555581467527">
+        <mark key="'" line="12" column="57" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/services/recalculate/__init__.py" timestamp="1556542538684">
         <mark key="[" line="0" column="76" />
         <mark key="]" line="0" column="70" />
@@ -493,7 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="71" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="130" column="72" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="113" column="4" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="112" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
@@ -593,10 +661,11 @@
       <jump line="16" column="27" filename="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/precalculate.py" />
       <jump line="21" column="54" filename="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" />
       <jump line="14" column="68" filename="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/precalculate.py" />
+      <jump line="39" column="36" filename="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/splitting_service/splitting_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>l</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1528,7 +1597,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
@@ -1537,34 +1606,34 @@
         <text>stage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4ICsgeQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS51cGRhdGUobikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGFkZCh4LCB5KToK</text>
+        <text encoding="base64">IyBmcm9tIGNlbGVyeSBpbXBvcnQgQ2VsZXJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcC50YXNrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBAYXBwLnRhc2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwID0gQ2VsZXJ5KCd0YXNrcycsIGJyb2tlcj0ncmVkaXM6Ly9sb2NhbGhvc3QnKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnd29yayBpcyBjb21wbGV0ZScK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IENlbGVyeQo=</text>
+        <text encoding="base64">ICAgICMgcmVjYWxjdWxhdGVfZm9sZGVyKHBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBhdGgsICdhaGEnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
