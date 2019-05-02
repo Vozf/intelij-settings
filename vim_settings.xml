@@ -39,6 +39,11 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item-resolver.service.ts" timestamp="1556817220141">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.store.interface.ts" timestamp="1556643825693">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -221,12 +226,12 @@
         <mark key="." line="1" column="64" />
         <mark key="^" line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556808186843">
-        <mark key="'" line="69" column="49" />
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="51" column="38" />
-        <mark key="^" line="51" column="38" />
-        <mark key="." line="51" column="38" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556818149343">
+        <mark key="'" line="65" column="49" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="38" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/.idea/httpRequests/http-requests-log.http" timestamp="1553611105826">
         <mark key="[" line="89" column="19" />
@@ -344,9 +349,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/selectors.ts" timestamp="1556646482682">
-        <mark key="[" line="4" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/actions.ts" timestamp="1556798139614">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -364,7 +366,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556649171978">
+      <file name="/Dummy.txt" timestamp="1556818067563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -392,17 +394,16 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556812037465">
-        <mark key="'" line="15" column="73" />
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="21" column="45" />
-        <mark key="." line="21" column="41" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556817578868">
+        <mark key="'" line="13" column="73" />
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/package.json" timestamp="1556806491823">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/package.json" timestamp="1556817168419">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/reducer.ts" timestamp="1556646915710">
         <mark key="[" line="10" column="0" />
@@ -422,11 +423,11 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556812581056">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="4" column="14" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556817674091">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -532,8 +533,8 @@
       <jump line="26" column="58" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1474,34 +1475,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVyJC5kZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm1vZGFsLmNsb3NlKCdvaycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnJlY2FsYyQubmV4dCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc3dpdGNoTWFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3dpdGNoTWFwJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uT2soKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaW50ZXJ2YWwgfSBmcm9tICdyeGpzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmV4YW1wbGUtdHJlZS1pbnZpc2libGUgewogIGRpc3BsYXk6IG5vbmU7Cn0KCi5leGFtcGxlLXRyZWUgdWwsCi5leGFtcGxlLXRyZWUgbGkgewogIG1hcmdpbi10b3A6IDA7CiAgbWFyZ2luLWJvdHRvbTogMDsKICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7Cn0KCi5pbWFnZS1uYW1lIHsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5pbWFnZS1jb250YWluZXIgewogIHdpZHRoOiAxMDAlOwp9CgppbWcgewogIHdpZHRoOiAxMDAlCn0KCi5tYXQtaWNvbi1ydGwtY2FjaGVkIHsKICBtYXJnaW4tbGVmdDogYXV0bzsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgouaW1hZ2UtbmFtZSB7CiAgdGV4dC1hbGlnbjogY2VudGVyOwp9CgouaW1hZ2UtY29udGFpbmVyIHsKICB3aWR0aDogMTAwJTsKfQoKaW1nIHsKICB3aWR0aDogMTAwJQp9CgoubWF0LWljb24tcnRsLWNhY2hlZCB7CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cn0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm1vZGFsLmNsb3NlKCdvaycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnJlY2FsYyQubmV4dCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
