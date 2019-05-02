@@ -62,12 +62,12 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/effects.ts" timestamp="1556798130110">
-        <mark key="'" line="24" column="46" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/effects.ts" timestamp="1556803671400">
+        <mark key="'" line="23" column="46" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.interface.ts" timestamp="1556643851629">
         <mark key="[" line="2" column="0" />
@@ -139,11 +139,18 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" timestamp="1556635941293">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.html" timestamp="1556808598022">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="70" />
+        <mark key="^" line="8" column="70" />
+        <mark key="." line="8" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" timestamp="1556807953568">
+        <mark key="'" line="26" column="58" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555600510622">
         <mark key="[" line="1" column="46" />
@@ -156,6 +163,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="9" column="39" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.scss" timestamp="1556808644410">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/image-list-store.module.ts" timestamp="1556798147997">
         <mark key="[" line="8" column="0" />
@@ -203,18 +215,18 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.html" timestamp="1556636454496">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="74" />
-        <mark key="." line="9" column="74" />
-        <mark key="^" line="9" column="74" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.html" timestamp="1556808216268">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="1" column="64" />
+        <mark key="^" line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556649148790">
-        <mark key="'" line="72" column="49" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556808186843">
+        <mark key="'" line="69" column="49" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="38" />
+        <mark key="^" line="51" column="38" />
+        <mark key="." line="51" column="38" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/.idea/httpRequests/http-requests-log.http" timestamp="1553611105826">
         <mark key="[" line="89" column="19" />
@@ -276,11 +288,11 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556647114977">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="54" column="22" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556807696745">
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1556537201147">
         <mark key="'" line="26" column="20" />
@@ -302,6 +314,11 @@
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.scss" timestamp="1556808629177">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555600225890">
         <mark key="[" line="1" column="22" />
@@ -380,10 +397,17 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556796663739">
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556807320887">
+        <mark key="'" line="15" column="73" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/package.json" timestamp="1556806491823">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/reducer.ts" timestamp="1556646915710">
         <mark key="[" line="10" column="0" />
@@ -403,10 +427,14 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556808382060">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="2" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
-      <jump line="274" column="40" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="0" column="4" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="0" column="0" filename="/Dummy.txt" />
@@ -505,10 +533,12 @@
       <jump line="24" column="46" filename="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/effects.ts" />
       <jump line="2" column="50" filename="$USER_HOME$/projects/slide_analysis_web/src/app/services/app-global-error-handler.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/slide_analysis_web/src/app/services/app-global-error-handler.ts" />
+      <jump line="13" column="73" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" />
+      <jump line="26" column="58" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VMaXN0U2VydmljZSB9IGZyb20gJy4uLy4uL2NvbXBvbmVudHMvaW1hZ2UvaW1hZ2UtbGlzdC9pbWFnZS1saXN0LnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">LmV4YW1wbGUtdHJlZS1pbnZpc2libGUgewogIGRpc3BsYXk6IG5vbmU7Cn0KCi5leGFtcGxlLXRyZWUgdWwsCi5leGFtcGxlLXRyZWUgbGkgewogIG1hcmdpbi10b3A6IDA7CiAgbWFyZ2luLWJvdHRvbTogMDsKICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7Cn0KCi5pbWFnZS1uYW1lIHsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5pbWFnZS1jb250YWluZXIgewogIHdpZHRoOiAxMDAlOwp9CgppbWcgewogIHdpZHRoOiAxMDAlCn0KCi5tYXQtaWNvbi1ydGwtY2FjaGVkIHsKICBtYXJnaW4tbGVmdDogYXV0bzsKfQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1440,7 +1470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1449,34 +1479,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VMaXN0U2VydmljZSB9IGZyb20gJy4uLy4uL2NvbXBvbmVudHMvaW1hZ2UvaW1hZ2UtbGlzdC9pbWFnZS1saXN0LnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">LmV4YW1wbGUtdHJlZS1pbnZpc2libGUgewogIGRpc3BsYXk6IG5vbmU7Cn0KCi5leGFtcGxlLXRyZWUgdWwsCi5leGFtcGxlLXRyZWUgbGkgewogIG1hcmdpbi10b3A6IDA7CiAgbWFyZ2luLWJvdHRvbTogMDsKICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7Cn0KCi5pbWFnZS1uYW1lIHsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5pbWFnZS1jb250YWluZXIgewogIHdpZHRoOiAxMDAlOwp9CgppbWcgewogIHdpZHRoOiAxMDAlCn0KCi5tYXQtaWNvbi1ydGwtY2FjaGVkIHsKICBtYXJnaW4tbGVmdDogYXV0bzsKfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgouaW1hZ2UtbmFtZSB7CiAgdGV4dC1hbGlnbjogY2VudGVyOwp9CgouaW1hZ2UtY29udGFpbmVyIHsKICB3aWR0aDogMTAwJTsKfQoKaW1nIHsKICB3aWR0aDogMTAwJQp9CgoubWF0LWljb24tcnRsLWNhY2hlZCB7CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlTGlzdFNlcnZpY2U6IEltYWdlTGlzdFNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwR2xvYmFsRXJyb3JoYW5kbGVyIH0gZnJvbSAnLi9zZXJ2aWNlcy9hcHAtZ2xvYmFsLWVycm9yLWhhbmRsZXInOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlTGlzdFNlcnZpY2U6IEltYWdlTGlzdFNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGltYWdlUHJldmlld1NlcnZpY2U6IEltYWdlUHJldmlld1NlcnZpY2UsCg==</text>
+        <text encoding="base64">LmV4YW1wbGUtdHJlZSBsaSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9vcGVyYXRvcnMnOwo=</text>
+        <text encoding="base64">LmV4YW1wbGUtdHJlZSB1bCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tUHJvbWlzZSh0aGlzLm1vZGFsU2VydmljZS5vcGVuKEltYWdlTGlzdFJlY2FsY3VsYXRlTW9kYWxDb21wb25lbnQsIHsgc2l6ZTogJ2xnJyB9KS5yZXN1bHQpLnBpcGUoCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSksCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
