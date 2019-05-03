@@ -197,12 +197,12 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556881597569">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556882960782">
         <mark key="'" line="31" column="64" />
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1555579996060">
         <mark key="[" line="16" column="19" />
@@ -283,11 +283,11 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.html" timestamp="1556812495350">
-        <mark key="[" line="10" column="100" />
-        <mark key="]" line="10" column="102" />
-        <mark key="^" line="10" column="102" />
-        <mark key="." line="10" column="102" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.html" timestamp="1556882833302">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" timestamp="1556807953568">
         <mark key="'" line="26" column="58" />
@@ -336,11 +336,12 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556817578868">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556882443360">
         <mark key="'" line="13" column="73" />
-        <mark key="[" line="18" column="57" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.scss" timestamp="1556808644410">
         <mark key="[" line="0" column="0" />
@@ -411,11 +412,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556881652403">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-        <mark key="^" line="29" column="38" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556882512210">
+        <mark key="'" line="30" column="30" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.service.ts" timestamp="1556114511463">
         <mark key="[" line="4" column="9" />
@@ -430,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/projects/certemy_web/src/app/components/dashboard/test-registration-certification/test-registration-certification.component.ts" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="21" column="1" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" />
       <jump line="5" column="36" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" />
@@ -530,10 +531,11 @@
       <jump line="13" column="73" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" />
       <jump line="26" column="58" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" />
       <jump line="28" column="64" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" />
+      <jump line="30" column="30" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1465,7 +1467,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">LnBpcGUodGFwKGl0ID0+IGNvbnNvbGUubG9nKGl0LCAtMSkpKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1480,28 +1482,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVyJC5kZAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVyJC5kZAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3dpdGNoTWFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3dpdGNoTWFwJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW50ZXJ2YWwgfSBmcm9tICdyeGpzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgc3dpdGNoTWFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3dpdGNoTWFwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaW50ZXJ2YWwgfSBmcm9tICdyeGpzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm1vZGFsLmNsb3NlKCdvaycpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
