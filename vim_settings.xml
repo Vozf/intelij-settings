@@ -33,11 +33,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/services/recalculate/index.py" timestamp="1556816034552">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/services/recalculate/index.py" timestamp="1556884585397">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+        <mark key="." line="11" column="52" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/actions.ts" timestamp="1555595350115">
         <mark key="[" line="5" column="0" />
@@ -105,8 +105,10 @@
       <file name="/stagdmservice2.public.oauth_access_tokens [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/.gitignore" timestamp="1556021686235">
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/projects/slide_analysis_api/.gitignore" timestamp="1556883609275">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/requirements.txt" timestamp="1556196942229">
         <mark key="[" line="16" column="19" />
@@ -251,12 +253,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" timestamp="1556882198022">
-        <mark key="'" line="59" column="39" />
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="16" />
-        <mark key="^" line="56" column="16" />
-        <mark key="." line="56" column="16" />
+      <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/recalculate/index.py" timestamp="1556884193761">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="55" column="16" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/a.sql" timestamp="1555584557466">
         <mark key="[" line="0" column="0" />
@@ -386,7 +387,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/precalculate.py" timestamp="1556627888722" />
+      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/precalculate.py" timestamp="1556883116169">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/mutations.ts" timestamp="1555595364412">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -712,7 +718,7 @@
       <file name="/models.ipynb" timestamp="1553875942369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556818067563">
+      <file name="/Dummy.txt" timestamp="1556884173164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -928,7 +934,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBzbGVlcCg0KQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1860,7 +1866,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1869,34 +1875,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBzbGVlcCg0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVyJC5kZAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBfIGluIFRxZG1TcHkoWzEsMiwzLDRdKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3dpdGNoTWFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3dpdGNoTWFwJzsK</text>
+        <text encoding="base64">LnJlY2FsY3VsYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW50ZXJ2YWwgfSBmcm9tICdyeGpzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVyJC5kZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm1vZGFsLmNsb3NlKCdvaycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc3dpdGNoTWFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3dpdGNoTWFwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnJlY2FsYyQubmV4dCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW50ZXJ2YWwgfSBmcm9tICdyeGpzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
