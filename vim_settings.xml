@@ -72,6 +72,11 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/envs/docker-compose.stage.yml" timestamp="1556877531482">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/stagdmservice2.public.drivers_fit_belts [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553513125253">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,11 +104,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/envs/docker-compose.prod.yml" timestamp="1556525857165">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="5" column="20" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/envs/docker-compose.prod.yml" timestamp="1556877523043">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/stagdmservice2.public.mimamori_auths [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1553689151802">
         <mark key="[" line="0" column="0" />
@@ -338,8 +343,11 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/envs/docker-compose.dev.yml" timestamp="1556213522036">
-        <mark key="[" line="5" column="20" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/envs/docker-compose.dev.yml" timestamp="1556877518623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/descriptor_database_service/descriptor_database_read_service_class.py" timestamp="1556628522661">
         <mark key="[" line="22" column="30" />
@@ -665,7 +673,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>mywebserver</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1597,7 +1605,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>mywebserver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
