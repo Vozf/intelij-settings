@@ -3,6 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556818149343">
+        <mark key="'" line="65" column="49" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/.idea/httpRequests/http-requests-log.http" timestamp="1553611105826">
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="19" />
+        <mark key="^" line="89" column="24" />
+        <mark key="." line="89" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/.prettierrc" timestamp="1554486838093">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.selectors.ts" timestamp="1556643808550">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -21,17 +40,53 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/data_trasnforms.py" timestamp="1554887112794">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store.ts" timestamp="1554739213467">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/actions.ts" timestamp="1555595350115">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/index.ts" timestamp="1556644981364">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/store.interface.ts" timestamp="1555337468555">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/Chat.vue" timestamp="1554480015349">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.component.ts" timestamp="1556535764694">
+        <mark key="[" line="36" column="73" />
+        <mark key="]" line="102" column="67" />
+        <mark key="^" line="102" column="67" />
+        <mark key="." line="102" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.scss" timestamp="1556537719306">
+        <mark key="[" line="172" column="24" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4_single_driver.html" timestamp="1553618069644">
         <mark key="[" line="6" column="9" />
@@ -49,17 +104,56 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/index.ts" timestamp="1556645248639">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/models.py" timestamp="1553769586052">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/.gitignore" timestamp="1553789179853">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556807696745">
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="56" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1556537201147">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="47" column="73" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList.vue" timestamp="1554484781775">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="23" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.actions.ts" timestamp="1556643001852">
+        <mark key="'" line="6" column="42" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/services/app-global-error-handler.ts" timestamp="1556797219161">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.html" timestamp="1556538899137">
         <mark key="[" line="28" column="77" />
@@ -91,12 +185,36 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="28" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555600225890">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/root-state.ts" timestamp="1556645041723">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556643200140">
         <mark key="'" line="41" column="102" />
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1555579996060">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/forms.py" timestamp="1553619575490">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/my-feature-store/selectors.ts" timestamp="1556644506570">
         <mark key="[" line="9" column="47" />
@@ -115,11 +233,27 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555599210277">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/root-store.module.ts" timestamp="1556645115197">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/actions.ts" timestamp="1556798139614">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.scss" timestamp="1556529880517">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.component.ts" timestamp="1556637748591">
         <mark key="[" line="9" column="0" />
@@ -137,6 +271,12 @@
         <mark key="]" line="24" column="18" />
         <mark key="^" line="24" column="18" />
         <mark key="." line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.reducer.ts" timestamp="1556643790022">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/plugins/updateCurrentChat.ts" timestamp="1555595146346">
         <mark key="[" line="4" column="42" />
@@ -157,11 +297,33 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="/Dummy.txt" timestamp="1556818067563">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/similar-image.service.ts" timestamp="1556113690798">
+        <mark key="[" line="30" column="81" />
+        <mark key="]" line="30" column="81" />
+        <mark key="." line="30" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1555600106033">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1555600510622">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat.vue" timestamp="1554482478921">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556545019153">
         <mark key="[" line="4" column="0" />
@@ -169,10 +331,33 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/tsconfig.json" timestamp="1554477571778">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556817578868">
+        <mark key="'" line="13" column="73" />
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.scss" timestamp="1556808644410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/package.json" timestamp="1556817168419">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/reducer.ts" timestamp="1556646915710">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/image-list-store.module.ts" timestamp="1556798147997">
         <mark key="[" line="8" column="0" />
@@ -185,6 +370,12 @@
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1556537532147">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -209,6 +400,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1555580762958">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/mutations.ts" timestamp="1555595364412">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -225,209 +422,6 @@
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="64" />
         <mark key="^" line="1" column="64" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.ts" timestamp="1556818149343">
-        <mark key="'" line="65" column="49" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="38" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/.idea/httpRequests/http-requests-log.http" timestamp="1553611105826">
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="89" column="19" />
-        <mark key="^" line="89" column="24" />
-        <mark key="." line="89" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/.prettierrc" timestamp="1554486838093">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/data_trasnforms.py" timestamp="1554887112794">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store.ts" timestamp="1554739213467">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/index.ts" timestamp="1556644981364">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/Chat.vue" timestamp="1554480015349">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.component.ts" timestamp="1556535764694">
-        <mark key="[" line="36" column="73" />
-        <mark key="]" line="102" column="67" />
-        <mark key="^" line="102" column="67" />
-        <mark key="." line="102" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.scss" timestamp="1556537719306">
-        <mark key="[" line="172" column="24" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/index.ts" timestamp="1556645248639">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/models.py" timestamp="1553769586052">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556807696745">
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="56" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1556537201147">
-        <mark key="'" line="26" column="20" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="47" column="73" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.actions.ts" timestamp="1556643001852">
-        <mark key="'" line="6" column="42" />
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="6" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/services/app-global-error-handler.ts" timestamp="1556797219161">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555600225890">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/root-state.ts" timestamp="1556645041723">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1555579996060">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/forms.py" timestamp="1553619575490">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="6" column="59" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/NewMessage.vue" timestamp="1555599210277">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/actions.ts" timestamp="1556798139614">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="22" column="32" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.component.scss" timestamp="1556529880517">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.reducer.ts" timestamp="1556643790022">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556818067563">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/similar-image.service.ts" timestamp="1556113690798">
-        <mark key="[" line="30" column="81" />
-        <mark key="]" line="30" column="81" />
-        <mark key="." line="30" column="81" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1555600106033">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat.vue" timestamp="1554482478921">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/tsconfig.json" timestamp="1554477571778">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.service.ts" timestamp="1556817578868">
-        <mark key="'" line="13" column="73" />
-        <mark key="[" line="18" column="57" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/package.json" timestamp="1556817168419">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/image-list-store/reducer.ts" timestamp="1556646915710">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1556537532147">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/router.ts" timestamp="1555580762958">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556817674091">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
       </file>
     </filemarks>
     <jumps>
