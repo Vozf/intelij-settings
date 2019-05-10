@@ -83,11 +83,11 @@
         <mark key="^" line="101" column="67" />
         <mark key="." line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.scss" timestamp="1556537719306">
-        <mark key="[" line="172" column="24" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="14" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.scss" timestamp="1557497668220">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_4_single_driver.html" timestamp="1553618069644">
         <mark key="[" line="6" column="9" />
@@ -177,11 +177,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.component.html" timestamp="1556637745510">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/app.module.ts" timestamp="1556797256879">
         <mark key="[" line="1" column="9" />
@@ -375,11 +370,11 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1556537532147">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1557497916839">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="34" column="138" />
+        <mark key="^" line="34" column="138" />
+        <mark key="." line="34" column="138" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -539,7 +534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1471,7 +1466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
