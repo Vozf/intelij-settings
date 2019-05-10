@@ -10,6 +10,11 @@
         <mark key="^" line="43" column="38" />
         <mark key="." line="43" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.module.ts" timestamp="1557504429342">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vebuin-ml-api/.idea/httpRequests/http-requests-log.http" timestamp="1553611105826">
         <mark key="[" line="89" column="19" />
         <mark key="]" line="89" column="19" />
@@ -123,18 +128,18 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556807696745">
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="56" column="22" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1557504647883">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1557501093566">
-        <mark key="'" line="26" column="20" />
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="60" column="99" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1557503207317">
+        <mark key="'" line="55" column="42" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList.vue" timestamp="1554484781775">
         <mark key="[" line="5" column="23" />
@@ -195,6 +200,13 @@
         <mark key="]" line="3" column="40" />
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.module.ts" timestamp="1557504563022">
+        <mark key="'" line="12" column="46" />
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="35" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" timestamp="1556882960782">
         <mark key="'" line="31" column="64" />
@@ -258,6 +270,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list.module.ts" timestamp="1557504128473">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list-tree.component.ts" timestamp="1556635909233">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="5" />
@@ -295,7 +313,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556894453961">
+      <file name="/Dummy.txt" timestamp="1557504659864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -370,11 +388,11 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1557500971182">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="34" column="138" />
-        <mark key="^" line="34" column="138" />
-        <mark key="." line="34" column="138" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1557503175639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/node_modules/vue-cli-plugin-vuetify/vue.config.js" timestamp="1554477306436">
         <mark key="[" line="2" column="18" />
@@ -382,6 +400,7 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/index.html" timestamp="1557503457783" />
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/neural-network-evaluate.service.ts" timestamp="1556533314580">
         <mark key="[" line="51" column="29" />
         <mark key="]" line="51" column="29" />
@@ -431,8 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="21" column="1" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" />
       <jump line="5" column="36" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.guard.ts" />
       <jump line="38" column="75" filename="$USER_HOME$/projects/certemy_web/src/app/pages/professional/certificates/certificate-details/certificate-details.module.ts" />
       <jump line="14" column="33" filename="$USER_HOME$/projects/certemy_web/src/app/pages/imposer/certification/certification.module.ts" />
@@ -531,10 +548,12 @@
       <jump line="26" column="58" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-modal/image-list-recalculate-modal.component.ts" />
       <jump line="28" column="64" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-preview.service.ts" />
       <jump line="30" column="30" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" />
+      <jump line="55" column="42" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" />
+      <jump line="12" column="46" filename="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTmV1cmFsTmV0d29ya0V2YWx1YXRlU2VydmljZSB9IGZyb20gJy4vbmV1cmFsLW5ldHdvcmstZXZhbHVhdGUuc2VydmljZSc7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1466,7 +1485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1475,34 +1494,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgTmV1cmFsTmV0d29ya0V2YWx1YXRlU2VydmljZSB9IGZyb20gJy4vbmV1cmFsLW5ldHdvcmstZXZhbHVhdGUuc2VydmljZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvbXVsdGljYXN0JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2ltaWxhckltYWdlU2VydmljZSB9IGZyb20gJy4vc2ltaWxhci1pbWFnZS5zZXJ2aWNlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb2FkaW5nRXJyb3IkID0gbmV3IEJlaGF2aW9yU3ViamVjdDxib29sZWFuPihmYWxzZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VTZXJ2aWNlIH0gZnJvbSAnLi9pbWFnZS5zZXJ2aWNlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VQcmV2aWV3U2VydmljZSB9IGZyb20gJy4vaW1hZ2UtcHJldmlldy5zZXJ2aWNlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZVByZXZpZXdTZXJ2aWNlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VMaXN0U2VydmljZSB9IGZyb20gJy4vaW1hZ2UtbGlzdC9pbWFnZS1saXN0LnNlcnZpY2UnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
