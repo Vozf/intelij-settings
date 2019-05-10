@@ -77,8 +77,8 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.component.ts" timestamp="1556895124923">
-        <mark key="[" line="59" column="8" />
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-display/image-display.component.ts" timestamp="1557501028953">
+        <mark key="[" line="85" column="16" />
         <mark key="]" line="59" column="8" />
         <mark key="^" line="101" column="67" />
         <mark key="." line="59" column="8" />
@@ -129,12 +129,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1556894898372">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1557501093566">
         <mark key="'" line="26" column="20" />
-        <mark key="[" line="84" column="54" />
-        <mark key="]" line="84" column="54" />
-        <mark key="." line="84" column="54" />
-        <mark key="^" line="47" column="73" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="60" column="99" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList.vue" timestamp="1554484781775">
         <mark key="[" line="5" column="23" />
@@ -370,7 +370,7 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1557499387191">
+      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.html" timestamp="1557500971182">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="34" column="138" />
         <mark key="^" line="34" column="138" />
@@ -534,7 +534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1466,7 +1466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1475,34 +1475,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvbXVsdGljYXN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvbXVsdGljYXN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgc3RhcnRXaXRoIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvc3RhcnRXaXRoJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb2FkaW5nRXJyb3IkID0gbmV3IEJlaGF2aW9yU3ViamVjdDxib29sZWFuPihmYWxzZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBsb2FkaW5nRXJyb3IkID0gbmV3IEJlaGF2aW9yU3ViamVjdDxib29sZWFuPihmYWxzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVyJC5kZAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
