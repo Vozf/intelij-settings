@@ -541,10 +541,10 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1557752139409">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/app.py" timestamp="1557757600140">
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="46" column="48" />
+        <mark key="." line="46" column="48" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.module.ts" timestamp="1556807696745">
         <mark key="[" line="43" column="43" />
@@ -604,6 +604,12 @@
         <mark key="]" line="43" column="24" />
         <mark key="^" line="43" column="14" />
         <mark key="." line="43" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/translation/babel.cfg" timestamp="1557757989562">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1555600225890">
         <mark key="'" line="21" column="0" />
@@ -938,8 +944,8 @@
       <jump line="6" column="48" filename="$USER_HOME$/projects/vebuin-ml-api/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1880,34 +1886,34 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwLnJlZ2lzdGVyX2JsdWVwcmludCh0ZXN0X2Zvcm1zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHRlbnNpb25zPWppbmphMi5leHQuYXV0b2VzY2FwZSxqaW5qYTIuZXh0LndpdGhfCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbamluamEyOiAqKi90ZW1wbGF0ZXMvKiouaHRtXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3B5dGhvbiAxPSIqKi5weSIgbGFuZ3VhZ2U9IjoiXVsvcHl0aG9uXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY2VuYXJpb3MgaW1wb3J0IFNjZW5hcmlvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IEFsZXJ0TW9kZWxzCg==</text>
+        <text encoding="base64">YXBwLnJlZ2lzdGVyX2JsdWVwcmludCh0ZXN0X2Zvcm1zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmb3JtcyBpbXBvcnQgc2NlbmFyaW9fc2luZ2xlX2RyaXZlcl9mb3Jtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhX3RyYXNuZm9ybXMgaW1wb3J0IHNjZW5hcmlvX2RhdGFfdHJhbnNmb3Jtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kZWxzID0gZ2V0X21vZGVscygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
