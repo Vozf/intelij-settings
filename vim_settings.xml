@@ -6,7 +6,6 @@
       <file name="/start_script.py" timestamp="1553608844847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/hello.py" timestamp="1556206658737" />
       <file name="$USER_HOME$/projects/vebuin-ml-api/deployment/start.sh" timestamp="1556213688671">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="1" column="0" />
@@ -119,7 +118,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145838">
+      <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1557745599983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/neural_network_evaluate/index.py" timestamp="1556022653069">
@@ -167,7 +166,7 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="/trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1554887145859">
+      <file name="/trips [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1557745600503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/previews/index.py" timestamp="1556545299454">
@@ -327,7 +326,6 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_service/slide_analysis_service/descriptor_database_service/descriptor_database_write_service_class.py" timestamp="1556812761656" />
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-tree/image-list.service.ts" timestamp="1556545019153">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -554,7 +552,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b8a895d-ca9f-4b2a-bbec-abe102a5e876/console.sql" timestamp="1554899543531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/interface/slide_descriptor.py" timestamp="1556628431634" />
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-item/image-item.component.ts" timestamp="1556537201147">
         <mark key="'" line="26" column="20" />
         <mark key="[" line="11" column="0" />
@@ -562,12 +559,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="47" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_2_single_driver.html" timestamp="1554987371861">
-        <mark key="'" line="13" column="66" />
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="47" />
-        <mark key="." line="13" column="47" />
-        <mark key="^" line="13" column="519" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_2_single_driver.html" timestamp="1557748085619">
+        <mark key="'" line="14" column="66" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="519" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.actions.ts" timestamp="1556643001852">
         <mark key="'" line="6" column="42" />
@@ -617,7 +614,6 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/tqdm/_tqdm.py" timestamp="1556814514251" />
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
       </file>
@@ -761,6 +757,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/single_driver_response.html" timestamp="1557748318189" />
       <file name="$USER_HOME$/projects/vlack_web/public/index.html" timestamp="1554485334533">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="49" />
@@ -809,7 +806,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_api/venv/lib/python3.6/site-packages/slide_analysis_service/search_service/search_service.py" timestamp="1556628446366" />
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.ts" timestamp="1556817674091">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="35" />
