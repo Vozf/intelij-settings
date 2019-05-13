@@ -129,6 +129,9 @@
       <file name="/vital_data [stagdmservice2@stagdmservice2.czfgutgncpqx.ap-northeast-1.rds.amazonaws.com]" timestamp="1557745599983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/babel_translations/translations/ja/LC_MESSAGES/messages.po" timestamp="1557759764745">
+        <mark key="[" line="5" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_api/slide_analysis_api/routes/images/neural_network_evaluate/index.py" timestamp="1556022653069">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="23" column="7" />
@@ -568,12 +571,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="47" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_2_single_driver.html" timestamp="1557748085619">
-        <mark key="'" line="14" column="66" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="519" />
+      <file name="$USER_HOME$/projects/vebuin-ml-api/templates/scenario_2_single_driver.html" timestamp="1557759786281">
+        <mark key="'" line="16" column="66" />
+        <mark key="[" line="5" column="92" />
+        <mark key="]" line="5" column="91" />
+        <mark key="." line="5" column="91" />
+        <mark key="^" line="5" column="91" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.actions.ts" timestamp="1556643001852">
         <mark key="'" line="6" column="42" />
@@ -634,6 +637,9 @@
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/babel_translations/babel.cfg" timestamp="1557760577417">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/visual-search/core/training/blocks/model/image_features/pretrained_slim_model.py" timestamp="1551860059159">
         <mark key="[" line="41" column="40" />
@@ -753,6 +759,9 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/vebuin-ml-api/babel_translations/messages.pot" timestamp="1557759704171">
+        <mark key="[" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat.vue" timestamp="1554482478921">
         <mark key="[" line="14" column="26" />
