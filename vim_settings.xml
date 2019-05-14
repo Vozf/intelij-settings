@@ -3,19 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1557835129090">
+      <file name="$USER_HOME$/projects/vlack-api/.gitignore" timestamp="1557834439298">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack-api/.gitignore" timestamp="1557834938414">
-        <mark key="[" line="2" column="2" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/src/Lib.hs" timestamp="1557834959130">
-        <mark key="[" line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack-api/app/Main.hs" timestamp="1557835220873" />
     </filemarks>
     <jumps />
     <registers />
@@ -23,27 +16,10 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
