@@ -18,7 +18,7 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1557838206641">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1557847040149">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -34,8 +34,11 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557835355866">
+      <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557847234546">
         <mark key="[" line="25" column="50" />
+        <mark key="]" line="24" column="39" />
+        <mark key="^" line="24" column="39" />
+        <mark key="." line="24" column="39" />
       </file>
       <file name="$USER_HOME$/projects/vlack-api/src/App.hs" timestamp="1557843569429">
         <mark key="'" line="28" column="10" />
