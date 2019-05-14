@@ -2,55 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/projects/fp/app/Main.hs" timestamp="1553168005472">
-        <mark key="[" line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/fp/src/Lib.hs" timestamp="1553168024821">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="62" />
-        <mark key="^" line="44" column="62" />
-        <mark key="." line="44" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/fp/src/Monad.hs" timestamp="1553168243846">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
-      <register name="-" type="4">
-        <text>)</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
