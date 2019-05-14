@@ -18,6 +18,12 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1557838206641">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/vlack-api/src/Lib.hs" timestamp="1557834959130">
         <mark key="[" line="5" column="29" />
       </file>
@@ -31,15 +37,35 @@
       <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557835355866">
         <mark key="[" line="25" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/vlack-api/src/App.hs" timestamp="1557838176410">
+        <mark key="'" line="28" column="10" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="28" column="10" filename="$USER_HOME$/projects/vlack-api/src/App.hs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>resources</text>
+      </register>
+      <register name="-" type="4">
+        <text>resources</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxTdGRNZXRob2RcPg==</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxTdGRNZXRob2RcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxTdGRNZXRob2RcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxTdGRNZXRob2RcPg==</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
