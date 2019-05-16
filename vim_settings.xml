@@ -33,11 +33,11 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/package.yaml" timestamp="1557999534963">
+      <file name="$USER_HOME$/projects/vlack-api/package.yaml" timestamp="1558000707274">
         <mark key="[" line="28" column="4" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557847234546">
         <mark key="[" line="25" column="50" />
@@ -45,8 +45,11 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/stack.yaml" timestamp="1557999882769">
-        <mark key="^" line="39" column="0" />
+      <file name="$USER_HOME$/projects/vlack-api/stack.yaml" timestamp="1558000790457">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/projects/vlack-api/src/App.hs" timestamp="1557843569429">
         <mark key="'" line="28" column="10" />
@@ -62,10 +65,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGRNZXRob2RcPg==</text>
@@ -113,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
