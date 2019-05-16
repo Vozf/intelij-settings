@@ -59,6 +59,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558017869446">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557847234546">
         <mark key="[" line="25" column="50" />
         <mark key="]" line="24" column="39" />
@@ -74,8 +79,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -90,7 +95,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGRNZXRob2RcPg==</text>
