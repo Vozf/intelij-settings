@@ -27,7 +27,12 @@
       <file name="$USER_HOME$/projects/vlack-api/src/Lib.hs" timestamp="1557834959130">
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/app/Main.hs" timestamp="1557835220873" />
+      <file name="$USER_HOME$/projects/vlack-api/app/Main.hs" timestamp="1557995849285">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/vlack-api/package.yaml" timestamp="1557837173489">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="42" column="16" />
@@ -51,10 +56,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resources</text>
+        <text>pure</text>
       </register>
       <register name="-" type="4">
-        <text>resources</text>
+        <text>pure</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGRNZXRob2RcPg==</text>
