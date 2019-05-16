@@ -1,20 +1,12 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Add">
-        <Item>
-          <IdeaActionID>Git.Add</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+A'</ShortCut>
-          <Description>Add</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -25,20 +17,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Component Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B'</ShortCut>
-          <Description>Component Declaration</Description>
-          <Count>36</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -46,7 +30,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Table to...">
@@ -89,14 +73,6 @@
           <Count>24</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Directive Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B'</ShortCut>
-          <Description>Directive Declaration</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
@@ -110,7 +86,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>8</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Indent Selection">
@@ -118,14 +94,6 @@
           <IdeaActionID>EditorIndentSelection</IdeaActionID>
           <ShortCut>'Tab'</ShortCut>
           <Description>Indent Selection</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Move...">
-        <Item>
-          <IdeaActionID>Move</IdeaActionID>
-          <ShortCut>'F6'</ShortCut>
-          <Description>Move...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -174,7 +142,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>38</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -193,28 +161,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Reformat with Prettier">
-        <Item>
-          <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+P'</ShortCut>
-          <Description>Reformat with Prettier</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Angular CLI Server'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'Angular CLI Server'</Description>
-          <Count>5</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'app'">
@@ -222,7 +174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'app'</Description>
-          <Count>13</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dataset_images_resize'">
@@ -233,44 +185,12 @@
           <Count>13</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'lint'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'lint'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'npm install in slide_analysis_web'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'npm install in slide_analysis_web'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'npm serve'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'npm serve'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'rest-api#1'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'rest-api#1'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'run'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'run'</Description>
-          <Count>23</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'train'">
@@ -281,28 +201,12 @@
           <Count>38</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Restore Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
-          <Description>Restore Windows</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>64</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Revert...">
-        <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -310,23 +214,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>26</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Angular CLI Server'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'Angular CLI Server'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Dockerfile'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'Dockerfile'</Description>
-          <Count>1</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -334,7 +222,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>14</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'dataset_images_resize'">
@@ -361,28 +249,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'npm serve'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'npm serve'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'rest-api#1'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'rest-api#1'</Description>
           <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'run'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'run'</Description>
-          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scratch_1'">
@@ -422,7 +294,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>83</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -457,20 +329,12 @@
           <Count>119</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Angular CLI Server'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Angular CLI Server'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'app'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dataset_images_resize'">
@@ -479,30 +343,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dataset_images_resize'</Description>
           <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'npm install in slide_analysis_web'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'npm install in slide_analysis_web'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'npm serve'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'npm serve'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'run'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'run'</Description>
-          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'start'">
@@ -550,7 +390,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -558,7 +398,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>75</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -574,7 +414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>150</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -585,28 +425,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Update Project...">
-        <Item>
-          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'Ctrl+T'</ShortCut>
-          <Description>Update Project...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Upload to...">
         <Item>
           <IdeaActionID>PublishGroup.UploadTo</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+X'</ShortCut>
           <Description>Upload to...</Description>
           <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="VCS Operations Popup...">
-        <Item>
-          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
-          <ShortCut>'Alt+`'</ShortCut>
-          <Description>VCS Operations Popup...</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
