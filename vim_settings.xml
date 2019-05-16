@@ -12,32 +12,23 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/vlack-api.cabal" timestamp="1557836979923">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1557847040149">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/src/Lib.hs" timestamp="1557834959130">
-        <mark key="[" line="5" column="29" />
+      <file name="$USER_HOME$/projects/vlack-api/app/Main.hs" timestamp="1558003667880">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/app/Main.hs" timestamp="1557996651626">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack-api/package.yaml" timestamp="1558000707274">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="19" column="28" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="19" column="28" />
+      <file name="$USER_HOME$/projects/vlack-api/package.yaml" timestamp="1558007100616">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557847234546">
         <mark key="[" line="25" column="50" />
@@ -45,12 +36,7 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/vlack-api/stack.yaml" timestamp="1558000790457">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="13" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="39" column="13" />
-      </file>
+      <file name="$USER_HOME$/projects/vlack-api/stack.yaml" timestamp="1558006578522" />
       <file name="$USER_HOME$/projects/vlack-api/src/App.hs" timestamp="1557843569429">
         <mark key="'" line="28" column="10" />
         <mark key="[" line="10" column="48" />
@@ -65,10 +51,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text encoding="base64">ICAsIA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LSB0cmFuc2Zvcm1lcnMtY29tcGF0LTAuNS4xLjRAc2hhMjU2OjFiNGJmYTg1ODlhZmIxY2EwZTcxOTEyOWFiMjYxYmQ5MGVmMGNjM2U2YzBiOTk2M2Y5NDk3MGMwODJiNjEyNTAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LSB0ZW1wbGF0ZS1oYXNrZWxsLTIuMTEuMS4wQHNoYTI1NjpmOTBkNmFiNzNhZDM1Yzc0OWU4NTQ3Y2ExMzJlN2FiNWQzMmQyZjhlN2JiMmUyZmY2ZDU5N2JlMjZiNThlMDYxCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">ICAsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGRNZXRob2RcPg==</text>
