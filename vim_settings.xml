@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1558007863766">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/Spock-example/stack.yaml" timestamp="1558009824808">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vlack-api/.gitignore" timestamp="1558007856692">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="0" column="5" />
@@ -23,6 +29,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Spock-example/package.yaml" timestamp="1558009805862">
+        <mark key="[" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/projects/vlack-api/package.yaml" timestamp="1558007100616">
         <mark key="[" line="23" column="2" />
