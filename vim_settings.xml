@@ -3,8 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558106827409">
+      <file name="/Dummy.txt" timestamp="1558111693919">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
+        <mark key="[" line="14" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558112125831">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558106503829">
         <mark key="[" line="22" column="13" />
@@ -12,22 +20,54 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558112005511">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="33" column="14" />
+        <mark key="^" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558106791038">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="54" column="63" filename="$USER_HOME$/projects/scotty-blog/app/Main.hs" />
+    </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>articles</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>articles</text>
       </register>
     </registers>
     <search>
@@ -58,6 +98,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
