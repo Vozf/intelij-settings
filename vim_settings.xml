@@ -41,10 +41,10 @@
         <mark key="'" line="2" column="7" />
         <mark key="[" line="5" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1557847040149">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558095790830">
         <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/projects/Spock-example/src/Lib.hs" timestamp="1558016877103">
@@ -64,8 +64,11 @@
         <mark key="]" line="22" column="63" />
         <mark key="." line="22" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Main.hs" timestamp="1558094765630">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Main.hs" timestamp="1558095818973">
         <mark key="[" line="60" column="37" />
+        <mark key="]" line="64" column="15" />
+        <mark key="^" line="64" column="15" />
+        <mark key="." line="64" column="15" />
       </file>
       <file name="$USER_HOME$/projects/vlack-api/src/Handler.hs" timestamp="1557847234546">
         <mark key="[" line="25" column="50" />
@@ -83,7 +86,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>resources</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -98,7 +101,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>resources</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGRNZXRob2RcPg==</text>
