@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558105951467">
+      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558106503829">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
         <mark key="^" line="22" column="10" />
@@ -14,7 +14,6 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/Spock-example" timestamp="1558105787553" />
     </filemarks>
     <jumps />
     <registers>
