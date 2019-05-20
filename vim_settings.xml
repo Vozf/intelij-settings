@@ -15,6 +15,12 @@
         <mark key="^" line="21" column="2" />
         <mark key="." line="21" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Stack.hs" timestamp="1558362676853">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558347966892">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="22" column="13" />
@@ -56,7 +62,7 @@
         <text encoding="base64">LS0gICAgICAgIHJldHVybiAoQ2hhdFdpdGhNZXNzYWdlcyAoKGZpcnN0Q2hhdCByZXMpIG1lc3NhZ2VzKSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIENoYXRXaXRoTWVzc2FnZXMgPCQ+IGZpcnN0Q2hhdCByZXMgPCo+IHB1cmUgbWVzc2FnZXMK</text>
@@ -86,7 +92,7 @@
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwNjEzMzUuMjAwLmpzb24K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
