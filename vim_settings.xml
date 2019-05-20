@@ -10,10 +10,10 @@
         <mark key="[" line="14" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558351065114">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="15" column="2" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="2" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558347966892">
         <mark key="[" line="35" column="23" />
@@ -26,23 +26,17 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558352279178">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558351039752">
         <mark key="[" line="35" column="16" />
         <mark key="]" line="35" column="25" />
         <mark key="^" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558350938345">
-        <mark key="[" line="149" column="4" />
-        <mark key="]" line="149" column="9" />
-        <mark key="^" line="149" column="9" />
-        <mark key="." line="149" column="9" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558352660087">
+        <mark key="[" line="150" column="1" />
+        <mark key="]" line="150" column="4" />
+        <mark key="." line="150" column="4" />
+        <mark key="^" line="150" column="4" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
@@ -55,8 +49,8 @@
       <register name="1" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzIzNDcuNTAwLnR4dAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzIzNDcuNTAwLnR4dAo=</text>
+      <register name="&quot;" type="4">
+        <text>where</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzIzNTQuNTAwLnR4dAo=</text>
@@ -83,7 +77,7 @@
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwNzE4MjEuMjAwLmpzb24K</text>
       </register>
       <register name="-" type="4">
-        <text>pure</text>
+        <text>where</text>
       </register>
     </registers>
     <search>
