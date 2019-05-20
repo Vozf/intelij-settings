@@ -3,53 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558111693919">
+      <file name="/Dummy.txt" timestamp="1558348372700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
         <mark key="[" line="14" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558112125831">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558348165708">
         <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558106503829">
-        <mark key="[" line="22" column="13" />
+      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558347966892">
+        <mark key="[" line="35" column="23" />
         <mark key="]" line="22" column="13" />
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558345691795">
-        <mark key="[" line="55" column="67" />
-        <mark key="]" line="33" column="14" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="33" column="14" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558348514799">
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="44" />
+        <mark key="^" line="62" column="43" />
+        <mark key="." line="62" column="44" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558346561151">
-        <mark key="[" line="28" column="97" />
-        <mark key="]" line="28" column="112" />
-        <mark key="." line="28" column="112" />
-        <mark key="^" line="28" column="112" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558348320125">
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558346297770">
         <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558348095533">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
+        <mark key="[" line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
       <jump line="54" column="63" filename="$USER_HOME$/projects/scotty-blog/app/Main.hs" />
     </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>bodyText</text>
+        <text>-- get the article id</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -64,10 +72,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -76,7 +84,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bodyText</text>
+        <text>-- get the article id</text>
       </register>
     </registers>
     <search>
