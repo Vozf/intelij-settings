@@ -3,23 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558371147958">
+      <file name="/Dummy.txt" timestamp="1558442697196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
         <mark key="[" line="14" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558368858820">
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="13" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="28" column="13" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558363388117">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="22" column="13" />
+      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
+        <mark key="[" line="37" column="9" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558370705498">
         <mark key="[" line="98" column="4" />
@@ -32,11 +29,11 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558371036513">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558440110425">
+        <mark key="[" line="73" column="9" />
+        <mark key="]" line="74" column="31" />
+        <mark key="^" line="74" column="31" />
+        <mark key="." line="74" column="31" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558367289301">
         <mark key="[" line="42" column="44" />
@@ -44,8 +41,20 @@
         <mark key="^" line="43" column="30" />
         <mark key="." line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558443870617">
+        <mark key="'" line="152" column="88" />
+        <mark key="[" line="152" column="1" />
+        <mark key="]" line="152" column="88" />
+        <mark key="^" line="152" column="88" />
+        <mark key="." line="152" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1558441459667">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -53,13 +62,16 @@
       <jump line="159" column="30" filename="$USER_HOME$/projects/scotty-blog/src/Db.hs" />
       <jump line="6" column="23" filename="$USER_HOME$/projects/scotty-blog/src/Stack.hs" />
       <jump line="173" column="40" filename="$USER_HOME$/projects/scotty-blog/src/Db.hs" />
+      <jump line="145" column="17" filename="$USER_HOME$/projects/scotty-blog/src/Db.hs" />
+      <jump line="163" column="20" filename="$USER_HOME$/projects/scotty-blog/src/Db.hs" />
+      <jump line="152" column="88" filename="$USER_HOME$/projects/scotty-blog/src/Db.hs" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">LS1pbXBvcnQgICAgICAgICAgIERhdGEuVGltZS5DbG9jayAgICAgICAgIChVVENUaW1lKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS1pbXBvcnQgICAgICAgICAgIERhdGEuVGltZS5DbG9jayAgICAgICAgIChVVENUaW1lKQo=</text>
+      <register name="&quot;" type="4">
+        <text>R</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eSAgICAgICAgICAgICAgICAgICAgIGFzIExUCg==</text>
@@ -86,15 +98,23 @@
         <text encoding="base64">LS0gICAgICAgIHJldHVybiAoQ2hhdFdpdGhNZXNzYWdlcyAoKGZpcnN0Q2hhdCByZXMpIG1lc3NhZ2VzKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>R</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmQ2hhdFw+</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxmQ2hhdFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmQ2hhdFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxmQ2hhdFw+</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
