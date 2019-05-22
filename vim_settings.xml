@@ -10,10 +10,10 @@
         <mark key="[" line="14" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558368858820">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="32" column="13" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
         <mark key="[" line="37" column="9" />
@@ -35,19 +35,19 @@
         <mark key="^" line="74" column="31" />
         <mark key="." line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558448513753">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558516423915">
         <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558448582327">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558516654379">
         <mark key="e" line="152" column="4" />
         <mark key="'" line="152" column="97" />
-        <mark key="[" line="143" column="113" />
-        <mark key="]" line="143" column="113" />
-        <mark key="^" line="143" column="113" />
-        <mark key="." line="143" column="113" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="150" column="105" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
@@ -68,38 +68,38 @@
       <jump line="152" column="97" filename="$USER_HOME$/projects/scotty-blog/src/Db.hs" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">IEludGVnZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgVEwuVGV4dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBJbnRlZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIFVUQ1RpbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSW50ZWdlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBUTC5UZXh0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIEludGVnZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSW50ZWdlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBVVENUaW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIFVUQ1RpbWU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>id value userId chatId createdAt updatedAt)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS1pbXBvcnQgICAgICAgICAgIERhdGEuVGltZS5DbG9jayAgICAgICAgIChVVENUaW1lKQo=</text>
+        <text encoding="base64">ICAgICAgXCAgIGFuZCB1bmVzY2FwZSB0byBrZWVwIHdyaXRpbmciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eSAgICAgICAgICAgICAgICAgICAgIGFzIExUCg==</text>
+        <text encoding="base64">ICAgICJUaGlzIGlzIHNvbWUgdGV4dCB3aGljaCB3ZSBlc2NhcGUgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ha2VBcnRpY2xlIHMgPSAiIgo=</text>
+        <text encoding="base64">eCA9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB3aGVyZQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEludGVnZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgVEwuVGV4dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBJbnRlZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIFVUQ1RpbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSW50ZWdlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBUTC5UZXh0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIEludGVnZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSW50ZWdlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBVVENUaW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIFVUQ1RpbWU=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ha2VBcnRpY2xlIHMgPSAiIgo=</text>
+        <text encoding="base64">LS1pbXBvcnQgICAgICAgICAgIERhdGEuVGltZS5DbG9jayAgICAgICAgIChVVENUaW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aGVyZQo=</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eSAgICAgICAgICAgICAgICAgICAgIGFzIExUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGYgW10gPSAoKCksIFtdKQo=</text>
+        <text encoding="base64">ICAgIG1ha2VBcnRpY2xlIHMgPSAiIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB3aGVyZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>id value userId chatId createdAt updatedAt)</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmQ2hhdFw+</text>
