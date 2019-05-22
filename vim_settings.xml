@@ -3,8 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558519402545">
+      <file name="/Dummy.txt" timestamp="1558528741704">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.cache/intellij-haskell/lib/scotty-blog/wai-cors-0.2.6/src/Network/Wai/Middleware/Cors.hs" timestamp="1558526593364" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558529595349">
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="56" column="27" />
+        <mark key="^" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1558441459667">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/CorsMiddleware.hs" timestamp="1558527145168">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558524951244">
         <mark key="[" line="29" column="19" />
@@ -12,30 +30,24 @@
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558524727397">
-        <mark key="[" line="0" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558529122551">
+        <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
         <mark key="[" line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558524967793">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="4" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558528635383">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="73" column="18" />
+        <mark key="^" line="73" column="18" />
+        <mark key="." line="73" column="18" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558519257714">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="27" />
-        <mark key="^" line="56" column="27" />
-        <mark key="." line="56" column="27" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558516423915">
         <mark key="[" line="30" column="8" />
@@ -43,21 +55,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558519357058">
-        <mark key="e" line="152" column="4" />
-        <mark key="'" line="161" column="33" />
-        <mark key="[" line="184" column="19" />
-        <mark key="]" line="184" column="56" />
-        <mark key="^" line="184" column="56" />
-        <mark key="." line="184" column="56" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558528666302">
+        <mark key="[" line="183" column="75" />
+        <mark key="]" line="183" column="81" />
+        <mark key="^" line="183" column="81" />
+        <mark key="." line="183" column="81" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1558441459667">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -72,37 +77,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pZGRsZXdhcmUgc2ltcGxlQ29ycwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text>String</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXCAgIGFuZCB1bmVzY2FwZSB0byBrZWVwIHdyaXRpbmciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJUaGlzIGlzIHNvbWUgdGV4dCB3aGljaCB3ZSBlc2NhcGUgXAo=</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBOZXR3b3JrLldhaS5NaWRkbGV3YXJlLkNvcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eCA9Cg==</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBOZXR3b3JrLldhaS5NaWRkbGV3YXJlLkFkZEhlYWRlcnMgICAgKGFkZEhlYWRlcnMpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEludGVnZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgVEwuVGV4dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBJbnRlZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIFVUQ1RpbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSW50ZWdlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBUTC5UZXh0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIEludGVnZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSW50ZWdlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBVVENUaW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIFVUQ1RpbWU=</text>
+      <register name="5" type="2">
+        <text encoding="base64">LS0gfCBDT1JTIG1pZGRsZXdhcmUgY29uZmlndXJlZCB3aXRoICdhcHBDb3JzUmVzb3VyY2VQb2xpY3knLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS1pbXBvcnQgICAgICAgICAgIERhdGEuVGltZS5DbG9jayAgICAgICAgIChVVENUaW1lKQo=</text>
+        <text encoding="base64">LS0gKiBNZXRob2RzQWxsb3dlZDogQE9QVElPTlMsIEdFVCwgUFVULCBQT1NUQAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eSAgICAgICAgICAgICAgICAgICAgIGFzIExUCg==</text>
+        <text encoding="base64">LS0gKiBSZXF1ZXN0SGVhZGVyczogQENvbnRlbnQtVHlwZUAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1ha2VBcnRpY2xlIHMgPSAiIgo=</text>
+        <text encoding="base64">LS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aGVyZQo=</text>
+        <text encoding="base64">LS0gVGhpcyBwb2xpY3kgd2lsbCBzZXQgdGhlIGZvbGxvd2luZzoK</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmQ2hhdFw+</text>
