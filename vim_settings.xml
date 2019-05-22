@@ -3,37 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558518189493">
+      <file name="/Dummy.txt" timestamp="1558519402545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
         <mark key="[" line="14" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558368858820">
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="13" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
         <mark key="[" line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558370705498">
-        <mark key="[" line="98" column="4" />
-        <mark key="]" line="98" column="12" />
-        <mark key="^" line="98" column="12" />
-        <mark key="." line="98" column="12" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558519316668">
+        <mark key="[" line="66" column="36" />
+        <mark key="]" line="66" column="38" />
+        <mark key="^" line="66" column="38" />
+        <mark key="." line="66" column="38" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558518181370">
-        <mark key="[" line="78" column="32" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558519257714">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="27" />
+        <mark key="^" line="56" column="27" />
+        <mark key="." line="56" column="27" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558516423915">
         <mark key="[" line="30" column="8" />
@@ -41,13 +35,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558517895189">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558519357058">
         <mark key="e" line="152" column="4" />
         <mark key="'" line="161" column="33" />
-        <mark key="[" line="161" column="33" />
-        <mark key="]" line="161" column="33" />
-        <mark key="^" line="161" column="53" />
-        <mark key="." line="161" column="33" />
+        <mark key="[" line="184" column="19" />
+        <mark key="]" line="184" column="56" />
+        <mark key="^" line="184" column="56" />
+        <mark key="." line="184" column="56" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
@@ -73,7 +67,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>d</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgXCAgIGFuZCB1bmVzY2FwZSB0byBrZWVwIHdyaXRpbmciCg==</text>
@@ -100,7 +94,7 @@
         <text encoding="base64">ICB3aGVyZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmQ2hhdFw+</text>
