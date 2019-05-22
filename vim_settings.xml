@@ -10,10 +10,10 @@
         <mark key="[" line="14" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558368858820">
-        <mark key="[" line="31" column="10" />
-        <mark key="]" line="31" column="13" />
-        <mark key="^" line="31" column="13" />
-        <mark key="." line="31" column="13" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="13" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
         <mark key="[" line="37" column="9" />
@@ -41,13 +41,13 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558448388573">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558448582327">
         <mark key="e" line="152" column="4" />
         <mark key="'" line="152" column="97" />
-        <mark key="[" line="154" column="32" />
-        <mark key="]" line="154" column="32" />
-        <mark key="^" line="154" column="55" />
-        <mark key="." line="154" column="32" />
+        <mark key="[" line="143" column="113" />
+        <mark key="]" line="143" column="113" />
+        <mark key="^" line="143" column="113" />
+        <mark key="." line="143" column="113" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
