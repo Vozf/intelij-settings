@@ -137,9 +137,6 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.scss" timestamp="1556884080496">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/store/image-list.interface.ts" timestamp="1556643851629">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -199,9 +196,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/.env" timestamp="1558518344001">
-        <mark key="[" line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/state.ts" timestamp="1555595056100">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -213,6 +207,12 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
         <mark key="^" line="36" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/index.ts" timestamp="1558612907137">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/root-store/root-store.module.ts" timestamp="1556645115197">
         <mark key="[" line="11" column="20" />
@@ -231,8 +231,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
-        <mark key="[" line="14" column="50" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Messages.vue" timestamp="1558612698775">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558112005511">
         <mark key="[" line="32" column="30" />
@@ -274,11 +277,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/plugins/updateCurrentChat.ts" timestamp="1555595146346">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="13" column="2" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/plugins/updateCurrentChat.ts" timestamp="1558612805964">
+        <mark key="[" line="9" column="77" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
       </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image-list/image-list-recalculate-progress-modal/image-list-recalculate-progress-modal.component.html" timestamp="1556893293192">
         <mark key="[" line="14" column="94" />
@@ -286,7 +289,7 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="14" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558605899187">
+      <file name="/Dummy.txt" timestamp="1558612935373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -296,11 +299,12 @@
         <mark key="]" line="30" column="81" />
         <mark key="." line="30" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1558604849469">
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1558612605187">
         <mark key="'" line="6" column="80" />
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="8" column="55" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="43" />
+        <mark key="^" line="28" column="43" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1558600832562">
         <mark key="[" line="24" column="26" />
@@ -418,6 +422,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/store.ts" timestamp="1558612280197">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/slide_analysis_web/src/app/components/image/image.service.ts" timestamp="1556114511463">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
@@ -440,7 +450,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Placeholder</text>
+        <text>true</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1372,43 +1382,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Placeholder</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGF0SWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="0" type="8">
+        <text>chatList
+currentChatInfo
+fetchChatList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0dGVycyB9IGZyb20gJ0Avc3RvcmUvY2hhdC9nZXR0ZXJzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFwKCgpID0+IGNvbnNvbGUubG9nKDMpKSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0aW9ucyB9IGZyb20gJ0Avc3RvcmUvY2hhdC9hY3Rpb25zJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VNYXBUbyhFTVBUWSksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbXV0YXRpb25zIH0gZnJvbSAnQC9zdG9yZS9jaGF0L211dGF0aW9ucyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFwKCgpID0+IGNvbnNvbGUubG9nKDIpKSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgc3RhdGUgfSBmcm9tICdAL3N0b3JlL2NoYXQvc3RhdGUnOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbnRlZ3JpdHkgc2hhNTEyLW5mUUgyUGRCcXF2WDQxekRDTTNLYlhtNGxKalVFYVNvZ2dUNGc2dEpUcEJlMnJyd0R2S21WWjZRYXEzbUt4czBJTzMzUVQyUlBFajF3SXJ3YmxodFBRPT0K</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9yeGlvcy8tL3J4aW9zLTEuMS4yLnRneiM0MTJiZjk4YTY0NmViMTY2MmZlOWU2OTQxZDFjOTNmMzllNjQzZTYxIgo=</text>
+        <text encoding="base64">ICAgIGdldHRlcnMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIxLjEuMiIK</text>
+        <text encoding="base64">ICAgIGFjdGlvbnMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cnhpb3NAXjEuMS4yOgo=</text>
+        <text encoding="base64">ICAgIG11dGF0aW9ucywK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
