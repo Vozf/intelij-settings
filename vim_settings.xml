@@ -37,11 +37,11 @@
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
         <mark key="[" line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558602498545">
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="41" />
-        <mark key="^" line="69" column="41" />
-        <mark key="." line="69" column="41" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558609785157">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="68" />
+        <mark key="^" line="34" column="68" />
+        <mark key="." line="34" column="68" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
@@ -81,7 +81,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DESC</text>
+        <text>protectedResources</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dmlld0NoYXRXaXRoTWVzc2FnZXMgY2hhdCA9IGpzb24gY2hhdAo=</text>
@@ -108,7 +108,7 @@
         <text encoding="base64">aW1wb3J0ICAgICAgICAgICBOZXR3b3JrLldhaS5NaWRkbGV3YXJlLkNvcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>DESC</text>
+        <text>protectedResources</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmQ2hhdFw+</text>
