@@ -12,10 +12,11 @@
         <mark key="^" line="54" column="16" />
         <mark key="." line="54" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1558441459667">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="13" />
+      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1559563731743">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/CorsMiddleware.hs" timestamp="1558527145168">
         <mark key="[" line="0" column="0" />
@@ -34,8 +35,8 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558441551416">
-        <mark key="[" line="37" column="9" />
+      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559563544418">
+        <mark key="[" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1558609785157">
         <mark key="[" line="34" column="53" />
@@ -53,6 +54,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559563529341">
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558605499659">
         <mark key="'" line="188" column="89" />
@@ -78,19 +84,19 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ey0jIExBTkdVQUdFIERlcml2ZUdlbmVyaWMgICAgICMtfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>protectedResources</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmlld0NoYXRXaXRoTWVzc2FnZXMgY2hhdCA9IGpzb24gY2hhdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmlld0NoYXRXaXRoTWVzc2FnZXMgOjogQ2hhdFdpdGhNZXNzYWdlcyAtPiBBY3Rpb25NICgpCg==</text>
+        <text encoding="base64">dmlld0NoYXRXaXRoTWVzc2FnZXMgY2hhdCA9IGpzb24gY2hhdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmlld0NoYXRXaXRoTWVzc2FnZXMgOjogQ2hhdFdpdGhNZXNzYWdlcyAtPiBBY3Rpb25NICgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -99,16 +105,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pZGRsZXdhcmUgc2ltcGxlQ29ycwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1pZGRsZXdhcmUgc2ltcGxlQ29ycwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBOZXR3b3JrLldhaS5NaWRkbGV3YXJlLkNvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>protectedResources</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmQ2hhdFw+</text>
