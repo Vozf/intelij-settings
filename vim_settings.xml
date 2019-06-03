@@ -6,14 +6,25 @@
       <file name="/Dummy.txt" timestamp="1558356502434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558356402136">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="48" column="51" />
+        <mark key="^" line="48" column="51" />
+        <mark key="." line="48" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/auth/state.ts" timestamp="1559556010924">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
         <mark key="[" line="14" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558356279612">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="21" column="2" />
-        <mark key="^" line="21" column="2" />
-        <mark key="." line="21" column="2" />
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/AuthService.ts" timestamp="1559555869869">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Stack.hs" timestamp="1558362676853">
         <mark key="[" line="2" column="16" />
@@ -33,16 +44,32 @@
         <mark key="^" line="85" column="3" />
         <mark key="." line="85" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/jtw.ts" timestamp="1559555674154">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/Jwt.ts" timestamp="1559555854954">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558356402136">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="48" column="51" />
-        <mark key="^" line="48" column="51" />
-        <mark key="." line="48" column="51" />
+      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1559555910035">
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558356279612">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1558356590123">
         <mark key="]" line="167" column="30" />
@@ -59,40 +86,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">LS0gICAgICAgIHJldHVybiAoQ2hhdFdpdGhNZXNzYWdlcyAoKGZpcnN0Q2hhdCByZXMpIG1lc3NhZ2VzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">LS0gICAgICAgIHJldHVybiAoQ2hhdFdpdGhNZXNzYWdlcyAoKGZpcnN0Q2hhdCByZXMpIG1lc3NhZ2VzKSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIENoYXRXaXRoTWVzc2FnZXMgPCQ+IGZpcnN0Q2hhdCByZXMgPCo+IHB1cmUgbWVzc2FnZXMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>( Integer
                                                                                     , TL.Text
                                                                                     , Integer
                                                                                     , UTCTime)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzIzNDcuNTAwLnR4dAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzIzNTQuNTAwLnR4dAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzQxMzMuNTAwLnR4dAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzQxNTMuNTAwLnR4dAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">PD4gMjAxOS0wNS0xN1QwMzQyMTMuMjAwLmpzb24K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNS0xN1QwNjEzMzUuMjAwLmpzb24K</text>
-      </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
