@@ -46,16 +46,16 @@
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559576041586">
-        <mark key="[" line="34" column="27" />
+      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559652800464">
+        <mark key="[" line="41" column="7" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559650278683">
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="91" column="48" />
-        <mark key="." line="91" column="48" />
-        <mark key="^" line="91" column="48" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559652945857">
+        <mark key="[" line="100" column="61" />
+        <mark key="]" line="100" column="66" />
+        <mark key="." line="100" column="66" />
+        <mark key="^" line="100" column="66" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/auth-requests.http" timestamp="1559575052741" />
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
@@ -69,11 +69,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559576814185">
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="58" column="27" />
-        <mark key="^" line="58" column="27" />
-        <mark key="." line="58" column="27" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559652971034">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="64" />
+        <mark key="^" line="48" column="19" />
+        <mark key="." line="49" column="64" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559648957944">
         <mark key="'" line="188" column="89" />
@@ -111,10 +111,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VEwuVGV4dCwg</text>
+        <text>jwtKey</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VEwuVGV4dCwg</text>
+        <text>jwtKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
