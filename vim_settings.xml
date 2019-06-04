@@ -3,14 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559650745182">
+      <file name="/Dummy.txt" timestamp="1559669014293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559650671053">
-        <mark key="[" line="96" column="28" />
-        <mark key="]" line="96" column="28" />
-        <mark key="^" line="96" column="28" />
-        <mark key="." line="96" column="28" />
+      <file name="/Auth.hs" timestamp="1559667122125" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559668979931">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1559563731743">
         <mark key="[" line="39" column="14" />
@@ -18,11 +19,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559574885624">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="61" column="58" />
+        <mark key="^" line="61" column="58" />
+        <mark key="." line="61" column="58" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
@@ -39,22 +40,23 @@
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559663897626">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="31" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="9" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559666345250">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="64" column="30" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559652800464">
         <mark key="[" line="41" column="7" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559663475194">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="45" />
-        <mark key="^" line="37" column="45" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559668803217">
+        <mark key="'" line="130" column="3" />
+        <mark key="[" line="130" column="49" />
+        <mark key="]" line="130" column="63" />
+        <mark key="." line="130" column="63" />
+        <mark key="^" line="130" column="63" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
@@ -67,27 +69,22 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559663827799">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="29" column="12" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559668610151">
+        <mark key="'" line="29" column="9" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559648957944">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559668131718">
         <mark key="'" line="188" column="89" />
-        <mark key="[" line="149" column="39" />
-        <mark key="]" line="142" column="18" />
-        <mark key="^" line="142" column="18" />
-        <mark key="." line="142" column="18" />
+        <mark key="[" line="95" column="2" />
+        <mark key="]" line="95" column="1" />
+        <mark key="^" line="95" column="1" />
+        <mark key="." line="95" column="1" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" timestamp="1559650713608">
-        <mark key="[" line="23" column="71" />
-        <mark key="]" line="23" column="76" />
-        <mark key="^" line="23" column="76" />
-        <mark key="." line="23" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -105,13 +102,18 @@
       <jump line="14" column="4" filename="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" />
       <jump line="15" column="44" filename="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" />
       <jump line="22" column="9" filename="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" />
+      <jump line="33" column="13" filename="$USER_HOME$/projects/scotty-blog/src/Auth.hs" />
+      <jump line="28" column="41" filename="$USER_HOME$/projects/scotty-blog/src/Auth.hs" />
+      <jump line="30" column="44" filename="$USER_HOME$/projects/scotty-blog/src/Auth.hs" />
+      <jump line="29" column="9" filename="$USER_HOME$/projects/scotty-blog/src/Auth.hs" />
+      <jump line="130" column="3" filename="$USER_HOME$/projects/scotty-blog/src/Routes.hs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBEYXRhLkJ5dGVTdHJpbmcuQ2hhcjggYXMgQkMK</text>
+        <text encoding="base64">ICAgIHRvSlNPTiAoQ2hhdCBpZCB0aXRsZSB1c2VySWQgY3JlYXRlZEF0KSA9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Article</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -120,31 +122,31 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBEYXRhLkJ5dGVTdHJpbmcuQ2hhcjggYXMgQkMK</text>
+        <text encoding="base64">ICAgIHRvSlNPTiAoQ2hhdCBpZCB0aXRsZSB1c2VySWQgY3JlYXRlZEF0KSA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLkJ5dGVTdHJpbmcuTGF6eSAgKGZyb21TdHJpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QgWyJpZCIgLj0gaWQsICJ0aXRsZSIgLj0gdGl0bGUsICJ1c2VySWQiIC49IHVzZXJJZCwgImNyZWF0ZWRBdCIgLj0gY3JlYXRlZEF0XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmVQYXNzd29yZHMgKEp1c3QgcCkgcGFzc3dvcmQgPSBwID09IChtZDVzICQgU3RyIHBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlSlNPTiAoT2JqZWN0IHYpID0gTmV3TWVzc2FnZUJvZHkgPCQ+IHYgLjogInZhbHVlIiA8Kj4gdiAuOiAidXNlcklkIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmVQYXNzd29yZHMgTm90aGluZyBfICAgICAgICAgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QgWyJjaGF0IiAuPSBjaGF0LCAibGFzdE1lc3NhZ2UiIC49IGxhc3RNZXNzYWdlXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aGVyZQo=</text>
+        <text encoding="base64">ICAgIHRvSlNPTiAoQ2hhdFdpdGhMYXN0TWVzc2FnZSBjaGF0IGxhc3RNZXNzYWdlKSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkIGNvbXBhcmVQYXNzd29yZHMgcHdkIChCQy51bnBhY2sgdG9rZW4pCg==</text>
+        <text encoding="base64">ICAgIHRvSlNPTiAoQ2hhdFdpdGhNZXNzYWdlcyBjaGF0IG1lc3NhZ2VzKSA9IG9iamVjdCBbImNoYXQiIC49IGNoYXQsICJtZXNzYWdlcyIgLj0gbWVzc2FnZXNdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB3ZCA8LSBmaW5kVXNlckJ5TG9naW4gcG9vbCAoQkMudW5wYWNrIHRva2VuKQo=</text>
+        <text encoding="base64">LS0gICAgICAgIGVsc2UgcmV0dXJuICQgTGVmdCAiV3JvbmcgY3JlZGVudGlhbHMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eS5FbmNvZGluZyAoKQo=</text>
+        <text encoding="base64">LS0gICAgICAgIHRoZW4gcmV0dXJuICQgUmlnaHQgJCBqc29uVG9Ub2tlbiBqd3RTZWNyZXQgKHRvSlNPTiB1c2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">LS0gICAgaWYgY29ycmVjdFBhc3N3b3JkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
