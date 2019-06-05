@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1559559346347">
         <mark key="[" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/Auth/Register.vue" timestamp="1559561383017">
-        <mark key="[" line="39" column="37" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="64" column="30" />
-        <mark key="." line="39" column="37" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/Auth/Register.vue" timestamp="1559732364679">
+        <mark key="[" line="61" column="40" />
+        <mark key="]" line="61" column="49" />
+        <mark key="^" line="61" column="49" />
+        <mark key="." line="61" column="49" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/router/guards/IsLoggedIn.ts" timestamp="1559562698141">
         <mark key="]" line="11" column="26" />
@@ -27,7 +27,6 @@
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
-        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
         <mark key="[" line="14" column="50" />
@@ -62,28 +61,29 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/AuthService.ts" timestamp="1559561759672">
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/AuthService.ts" timestamp="1559731991380">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/auth/actions.ts" timestamp="1559561747293">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="50" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/auth/actions.ts" timestamp="1559732506554">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/interceptors/jtw.ts" timestamp="1559555674154">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/Jwt.ts" timestamp="1559561960208">
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="49" column="38" />
-        <mark key="." line="49" column="38" />
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/Jwt.ts" timestamp="1559732329950">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/node_modules/axios-observable/lib/index.ts" timestamp="1559731915828" />
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
@@ -120,7 +120,7 @@
         <text encoding="base64">ICAgIC8vIH0sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>then</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC8vICAgICByZXR1cm4gdHlwZW9mIHN0YXRlLnVzZXIuaXNBZG1pbiAhPT0gdW5kZWZpbmVkICYmIHN0YXRlLnVzZXIuaXNBZG1pbjsK</text>
@@ -147,7 +147,7 @@
         <text encoding="base64">ICAgIG1hcmdpZGluIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>then</text>
       </register>
     </registers>
     <search>
