@@ -70,14 +70,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559669477609">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559727298116">
         <mark key="'" line="31" column="78" />
-        <mark key="[" line="31" column="48" />
-        <mark key="]" line="31" column="79" />
-        <mark key="." line="31" column="48" />
-        <mark key="^" line="30" column="82" />
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="36" column="55" />
+        <mark key="." line="36" column="55" />
+        <mark key="^" line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559669934416">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559725539264">
         <mark key="'" line="188" column="89" />
         <mark key="[" line="94" column="14" />
         <mark key="]" line="94" column="13" />
@@ -87,7 +87,12 @@
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" timestamp="1559724423546" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" timestamp="1559725879711">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="43" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="54" column="63" filename="$USER_HOME$/projects/scotty-blog/app/Main.hs" />
@@ -113,10 +118,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tectedSet</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>tectedSet</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -125,31 +130,31 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVnaXN0ZXJVc2VyIHBvb2wgXyBOb3RoaW5nID0gcmV0dXJuICQgTGVmdCAiTWVzc2FnZSBjYW4ndCBiZSBwYXJzZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZW4gUmlnaHQgdXNlcklkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuVGV4dC5MYXp5IChwYWNrKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgICAgICAgICAgaW4gcmV0dXJuICQgUmlnaHQgdXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgICAgICAgICBsZXQgdXNlciA9IHVuY3VycnlOIFVzZXIgZmlyc3RVc2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgICAgIChKdXN0IGZpcnN0VXNlcikgLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA8LSBwYXJhbSAiaWQiIDo6IEFjdGlvbk0gVEwuVGV4dAo=</text>
+        <text encoding="base64">LS0gICAgICAgIE5vdGhpbmcgLT4gcmV0dXJuIE5vdGhpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgIG9mCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA8LSBwYXJhbSAiaWQiIDo6IEFjdGlvbk0gVEwuVGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBOb3RoaW5nIC0+IHJldHVybiAgdXNlciB3aXRoIHN1Y2ggaWQgZm91bmQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
