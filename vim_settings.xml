@@ -3,17 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559724660994">
+      <file name="/Dummy.txt" timestamp="1559728129428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Auth.hs" timestamp="1559667122125" />
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559724511809">
-        <mark key="[" line="106" column="23" />
-        <mark key="]" line="106" column="28" />
-        <mark key="^" line="106" column="28" />
-        <mark key="." line="106" column="28" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559728707089">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="85" column="4" />
+        <mark key="^" line="85" column="4" />
+        <mark key="." line="85" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Message.hs" timestamp="1559723811070" />
       <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1559563731743">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="39" column="0" />
@@ -41,23 +40,23 @@
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559724495458">
-        <mark key="[" line="104" column="11" />
-        <mark key="]" line="104" column="15" />
-        <mark key="^" line="104" column="15" />
-        <mark key="." line="104" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559728253094">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559652800464">
         <mark key="[" line="41" column="7" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559725381882">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559728421670">
         <mark key="'" line="130" column="3" />
-        <mark key="[" line="128" column="38" />
-        <mark key="]" line="128" column="38" />
-        <mark key="." line="128" column="38" />
-        <mark key="^" line="129" column="23" />
+        <mark key="[" line="81" column="56" />
+        <mark key="]" line="81" column="67" />
+        <mark key="." line="81" column="67" />
+        <mark key="^" line="81" column="67" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
@@ -70,12 +69,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559727298116">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559728695679">
         <mark key="'" line="31" column="78" />
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="55" />
-        <mark key="." line="36" column="55" />
-        <mark key="^" line="36" column="55" />
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="72" />
+        <mark key="." line="19" column="72" />
+        <mark key="^" line="19" column="72" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559725539264">
         <mark key="'" line="188" column="89" />
@@ -118,10 +117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, login</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
