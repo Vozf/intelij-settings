@@ -69,12 +69,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559728695679">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559730129612">
         <mark key="'" line="31" column="78" />
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="72" />
-        <mark key="." line="19" column="72" />
-        <mark key="^" line="19" column="72" />
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="24" />
+        <mark key="^" line="63" column="29" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559725539264">
         <mark key="'" line="188" column="89" />
@@ -117,10 +117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, login</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>, login</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
