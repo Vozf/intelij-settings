@@ -51,12 +51,12 @@
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559669676941">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559723063694">
         <mark key="'" line="130" column="3" />
-        <mark key="[" line="106" column="5" />
-        <mark key="]" line="106" column="8" />
-        <mark key="." line="106" column="8" />
-        <mark key="^" line="106" column="8" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="134" column="20" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
@@ -110,11 +110,11 @@
       <jump line="31" column="78" filename="$USER_HOME$/projects/scotty-blog/src/Auth.hs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Alexander</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Alexander</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -123,7 +123,7 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA8LSBwYXJhbSAiaWQiIDo6IEFjdGlvbk0gVEwuVGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -135,19 +135,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ha2VBcnRpY2xlIHMgPSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZCA8LSBwYXJhbSAiaWQiIDo6IEFjdGlvbk0gVEwuVGV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aGVyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvSlNPTiAoQ2hhdCBpZCB0aXRsZSB1c2VySWQgY3JlYXRlZEF0KSA9Cg==</text>
+        <text encoding="base64">ICAgIG1ha2VBcnRpY2xlIHMgPSAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3QgWyJpZCIgLj0gaWQsICJ0aXRsZSIgLj0gdGl0bGUsICJ1c2VySWQiIC49IHVzZXJJZCwgImNyZWF0ZWRBdCIgLj0gY3JlYXRlZEF0XQo=</text>
+        <text encoding="base64">ICB3aGVyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlSlNPTiAoT2JqZWN0IHYpID0gTmV3TWVzc2FnZUJvZHkgPCQ+IHYgLjogInZhbHVlIiA8Kj4gdiAuOiAidXNlcklkIgo=</text>
+        <text encoding="base64">ICAgIHRvSlNPTiAoQ2hhdCBpZCB0aXRsZSB1c2VySWQgY3JlYXRlZEF0KSA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
