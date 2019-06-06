@@ -49,6 +49,12 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1559834680855">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="0" column="0" />
@@ -99,11 +105,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/Domain.hs" timestamp="1559832724156">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="10" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="17" column="10" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/Domain.hs" timestamp="1559834494224">
+        <mark key="[" line="28" column="61" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559814549306">
         <mark key="[" line="44" column="14" />
@@ -164,11 +170,11 @@
       <jump line="49" column="20" filename="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ToJSON</text>
       </register>
       <register name="-" type="4">
-        <text>PayloadWithType</text>
+        <text>ToJSON</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
@@ -180,28 +186,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ey0jIExBTkdVQUdFIERlcml2ZUdlbmVyaWMgICAgICAgICAjLX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS1mdW4gPSBpZAo=</text>
+        <text encoding="base64">ICAgIGRlcml2aW5nIChTaG93LCBHZW5lcmljKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHwgT2xkTWVzc2FnZVR5cGVzZHNhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">ICAgID0gTmV3TWVzc2FnZVNlbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSBTb2NrZXRNc2dUeXBlQ2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5zdGFuY2UgU29ja2V0TWVzc2FnZSBOZXdNZXNzYWdlCg==</text>
+        <text encoding="base64">ey0jIExBTkdVQUdFIERlcml2ZUdlbmVyaWMgICAgICAgICAjLX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gICAgZ2V0UGF5bG9hZCA6OiAoVG9KU09OIGIpID0+IGEgLT4gYgo=</text>
+        <text encoding="base64">LS1mdW4gPSBpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
