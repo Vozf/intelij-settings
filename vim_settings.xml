@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559742191760">
+      <file name="/Dummy.txt" timestamp="1559813251581">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/App.hs" timestamp="1559814907187">
+        <mark key="[" line="32" column="3" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Chat.hs" timestamp="1559742066783">
         <mark key="[" line="65" column="93" />
@@ -12,12 +18,11 @@
         <mark key="^" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
-      <file name="/Auth.hs" timestamp="1559667122125" />
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559742000010">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="29" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559813195085">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="52" column="29" />
-        <mark key="." line="52" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Message.hs" timestamp="1559731011591">
         <mark key="[" line="14" column="43" />
@@ -46,40 +51,41 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558524951244">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559815230646">
+        <mark key="'" line="18" column="42" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="48" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559731741873">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="45" column="282" />
-        <mark key="^" line="45" column="282" />
-        <mark key="." line="45" column="282" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559815133976">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="46" column="282" />
+        <mark key="^" line="46" column="282" />
+        <mark key="." line="46" column="282" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559652800464">
-        <mark key="[" line="41" column="7" />
+      <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559814549306">
+        <mark key="[" line="44" column="14" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559731681057">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559813645682">
         <mark key="'" line="115" column="74" />
-        <mark key="[" line="114" column="44" />
-        <mark key="]" line="114" column="44" />
-        <mark key="." line="114" column="44" />
-        <mark key="^" line="115" column="77" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+        <mark key="^" line="33" column="2" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1558602487444">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1559813120484">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Auth.hs" timestamp="1559749962033">
         <mark key="a" line="78" column="40" />
@@ -89,12 +95,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559725539264">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559813177637">
         <mark key="'" line="188" column="89" />
-        <mark key="[" line="94" column="14" />
-        <mark key="]" line="94" column="13" />
-        <mark key="^" line="94" column="13" />
-        <mark key="." line="94" column="13" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
@@ -128,13 +134,14 @@
       <jump line="130" column="3" filename="$USER_HOME$/projects/scotty-blog/src/Routes.hs" />
       <jump line="31" column="78" filename="$USER_HOME$/projects/scotty-blog/src/Auth.hs" />
       <jump line="115" column="74" filename="$USER_HOME$/projects/scotty-blog/src/Routes.hs" />
+      <jump line="18" column="42" filename="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -143,31 +150,31 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgdXNlck1heSBvZgogICAgICAgIE5vdGhpbmcgICAgICAgICAgICAgICAgLT4gcmV0dXJuIE5vdGhpbmcK</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eS5FbmNvZGluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkIHVzZXJNYXkK</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLkFlc29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZW4gUmlnaHQgdXNlcklkCg==</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBDb250cm9sLkFwcGxpY2F0aXZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuVGV4dC5MYXp5IChwYWNrKQo=</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBTYWZlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChoZWFkTWF5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBHSEMuSW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgaW4gcmV0dXJuICQgUmlnaHQgdXNlcgo=</text>
+        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBDb250cm9sLk1vbmFkLklPLkNsYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICBsZXQgdXNlciA9IHVuY3VycnlOIFVzZXIgZmlyc3RVc2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBEYXRhLkJ5dGVTdHJpbmcuTGF6eS5DaGFyOCAgICAgICAgIGFzIEJMCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gICAgICAgIChKdXN0IGZpcnN0VXNlcikgLT4K</text>
+        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBEYXRhLlRleHQgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIFQK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -225,6 +232,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
