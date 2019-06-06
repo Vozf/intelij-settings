@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559817443376">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/App.hs" timestamp="1559818766726">
         <mark key="[" line="83" column="16" />
         <mark key="]" line="83" column="14" />
@@ -18,7 +15,78 @@
         <mark key="^" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1559819143546" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="61" column="58" />
+        <mark key="^" line="61" column="58" />
+        <mark key="." line="61" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/SocketApp.hs" timestamp="1559832413082">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/CorsMiddleware.hs" timestamp="1558527145168">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1559832488692">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559832187589">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="27" column="282" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559813645682">
+        <mark key="'" line="115" column="74" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+        <mark key="^" line="33" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559813177637">
+        <mark key="'" line="188" column="89" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/SocketApp.hs" timestamp="1559832427351">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" timestamp="1559725879711">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559817443376">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Message.hs" timestamp="1559731011591">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="49" />
@@ -31,50 +99,16 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="61" column="58" />
-        <mark key="^" line="61" column="58" />
-        <mark key="." line="61" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
-        <mark key="[" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/CorsMiddleware.hs" timestamp="1558527145168">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1559817375156">
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559825863323">
-        <mark key="'" line="49" column="20" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="76" column="21" />
-        <mark key="^" line="76" column="21" />
-        <mark key="." line="76" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="27" column="282" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/Domain.hs" timestamp="1559832724156">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1559814549306">
         <mark key="[" line="44" column="14" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Routes.hs" timestamp="1559813645682">
-        <mark key="'" line="115" column="74" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="2" />
-        <mark key="." line="33" column="2" />
-        <mark key="^" line="33" column="2" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
         <mark key="[" line="3" column="25" />
@@ -95,21 +129,8 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Db.hs" timestamp="1559813177637">
-        <mark key="'" line="188" column="89" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Entity/User.hs" timestamp="1559725879711">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="29" />
-        <mark key="." line="43" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -147,7 +168,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PayloadWithType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
@@ -159,28 +180,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5zdGFuY2UgU29ja2V0TWVzc2FnZSBOZXdNZXNzYWdlCg==</text>
+        <text encoding="base64">ey0jIExBTkdVQUdFIERlcml2ZUdlbmVyaWMgICAgICAgICAjLX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gICAgZ2V0UGF5bG9hZCA6OiAoVG9KU09OIGIpID0+IGEgLT4gYgo=</text>
+        <text encoding="base64">LS1mdW4gPSBpZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU29ja2V0TWVzc2FnZSBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgKFRvSlNPTiBhKSA9Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gICAgZ2V0UGF5bG9hZCA9IGlkCg==</text>
+        <text encoding="base64">aW5zdGFuY2UgU29ja2V0TWVzc2FnZSBOZXdNZXNzYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gICAgZ2V0Cg==</text>
+        <text encoding="base64">LS0gICAgZ2V0UGF5bG9hZCA6OiAoVG9KU09OIGIpID0+IGEgLT4gYgo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
