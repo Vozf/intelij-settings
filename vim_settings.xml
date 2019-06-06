@@ -51,12 +51,12 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559823690326">
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559825863323">
         <mark key="'" line="49" column="20" />
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="57" column="25" />
-        <mark key="^" line="56" column="41" />
-        <mark key="." line="57" column="25" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="76" column="21" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="76" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
         <mark key="[" line="87" column="0" />
@@ -143,8 +143,8 @@
       <jump line="49" column="20" filename="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -156,13 +156,13 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgKEVxIGEpID0+IE51bSAgYSB3aGVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ey0jIExBTkdVQUdFIERhdGF0eXBlQ29udGV4dHMgIy19Cg==</text>
+        <text encoding="base64">aW5zdGFuY2UgU29ja2V0TWVzc2FnZSBOZXdNZXNzYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ey0jIExBTkdVQUdFIERhdGF0eXBlQ29udGV4dHMgIy19Cg==</text>
+        <text encoding="base64">LS0gICAgZ2V0UGF5bG9hZCA6OiAoVG9KU09OIGIpID0+IGEgLT4gYgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -171,16 +171,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eS5FbmNvZGluZwo=</text>
+        <text encoding="base64">ICAgICAgU29ja2V0TWVzc2FnZSBhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLlRleHQuTGF6eQo=</text>
+        <text encoding="base64">Y2xhc3MgKFRvSlNPTiBhKSA9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBEYXRhLkFlc29uCg==</text>
+        <text encoding="base64">LS0gICAgZ2V0UGF5bG9hZCA9IGlkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBDb250cm9sLkFwcGxpY2F0aXZlCg==</text>
+        <text encoding="base64">LS0gICAgZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
