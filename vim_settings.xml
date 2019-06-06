@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559813251581">
+      <file name="/Dummy.txt" timestamp="1559817443376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/App.hs" timestamp="1559814907187">
@@ -51,7 +51,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559815230646">
+      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1559817375156">
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559817507822">
         <mark key="'" line="18" column="42" />
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="48" />
