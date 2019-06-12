@@ -15,11 +15,11 @@
         <mark key="^" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560336506170">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560336521888">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
         <mark key="[" line="61" column="27" />
