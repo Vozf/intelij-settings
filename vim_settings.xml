@@ -15,6 +15,12 @@
         <mark key="^" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560336506170">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="61" column="58" />
@@ -55,7 +61,7 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560333055500">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560336378323">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="27" column="13" />
         <mark key="^" line="27" column="13" />
@@ -180,10 +186,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
