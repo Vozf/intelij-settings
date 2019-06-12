@@ -55,11 +55,11 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560331513533">
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560333055500">
         <mark key="[" line="24" column="4" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="21" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
         <mark key="[" line="87" column="0" />
