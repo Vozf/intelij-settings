@@ -55,11 +55,11 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560263539100">
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="22" column="54" />
-        <mark key="^" line="24" column="70" />
-        <mark key="." line="22" column="54" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560331513533">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
         <mark key="[" line="87" column="0" />
@@ -180,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
