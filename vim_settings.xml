@@ -93,11 +93,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/mutations.ts" timestamp="1560446823552">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="40" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/mutations.ts" timestamp="1560452707841">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/Login/Login.vue" timestamp="1559559070137">
         <mark key="[" line="41" column="15" />
@@ -144,7 +144,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560446585212">
+      <file name="/Dummy.txt" timestamp="1560452780932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1559746292665">
@@ -234,7 +234,7 @@
         <text encoding="base64">ZGQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -261,7 +261,7 @@
         <text encoding="base64">ICAgICAgICBzdGF0ZS5sb2dnZWRpbiA9IHN0YXR1czsK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
