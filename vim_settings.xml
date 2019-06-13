@@ -132,11 +132,11 @@
         <mark key="^" line="85" column="3" />
         <mark key="." line="85" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/types.ts" timestamp="1560446827654">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="31" />
-        <mark key="^" line="30" column="31" />
-        <mark key="." line="30" column="31" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/types.ts" timestamp="1560448354731">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatWindowService.ts" timestamp="1560447295133">
         <mark key="[" line="16" column="19" />
@@ -234,7 +234,7 @@
         <text encoding="base64">ZGQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>t</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -261,7 +261,7 @@
         <text encoding="base64">ICAgICAgICBzdGF0ZS5sb2dnZWRpbiA9IHN0YXR1czsK</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
