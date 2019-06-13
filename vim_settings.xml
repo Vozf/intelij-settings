@@ -3,24 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1559810647230">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/Auth/Register.vue" timestamp="1559747077529">
         <mark key="[" line="44" column="63" />
         <mark key="]" line="44" column="67" />
         <mark key="^" line="44" column="67" />
         <mark key="." line="44" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/views/Chat.vue" timestamp="1559809906800" />
-      <file name="$USER_HOME$/projects/vlack_web/src/components/Login/Login.vue" timestamp="1559559070137">
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="15" />
-        <mark key="^" line="45" column="36" />
-        <mark key="." line="41" column="15" />
+      <file name="$USER_HOME$/projects/vlack_web/README.md" timestamp="1560444351476">
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/auth/mutations.ts" timestamp="1559737903069">
         <mark key="[" line="8" column="21" />
@@ -34,11 +24,91 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/actions.ts" timestamp="1559744062337">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/getters.ts" timestamp="1560445732790">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/Util/Avatar.vue" timestamp="1559811515502">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1559746740732">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/auth/actions.ts" timestamp="1559738058453">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="72" />
+        <mark key="^" line="8" column="72" />
+        <mark key="." line="8" column="72" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/types/vue-avatar.d.ts" timestamp="1559810886034">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/jtw.ts" timestamp="1559555674154">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/Jwt.ts" timestamp="1559745181623">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/hblog-scotty.cabal" timestamp="1558105761579">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1560444520644">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="79" />
+        <mark key="^" line="23" column="79" />
+        <mark key="." line="23" column="79" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/router/router.ts" timestamp="1559744601195">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/ChatListItem.vue" timestamp="1559810647230">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/.env" timestamp="1560444327067">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/mutations.ts" timestamp="1560446823552">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/Login/Login.vue" timestamp="1559559070137">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="15" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="41" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/actions.ts" timestamp="1560443356392">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1558111853777">
         <mark key="[" line="14" column="50" />
@@ -62,7 +132,19 @@
         <mark key="^" line="85" column="3" />
         <mark key="." line="85" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559811545464">
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/types.ts" timestamp="1560446827654">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatWindowService.ts" timestamp="1560447295133">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560446585212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1559746292665">
@@ -71,18 +153,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/index.vue" timestamp="1559558536961" />
       <file name="$USER_HOME$/projects/scotty-blog/src/Domain.hs" timestamp="1558356402136">
         <mark key="[" line="43" column="30" />
         <mark key="]" line="48" column="51" />
         <mark key="^" line="48" column="51" />
         <mark key="." line="48" column="51" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/Util/Avatar.vue" timestamp="1559811515502">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/Auth/Login.vue" timestamp="1559747062110">
         <mark key="[" line="37" column="62" />
@@ -109,47 +184,17 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/App.vue" timestamp="1559746740732">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/auth/actions.ts" timestamp="1559738058453">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="72" />
-        <mark key="^" line="8" column="72" />
-        <mark key="." line="8" column="72" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Stack.hs" timestamp="1558362676853">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/types/vue-avatar.d.ts" timestamp="1559810886034">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/package.yaml" timestamp="1558347966892">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="22" column="13" />
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/interceptors/Jwt.ts" timestamp="1559745181623">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/node_modules/axios-observable/lib/index.ts" timestamp="1559731915828" />
-      <file name="$USER_HOME$/projects/vlack_web/src/main.ts" timestamp="1559561938821">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="21" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1558356279612">
         <mark key="[" line="9" column="31" />
@@ -165,13 +210,6 @@
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/.gitignore" timestamp="1558348355727">
         <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/Auth/Login/Login.vue" timestamp="1559560606093" />
-      <file name="$USER_HOME$/projects/vlack_web/src/router/router.ts" timestamp="1559744601195">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/store.ts" timestamp="1559557762591">
         <mark key="[" line="11" column="13" />
@@ -189,40 +227,41 @@
       <jump line="32" column="46" filename="$USER_HOME$/projects/vlack_web/src/components/Auth/Register.vue" />
       <jump line="58" column="38" filename="$USER_HOME$/projects/vlack_web/src/components/Auth/Register.vue" />
       <jump line="5" column="22" filename="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Message.vue" />
+      <jump line="12" column="35" filename="$USER_HOME$/projects/vlack_web/src/store/chat/mutations.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>$</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBpbmhlcml0Owo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lmxpbmsgewo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBpbmhlcml0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Lmxpbmsgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5sb2dnZWRpbiA9IHN0YXR1czsK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldExvZ2dlZEluKHN0YXRlLCBzdGF0dXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5sb2dnZWRpbiA9IHN0YXR1czsK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
