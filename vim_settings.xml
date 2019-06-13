@@ -15,6 +15,7 @@
         <mark key="^" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
+      <file name="/App.hs" timestamp="1560427319014" />
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560337531803">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -48,11 +49,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1559832488692">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1560429182698">
+        <mark key="[" line="37" column="89" />
+        <mark key="]" line="37" column="105" />
+        <mark key="^" line="37" column="105" />
+        <mark key="." line="37" column="105" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" timestamp="1559832187589">
         <mark key="'" line="49" column="20" />
@@ -60,6 +61,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="66" column="3" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560429338797">
+        <mark key="'" line="32" column="67" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
         <mark key="[" line="87" column="0" />
@@ -170,6 +178,11 @@
       <jump line="49" column="20" filename="$USER_HOME$/projects/scotty-blog/src/SocketApp.hs" />
       <jump line="47" column="29" filename="$USER_HOME$/projects/scotty-blog/src/Socket/Domain.hs" />
       <jump line="45" column="27" filename="$USER_HOME$/projects/scotty-blog/src/Socket/Domain.hs" />
+      <jump line="22" column="29" filename="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" />
+      <jump line="29" column="50" filename="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" />
+      <jump line="31" column="31" filename="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" />
+      <jump line="47" column="56" filename="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" />
+      <jump line="32" column="67" filename="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -185,31 +198,31 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2IC46ICJib2R5VGV4dCIK</text>
+        <text encoding="base64">ICAgIGhDbG9zZSBoZGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAsIHBheWxvYWQgOjogYQo=</text>
+        <text encoding="base64">ICAgIG5hbWUgPC0gZm1hcCBQcmVsdWRlLmluaXQgKGhHZXRMaW5lIGhkbCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGNoYXRJZCA6OiBGbG9hdAogICAgICAgICwgdmFsdWUgIDo6IFN0cmluZwogICAgICAgICwgdmFsdWVzICA6OiBTdHJpbmc=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFdTLnNlbmRUZXh0RGF0YSBjb25uICQgKCJmYWlsPiAiIDo6IEJ5dGVTdHJpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2IC46ICJib2R5VGV4dCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAsIHBheWxvYWQgOjogYQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlcml2aW5nIChTaG93LCBHZW5lcmljKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGNoYXRJZCA6OiBGbG9hdAogICAgICAgICwgdmFsdWUgIDo6IFN0cmluZwogICAgICAgICwgdmFsdWVzICA6OiBTdHJpbmc=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHwgT2xkTWVzc2FnZVR5cGVzZHNhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID0gTmV3TWVzc2FnZVNlbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSBTb2NrZXRNc2dUeXBlQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgIGRlcml2aW5nIChTaG93LCBHZW5lcmljKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -277,6 +290,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
