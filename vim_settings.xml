@@ -55,6 +55,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scotty-blog/README.md" timestamp="1560765952646">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1560449534655">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="38" column="91" />
@@ -79,7 +85,7 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560764910059">
+      <file name="/Dummy.txt" timestamp="1560765959986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
