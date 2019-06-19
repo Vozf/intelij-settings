@@ -61,12 +61,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1560946978019">
+      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1560949010252">
         <mark key="'" line="29" column="18" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="50" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
         <mark key="[" line="60" column="0" />
@@ -74,7 +74,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1560945372294">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="35" />
-        <mark key="^" line="31" column="282" />
+        <mark key="^" line="32" column="282" />
         <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/SocketApp.hs" timestamp="1559832427351">
