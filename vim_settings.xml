@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/scotty-blog/src/App.hs" timestamp="1560449377020">
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="17" />
-        <mark key="." line="61" column="17" />
-        <mark key="^" line="61" column="17" />
+      <file name="$USER_HOME$/projects/scotty-blog/src/App.hs" timestamp="1560944587781">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Chat.hs" timestamp="1560449261620">
         <mark key="[" line="65" column="93" />
@@ -61,20 +61,21 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1560942771525">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/projects/scotty-blog/app/Main.hs" timestamp="1560945959846">
+        <mark key="'" line="29" column="18" />
+        <mark key="[" line="45" column="83" />
+        <mark key="]" line="45" column="83" />
+        <mark key="^" line="45" column="83" />
+        <mark key="." line="45" column="83" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
         <mark key="[" line="60" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1559818971038">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="27" column="282" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1560945372294">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="31" column="282" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/SocketApp.hs" timestamp="1559832427351">
         <mark key="[" line="4" column="16" />
@@ -88,7 +89,7 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560942036292">
+      <file name="/Dummy.txt" timestamp="1560946000185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
@@ -176,13 +177,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/projects/scotty-blog/package.yaml" />
       <jump line="59" column="16" filename="$USER_HOME$/projects/scotty-blog/package.yaml" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/scotty-blog/package.yaml" />
+      <jump line="29" column="18" filename="$USER_HOME$/projects/scotty-blog/app/Main.hs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-scotty</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-scotty</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
