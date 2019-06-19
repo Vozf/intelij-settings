@@ -132,6 +132,12 @@
         <mark key="^" line="85" column="3" />
         <mark key="." line="85" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/vlack_web/package.json" timestamp="1560936942658">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/chat/types.ts" timestamp="1560448354731">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="35" />
@@ -144,7 +150,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560452780932">
+      <file name="/Dummy.txt" timestamp="1560936948371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1559746292665">
