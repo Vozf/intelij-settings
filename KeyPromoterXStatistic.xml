@@ -201,14 +201,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'npm serve'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'npm serve'</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'rest-api#1'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -254,7 +246,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -262,7 +254,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>21</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -311,14 +303,6 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'main2'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'npm serve'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'npm serve'</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'rest-api#1'">
@@ -433,14 +417,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'npm serve'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'npm serve'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'run'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -502,7 +478,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>92</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -542,7 +518,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
