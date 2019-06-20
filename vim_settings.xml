@@ -88,11 +88,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/mutations.ts" timestamp="1560937924140">
+      <file name="$USER_HOME$/projects/vlack_web/src/store/chat/mutations.ts" timestamp="1561023015128">
         <mark key="[" line="31" column="6" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/Login/Login.vue" timestamp="1559559070137">
         <mark key="[" line="41" column="15" />
@@ -144,7 +144,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561017199720">
+      <file name="/Dummy.txt" timestamp="1561023045802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1559746292665">
@@ -171,11 +171,11 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/CurrentUser.vue" timestamp="1559811439487">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="20" />
+      <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/CurrentUser.vue" timestamp="1561022902258">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="57" />
+        <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/CurrentChat/Message.vue" timestamp="1559811480079">
         <mark key="'" line="5" column="22" />
