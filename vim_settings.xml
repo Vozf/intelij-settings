@@ -127,8 +127,10 @@
         <mark key="^" line="85" column="3" />
         <mark key="." line="85" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/vlack_web/package.json" timestamp="1560936942658">
-        <mark key="[" line="39" column="37" />
+      <file name="$USER_HOME$/projects/vlack_web/package.json" timestamp="1561017050285">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/store/chat/types.ts" timestamp="1560448354731">
         <mark key="[" line="33" column="28" />
@@ -142,7 +144,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560959666356">
+      <file name="/Dummy.txt" timestamp="1561017199720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vlack_web/src/components/ChatWindow/ChatList/index.vue" timestamp="1559746292665">
@@ -231,8 +233,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGQK</text>
@@ -259,7 +261,7 @@
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIChCb29sZWFuKSB3aGV0aGVyIHRvIHJlY29ubmVjdCBhdXRvbWF0aWNhbGx5IChmYWxzZSk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
