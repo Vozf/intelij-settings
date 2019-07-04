@@ -51,9 +51,9 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562243586021">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562245003342">
         <mark key="'" line="89" column="86" />
-        <mark key="[" line="88" column="51" />
+        <mark key="[" line="91" column="33" />
         <mark key="]" line="88" column="72" />
         <mark key="^" line="88" column="72" />
         <mark key="." line="88" column="72" />
@@ -65,7 +65,7 @@
         <mark key="^" line="175" column="22" />
         <mark key="." line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562241678740">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562244698423">
         <mark key="[" line="181" column="29" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/keras2tflite.py" timestamp="1562242535125">
@@ -77,6 +77,7 @@
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/movez-ball/keras_localization/callbacks/light_checkpoint.py" timestamp="1562244909330" />
       <file name="$USER_HOME$/projects/movez-ball/inference_package/requirements.txt" timestamp="1562230076995">
         <mark key="[" line="13" column="52" />
         <mark key="]" line="13" column="52" />
