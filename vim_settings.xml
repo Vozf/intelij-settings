@@ -11,7 +11,7 @@
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1562231161268">
+      <file name="/a.dummy" timestamp="1562248450473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/utils/utils.py" timestamp="1562241676226" />
@@ -35,7 +35,7 @@
         <mark key="^" line="154" column="50" />
         <mark key="." line="154" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562242548232">
+      <file name="/Dummy.txt" timestamp="1562248205218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/pytorch2keras/converter.py" timestamp="1562233661738">
@@ -51,12 +51,12 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562246482591">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562248429365">
         <mark key="'" line="89" column="86" />
-        <mark key="[" line="91" column="33" />
-        <mark key="]" line="81" column="30" />
-        <mark key="^" line="81" column="30" />
-        <mark key="." line="81" column="30" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="34" />
+        <mark key="^" line="104" column="34" />
+        <mark key="." line="104" column="34" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/keras/engine/input_layer.py" timestamp="1562238769419" />
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2coreml.py" timestamp="1562080888513">
@@ -134,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uint8</text>
+        <text>.py</text>
       </register>
       <register name="-" type="4">
-        <text>uint8</text>
+        <text>.py</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
