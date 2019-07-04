@@ -29,13 +29,13 @@
         <mark key="." line="127" column="43" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/converter.py" timestamp="1562238897807" />
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2tflite.py" timestamp="1562081093443">
-        <mark key="[" line="141" column="112" />
-        <mark key="]" line="141" column="112" />
-        <mark key="^" line="141" column="111" />
-        <mark key="." line="141" column="112" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2tflite.py" timestamp="1562242480005">
+        <mark key="[" line="154" column="49" />
+        <mark key="]" line="154" column="50" />
+        <mark key="^" line="154" column="50" />
+        <mark key="." line="154" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562241651898">
+      <file name="/Dummy.txt" timestamp="1562242548232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/pytorch2keras/converter.py" timestamp="1562233661738">
@@ -51,12 +51,12 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562241762425">
-        <mark key="'" line="108" column="86" />
-        <mark key="[" line="107" column="51" />
-        <mark key="]" line="107" column="72" />
-        <mark key="^" line="107" column="72" />
-        <mark key="." line="107" column="72" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562242289212">
+        <mark key="'" line="89" column="86" />
+        <mark key="[" line="88" column="51" />
+        <mark key="]" line="88" column="72" />
+        <mark key="^" line="88" column="72" />
+        <mark key="." line="88" column="72" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/keras/engine/input_layer.py" timestamp="1562238769419" />
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2coreml.py" timestamp="1562080888513">
@@ -68,7 +68,12 @@
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562241678740">
         <mark key="[" line="181" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/keras2tflite.py" timestamp="1562076457634" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/keras2tflite.py" timestamp="1562242535125">
+        <mark key="[" line="91" column="44" />
+        <mark key="]" line="91" column="50" />
+        <mark key="." line="91" column="50" />
+        <mark key="^" line="91" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
@@ -128,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>uint8</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>uint8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
