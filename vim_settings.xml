@@ -51,12 +51,12 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562245003342">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562246482591">
         <mark key="'" line="89" column="86" />
         <mark key="[" line="91" column="33" />
-        <mark key="]" line="88" column="72" />
-        <mark key="^" line="88" column="72" />
-        <mark key="." line="88" column="72" />
+        <mark key="]" line="81" column="30" />
+        <mark key="^" line="81" column="30" />
+        <mark key="." line="81" column="30" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/keras/engine/input_layer.py" timestamp="1562238769419" />
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2coreml.py" timestamp="1562080888513">
