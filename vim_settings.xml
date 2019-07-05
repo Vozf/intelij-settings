@@ -29,11 +29,11 @@
         <mark key="." line="127" column="43" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/converter.py" timestamp="1562238897807" />
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2tflite.py" timestamp="1562314316261">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="154" column="50" />
-        <mark key="^" line="154" column="50" />
-        <mark key="." line="154" column="50" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2tflite.py" timestamp="1562315970664">
+        <mark key="[" line="128" column="76" />
+        <mark key="]" line="130" column="95" />
+        <mark key="^" line="130" column="95" />
+        <mark key="." line="130" column="95" />
       </file>
       <file name="/Dummy.txt" timestamp="1562248205218">
         <mark key="[" line="0" column="0" />
@@ -134,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.py</text>
+        <text>onnx2keras</text>
       </register>
       <register name="-" type="4">
-        <text>.py</text>
+        <text>onnx2keras</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
