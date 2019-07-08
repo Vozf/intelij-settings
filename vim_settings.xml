@@ -9,13 +9,13 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1562334523145">
+      <file name="/Python Console" timestamp="1562579571872">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1562334725483">
+      <file name="/fragment.py" timestamp="1562579543168">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="97" />
-        <mark key="." line="0" column="97" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Chat.hs" timestamp="1560449261620">
         <mark key="[" line="65" column="93" />
@@ -158,8 +158,11 @@
         <mark key="^" line="175" column="22" />
         <mark key="." line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562317771655">
-        <mark key="[" line="181" column="29" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562579570495">
+        <mark key="[" line="269" column="55" />
+        <mark key="]" line="270" column="50" />
+        <mark key="." line="270" column="50" />
+        <mark key="^" line="270" column="50" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/keras2tflite.py" timestamp="1562319103127">
         <mark key="[" line="91" column="44" />
@@ -245,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>en</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>en</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
