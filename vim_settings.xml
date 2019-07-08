@@ -9,14 +9,6 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1562579571872">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1562579543168">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Entity/Chat.hs" timestamp="1560449261620">
         <mark key="[" line="65" column="93" />
         <mark key="]" line="65" column="98" />
@@ -26,39 +18,12 @@
       <file name="/a.dummy" timestamp="1562248450473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560337531803">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/dump.sql" timestamp="1560765123717">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/movez-ball/utils/utils.py" timestamp="1562241676226" />
       <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="61" column="58" />
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
-        <mark key="[" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/SocketApp.hs" timestamp="1559832413082">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/src/CorsMiddleware.hs" timestamp="1558527145168">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/README.md" timestamp="1560765952646">
         <mark key="[" line="5" column="32" />
@@ -76,11 +41,8 @@
         <mark key="^" line="127" column="43" />
         <mark key="." line="127" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1560958024287">
+      <file name="/inference_example.ipynb" timestamp="1562583688843">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/SocketApp.hs" timestamp="1559832427351">
         <mark key="[" line="4" column="16" />
@@ -95,6 +57,87 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/converter.py" timestamp="1562238897807" />
+      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/pytorch2keras/converter.py" timestamp="1562315181071">
+        <mark key="[" line="66" column="110" />
+        <mark key="]" line="66" column="110" />
+        <mark key="." line="66" column="110" />
+      </file>
+      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/reshape_layers.py" timestamp="1562334960241">
+        <mark key="[" line="119" column="31" />
+        <mark key="]" line="119" column="48" />
+        <mark key="^" line="119" column="48" />
+        <mark key="." line="119" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562248429365">
+        <mark key="'" line="89" column="86" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="34" />
+        <mark key="^" line="104" column="34" />
+        <mark key="." line="104" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1559563731743">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/keras2tflite.py" timestamp="1562319103127">
+        <mark key="[" line="91" column="44" />
+        <mark key="]" line="91" column="50" />
+        <mark key="." line="91" column="50" />
+        <mark key="^" line="91" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
+        <mark key="[" line="84" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/movez-ball/keras_localization/callbacks/light_checkpoint.py" timestamp="1562244909330" />
+      <file name="$USER_HOME$/projects/scotty-blog/application.conf" timestamp="1560957644737">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="/Python Console" timestamp="1562579571872">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1562579543168">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560337531803">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/dump.sql" timestamp="1560765123717">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/SocketApp.hs" timestamp="1559832413082">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/CorsMiddleware.hs" timestamp="1558527145168">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1560958024287">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2tflite.py" timestamp="1562338273484">
         <mark key="[" line="121" column="92" />
         <mark key="]" line="83" column="99" />
@@ -104,11 +147,6 @@
       <file name="/Dummy.txt" timestamp="1562335202657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/pytorch2keras/converter.py" timestamp="1562315181071">
-        <mark key="[" line="66" column="110" />
-        <mark key="]" line="66" column="110" />
-        <mark key="." line="66" column="110" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.hs" timestamp="1560256835571">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -117,12 +155,6 @@
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
         <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/reshape_layers.py" timestamp="1562334960241">
-        <mark key="[" line="119" column="31" />
-        <mark key="]" line="119" column="48" />
-        <mark key="^" line="119" column="48" />
-        <mark key="." line="119" column="48" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562238779709">
         <mark key="[" line="18" column="21" />
@@ -138,19 +170,6 @@
         <mark key="^" line="17" column="103" />
         <mark key="." line="17" column="103" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562248429365">
-        <mark key="'" line="89" column="86" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="34" />
-        <mark key="^" line="104" column="34" />
-        <mark key="." line="104" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1559563731743">
-        <mark key="[" line="39" column="14" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/keras/engine/input_layer.py" timestamp="1562238769419" />
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2coreml.py" timestamp="1562316433919">
         <mark key="[" line="50" column="17" />
@@ -158,20 +177,11 @@
         <mark key="^" line="175" column="22" />
         <mark key="." line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562579570495">
-        <mark key="[" line="269" column="55" />
-        <mark key="]" line="270" column="50" />
-        <mark key="." line="270" column="50" />
-        <mark key="^" line="270" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/keras2tflite.py" timestamp="1562319103127">
-        <mark key="[" line="91" column="44" />
-        <mark key="]" line="91" column="50" />
-        <mark key="." line="91" column="50" />
-        <mark key="^" line="91" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
-        <mark key="[" line="84" column="35" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562583792220">
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1559813120484">
         <mark key="[" line="3" column="0" />
@@ -184,13 +194,6 @@
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/movez-ball/keras_localization/callbacks/light_checkpoint.py" timestamp="1562244909330" />
-      <file name="$USER_HOME$/projects/scotty-blog/application.conf" timestamp="1560957644737">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/requirements.txt" timestamp="1562230076995">
         <mark key="[" line="13" column="52" />
