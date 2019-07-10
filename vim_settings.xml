@@ -133,12 +133,12 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562768225417">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562771056068">
         <mark key="'" line="80" column="26" />
-        <mark key="[" line="80" column="33" />
-        <mark key="]" line="80" column="34" />
-        <mark key="." line="80" column="34" />
-        <mark key="^" line="80" column="34" />
+        <mark key="[" line="105" column="23" />
+        <mark key="]" line="105" column="23" />
+        <mark key="." line="105" column="23" />
+        <mark key="^" line="104" column="44" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
@@ -260,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
