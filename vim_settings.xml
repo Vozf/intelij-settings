@@ -86,7 +86,7 @@
         <mark key="^" line="127" column="43" />
         <mark key="." line="127" column="43" />
       </file>
-      <file name="/inference_example.ipynb" timestamp="1562765000421">
+      <file name="/inference_example.ipynb" timestamp="1562854219255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="12" />
         <mark key="^" line="8" column="12" />
@@ -127,7 +127,7 @@
         <mark key="]" line="66" column="110" />
         <mark key="." line="66" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562848359283">
+      <file name="/Dummy.txt" timestamp="1562854266219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.hs" timestamp="1560256835571">
@@ -145,12 +145,12 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562849741147">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562854248551">
         <mark key="'" line="80" column="26" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="0" />
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
