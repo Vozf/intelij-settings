@@ -38,11 +38,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/utils/utils.py" timestamp="1562848987838">
-        <mark key="[" line="196" column="50" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/projects/movez-ball/utils/utils.py" timestamp="1562849594301">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="195" column="2" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
         <mark key="[" line="61" column="27" />
@@ -53,11 +53,11 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/utils/data_augmentation.py" timestamp="1562849012872">
+      <file name="$USER_HOME$/projects/movez-ball/utils/data_augmentation.py" timestamp="1562849657332">
         <mark key="[" line="68" column="0" />
-        <mark key="]" line="133" column="13" />
-        <mark key="^" line="133" column="13" />
-        <mark key="." line="133" column="13" />
+        <mark key="]" line="68" column="13" />
+        <mark key="^" line="68" column="13" />
+        <mark key="." line="68" column="13" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/SocketApp.hs" timestamp="1559832413082">
         <mark key="[" line="4" column="17" />
@@ -145,12 +145,12 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562771056068">
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562849741147">
         <mark key="'" line="80" column="26" />
-        <mark key="[" line="105" column="23" />
-        <mark key="]" line="105" column="23" />
-        <mark key="." line="105" column="23" />
-        <mark key="^" line="104" column="44" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
@@ -272,8 +272,8 @@
       <jump line="282" column="59" filename="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -285,31 +285,31 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGFzZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1vZGVsLCBjaGVja3BvaW50ID0gbG9hZF90b3JjaF9jaGVja3BvaW50KHBhdGgpCiAgICAgICAgIyBzZWxmLmNvbmZfYm9udXNlcl9jb25maWcgPSBjb25mX2JvbnVzZXJfY29uZmlnCiAgICAgICAgIyBzZWxmLmNvbmZpZyA9IHlhbWwubG9hZChjaGVja3BvaW50Wydjb25maWcnXSkKICAgICAgICAjIHNlbGYubW9kZWxfcGFyYW1zID0gc2VsZi5jb25maWdbJ21vZGVsX3BhcmFtcyddCiAgICAgICAgIyBzZWxmLm1vZGVsID0gbW9kZWwKICAgICAgICAjIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCiAgICAgICAgIyAjIFRPRE86IHJlcGxhY2Ugd2l0aCAudG8oZGV2aWNlKSB3aGVuIHB5dG9yY2g+MS4wLjEgd2lsbCBiZSByZWxlYXNlZAogICAgICAgICMgc2VsZi5tb2RlbC5jdWRhKCkgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlIHNlbGYubW9kZWwuY3B1KCkKICAgICAgICAjIHNlbGYubW9kZWwuZXZhbCgpCiAgICAgICAgIyBzZWxmLmRldmljZSA9IGRldmljZQogICAgICAgICMgc2VsZi5kdHlwZSA9IHRvcmNoLmZsb2F0MzIKICAgICAgICAjICNzZWxmLm1vZGVsLnRvKHRvcmNoLmRldmljZShzZWxmLmRldmljZSkpCiAgICAgICAgIyBzZWxmLnN0YXRlcyA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGFzZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1vZGVsLCBjaGVja3BvaW50ID0gbG9hZF90b3JjaF9jaGVja3BvaW50KHBhdGgpCiAgICAgICAgIyBzZWxmLmNvbmZfYm9udXNlcl9jb25maWcgPSBjb25mX2JvbnVzZXJfY29uZmlnCiAgICAgICAgIyBzZWxmLmNvbmZpZyA9IHlhbWwubG9hZChjaGVja3BvaW50Wydjb25maWcnXSkKICAgICAgICAjIHNlbGYubW9kZWxfcGFyYW1zID0gc2VsZi5jb25maWdbJ21vZGVsX3BhcmFtcyddCiAgICAgICAgIyBzZWxmLm1vZGVsID0gbW9kZWwKICAgICAgICAjIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCiAgICAgICAgIyAjIFRPRE86IHJlcGxhY2Ugd2l0aCAudG8oZGV2aWNlKSB3aGVuIHB5dG9yY2g+MS4wLjEgd2lsbCBiZSByZWxlYXNlZAogICAgICAgICMgc2VsZi5tb2RlbC5jdWRhKCkgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlIHNlbGYubW9kZWwuY3B1KCkKICAgICAgICAjIHNlbGYubW9kZWwuZXZhbCgpCiAgICAgICAgIyBzZWxmLmRldmljZSA9IGRldmljZQogICAgICAgICMgc2VsZi5kdHlwZSA9IHRvcmNoLmZsb2F0MzIKICAgICAgICAjICNzZWxmLm1vZGVsLnRvKHRvcmNoLmRldmljZShzZWxmLmRldmljZSkpCiAgICAgICAgIyBzZWxmLnN0YXRlcyA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdXQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdXQK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
