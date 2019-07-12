@@ -9,10 +9,10 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1562668923621">
+      <file name="/Python Console" timestamp="1562924349745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1562668934714">
+      <file name="/fragment.py" timestamp="1562924449306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -50,6 +50,7 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/coremltools/models/_interface_management.py" timestamp="1562923041903" />
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
       </file>
@@ -98,6 +99,12 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx_coreml/converter.py" timestamp="1562923447312">
+        <mark key="[" line="410" column="7" />
+        <mark key="]" line="446" column="11" />
+        <mark key="^" line="446" column="11" />
+        <mark key="." line="446" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1560958024287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="0" />
@@ -116,6 +123,7 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/coremltools/models/neural_network/builder.py" timestamp="1562923005134" />
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2tflite.py" timestamp="1562847128667">
         <mark key="[" line="121" column="74" />
         <mark key="]" line="121" column="74" />
@@ -127,7 +135,7 @@
         <mark key="]" line="66" column="110" />
         <mark key="." line="66" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562920381442">
+      <file name="/Dummy.txt" timestamp="1562925403717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.hs" timestamp="1560256835571">
@@ -161,24 +169,17 @@
         <mark key="^" line="17" column="103" />
         <mark key="." line="17" column="103" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorchtokeras.py" timestamp="1562248429365">
-        <mark key="'" line="89" column="86" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="34" />
-        <mark key="^" line="104" column="34" />
-        <mark key="." line="104" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/scotty-blog/stack.yaml" timestamp="1559563731743">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2coreml.py" timestamp="1562316433919">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="175" column="22" />
-        <mark key="^" line="175" column="22" />
-        <mark key="." line="175" column="22" />
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2coreml.py" timestamp="1562925261234">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="46" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" timestamp="1562920303426">
         <mark key="[" line="134" column="0" />
@@ -272,7 +273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -284,31 +285,31 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGFzZAo=</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1vZGVsLCBjaGVja3BvaW50ID0gbG9hZF90b3JjaF9jaGVja3BvaW50KHBhdGgpCiAgICAgICAgIyBzZWxmLmNvbmZfYm9udXNlcl9jb25maWcgPSBjb25mX2JvbnVzZXJfY29uZmlnCiAgICAgICAgIyBzZWxmLmNvbmZpZyA9IHlhbWwubG9hZChjaGVja3BvaW50Wydjb25maWcnXSkKICAgICAgICAjIHNlbGYubW9kZWxfcGFyYW1zID0gc2VsZi5jb25maWdbJ21vZGVsX3BhcmFtcyddCiAgICAgICAgIyBzZWxmLm1vZGVsID0gbW9kZWwKICAgICAgICAjIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCiAgICAgICAgIyAjIFRPRE86IHJlcGxhY2Ugd2l0aCAudG8oZGV2aWNlKSB3aGVuIHB5dG9yY2g+MS4wLjEgd2lsbCBiZSByZWxlYXNlZAogICAgICAgICMgc2VsZi5tb2RlbC5jdWRhKCkgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlIHNlbGYubW9kZWwuY3B1KCkKICAgICAgICAjIHNlbGYubW9kZWwuZXZhbCgpCiAgICAgICAgIyBzZWxmLmRldmljZSA9IGRldmljZQogICAgICAgICMgc2VsZi5kdHlwZSA9IHRvcmNoLmZsb2F0MzIKICAgICAgICAjICNzZWxmLm1vZGVsLnRvKHRvcmNoLmRldmljZShzZWxmLmRldmljZSkpCiAgICAgICAgIyBzZWxmLnN0YXRlcyA9IE5vbmUK</text>
+        <text encoding="base64">ZGFzZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vZGVsLCBjaGVja3BvaW50ID0gbG9hZF90b3JjaF9jaGVja3BvaW50KHBhdGgpCiAgICAgICAgIyBzZWxmLmNvbmZfYm9udXNlcl9jb25maWcgPSBjb25mX2JvbnVzZXJfY29uZmlnCiAgICAgICAgIyBzZWxmLmNvbmZpZyA9IHlhbWwubG9hZChjaGVja3BvaW50Wydjb25maWcnXSkKICAgICAgICAjIHNlbGYubW9kZWxfcGFyYW1zID0gc2VsZi5jb25maWdbJ21vZGVsX3BhcmFtcyddCiAgICAgICAgIyBzZWxmLm1vZGVsID0gbW9kZWwKICAgICAgICAjIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCiAgICAgICAgIyAjIFRPRE86IHJlcGxhY2Ugd2l0aCAudG8oZGV2aWNlKSB3aGVuIHB5dG9yY2g+MS4wLjEgd2lsbCBiZSByZWxlYXNlZAogICAgICAgICMgc2VsZi5tb2RlbC5jdWRhKCkgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlIHNlbGYubW9kZWwuY3B1KCkKICAgICAgICAjIHNlbGYubW9kZWwuZXZhbCgpCiAgICAgICAgIyBzZWxmLmRldmljZSA9IGRldmljZQogICAgICAgICMgc2VsZi5kdHlwZSA9IHRvcmNoLmZsb2F0MzIKICAgICAgICAjICNzZWxmLm1vZGVsLnRvKHRvcmNoLmRldmljZShzZWxmLmRldmljZSkpCiAgICAgICAgIyBzZWxmLnN0YXRlcyA9IE5vbmUK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdXQK</text>
+        <text encoding="base64">ICAgIGtfbW9kZWwgPSBweXRvcmNoX3RvX2tlcmFzKG1vZGVsLCBbZHVtbXlfaW5wdQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
