@@ -218,6 +218,7 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/Deep-Image-Matting/LICENSE" timestamp="1564744258718" />
     </filemarks>
     <jumps>
       <jump line="54" column="63" filename="$USER_HOME$/projects/scotty-blog/app/Main.hs" />
