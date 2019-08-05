@@ -109,6 +109,12 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/Deep-Image-Matting/predit_single.py" timestamp="1565015846461">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1560958024287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="0" />
@@ -293,11 +299,11 @@
       <jump line="88" column="34" filename="/1.ipynb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtbwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>==0.7.1</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
