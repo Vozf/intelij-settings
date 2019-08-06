@@ -121,10 +121,10 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1565092696336">
+      <file name="/Python Console" timestamp="1565096054771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1562924449306">
+      <file name="/fragment.py" timestamp="1565096063858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -162,11 +162,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565094828916">
-        <mark key="[" line="38" column="71" />
-        <mark key="]" line="38" column="75" />
-        <mark key="." line="38" column="75" />
-        <mark key="^" line="38" column="75" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565096140785">
+        <mark key="'" line="32" column="16" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="/downsampling.ipynb" timestamp="1562764853304">
         <mark key="[" line="0" column="0" />
@@ -308,13 +309,14 @@
       <jump line="80" column="26" filename="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" />
       <jump line="282" column="59" filename="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" />
       <jump line="88" column="34" filename="/1.ipynb" />
+      <jump line="32" column="16" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
