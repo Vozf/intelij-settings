@@ -29,6 +29,7 @@
         <mark key="^" line="195" column="2" />
         <mark key="." line="194" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/torch/utils/data/dataloader.py" timestamp="1565107811912" />
       <file name="$USER_HOME$/projects/scotty-blog/src/TokenAuth.hs" timestamp="1559663978413">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="61" column="58" />
@@ -74,11 +75,7 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/pytorch2keras/converter.py" timestamp="1562315181071">
-        <mark key="[" line="66" column="110" />
-        <mark key="]" line="66" column="110" />
-        <mark key="." line="66" column="110" />
-      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1565107967267" />
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/reshape_layers.py" timestamp="1562334960241">
         <mark key="[" line="119" column="31" />
         <mark key="]" line="119" column="48" />
@@ -115,10 +112,11 @@
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565102530435">
-        <mark key="[" line="187" column="23" />
-        <mark key="]" line="187" column="23" />
-        <mark key="." line="187" column="23" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565109135457">
+        <mark key="[" line="201" column="20" />
+        <mark key="]" line="201" column="32" />
+        <mark key="." line="201" column="32" />
+        <mark key="^" line="201" column="32" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/application.conf" timestamp="1560957644737">
         <mark key="[" line="3" column="19" />
@@ -126,10 +124,11 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1565100639540">
+      <file name="/train.py" timestamp="1565106747434" />
+      <file name="/Python Console" timestamp="1565109680193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1565100661196">
+      <file name="/fragment.py" timestamp="1565108741885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -167,11 +166,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565100634403">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565109690310">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="92" column="20" />
-        <mark key="]" line="92" column="20" />
-        <mark key="." line="92" column="20" />
+        <mark key="[" line="43" column="77" />
+        <mark key="]" line="43" column="77" />
+        <mark key="." line="43" column="77" />
         <mark key="^" line="92" column="30" />
       </file>
       <file name="/downsampling.ipynb" timestamp="1562764853304">
@@ -198,9 +197,10 @@
         <mark key="^" line="83" column="99" />
         <mark key="." line="121" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565099751326">
+      <file name="/Dummy.txt" timestamp="1565107348801">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1565108184831" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.hs" timestamp="1560256835571">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -318,10 +318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0XD4=</text>
