@@ -107,8 +107,8 @@
         <mark key="^" line="90" column="17" />
         <mark key="." line="92" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565179101896">
-        <mark key="[" line="12" column="9" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565181531483">
+        <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
@@ -125,7 +125,7 @@
         <mark key="^" line="4" column="18" />
       </file>
       <file name="/train.py" timestamp="1565106747434" />
-      <file name="/Python Console" timestamp="1565178510148">
+      <file name="/Python Console" timestamp="1565180108658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/State.hs" timestamp="1560337531803">
@@ -163,7 +163,7 @@
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565178141234">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="124" column="27" />
+        <mark key="[" line="125" column="27" />
         <mark key="]" line="60" column="33" />
         <mark key="." line="60" column="33" />
         <mark key="^" line="60" column="30" />
@@ -241,11 +241,12 @@
         <mark key="." line="208" column="29" />
         <mark key="^" line="208" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565178525087">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="27" column="42" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565181136535">
+        <mark key="'" line="65" column="21" />
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/Views.hs" timestamp="1559813120484">
         <mark key="[" line="3" column="0" />
@@ -316,16 +317,17 @@
       <jump line="282" column="59" filename="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/nets_classes.py" />
       <jump line="88" column="34" filename="/1.ipynb" />
       <jump line="32" column="16" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" />
+      <jump line="65" column="21" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXh0XD4=</text>
+        <text encoding="base64">XDwyNTVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>, &quot;login&quot; .= login</text>
@@ -362,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXh0XD4=</last-search>
+      <last-search encoding="base64">XDwyNTVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDwyNTVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -374,6 +376,7 @@
         <entry encoding="base64">XDxwYXNzb3dyZFw+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxUZXh0XD4=</entry>
+        <entry encoding="base64">XDwyNTVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
