@@ -36,6 +36,11 @@
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
+      <webServer id="b3f7a0d7-cdeb-4cb0-a3a5-1969fff6df65" name="gpu-05" url="http:///">
+        <fileTransfer host="gpu-05.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
