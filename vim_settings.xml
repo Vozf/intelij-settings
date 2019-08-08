@@ -28,11 +28,11 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565265639729">
-        <mark key="[" line="232" column="59" />
-        <mark key="]" line="232" column="127" />
-        <mark key="." line="232" column="127" />
-        <mark key="^" line="232" column="127" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565267089622">
+        <mark key="[" line="105" column="45" />
+        <mark key="]" line="105" column="46" />
+        <mark key="." line="105" column="46" />
+        <mark key="^" line="105" column="46" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/cityscapes_deeplabv3p.yaml" timestamp="1565258083635" />
       <file name="/train.py" timestamp="1565106747434" />
@@ -44,15 +44,21 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1565267227138">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565251774433">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565267289541">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="127" column="33" />
-        <mark key="]" line="82" column="30" />
-        <mark key="." line="82" column="30" />
-        <mark key="^" line="82" column="30" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
         <mark key="[" line="9" column="14" />
@@ -72,10 +78,11 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/spp.py" timestamp="1565258990616">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/spp.py" timestamp="1565267245922">
         <mark key="[" line="53" column="66" />
-        <mark key="]" line="34" column="55" />
-        <mark key="." line="34" column="55" />
+        <mark key="]" line="53" column="65" />
+        <mark key="." line="53" column="65" />
+        <mark key="^" line="53" column="65" />
       </file>
       <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/requirements.txt" timestamp="1565005099910">
         <mark key="[" line="0" column="7" />
@@ -149,11 +156,11 @@
       <jump line="65" column="21" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
@@ -162,28 +169,28 @@
         <text>, &quot;login&quot; .= login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+        <text encoding="base64">ZnJvbSBtbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGFzZAo=</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1vZGVsLCBjaGVja3BvaW50ID0gbG9hZF90b3JjaF9jaGVja3BvaW50KHBhdGgpCiAgICAgICAgIyBzZWxmLmNvbmZfYm9udXNlcl9jb25maWcgPSBjb25mX2JvbnVzZXJfY29uZmlnCiAgICAgICAgIyBzZWxmLmNvbmZpZyA9IHlhbWwubG9hZChjaGVja3BvaW50Wydjb25maWcnXSkKICAgICAgICAjIHNlbGYubW9kZWxfcGFyYW1zID0gc2VsZi5jb25maWdbJ21vZGVsX3BhcmFtcyddCiAgICAgICAgIyBzZWxmLm1vZGVsID0gbW9kZWwKICAgICAgICAjIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCiAgICAgICAgIyAjIFRPRE86IHJlcGxhY2Ugd2l0aCAudG8oZGV2aWNlKSB3aGVuIHB5dG9yY2g+MS4wLjEgd2lsbCBiZSByZWxlYXNlZAogICAgICAgICMgc2VsZi5tb2RlbC5jdWRhKCkgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlIHNlbGYubW9kZWwuY3B1KCkKICAgICAgICAjIHNlbGYubW9kZWwuZXZhbCgpCiAgICAgICAgIyBzZWxmLmRldmljZSA9IGRldmljZQogICAgICAgICMgc2VsZi5kdHlwZSA9IHRvcmNoLmZsb2F0MzIKICAgICAgICAjICNzZWxmLm1vZGVsLnRvKHRvcmNoLmRldmljZShzZWxmLmRldmljZSkpCiAgICAgICAgIyBzZWxmLnN0YXRlcyA9IE5vbmUK</text>
+        <text encoding="base64">ZGFzZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vZGVsLCBjaGVja3BvaW50ID0gbG9hZF90b3JjaF9jaGVja3BvaW50KHBhdGgpCiAgICAgICAgIyBzZWxmLmNvbmZfYm9udXNlcl9jb25maWcgPSBjb25mX2JvbnVzZXJfY29uZmlnCiAgICAgICAgIyBzZWxmLmNvbmZpZyA9IHlhbWwubG9hZChjaGVja3BvaW50Wydjb25maWcnXSkKICAgICAgICAjIHNlbGYubW9kZWxfcGFyYW1zID0gc2VsZi5jb25maWdbJ21vZGVsX3BhcmFtcyddCiAgICAgICAgIyBzZWxmLm1vZGVsID0gbW9kZWwKICAgICAgICAjIGRldmljZSA9IHRvcmNoLmRldmljZSgnY3VkYScpIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSB0b3JjaC5kZXZpY2UoJ2NwdScpCiAgICAgICAgIyAjIFRPRE86IHJlcGxhY2Ugd2l0aCAudG8oZGV2aWNlKSB3aGVuIHB5dG9yY2g+MS4wLjEgd2lsbCBiZSByZWxlYXNlZAogICAgICAgICMgc2VsZi5tb2RlbC5jdWRhKCkgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKSBlbHNlIHNlbGYubW9kZWwuY3B1KCkKICAgICAgICAjIHNlbGYubW9kZWwuZXZhbCgpCiAgICAgICAgIyBzZWxmLmRldmljZSA9IGRldmljZQogICAgICAgICMgc2VsZi5kdHlwZSA9IHRvcmNoLmZsb2F0MzIKICAgICAgICAjICNzZWxmLm1vZGVsLnRvKHRvcmNoLmRldmljZShzZWxmLmRldmljZSkpCiAgICAgICAgIyBzZWxmLnN0YXRlcyA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
