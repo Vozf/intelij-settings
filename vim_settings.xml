@@ -16,10 +16,8 @@
         <mark key="[" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1565107967267" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1565275070463" />
       <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/torchvision/utils.py" timestamp="1565182397298" />
-      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/inference_webcam.py" timestamp="1565009103720">
-        <mark key="[" line="13" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
@@ -91,9 +89,6 @@
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/base/base_inference.py" timestamp="1565008223559">
-        <mark key="[" line="125" column="23" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565255238722">
         <mark key="'" line="65" column="21" />
