@@ -42,18 +42,21 @@
         <mark key="^" line="232" column="127" />
       </file>
       <file name="/train.py" timestamp="1565106747434" />
-      <file name="/Python Console" timestamp="1565180108658">
+      <file name="/Python Console" timestamp="1565251911533">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1565252020966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565178141234">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565251774433">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="125" column="27" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="30" />
+        <mark key="[" line="127" column="33" />
+        <mark key="]" line="82" column="30" />
+        <mark key="." line="82" column="30" />
+        <mark key="^" line="82" column="30" />
       </file>
       <file name="$USER_HOME$/projects/removebg/Deep-Image-Matting/predit_single.py" timestamp="1565018236090">
         <mark key="[" line="17" column="10" />
@@ -86,7 +89,7 @@
       <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/base/base_inference.py" timestamp="1565008223559">
         <mark key="[" line="125" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565181136535">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565251928449">
         <mark key="'" line="65" column="21" />
         <mark key="[" line="65" column="26" />
         <mark key="]" line="65" column="26" />
