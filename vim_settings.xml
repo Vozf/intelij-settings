@@ -23,30 +23,26 @@
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
-      <file name="/1.ipynb" timestamp="1564998341791">
-        <mark key="'" line="97" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="92" column="26" />
-        <mark key="^" line="90" column="17" />
-        <mark key="." line="92" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565181531483">
-        <mark key="[" line="12" column="10" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
+        <mark key="[" line="1" column="18" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565174936539">
-        <mark key="[" line="226" column="24" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565258826825">
+        <mark key="[" line="232" column="59" />
         <mark key="]" line="232" column="127" />
         <mark key="." line="232" column="127" />
         <mark key="^" line="232" column="127" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/cityscapes_deeplabv3p.yaml" timestamp="1565258083635" />
       <file name="/train.py" timestamp="1565106747434" />
-      <file name="/Python Console" timestamp="1565251911533">
+      <file name="/Python Console" timestamp="1565258819855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1565252020966">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.py" timestamp="1565257272527">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
@@ -58,30 +54,33 @@
         <mark key="." line="82" column="30" />
         <mark key="^" line="82" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/Deep-Image-Matting/predit_single.py" timestamp="1565018236090">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="46" column="23" />
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565173753964">
+      <file name="/Dummy.txt" timestamp="1565258619109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1565108184831" />
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/spp.py" timestamp="1565258990616">
+        <mark key="[" line="53" column="66" />
+        <mark key="]" line="34" column="55" />
+        <mark key="." line="34" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/requirements.txt" timestamp="1565005099910">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562854248551">
-        <mark key="'" line="80" column="26" />
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
@@ -151,10 +150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
