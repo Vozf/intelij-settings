@@ -42,18 +42,18 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1565600616867">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1565607556231">
         <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565603292673">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565607345366">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="130" column="43" />
+        <mark key="[" line="54" column="42" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="130" column="51" />
         <mark key="^" line="56" column="0" />
@@ -69,7 +69,7 @@
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565602883647">
+      <file name="/Dummy.txt" timestamp="1565607406902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1565108184831" />
@@ -152,10 +152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>512</text>
+        <text>2048</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text>2048</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
