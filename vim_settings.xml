@@ -42,11 +42,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1565607556231">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1565618258669">
         <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="16" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
