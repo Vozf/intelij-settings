@@ -21,13 +21,14 @@
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/scheduler.py" timestamp="1565696261464" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565603363345">
-        <mark key="[" line="216" column="0" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565696077711">
+        <mark key="[" line="104" column="33" />
         <mark key="]" line="216" column="0" />
         <mark key="^" line="105" column="46" />
         <mark key="." line="216" column="0" />
