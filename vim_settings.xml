@@ -17,23 +17,39 @@
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1565107967267" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1565275070463" />
+      <file name="/image-segmentation-using-fastai.ipynb" timestamp="1565946690146">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/torchvision/utils.py" timestamp="1565182397298" />
+      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/inference_webcam.py" timestamp="1565009103720">
+        <mark key="[" line="13" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/scheduler.py" timestamp="1565696261464" />
+      <file name="/1.ipynb" timestamp="1564998341791">
+        <mark key="'" line="97" column="34" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="92" column="26" />
+        <mark key="^" line="90" column="17" />
+        <mark key="." line="92" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565944203172">
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="113" column="22" />
-        <mark key="^" line="113" column="22" />
-        <mark key="." line="113" column="22" />
+        <mark key="[" line="99" column="33" />
+        <mark key="]" line="108" column="22" />
+        <mark key="^" line="108" column="22" />
+        <mark key="." line="108" column="22" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/cityscapes_deeplabv3p.yaml" timestamp="1565258083635" />
+      <file name="/Untitled.ipynb" timestamp="1565946375392">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/train.py" timestamp="1565106747434" />
       <file name="/Python Console" timestamp="1565610346321">
         <mark key="[" line="0" column="0" />
@@ -52,12 +68,12 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565607345366">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565946618159">
         <mark key="'" line="32" column="16" />
         <mark key="[" line="54" column="42" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="130" column="51" />
-        <mark key="^" line="56" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
         <mark key="[" line="9" column="14" />
@@ -70,7 +86,7 @@
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565700289179">
+      <file name="/Dummy.txt" timestamp="1565946693245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1565108184831" />
@@ -88,15 +104,25 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/utils.py" timestamp="1562854248551">
+        <mark key="'" line="80" column="26" />
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565772953278">
-        <mark key="'" line="65" column="21" />
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-        <mark key="^" line="43" column="12" />
+      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/base/base_inference.py" timestamp="1565008223559">
+        <mark key="[" line="125" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1565946499404">
+        <mark key="'" line="58" column="21" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="36" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -153,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1280</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>1280</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
