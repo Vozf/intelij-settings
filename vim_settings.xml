@@ -33,7 +33,7 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1565962537973">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566215293877">
         <mark key="'" line="264" column="8" />
         <mark key="[" line="80" column="9" />
         <mark key="]" line="80" column="9" />
@@ -45,20 +45,20 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/train.py" timestamp="1565106747434" />
-      <file name="/Python Console" timestamp="1565961790637">
+      <file name="/Python Console" timestamp="1566215315885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1565961865238">
+      <file name="/fragment.py" timestamp="1566215730250">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1565700389750">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566217270424">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
@@ -81,10 +81,14 @@
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566213493437">
+      <file name="/Dummy.txt" timestamp="1566216831637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1565108184831" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566217678166">
+        <mark key="[" line="76" column="30" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/SocketApp/Domain.hs" timestamp="1559832343852">
         <mark key="[" line="7" column="0" />
       </file>
@@ -174,10 +178,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNjaGVkdWxlcg==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNjaGVkdWxlcg==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
