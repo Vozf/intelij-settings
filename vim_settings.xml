@@ -3,48 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1562248450473">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/models/backbonds/EfficientNet.py" timestamp="1565005754497">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/torch/utils/data/dataloader.py" timestamp="1565107811912" />
-      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
-        <mark key="[" line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1565107967267" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1565275070463" />
-      <file name="/image-segmentation-using-fastai.ipynb" timestamp="1565962508239">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/torchvision/utils.py" timestamp="1565182397298" />
-      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/inference_webcam.py" timestamp="1565009103720">
-        <mark key="[" line="13" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
-        <mark key="[" line="84" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/scheduler.py" timestamp="1565696261464" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566215293877">
-        <mark key="'" line="264" column="8" />
-        <mark key="[" line="80" column="9" />
-        <mark key="]" line="80" column="9" />
-        <mark key="^" line="108" column="22" />
-        <mark key="." line="80" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/cityscapes_deeplabv3p.yaml" timestamp="1565258083635" />
       <file name="/Untitled.ipynb" timestamp="1565946375392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/train.py" timestamp="1565106747434" />
       <file name="/Python Console" timestamp="1566215315885">
         <mark key="[" line="0" column="0" />
       </file>
@@ -54,14 +15,25 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1562248450473">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566217270424">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="19" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/models/backbonds/EfficientNet.py" timestamp="1565005754497">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/scotty-blog/src/entity/Message.hs" timestamp="1559648679870">
         <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
+        <mark key="[" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1565946618159">
         <mark key="'" line="32" column="16" />
@@ -84,7 +56,7 @@
       <file name="/Dummy.txt" timestamp="1566216831637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566217678166">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566218513881">
         <mark key="[" line="76" column="30" />
         <mark key="]" line="76" column="30" />
         <mark key="." line="76" column="30" />
@@ -111,8 +83,17 @@
       <file name="$USER_HOME$/projects/movez-ball/venv/lib/python3.6/site-packages/onnx2keras/layers.py" timestamp="1562323596039">
         <mark key="[" line="45" column="30" />
       </file>
+      <file name="/image-segmentation-using-fastai.ipynb" timestamp="1565962508239">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/base/base_inference.py" timestamp="1565008223559">
         <mark key="[" line="125" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/inference_webcam.py" timestamp="1565009103720">
+        <mark key="[" line="13" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
+        <mark key="[" line="84" column="35" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566207438488">
         <mark key="'" line="58" column="21" />
@@ -120,6 +101,18 @@
         <mark key="]" line="55" column="29" />
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566215293877">
+        <mark key="'" line="264" column="8" />
+        <mark key="[" line="80" column="9" />
+        <mark key="]" line="80" column="9" />
+        <mark key="^" line="108" column="22" />
+        <mark key="." line="80" column="9" />
       </file>
     </filemarks>
     <jumps>
