@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1562248450473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566217270424">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566227249194">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/models/backbonds/EfficientNet.py" timestamp="1565005754497">
         <mark key="[" line="8" column="0" />
@@ -171,10 +171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>1536</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>1536</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
