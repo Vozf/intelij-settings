@@ -6,10 +6,10 @@
       <file name="/Untitled.ipynb" timestamp="1565946375392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566290777753">
+      <file name="/Python Console" timestamp="1566291352312">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1566290246684">
+      <file name="/fragment.py" timestamp="1566291420149">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -53,6 +53,7 @@
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1566291081006" />
       <file name="/Dummy.txt" timestamp="1566290000082">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +70,7 @@
         <mark key="]" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/slidingwindow/Merging.py" timestamp="1566291350557" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/spp.py" timestamp="1565267245922">
         <mark key="[" line="53" column="66" />
         <mark key="]" line="53" column="65" />
@@ -95,12 +97,12 @@
       <file name="$USER_HOME$/projects/movez-ball/inference_package/movez_ball/convert/pytorch2keras.py" timestamp="1562231077891">
         <mark key="[" line="84" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566290829353">
-        <mark key="'" line="67" column="21" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566291251945">
+        <mark key="'" line="70" column="21" />
         <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="]" line="64" column="91" />
+        <mark key="^" line="64" column="91" />
+        <mark key="." line="64" column="91" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
@@ -171,10 +173,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
