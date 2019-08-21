@@ -6,7 +6,7 @@
       <file name="/Untitled.ipynb" timestamp="1565946375392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566292115129">
+      <file name="/Python Console" timestamp="1566380825502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566292880633">
@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
         <mark key="[" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566380596679">
-        <mark key="'" line="32" column="16" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="87" column="7" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566381344892">
+        <mark key="'" line="121" column="16" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="114" column="37" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
         <mark key="[" line="9" column="14" />
@@ -179,43 +179,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: np.ndarray</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>, &quot;login&quot; .= login</text>
+        <text>affine_augmenter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHByZWRzID0gbW9kZWwoaW1hZ2VzKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2VfZGlyID0gUGF0aChiYXNlX2RpcikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlYnVnID0gZGVidWcK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtbwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
