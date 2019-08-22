@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1562248450473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566461503629">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566463156190">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="10" />
         <mark key="^" line="18" column="15" />
-        <mark key="." line="19" column="13" />
+        <mark key="." line="20" column="10" />
       </file>
       <file name="$USER_HOME$/projects/removebg/Human-Segmentation-PyTorch/models/backbonds/EfficientNet.py" timestamp="1565005754497">
         <mark key="[" line="8" column="0" />
