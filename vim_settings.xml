@@ -6,7 +6,12 @@
       <file name="/Untitled.ipynb" timestamp="1565946375392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566549258351">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/lr_finder.py" timestamp="1566551331391">
+        <mark key="[" line="224" column="26" />
+        <mark key="]" line="224" column="27" />
+        <mark key="." line="224" column="26" />
+      </file>
+      <file name="/Python Console" timestamp="1566551172803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566548991088">
@@ -35,9 +40,9 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
         <mark key="[" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566550182715">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566551156777">
         <mark key="'" line="111" column="16" />
-        <mark key="[" line="101" column="41" />
+        <mark key="[" line="112" column="43" />
         <mark key="]" line="112" column="43" />
         <mark key="^" line="112" column="43" />
         <mark key="." line="112" column="43" />
@@ -47,12 +52,6 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1566550289525">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-      </file>
       <file name="$USER_HOME$/projects/removebg/Deep-Image-Matting/predit_single.py" timestamp="1565018236090">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="46" column="23" />
@@ -60,7 +59,7 @@
         <mark key="." line="46" column="23" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1566291081006" />
-      <file name="/Dummy.txt" timestamp="1566290000082">
+      <file name="/Dummy.txt" timestamp="1566551338031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566290360012">
@@ -121,12 +120,12 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566215293877">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566551051619">
         <mark key="'" line="264" column="8" />
-        <mark key="[" line="80" column="9" />
-        <mark key="]" line="80" column="9" />
-        <mark key="^" line="108" column="22" />
-        <mark key="." line="80" column="9" />
+        <mark key="[" line="121" column="16" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -186,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://github.com/tangentlabs/django-oscar-paypal.git@issue/34/oscar-0.6</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/tangentlabs/django-oscar-paypal.git@issue/34/oscar-0.6</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
