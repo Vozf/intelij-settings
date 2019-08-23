@@ -59,8 +59,9 @@
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
+      <file name="/eval.py" timestamp="1566559932327" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1566291081006" />
-      <file name="/Dummy.txt" timestamp="1566553596288">
+      <file name="/Dummy.txt" timestamp="1566560510740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566290360012">
@@ -109,12 +110,12 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566553309437">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566561739058">
         <mark key="'" line="22" column="6" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="59" column="38" />
-        <mark key="^" line="59" column="38" />
-        <mark key="." line="59" column="38" />
+        <mark key="[" line="62" column="27" />
+        <mark key="]" line="100" column="14" />
+        <mark key="^" line="100" column="14" />
+        <mark key="." line="100" column="14" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
