@@ -60,7 +60,7 @@
         <mark key="." line="46" column="23" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1566291081006" />
-      <file name="/Dummy.txt" timestamp="1566552436936">
+      <file name="/Dummy.txt" timestamp="1566553596288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566290360012">
@@ -121,12 +121,12 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566552663342">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566554314456">
         <mark key="'" line="264" column="8" />
         <mark key="[" line="271" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="^" line="271" column="0" />
-        <mark key="." line="274" column="0" />
+        <mark key="]" line="82" column="22" />
+        <mark key="^" line="82" column="22" />
+        <mark key="." line="82" column="22" />
       </file>
     </filemarks>
     <jumps>
