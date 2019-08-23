@@ -12,7 +12,7 @@
         <mark key="." line="225" column="0" />
         <mark key="^" line="225" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566551661945">
+      <file name="/Python Console" timestamp="1566552169846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566551596026">
@@ -24,8 +24,8 @@
       <file name="/a.dummy" timestamp="1562248450473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566463543405">
-        <mark key="[" line="20" column="9" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" timestamp="1566552038646">
+        <mark key="[" line="19" column="11" />
         <mark key="]" line="20" column="10" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="20" column="10" />
@@ -41,12 +41,12 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
         <mark key="[" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566551156777">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566552475348">
         <mark key="'" line="111" column="16" />
-        <mark key="[" line="112" column="43" />
-        <mark key="]" line="112" column="43" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
         <mark key="^" line="112" column="43" />
-        <mark key="." line="112" column="43" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
         <mark key="[" line="9" column="14" />
@@ -60,7 +60,7 @@
         <mark key="." line="46" column="23" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1566291081006" />
-      <file name="/Dummy.txt" timestamp="1566551602009">
+      <file name="/Dummy.txt" timestamp="1566552436936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/net.py" timestamp="1566290360012">
@@ -109,24 +109,24 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566549436424">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566552564388">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566551051619">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" timestamp="1566552663342">
         <mark key="'" line="264" column="8" />
-        <mark key="[" line="121" column="16" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="^" line="271" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -185,8 +185,8 @@
       <jump line="21" column="6" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
