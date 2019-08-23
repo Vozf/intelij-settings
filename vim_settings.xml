@@ -35,17 +35,23 @@
       <file name="$USER_HOME$/projects/scotty-blog/src/Socket/App.hs" timestamp="1560771320712">
         <mark key="[" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566548421531">
-        <mark key="'" line="112" column="16" />
-        <mark key="[" line="111" column="85" />
-        <mark key="]" line="111" column="85" />
-        <mark key="^" line="111" column="85" />
-        <mark key="." line="111" column="85" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/pascal_voc.py" timestamp="1566550182715">
+        <mark key="'" line="111" column="16" />
+        <mark key="[" line="101" column="41" />
+        <mark key="]" line="112" column="43" />
+        <mark key="^" line="112" column="43" />
+        <mark key="." line="112" column="43" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1566550289525">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="$USER_HOME$/projects/removebg/Deep-Image-Matting/predit_single.py" timestamp="1565018236090">
         <mark key="[" line="17" column="10" />
@@ -179,11 +185,11 @@
       <jump line="21" column="6" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://github.com/tangentlabs/django-oscar-paypal.git@issue/34/oscar-0.6</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>https://github.com/tangentlabs/django-oscar-paypal.git@issue/34/oscar-0.6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
@@ -216,7 +222,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2VfZGlyID0gUGF0aChiYXNlX2RpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
