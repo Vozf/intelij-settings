@@ -6,10 +6,10 @@
       <file name="/Untitled.ipynb" timestamp="1565946375392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566548655673">
+      <file name="/Python Console" timestamp="1566549258351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1566548668217">
+      <file name="/fragment.py" timestamp="1566548991088">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -103,12 +103,12 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566548567574">
-        <mark key="'" line="65" column="47" />
-        <mark key="[" line="74" column="27" />
-        <mark key="]" line="74" column="27" />
-        <mark key="^" line="74" column="37" />
-        <mark key="." line="74" column="27" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566549353959">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="74" column="62" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
@@ -176,6 +176,7 @@
       <jump line="0" column="13" filename="/fragment.py" />
       <jump line="264" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" />
       <jump line="65" column="47" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
+      <jump line="21" column="6" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
