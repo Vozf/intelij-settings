@@ -45,8 +45,8 @@
         <mark key="'" line="111" column="16" />
         <mark key="[" line="101" column="41" />
         <mark key="]" line="132" column="0" />
-        <mark key="^" line="112" column="43" />
         <mark key="." line="132" column="0" />
+        <mark key="^" line="112" column="43" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/deeplab.yaml" timestamp="1565258539230">
         <mark key="[" line="9" column="14" />
@@ -59,8 +59,6 @@
         <mark key="^" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
-      <file name="/eval.py" timestamp="1566559932327" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/tta.py" timestamp="1566291081006" />
       <file name="/Dummy.txt" timestamp="1566560510740">
         <mark key="[" line="0" column="0" />
       </file>
@@ -77,8 +75,6 @@
         <mark key="]" line="4" column="63" />
         <mark key="." line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2019.2/system/remote_sources/346298279/-552574373/torch/optim/lr_scheduler.py" timestamp="1566302260404" />
-      <file name="$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages/slidingwindow/Merging.py" timestamp="1566291350557" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/models/spp.py" timestamp="1565267245922">
         <mark key="[" line="53" column="66" />
         <mark key="]" line="53" column="65" />
@@ -110,12 +106,12 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566563960054">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="62" column="27" />
-        <mark key="]" line="100" column="14" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1566822413641">
+        <mark key="'" line="99" column="54" />
+        <mark key="[" line="99" column="43" />
+        <mark key="]" line="99" column="50" />
+        <mark key="." line="99" column="52" />
         <mark key="^" line="100" column="14" />
-        <mark key="." line="100" column="14" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/config/pascal_unet_res18_scse.yaml" timestamp="1565258086823">
         <mark key="[" line="1" column="18" />
@@ -184,13 +180,14 @@
       <jump line="264" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/train.py" />
       <jump line="65" column="47" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
       <jump line="21" column="6" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
+      <jump line="99" column="54" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTVcPg==</text>
@@ -249,8 +246,6 @@
         <entry>g</entry>
         <entry>g93</entry>
         <entry>93</entry>
-        <entry>1</entry>
-        <entry>163</entry>
       </history-cmd>
       <history-expr />
       <history-input />
