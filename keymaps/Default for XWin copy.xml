@@ -9,4 +9,5 @@
   <action id="TabSwitcherExtreme.NextTab">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="context.clear" />
 </keymap>
