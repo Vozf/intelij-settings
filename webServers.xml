@@ -56,6 +56,36 @@
           <option name="port" value="1422" />
         </fileTransfer>
       </webServer>
+      <webServer id="7be460bb-d9b0-4d22-a924-557ce3a3b873" name="gpu-06" url="http:///">
+        <fileTransfer host="gpu-06.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="142f97ed-383d-4069-9b10-644f6d9d7282" name="gpu-07" url="http:///">
+        <fileTransfer host="gpu-07.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c101d20e-4282-442c-9499-5ce94f6d7f20" name="gpu-08" url="http:///">
+        <fileTransfer host="gpu-08.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1c82bbd1-1ff1-411a-ae91-01bef915e176" name="gpu-09" url="http:///">
+        <fileTransfer host="gpu-09.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="651273f6-e701-4e1b-bbb0-7347acd7649d" name="gpu-10" url="http:///">
+        <fileTransfer host="gpu-10.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5b2f88ae-2009-4b98-b30a-781b1ad21e9a" name="gpu-11" url="http:///">
+        <fileTransfer host="gpu-11.indatalabs.com" port="2200" accessType="SFTP" authAgent="true">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
