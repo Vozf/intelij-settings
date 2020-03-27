@@ -2,6 +2,14 @@
   <component name="JupyterPersistentConnectionParameters">
     <option name="moduleParameters">
       <map>
+        <entry key="$USER_HOME$/projects/pacanometr/heels_classifier/.idea/heels_classifier.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda3/envs/rnd/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/projects/visual-search/core/.idea/core.iml">
           <value>
             <JupyterConnectionParameters>
