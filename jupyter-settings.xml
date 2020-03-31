@@ -20,7 +20,4 @@
       </map>
     </option>
   </component>
-  <component name="JupyterSettings">
-    <option name="autoscrollToSource" value="false" />
-  </component>
 </application>
