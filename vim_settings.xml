@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>path</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry>predic</entry>
         <entry>mlm</entry>
@@ -25,6 +24,7 @@
         <entry>shape</entry>
         <entry>da</entry>
         <entry encoding="base64">XDxEQVRBX1BBVEhcPg==</entry>
+        <entry>models</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'</entry>
@@ -146,7 +146,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586432237927">
+      <file name="/start_script.py" timestamp="1586432392819">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586432424804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
@@ -174,12 +177,11 @@
         <mark key="." line="1" column="50" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" timestamp="1586423618473" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586432214636">
-        <mark key="'" line="145" column="8" />
-        <mark key="[" line="203" column="56" />
-        <mark key="]" line="203" column="56" />
-        <mark key="." line="203" column="56" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586432537948">
+        <mark key="'" line="200" column="26" />
+        <mark key="[" line="203" column="37" />
+        <mark key="]" line="203" column="37" />
+        <mark key="." line="203" column="37" />
         <mark key="^" line="203" column="32" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
@@ -199,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
-      <jump line="197" column="48" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="198" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="19" column="18" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="16" column="16" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
@@ -299,18 +298,21 @@
       <jump line="60" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
       <jump line="191" column="12" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
       <jump line="145" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="203" column="56" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="10" column="5" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="200" column="26" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRBX1BBVEhcPg==</text>
+        <text>models</text>
       </register>
       <register name="0" type="4">
         <text>../data/prediction.png</text>
@@ -349,13 +351,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxEQVRBX1BBVEhcPg==</last-search>
+      <last-search>models</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRBX1BBVEhcPg==</last-pattern>
+      <last-pattern>models</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
