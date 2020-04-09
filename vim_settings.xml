@@ -2,6 +2,56 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>path</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry>predic</entry>
+        <entry>mlm</entry>
+        <entry>load</entry>
+        <entry>htt</entry>
+        <entry>bgr</entry>
+        <entry>1024</entry>
+        <entry>*</entry>
+        <entry encoding="base64">XDxucFw+</entry>
+        <entry encoding="base64">XDxzaGFkb3dzXD4=</entry>
+        <entry>pre</entry>
+        <entry encoding="base64">XDxjYXJzXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry>conver</entry>
+        <entry>conv</entry>
+        <entry>resi</entry>
+        <entry>shape</entry>
+        <entry>da</entry>
+        <entry encoding="base64">XDxEQVRBX1BBVEhcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/&quot;/'</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>%s/512/256/g</entry>
+        <entry>29</entry>
+        <entry>2</entry>
+        <entry>action AceAction</entry>
+        <entry>89</entry>
+        <entry>48</entry>
+        <entry>%s/'/</entry>
+        <entry>s/'//c</entry>
+        <entry>s/'//g</entry>
+        <entry>%s/new//g</entry>
+        <entry>%s/_new//g</entry>
+        <entry>%s/1024/512/g</entry>
+        <entry>reg</entry>
+        <entry>sub</entry>
+        <entry>sub/*//g</entry>
+        <entry>noh</entry>
+        <entry>showcmd</entry>
+        <entry>help 'showcmd'</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -92,6 +142,236 @@
         <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586422159759">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1586357992413">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1586358011801">
+        <mark key="'" line="0" column="46" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/model.py" timestamp="1586251191820">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="62" />
+        <mark key="^" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1586358145865">
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="50" />
+        <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586421955111">
+        <mark key="'" line="225" column="55" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="^" line="159" column="11" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586421403744">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="23" column="66" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" timestamp="1586422657391">
+        <mark key="'" line="26" column="41" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="180" column="20" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" timestamp="1586421650141">
+        <mark key="'" line="44" column="93" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
+        <mark key="[" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1586357941783">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="117" column="64" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="41" column="28" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="195" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="197" column="48" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="198" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
+      <jump line="9" column="15" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
+      <jump line="45" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/-552574373/segmentation_models_pytorch/unet/model.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/-552574373/segmentation_models_pytorch/encoders/__init__.py" />
+      <jump line="1" column="24" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
+      <jump line="8" column="13" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
+      <jump line="46" column="18" filename="$USER_HOME$/projects/pacanometr/heels_classifier/utils/data_transformer/supervisely_with_margin.py" />
+      <jump line="71" column="9" filename="$USER_HOME$/projects/pacanometr/heels_classifier/utils/data_transformer/supervisely_with_margin.py" />
+      <jump line="9" column="38" filename="$USER_HOME$/projects/pacanometr/heels_classifier/utils/data_transformer/supervisely_with_margin.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
+      <jump line="23" column="4" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
+      <jump line="24" column="23" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
+      <jump line="44" column="1" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
+      <jump line="23" column="48" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
+      <jump line="20" column="43" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
+      <jump line="12" column="36" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
+      <jump line="26" column="41" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
+      <jump line="127" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/dl/runner/supervised.py" />
+      <jump line="18" column="4" filename="/albumentation_vis.ipynb" />
+      <jump line="20" column="4" filename="/albumentation_vis.ipynb" />
+      <jump line="17" column="4" filename="/inference.ipynb" />
+      <jump line="15" column="0" filename="/inference.ipynb" />
+      <jump line="190" column="23" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
+      <jump line="3" column="26" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
+      <jump line="5" column="50" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
+      <jump line="9" column="9" filename="/inference.ipynb" />
+      <jump line="40" column="9" filename="/inference.ipynb" />
+      <jump line="10" column="0" filename="/inference.ipynb" />
+      <jump line="54" column="30" filename="/inference.ipynb" />
+      <jump line="55" column="0" filename="/inference.ipynb" />
+      <jump line="4" column="17" filename="/inference.ipynb" />
+      <jump line="0" column="0" filename="/inference.ipynb" />
+      <jump line="52" column="66" filename="/inference.ipynb" />
+      <jump line="29" column="41" filename="/inference.ipynb" />
+      <jump line="36" column="0" filename="/inference.ipynb" />
+      <jump line="37" column="6" filename="/inference.ipynb" />
+      <jump line="42" column="30" filename="/inference.ipynb" />
+      <jump line="50" column="30" filename="/inference.ipynb" />
+      <jump line="53" column="20" filename="/inference.ipynb" />
+      <jump line="62" column="0" filename="/inference.ipynb" />
+      <jump line="63" column="26" filename="/inference.ipynb" />
+      <jump line="68" column="0" filename="/inference.ipynb" />
+      <jump line="69" column="26" filename="/inference.ipynb" />
+      <jump line="86" column="16" filename="/inference.ipynb" />
+      <jump line="80" column="0" filename="/inference.ipynb" />
+      <jump line="82" column="26" filename="/inference.ipynb" />
+      <jump line="83" column="0" filename="/inference.ipynb" />
+      <jump line="73" column="7" filename="/inference.ipynb" />
+      <jump line="75" column="26" filename="/inference.ipynb" />
+      <jump line="92" column="0" filename="/inference.ipynb" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/pacanometr/pose/live_stream.py" />
+      <jump line="0" column="22" filename="$USER_HOME$/projects/pacanometr/pose/config/live_stream.yaml" />
+      <jump line="139" column="0" filename="$USER_HOME$/projects/pacanometr/pose/utils/utils.py" />
+      <jump line="145" column="26" filename="$USER_HOME$/projects/pacanometr/pose/utils/utils.py" />
+      <jump line="10" column="44" filename="$USER_HOME$/projects/pacanometr/pose/live_stream.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/projects/pacanometr/pose/live_stream.py" />
+      <jump line="0" column="46" filename="/fragment.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/dataset_preparation/ftp.py" />
+      <jump line="24" column="25" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/segmentation_dataset.py" />
+      <jump line="23" column="42" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/dataset.py" />
+      <jump line="24" column="17" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/dataset.py" />
+      <jump line="5" column="16" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
+      <jump line="34" column="26" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
+      <jump line="33" column="46" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" />
+      <jump line="147" column="66" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="40" column="72" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" />
+      <jump line="44" column="93" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" />
+      <jump line="202" column="55" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="30" column="36" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="12" column="7" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="17" column="5" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="20" column="60" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="10" column="15" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="18" column="11" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="22" column="13" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="15" column="23" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="9" column="23" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="138" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="154" column="30" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="158" column="4" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="159" column="9" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="162" column="19" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="168" column="32" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="65" column="37" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="28" column="47" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="27" column="47" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="26" column="41" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>o</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxEQVRBX1BBVEhcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>../data/prediction.png</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzaGFkb3dzID0gc2hhZG93X2luZmVyZW5jZS5wcmVkaWN0X3NpbmdsZShpbWcpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93cywgaW1nLCBtYXNrID0gc2hhZG93X2luZmVyZW5jZS5wcmVkaWN0X3NpbmdsZV93aXRoX3BhZGRpbmcoaW1nLCBtYXNrKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgbWFzayA9IG5wLnBhZChtYXNrLCBbKDAsIHBhZGRpbmcpLCAoMCwgMCldLCBtb2RlPSdjb25zdGFudCcsIGNvbnN0YW50X3ZhbHVlcz0wKQogICAgICAgIGltZyA9IG5wLnBhZChpbWcsIFsoMCwgcGFkZGluZyksICgwLCAwKSwgKDAsIDApXSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9MCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJnaW5fdGhyZXNob2xkID0gNTAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>help 'showcmd'</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxEQVRBX1BBVEhcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxEQVRBX1BBVEhcPg==</last-pattern>
+      <last-replace />
+      <last-substitute>*</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
