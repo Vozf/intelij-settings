@@ -149,6 +149,12 @@
       <file name="/Dummy.txt" timestamp="1586422159759">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="23" column="66" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+      </file>
       <file name="/Python Console" timestamp="1586357992413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,11 +171,24 @@
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" timestamp="1586423105680">
+        <mark key="'" line="191" column="12" />
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+        <mark key="^" line="204" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1586358145865">
         <mark key="[" line="1" column="50" />
         <mark key="]" line="1" column="50" />
         <mark key="." line="1" column="50" />
         <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" timestamp="1586421650141">
+        <mark key="'" line="44" column="93" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586421955111">
         <mark key="'" line="225" column="55" />
@@ -177,32 +196,6 @@
         <mark key="]" line="157" column="0" />
         <mark key="^" line="159" column="11" />
         <mark key="." line="157" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586421403744">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="23" column="66" />
-        <mark key="^" line="23" column="66" />
-        <mark key="." line="23" column="66" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" timestamp="1586422657391">
-        <mark key="'" line="26" column="41" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="180" column="20" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" timestamp="1586421650141">
-        <mark key="'" line="44" column="93" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
         <mark key="[" line="2" column="13" />
@@ -212,10 +205,15 @@
         <mark key="]" line="31" column="41" />
         <mark key="." line="31" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586421403744">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="64" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="41" column="28" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="195" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
@@ -314,15 +312,17 @@
       <jump line="28" column="47" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
       <jump line="27" column="47" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
       <jump line="26" column="41" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="191" column="12" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+      <register name="&quot;" type="4">
+        <text>attachment_filename=f'{batch_id}-results.zip'</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>attachment_filename=f'{batch_id}-results.zip'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBX1BBVEhcPg==</text>
@@ -331,31 +331,31 @@
         <text>../data/prediction.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">MQoyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NAozCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFkb3dzID0gc2hhZG93X2luZmVyZW5jZS5wcmVkaWN0X3NpbmdsZShpbWcpCg==</text>
+        <text encoding="base64">Mwo2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93cywgaW1nLCBtYXNrID0gc2hhZG93X2luZmVyZW5jZS5wcmVkaWN0X3NpbmdsZV93aXRoX3BhZGRpbmcoaW1nLCBtYXNrKQo=</text>
+        <text encoding="base64">Cmd1bmljb3JuX2xvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdndW5pY29ybi5lcnJvcicpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgbWFzayA9IG5wLnBhZChtYXNrLCBbKDAsIHBhZGRpbmcpLCAoMCwgMCldLCBtb2RlPSdjb25zdGFudCcsIGNvbnN0YW50X3ZhbHVlcz0wKQogICAgICAgIGltZyA9IG5wLnBhZChpbWcsIFsoMCwgcGFkZGluZyksICgwLCAwKSwgKDAsIDApXSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9MCkK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Z3VuaWNvcm5fbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2d1bmljb3JuLmVycm9yJykKYXBwLmxvZ2dlci5oYW5kbGVycyA9IGd1bmljb3JuX2xvZ2dlci5oYW5kbGVycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snQVBQX05BTUUnXSA9IFBPUlRTMkFQUFNbUkVTVEFQSV9QT1JUXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW5fdGhyZXNob2xkID0gNTAK</text>
+        <text encoding="base64">CmFwcC5jb25maWdbJ01BWF9DT05URU5UX0xFTkdUSCddID0gMTUgKiAxMDI0ICogMTAyNAo=</text>
       </register>
       <register name=":" type="4">
         <text>help 'showcmd'</text>
@@ -370,7 +370,7 @@
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
