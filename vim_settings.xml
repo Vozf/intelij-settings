@@ -151,9 +151,6 @@
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
         <mark key="[" line="22" column="54" />
-        <mark key="]" line="23" column="66" />
-        <mark key="^" line="23" column="66" />
-        <mark key="." line="23" column="66" />
       </file>
       <file name="/Python Console" timestamp="1586357992413">
         <mark key="[" line="0" column="0" />
@@ -171,31 +168,15 @@
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" timestamp="1586423105680">
-        <mark key="'" line="191" column="12" />
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="204" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1586358145865">
         <mark key="[" line="1" column="50" />
         <mark key="]" line="1" column="50" />
         <mark key="." line="1" column="50" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" timestamp="1586421650141">
-        <mark key="'" line="44" column="93" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586421955111">
-        <mark key="'" line="225" column="55" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="159" column="11" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/predict.py" timestamp="1586423618473" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586423590925">
+        <mark key="'" line="145" column="8" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
         <mark key="[" line="2" column="13" />
@@ -214,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="28" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="195" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="197" column="48" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
@@ -314,12 +294,13 @@
       <jump line="26" column="41" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
       <jump line="60" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
       <jump line="191" column="12" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/service.py" />
+      <jump line="145" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>attachment_filename=f'{batch_id}-results.zip'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CjEKMgo0CjMKNgoK</text>
       </register>
       <register name="-" type="4">
         <text>attachment_filename=f'{batch_id}-results.zip'</text>
@@ -331,31 +312,31 @@
         <text>../data/prediction.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MQoyCg==</text>
+        <text encoding="base64">CjEKMgo0CjMKNgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Mwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">NAozCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Mwo2Cg==</text>
+        <text encoding="base64">MQoyCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Mwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cmd1bmljb3JuX2xvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdndW5pY29ybi5lcnJvcicpCg==</text>
+        <text encoding="base64">NAozCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3VuaWNvcm5fbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2d1bmljb3JuLmVycm9yJykKYXBwLmxvZ2dlci5oYW5kbGVycyA9IGd1bmljb3JuX2xvZ2dlci5oYW5kbGVycwo=</text>
+        <text encoding="base64">Mwo2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snQVBQX05BTUUnXSA9IFBPUlRTMkFQUFNbUkVTVEFQSV9QT1JUXQo=</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmFwcC5jb25maWdbJ01BWF9DT05URU5UX0xFTkdUSCddID0gMTUgKiAxMDI0ICogMTAyNAo=</text>
+        <text encoding="base64">Cmd1bmljb3JuX2xvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdndW5pY29ybi5lcnJvcicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>help 'showcmd'</text>
