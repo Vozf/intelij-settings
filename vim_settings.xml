@@ -152,10 +152,10 @@
       <file name="/Dummy.txt" timestamp="1586533627192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1586357992413">
+      <file name="/Python Console" timestamp="1586535511186">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1586358011801">
+      <file name="/fragment.py" timestamp="1586535523705">
         <mark key="'" line="0" column="46" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -181,12 +181,12 @@
         <mark key="." line="217" column="65" />
         <mark key="^" line="217" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586534233302">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586535505117">
         <mark key="'" line="49" column="25" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="22" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="42" column="29" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" timestamp="1586531792120">
         <mark key="[" line="17" column="0" />
@@ -318,10 +318,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -330,31 +330,31 @@
         <text encoding="base64">ICAgICAgICAnaW1hZ2Vfc2NhbGUnOiAxIC8gMjU1LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geC5pbmRleF9zZWxlY3QoMSwgYSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHByZWRpY3RfaW1hZ2UoaW5mZXJlbmNlLCBzaGFkb3dfaW5mZXJlbmNlLCBpbWcpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjEKMgo0CjMKNgoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByZWRpY3RfaW1hZ2UoaW5mZXJlbmNlLCBzaGFkb3dfaW5mZXJlbmNlLCBpbWcpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjEKMgo0CjMKNgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MQoyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Mwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">NAozCg==</text>
+        <text encoding="base64">MQoyCg==</text>
       </register>
       <register name=":" type="4">
         <text>sub/0/1/g</text>
