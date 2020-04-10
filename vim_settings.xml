@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxucFw+</entry>
-        <entry encoding="base64">XDxzaGFkb3dzXD4=</entry>
         <entry>pre</entry>
         <entry encoding="base64">XDxjYXJzXD4=</entry>
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>rgb</entry>
         <entry>enet</entry>
         <entry>2</entry>
+        <entry>b</entry>
+        <entry>res</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>
@@ -149,7 +149,7 @@
       <file name="/start_script.py" timestamp="1586432392819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586432424804">
+      <file name="/Dummy.txt" timestamp="1586533627192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586357992413">
@@ -181,12 +181,12 @@
         <mark key="." line="217" column="65" />
         <mark key="^" line="217" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586532102989">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="45" column="52" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586534118502">
+        <mark key="'" line="49" column="25" />
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="52" column="50" />
+        <mark key="." line="52" column="49" />
+        <mark key="^" line="52" column="50" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" timestamp="1586531792120">
         <mark key="[" line="17" column="0" />
@@ -213,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="4" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
-      <jump line="24" column="23" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
-      <jump line="44" column="1" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
       <jump line="23" column="48" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
       <jump line="20" column="43" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
       <jump line="9" column="20" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
@@ -313,21 +310,24 @@
       <jump line="212" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="211" column="41" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="2" column="9" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="41" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="45" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="49" column="25" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>resnet</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>resnet</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>2</text>
+        <text>res</text>
       </register>
-      <register name="0" type="4">
-        <text>probabilities</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnaW1hZ2Vfc2NhbGUnOiAxIC8gMjU1LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>2</last-search>
+      <last-search>res</last-search>
       <last-offset />
-      <last-pattern>2</last-pattern>
+      <last-pattern>res</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
