@@ -152,7 +152,7 @@
       <file name="/Dummy.txt" timestamp="1586533627192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1586535511186">
+      <file name="/Python Console" timestamp="1586535584804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1586535523705">
@@ -181,12 +181,12 @@
         <mark key="." line="217" column="65" />
         <mark key="^" line="217" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586535505117">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586536565006">
         <mark key="'" line="49" column="25" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="29" />
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" timestamp="1586531792120">
         <mark key="[" line="17" column="0" />
@@ -318,10 +318,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
