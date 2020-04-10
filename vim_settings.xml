@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pre</entry>
         <entry encoding="base64">XDxjYXJzXD4=</entry>
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
         <entry>conver</entry>
@@ -25,6 +24,7 @@
         <entry>2</entry>
         <entry>b</entry>
         <entry>res</entry>
+        <entry>ene</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>
@@ -181,12 +181,12 @@
         <mark key="." line="217" column="65" />
         <mark key="^" line="217" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586536565006">
-        <mark key="'" line="49" column="25" />
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="40" />
-        <mark key="^" line="34" column="25" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537151780">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="24" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="65" column="24" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" timestamp="1586531792120">
         <mark key="[" line="17" column="0" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="48" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
       <jump line="20" column="43" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/utils/metrics/f1_score.py" />
       <jump line="9" column="20" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
       <jump line="12" column="36" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
@@ -313,48 +312,49 @@
       <jump line="41" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
       <jump line="45" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
       <jump line="49" column="25" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mobilenet</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mobilenet</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>ene</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnaW1hZ2Vfc2NhbGUnOiAxIC8gMjU1LAo=</text>
+      <register name="0" type="4">
+        <text>(1, 2, 512, 512)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geC5pbmRleF9zZWxlY3QoMSwgYSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBvdXRwdXQgY2hhbmdlcyBmcm9tCiAgICAgICAgIyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHByZWRpY3RfaW1hZ2UoaW5mZXJlbmNlLCBzaGFkb3dfaW5mZXJlbmNlLCBpbWcpOgo=</text>
+        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CjEKMgo0CjMKNgoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geC5pbmRleF9zZWxlY3QoMSwgYSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MQoyCg==</text>
+        <text encoding="base64">ZGVmIHByZWRpY3RfaW1hZ2UoaW5mZXJlbmNlLCBzaGFkb3dfaW5mZXJlbmNlLCBpbWcpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>sub/0/1/g</text>
@@ -363,13 +363,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>res</last-search>
+      <last-search>ene</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>ene</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
