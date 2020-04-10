@@ -181,12 +181,12 @@
         <mark key="." line="217" column="65" />
         <mark key="^" line="217" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586421403744">
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586532102989">
         <mark key="'" line="1" column="8" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="45" column="52" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" timestamp="1586531792120">
         <mark key="[" line="17" column="0" />
@@ -317,11 +317,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>resnet</text>
       </register>
       <register name="-" type="4">
-        <text>rgb</text>
+        <text>resnet</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
