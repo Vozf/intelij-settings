@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mlm</entry>
-        <entry>load</entry>
-        <entry>htt</entry>
-        <entry>bgr</entry>
-        <entry>1024</entry>
         <entry>*</entry>
         <entry encoding="base64">XDxucFw+</entry>
         <entry encoding="base64">XDxzaGFkb3dzXD4=</entry>
@@ -25,6 +20,11 @@
         <entry>models</entry>
         <entry>0</entry>
         <entry>predict_</entry>
+        <entry>pic1</entry>
+        <entry>2</entry>
+        <entry>resne</entry>
+        <entry>1</entry>
+        <entry>rgb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>
@@ -174,12 +174,12 @@
         <mark key="." line="1" column="50" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586530545994">
-        <mark key="'" line="91" column="9" />
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="38" column="9" />
-        <mark key="^" line="38" column="62" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586531144188">
+        <mark key="'" line="217" column="35" />
+        <mark key="[" line="217" column="59" />
+        <mark key="]" line="217" column="62" />
+        <mark key="." line="217" column="61" />
+        <mark key="^" line="217" column="62" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586421403744">
         <mark key="'" line="1" column="8" />
@@ -208,11 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/-552574373/segmentation_models_pytorch/encoders/__init__.py" />
-      <jump line="1" column="24" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
-      <jump line="8" column="13" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/config/unet.yaml" />
-      <jump line="46" column="18" filename="$USER_HOME$/projects/pacanometr/heels_classifier/utils/data_transformer/supervisely_with_margin.py" />
-      <jump line="71" column="9" filename="$USER_HOME$/projects/pacanometr/heels_classifier/utils/data_transformer/supervisely_with_margin.py" />
       <jump line="9" column="38" filename="$USER_HOME$/projects/pacanometr/heels_classifier/utils/data_transformer/supervisely_with_margin.py" />
       <jump line="29" column="7" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
       <jump line="23" column="4" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
@@ -301,25 +296,30 @@
       <jump line="145" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="203" column="56" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="10" column="5" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
-      <jump line="200" column="26" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="24" column="54" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/segmentation_dataset.py" />
       <jump line="215" column="4" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="17" column="8" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="18" column="25" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="32" column="9" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
       <jump line="91" column="9" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="210" column="56" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="211" column="43" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="200" column="81" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
+      <jump line="217" column="35" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>probabilities</text>
+        <text>rgb</text>
       </register>
       <register name="-" type="4">
-        <text>preds</text>
+        <text>rgb</text>
       </register>
       <register name="/" type="4">
-        <text>predict_</text>
+        <text>rgb</text>
       </register>
       <register name="0" type="4">
         <text>probabilities</text>
@@ -358,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>predict_</last-search>
+      <last-search>rgb</last-search>
       <last-offset />
-      <last-pattern>predict_</last-pattern>
+      <last-pattern>rgb</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
