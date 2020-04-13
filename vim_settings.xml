@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>conver</entry>
         <entry>conv</entry>
         <entry>resi</entry>
         <entry>shape</entry>
@@ -25,6 +24,7 @@
         <entry>ene</entry>
         <entry>pre</entry>
         <entry>=</entry>
+        <entry encoding="base64">XDxpbnB1dF9wYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
@@ -149,7 +149,7 @@
       <file name="/start_script.py" timestamp="1586432392819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586782414331">
+      <file name="/Dummy.txt" timestamp="1586795494811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586535584804">
@@ -182,11 +182,24 @@
         <mark key="." line="217" column="65" />
         <mark key="^" line="217" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/augmentations.py" timestamp="1586795131494">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="24" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
         <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
         <mark key="[" line="22" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" timestamp="1586795174290">
+        <mark key="'" line="137" column="25" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="112" column="6" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements-pip.txt" timestamp="1586793662590">
         <mark key="[" line="12" column="15" />
@@ -209,6 +222,7 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/environment.yml" timestamp="1586795900364" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791860556">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -217,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="36" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
-      <jump line="26" column="41" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
-      <jump line="127" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/dl/runner/supervised.py" />
       <jump line="18" column="4" filename="/albumentation_vis.ipynb" />
       <jump line="20" column="4" filename="/albumentation_vis.ipynb" />
       <jump line="17" column="4" filename="/inference.ipynb" />
@@ -317,48 +328,51 @@
       <jump line="68" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
       <jump line="14" column="13" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" />
+      <jump line="115" column="4" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
+      <jump line="117" column="32" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
+      <jump line="137" column="25" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHl0aG9uPT0zLjcuMwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
       </register>
       <register name="-" type="4">
-        <text>pred_grayscale</text>
+        <text>aaaaa</text>
       </register>
       <register name="/" type="4">
-        <text>=</text>
+        <text encoding="base64">XDxpbnB1dF9wYXRoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>predictions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KGltZy5zaGFwZSwgJ2FhYWFhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHl0aG9uPT0zLjcuMwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VkYXRvb2xraXQ9PTEwLjEuMTY4Cg==</text>
+        <text encoding="base64">cHl0aG9uPT0zLjcuMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJlZF9ncmF5c2NhbGUgPSBwcmVkaWN0aW9ucyAqIDI1NQo=</text>
+        <text encoding="base64">Y3VkYXRvb2xraXQ9PTEwLjEuMTY4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">cHJlZF9ncmF5c2NhbGUgPSBwcmVkaWN0aW9ucyAqIDI1NQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBvdXRwdXQgY2hhbmdlcyBmcm9tCiAgICAgICAgIyAK</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBvdXRwdXQgY2hhbmdlcyBmcm9tCiAgICAgICAgIyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geC5pbmRleF9zZWxlY3QoMSwgYSkK</text>
+        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%sub/=/==/gc</text>
@@ -367,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>=</last-search>
+      <last-search encoding="base64">XDxpbnB1dF9wYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dF9wYXRoXD4=</last-pattern>
       <last-replace>==</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
