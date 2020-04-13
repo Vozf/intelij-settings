@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
         <entry>conver</entry>
         <entry>conv</entry>
         <entry>resi</entry>
@@ -25,10 +24,9 @@
         <entry>res</entry>
         <entry>ene</entry>
         <entry>pre</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;/'/g</entry>
-        <entry>%s/512/256/g</entry>
         <entry>29</entry>
         <entry>2</entry>
         <entry>action AceAction</entry>
@@ -47,6 +45,8 @@
         <entry>showcmd</entry>
         <entry>help 'showcmd'</entry>
         <entry>sub/0/1/g</entry>
+        <entry>sub/=/==/g</entry>
+        <entry>%sub/=/==/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -188,7 +188,12 @@
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
         <mark key="[" line="22" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements-pip.txt" timestamp="1586790880671" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements-pip.txt" timestamp="1586792899715">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
         <mark key="[" line="2" column="13" />
       </file>
@@ -204,8 +209,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791719136">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791860556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -313,8 +321,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>predictions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHl0aG9uPT0zLjcuMwo=</text>
       </register>
       <register name="-" type="4">
         <text>pred_grayscale</text>
@@ -326,34 +334,34 @@
         <text>predictions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJlZF9ncmF5c2NhbGUgPSBwcmVkaWN0aW9ucyAqIDI1NQo=</text>
+        <text encoding="base64">cHl0aG9uPT0zLjcuMwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Y3VkYXRvb2xraXQ9PTEwLjEuMTY4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJlZF9ncmF5c2NhbGUgPSBwcmVkaWN0aW9ucyAqIDI1NQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBvdXRwdXQgY2hhbmdlcyBmcm9tCiAgICAgICAgIyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geC5pbmRleF9zZWxlY3QoMSwgYSkK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBvdXRwdXQgY2hhbmdlcyBmcm9tCiAgICAgICAgIyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geC5pbmRleF9zZWxlY3QoMSwgYSkK</text>
       </register>
       <register name=":" type="4">
-        <text>sub/=/==/g</text>
+        <text>%sub/=/==/gc</text>
       </register>
     </registers>
   </component>
@@ -365,7 +373,7 @@
       <last-replace>==</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
