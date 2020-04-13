@@ -204,9 +204,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791719136">
+        <mark key="'" line="1" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="20" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
       <jump line="12" column="36" filename="$USER_HOME$/projects/pacanometr/heels_classifier/train.py" />
       <jump line="26" column="41" filename="$USER_HOME$/projects/pacanometr/heels_classifier/config/train.config.yaml.default" />
       <jump line="127" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373/catalyst/dl/runner/supervised.py" />
@@ -306,6 +308,7 @@
       <jump line="49" column="25" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" />
       <jump line="14" column="13" filename="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +320,7 @@
         <text>pred_grayscale</text>
       </register>
       <register name="/" type="4">
-        <text>pre</text>
+        <text>=</text>
       </register>
       <register name="0" type="4">
         <text>predictions</text>
@@ -350,19 +353,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>sub/0/1/g</text>
+        <text>sub/=/==/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pre</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>pre</last-pattern>
-      <last-replace>1</last-replace>
-      <last-substitute>0</last-substitute>
+      <last-pattern>=</last-pattern>
+      <last-replace>==</last-replace>
+      <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
