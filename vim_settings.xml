@@ -149,7 +149,7 @@
       <file name="/start_script.py" timestamp="1586432392819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586537347070">
+      <file name="/Dummy.txt" timestamp="1586782414331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586535584804">
@@ -182,18 +182,7 @@
         <mark key="^" line="217" column="66" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="24" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/coreml_model_inference.py" timestamp="1586537196139">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
         <mark key="[" line="22" column="54" />
@@ -371,7 +360,7 @@
       <last-replace>1</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
