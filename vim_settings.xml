@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>conv</entry>
         <entry>resi</entry>
         <entry>shape</entry>
         <entry>da</entry>
@@ -25,6 +24,7 @@
         <entry>pre</entry>
         <entry>=</entry>
         <entry encoding="base64">XDxpbnB1dF9wYXRoXD4=</entry>
+        <entry>Seg</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
@@ -200,12 +200,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586874445361" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586531267865">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="217" column="63" />
-        <mark key="]" line="217" column="66" />
-        <mark key="." line="217" column="65" />
-        <mark key="^" line="217" column="66" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" timestamp="1586883659439">
+        <mark key="'" line="168" column="23" />
+        <mark key="[" line="168" column="24" />
+        <mark key="]" line="168" column="24" />
+        <mark key="^" line="168" column="24" />
+        <mark key="." line="168" column="23" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
         <mark key="'" line="6" column="0" />
@@ -225,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/inference.ipynb" />
-      <jump line="190" column="23" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
       <jump line="3" column="26" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
       <jump line="5" column="50" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
       <jump line="9" column="9" filename="/inference.ipynb" />
@@ -325,18 +323,20 @@
       <jump line="88" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
       <jump line="161" column="6" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
       <jump line="79" column="38" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/predictors.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" />
+      <jump line="168" column="23" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Segmentation</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>Segmentation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dF9wYXRoXD4=</text>
+        <text>Seg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGltZy5zaGFwZSwgJ2FhYWFhJykK</text>
@@ -375,13 +375,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbnB1dF9wYXRoXD4=</last-search>
+      <last-search>Seg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dF9wYXRoXD4=</last-pattern>
+      <last-pattern>Seg</last-pattern>
       <last-replace>==</last-replace>
       <last-substitute>=</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
