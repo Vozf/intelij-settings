@@ -221,6 +221,12 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/config/settings.py" timestamp="1586863266309">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791860556">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -333,11 +339,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
+      <register name="&quot;" type="4">
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaa</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9wYXRoXD4=</text>
