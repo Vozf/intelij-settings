@@ -152,6 +152,7 @@
       <file name="/Dummy.txt" timestamp="1586856977359">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586866223648" />
       <file name="/Python Console" timestamp="1586535584804">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,12 +163,7 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/model.py" timestamp="1586251191820">
-        <mark key="[" line="4" column="58" />
-        <mark key="]" line="4" column="62" />
-        <mark key="^" line="4" column="62" />
-        <mark key="." line="4" column="62" />
-      </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/document_segmentation.ipynb" timestamp="1586867005630" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1586358145865">
         <mark key="[" line="1" column="50" />
         <mark key="]" line="1" column="50" />
@@ -209,11 +205,6 @@
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/eval.py" timestamp="1586357941783">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/segmentation_dataset.py" timestamp="1586534209955">
         <mark key="'" line="24" column="54" />
         <mark key="[" line="24" column="51" />
@@ -221,6 +212,7 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/environment.yml" timestamp="1586867162930" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/config/settings.py" timestamp="1586863266309">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="17" column="16" />
