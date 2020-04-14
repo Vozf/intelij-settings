@@ -146,16 +146,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1586432392819">
+      <file name="/start_script.py" timestamp="1586857039167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586795494811">
+      <file name="/Dummy.txt" timestamp="1586856977359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586535584804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/scripts/split_dataset.py" timestamp="1586785828538" />
       <file name="/fragment.py" timestamp="1586535523705">
         <mark key="'" line="0" column="46" />
         <mark key="[" line="0" column="0" />
@@ -222,7 +221,6 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/environment.yml" timestamp="1586795900364" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791860556">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
