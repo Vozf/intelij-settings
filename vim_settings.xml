@@ -149,10 +149,6 @@
       <file name="/start_script.py" timestamp="1586857039167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586856977359">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586874445361" />
       <file name="/Python Console" timestamp="1586535584804">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,24 +160,15 @@
         <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/document_segmentation.ipynb" timestamp="1586867005630" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586531267865">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="217" column="63" />
-        <mark key="]" line="217" column="66" />
-        <mark key="." line="217" column="65" />
-        <mark key="^" line="217" column="66" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/predictors.py" timestamp="1586877431087">
+        <mark key="'" line="79" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_segmentation.ipynb" timestamp="1586877297307" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/augmentations.py" timestamp="1586795131494">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="24" column="10" />
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
-        <mark key="'" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/web/processor.py" timestamp="1586421978857">
-        <mark key="[" line="22" column="54" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" timestamp="1586795174290">
         <mark key="'" line="137" column="25" />
@@ -196,9 +183,6 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/requirements.txt" timestamp="1586359298361">
-        <mark key="[" line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/segmentation_dataset.py" timestamp="1586534209955">
         <mark key="'" line="24" column="54" />
         <mark key="[" line="24" column="51" />
@@ -206,18 +190,32 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791860556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586856977359">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586874445361" />
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586531267865">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="217" column="63" />
+        <mark key="]" line="217" column="66" />
+        <mark key="." line="217" column="65" />
+        <mark key="^" line="217" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
+        <mark key="'" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/environment.yml" timestamp="1586867162930" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/config/settings.py" timestamp="1586876954859">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/requirements.txt" timestamp="1586791860556">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" timestamp="1586874954971">
         <mark key="'" line="88" column="0" />
@@ -227,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="/inference.ipynb" />
       <jump line="15" column="0" filename="/inference.ipynb" />
       <jump line="190" column="23" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
       <jump line="3" column="26" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
@@ -327,6 +324,7 @@
       <jump line="137" column="25" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
       <jump line="88" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
       <jump line="161" column="6" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
+      <jump line="79" column="38" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/predictors.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
