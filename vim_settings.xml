@@ -152,7 +152,7 @@
       <file name="/Dummy.txt" timestamp="1586856977359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586866223648" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586874445361" />
       <file name="/Python Console" timestamp="1586535584804">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,12 +164,6 @@
         <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/document_segmentation.ipynb" timestamp="1586867005630" />
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/metrics.py" timestamp="1586358145865">
-        <mark key="[" line="1" column="50" />
-        <mark key="]" line="1" column="50" />
-        <mark key="." line="1" column="50" />
-        <mark key="^" line="1" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/inference/inference.py" timestamp="1586531267865">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="217" column="63" />
@@ -225,10 +219,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" timestamp="1586874598486">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="/albumentation_vis.ipynb" />
-      <jump line="20" column="4" filename="/albumentation_vis.ipynb" />
       <jump line="17" column="4" filename="/inference.ipynb" />
       <jump line="15" column="0" filename="/inference.ipynb" />
       <jump line="190" column="23" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
@@ -327,12 +325,14 @@
       <jump line="115" column="4" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
       <jump line="117" column="32" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
       <jump line="137" column="25" filename="$USER_HOME$/projects/datafinity/datafinity-service/utils/image.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
+      <jump line="161" column="6" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>and</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name="-" type="4">
         <text>and</text>
@@ -344,31 +344,31 @@
         <text encoding="base64">ICAgIHByaW50KGltZy5zaGFwZSwgJ2FhYWFhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHl0aG9uPT0zLjcuMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VkYXRvb2xraXQ9PTEwLjEuMTY4Cg==</text>
+        <text encoding="base64">UGF0aChkZXRlY3Ryb24yLl9fZmlsZV9fKS5wYXJlbnQgLyAnbW9kZWxfem9vL2NvbmZpZ3MvJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJlZF9ncmF5c2NhbGUgPSBwcmVkaWN0aW9ucyAqIDI1NQo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCcuLicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">IyBmcm9tIHRxZG0ubm90ZWJvb2sgaW1wb3J0IHRxZG0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">IyAlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBvdXRwdXQgY2hhbmdlcyBmcm9tCiAgICAgICAgIyAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">JQoKJSBlbnYKQ1VEQV9WSVNJQkxFX0RFVklDRVMKMAolIGxvYWRfZXh0CmF1dG9yZWxvYWQKJSBhdXRvcmVsb2FkCjIKJSBtYXRwbG90bGliCmlubGluZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gdG9yY2guTG9uZ1RlbnNvcihucC5hcmFuZ2UoeC5zaXplKClbMV0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%sub/=/==/gc</text>
