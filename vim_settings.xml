@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>resi</entry>
-        <entry>shape</entry>
         <entry>da</entry>
         <entry encoding="base64">XDxEQVRBX1BBVEhcPg==</entry>
         <entry>models</entry>
@@ -25,6 +23,8 @@
         <entry>=</entry>
         <entry encoding="base64">XDxpbnB1dF9wYXRoXD4=</entry>
         <entry>Seg</entry>
+        <entry encoding="base64">XDxLZXlwb2ludHNFdmFsdWF0b3JcPg==</entry>
+        <entry encoding="base64">XDxBTExPV0VEX0RBVEFTRVRfVFlQRVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
@@ -149,25 +149,28 @@
       <file name="/start_script.py" timestamp="1586857039167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586856977359">
+      <file name="/Dummy.txt" timestamp="1586949762140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586945539374">
-        <mark key="[" line="33" column="96" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586950096009">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" timestamp="1586883683967">
-        <mark key="'" line="168" column="23" />
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" timestamp="1586948572621">
+        <mark key="'" line="168" column="8" />
         <mark key="[" line="168" column="24" />
-        <mark key="]" line="168" column="24" />
-        <mark key="^" line="168" column="24" />
-        <mark key="." line="168" column="23" />
+        <mark key="]" line="168" column="25" />
+        <mark key="^" line="168" column="25" />
+        <mark key="." line="168" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1586535584804">
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/datasets.py" timestamp="1586949144189">
+        <mark key="'" line="63" column="43" />
+      </file>
+      <file name="/Python Console" timestamp="1586949714611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1586535523705">
+      <file name="/fragment.py" timestamp="1586949312772">
         <mark key="'" line="0" column="46" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -218,18 +221,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" timestamp="1586874954971">
+      <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" timestamp="1586949240716">
         <mark key="'" line="88" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="26" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
-      <jump line="5" column="50" filename="$USER_HOME$/projects/pacanometr/heels_classifier/models/mobilenet_v2.py" />
-      <jump line="9" column="9" filename="/inference.ipynb" />
-      <jump line="40" column="9" filename="/inference.ipynb" />
       <jump line="10" column="0" filename="/inference.ipynb" />
       <jump line="54" column="30" filename="/inference.ipynb" />
       <jump line="55" column="0" filename="/inference.ipynb" />
@@ -324,20 +323,24 @@
       <jump line="88" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
       <jump line="161" column="6" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/train.py" />
       <jump line="79" column="38" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/predictors.py" />
+      <jump line="98" column="6" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" />
       <jump line="207" column="0" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" />
-      <jump line="168" column="23" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/evaluators.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/datasets.py" />
+      <jump line="61" column="27" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/datasets.py" />
+      <jump line="63" column="43" filename="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/datasets.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Segmentation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Segmentation</text>
       </register>
       <register name="/" type="4">
-        <text>Seg</text>
+        <text encoding="base64">XDxBTExPV0VEX0RBVEFTRVRfVFlQRVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGltZy5zaGFwZSwgJ2FhYWFhJykK</text>
@@ -346,28 +349,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAlJQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UGF0aChkZXRlY3Ryb24yLl9fZmlsZV9fKS5wYXJlbnQgLyAnbW9kZWxfem9vL2NvbmZpZ3MvJwo=</text>
+        <text encoding="base64">JXB3ZGZmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCcuLicpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">IyBmcm9tIHRxZG0ubm90ZWJvb2sgaW1wb3J0IHRxZG0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCcuLicpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAlJQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAlCg==</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCcuLicpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JQoKJSBlbnYKQ1VEQV9WSVNJQkxFX0RFVklDRVMKMAolIGxvYWRfZXh0CmF1dG9yZWxvYWQKJSBhdXRvcmVsb2FkCjIKJSBtYXRwbG90bGliCmlubGluZQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyAlJQo=</text>
       </register>
       <register name=":" type="4">
         <text>%sub/=/==/gc</text>
@@ -376,13 +379,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Seg</last-search>
+      <last-search encoding="base64">XDxBTExPV0VEX0RBVEFTRVRfVFlQRVNcPg==</last-search>
       <last-offset />
-      <last-pattern>Seg</last-pattern>
+      <last-pattern encoding="base64">XDxBTExPV0VEX0RBVEFTRVRfVFlQRVNcPg==</last-pattern>
       <last-replace>==</last-replace>
       <last-substitute>=</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
