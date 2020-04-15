@@ -167,10 +167,10 @@
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/datasets.py" timestamp="1586949144189">
         <mark key="'" line="63" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1586949714611">
+      <file name="/Python Console" timestamp="1586951510238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1586949312772">
+      <file name="/fragment.py" timestamp="1586951595128">
         <mark key="'" line="0" column="46" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -186,6 +186,7 @@
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="9" />
       </file>
+      <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/-1661168956/detectron2/data/build.py" timestamp="1586951276837" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
         <mark key="'" line="6" column="0" />
       </file>
