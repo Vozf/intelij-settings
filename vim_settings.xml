@@ -167,10 +167,10 @@
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/modeling/detectron2/datasets.py" timestamp="1586949144189">
         <mark key="'" line="63" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1586951510238">
+      <file name="/Python Console" timestamp="1586951754824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1586951595128">
+      <file name="/fragment.py" timestamp="1586951672488">
         <mark key="'" line="0" column="46" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -203,13 +203,7 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/dataset/segmentation_dataset.py" timestamp="1586534209955">
-        <mark key="'" line="24" column="54" />
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="52" />
-      </file>
+      <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/-1661168956/detectron2/engine/defaults.py" timestamp="1586951608388" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/config/settings.py" timestamp="1586876954859">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="17" column="16" />
