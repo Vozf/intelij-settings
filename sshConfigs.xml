@@ -18,7 +18,7 @@
       <sshConfig authType="OPEN_SSH" host="gpu-09.indatalabs.com" id="2fd2a423-3226-4ae4-a506-3f815498d5af" port="2200" customName="gpu-09" nameFormat="CUSTOM" username="a_yaroshevich" />
       <sshConfig authType="OPEN_SSH" host="gpu-10.indatalabs.com" id="3caf6d8b-b1fa-45f8-a66b-e2238c5c3492" port="2200" customName="gpu-10" nameFormat="CUSTOM" username="a_yaroshevich" />
       <sshConfig authType="OPEN_SSH" host="gpu-11.indatalabs.com" id="73ca5209-fc64-42e9-8878-3c7d8095dbc9" port="2200" customName="gpu-11" nameFormat="CUSTOM" username="a_yaroshevich" />
-      <sshConfig authType="OPEN_SSH" host="gpu-11.indatalabs.com" id="e4ffed1c-1cb5-4c81-91d5-62c6d44ada80" port="2200" customName="gpu-11" nameFormat="CUSTOM" username="a_yaroshevich" />
+      <sshConfig authType="OPEN_SSH" host="gpu-11.indatalabs.com" id="5456d2e2-b4dd-4acb-aba9-3a95a68c54d4" port="2200" customName="gpu-11" nameFormat="CUSTOM" username="a_yaroshevich" />
     </configs>
   </component>
 </application>
