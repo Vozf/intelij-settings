@@ -1,7 +1,23 @@
 <application>
   <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="token" value="8f74506d481c4c01f9a8d7d686926db6e6e3c781d62dbc9d" />
+          <option name="urlString" value="http://localhost:8801/" />
+        </JupyterConnectionParameters>
+      </list>
+    </option>
     <option name="moduleParameters">
       <map>
+        <entry key="$USER_HOME$/projects/datafinity/datafinity-service/.idea/datafinity-service.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="8f74506d481c4c01f9a8d7d686926db6e6e3c781d62dbc9d" />
+              <option name="urlString" value="http://localhost:8801/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/projects/pacanometr/heels_classifier/.idea/heels_classifier.iml">
           <value>
             <JupyterConnectionParameters>
