@@ -1,0 +1,477 @@
+<!-- copy this file to /home/a_yaroshevich/.config/JetBrains/PyCharm2020.1/options/jdk.table.xml -->
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (rnd)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/rnd/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/rnd/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/921384002" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/models/research/slim" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/projects/visual-search/core">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/models/research/slim" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu04.Remote Python 3.6.7 (sftp://a_yaroshevich@gpu-04.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="sftp://a_yaroshevich@gpu-04.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/2112357811/1264382392" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/2112357811/954977436" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/2112357811/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/2112357811/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2112357811" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="Python 3.7.3" WEB_SERVER_CONFIG_ID="00a7a407-22bd-4cbf-ace8-6eb24d5046e6" WEB_SERVER_CONFIG_NAME="a_yaroshevich@gpu-04.indatalabs.com:2200" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-04.indatalabs.com:2200">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-609223000/-52621065" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-609223000/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-609223000/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-609223000/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-609223000/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-609223000/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-609223000/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/2112357811/1264382392" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/2112357811/954977436" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2112357811/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2112357811/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu01.Local.Remote Python 3.6.7 (sftp://a_yaroshevich@gpu-01.idl.iv:22/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="sftp://a_yaroshevich@gpu-01.idl.iv:22/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1481325064/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1481325064/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1481325064" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="Python 3.6.7" WEB_SERVER_CONFIG_ID="09e13b71-a7e0-4dae-994a-09cf9f3fc7aa" WEB_SERVER_CONFIG_NAME="gpu-01.local" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-01.idl.iv:22">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-52621065" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/634035267/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1481325064/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1481325064/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu01.Remote Python 3.6.8 (sftp://a_yaroshevich@gpu-01.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="sftp://a_yaroshevich@gpu-01.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750328874/1264382392" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750328874/954977436" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-750328874/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-750328874/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-750328874" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="22542ae7-672f-4e8b-9120-1325eb0d8066" WEB_SERVER_CONFIG_NAME="gpu-01" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-01.indatalabs.com:2200">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-750328874/-52621065" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-750328874/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-750328874/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-750328874/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750328874/1264382392" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750328874/954977436" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-750328874/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-750328874/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu02.Remote Python 3.6.8 (sftp://a_yaroshevich@gpu-02.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="sftp://a_yaroshevich@gpu-02.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/203900021/1264382392" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/203900021/954977436" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/203900021/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/203900021/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/203900021" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="Python 3.7.3" WEB_SERVER_CONFIG_ID="781bfb7b-9fed-4e18-95ba-f365985fb850" WEB_SERVER_CONFIG_NAME="gpu-02" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-02.indatalabs.com:2200">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1301819558/-52621065" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1301819558/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1301819558/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1301819558/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/203900021/1264382392" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/203900021/954977436" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/203900021/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/203900021/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu03.Remote Python 3.6.8 (sftp://a_yaroshevich@gpu-03.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="sftp://a_yaroshevich@gpu-03.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/346298279/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/346298279/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/1158128916/1264382392" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/1158128916/954977436" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/1158128916/1264382392" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/1158128916/954977436" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1158128916" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="5f514970-0ad5-4c78-80d3-646043e035bb" WEB_SERVER_CONFIG_NAME="gpu-03" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-03.indatalabs.com:2200">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/346298279/-52621065" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/346298279/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/346298279/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/346298279/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/346298279/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/346298279/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/346298279/-52621065" remote-root="/home/a_yaroshevich/models/research/slim" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/346298279/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/346298279/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/1158128916/1264382392" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/1158128916/954977436" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/1158128916/1264382392" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/1158128916/954977436" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu05.Remote Python 3.6.9 (sftp://a_yaroshevich@gpu-05.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="sftp://a_yaroshevich@gpu-05.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1228380590/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1228380590/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1228380590/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1228380590/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1228380590" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="b3f7a0d7-cdeb-4cb0-a3a5-1969fff6df65" WEB_SERVER_CONFIG_NAME="gpu-05" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-05.indatalabs.com:2200">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-1228380590/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-1228380590/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1228380590/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/-1228380590/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1228380590/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1228380590/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu08.Remote Python 3.6.10 (sftp://a_yaroshevich@gpu-08.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="sftp://a_yaroshevich@gpu-08.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/1634306095/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/1634306095/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1634306095" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="c101d20e-4282-442c-9499-5ce94f6d7f20" WEB_SERVER_CONFIG_NAME="gpu-08" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-08.indatalabs.com:2200">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/1634306095/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/1634306095/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu09.Remote Python 3.6.10 (sftp://a_yaroshevich@gpu-09.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="sftp://a_yaroshevich@gpu-09.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1706432306" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="1c82bbd1-1ff1-411a-ae91-01bef915e176" WEB_SERVER_CONFIG_NAME="gpu-09" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-09.indatalabs.com:2200">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-1706432306/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (TF_FLAME)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/projects/avatar/TF_FLAME/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/projects/avatar/TF_FLAME/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/projects/avatar/TF_FLAME/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/projects/avatar/TF_FLAME/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/867398591" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/projects/avatar/TF_FLAME" />
+    </jdk>
+    <jdk version="2">
+      <name value="Gpu10.Remote Python 3.6.9 (sftp://a_yaroshevich@gpu-10.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="sftp://a_yaroshevich@gpu-10.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/rnd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/2106734200/1264382391" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/2106734200/-552574373" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/2106734200" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/rnd/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="651273f6-e701-4e1b-bbb0-7347acd7649d" WEB_SERVER_CONFIG_NAME="gpu-10" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-10.indatalabs.com:2200">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/2106734200/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/2106734200/1264382391" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/2106734200/-552574373" remote-root="/home/a_yaroshevich/anaconda3/envs/rnd/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="df1.Remote Python 3.7.7 (sftp://a_yaroshevich@gpu-01.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/df/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="sftp://a_yaroshevich@gpu-01.indatalabs.com:2200/home/a_yaroshevich/anaconda3/envs/df/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/1268915680" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/1179319955" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/-1661168956" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/1051707142" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/df/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="22542ae7-672f-4e8b-9120-1325eb0d8066" WEB_SERVER_CONFIG_NAME="gpu-01" WEB_SERVER_CREDENTIALS_ID="sftp://a_yaroshevich@gpu-01.indatalabs.com:2200">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/1268915680" remote-root="/home/a_yaroshevich/anaconda3/envs/df/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/1179319955" remote-root="/home/a_yaroshevich/.local/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/-1661168956" remote-root="/home/a_yaroshevich/anaconda3/envs/df/lib/python3.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
