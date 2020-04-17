@@ -149,7 +149,7 @@
       <file name="/start_script.py" timestamp="1586857039167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586949762140">
+      <file name="/Dummy.txt" timestamp="1587116912898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/notebooks/detectron2_document_keypoints.ipynb" timestamp="1586950096009">
@@ -186,7 +186,6 @@
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/-1661168956/detectron2/data/build.py" timestamp="1586951276837" />
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
         <mark key="'" line="6" column="0" />
       </file>
@@ -203,7 +202,6 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/1051707142/-1661168956/detectron2/engine/defaults.py" timestamp="1586951608388" />
       <file name="$USER_HOME$/projects/datafinity/datafinity-service/config/settings.py" timestamp="1586876954859">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="17" column="16" />
@@ -380,7 +378,7 @@
       <last-replace>==</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
