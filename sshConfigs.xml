@@ -103,6 +103,23 @@
       <sshConfig authType="OPEN_SSH" host="gpu-09.indatalabs.com" id="fa40e8d0-563b-4cb2-9fcb-1cbe81e558fe" port="2200" customName="gpu-09" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="gpu-10.indatalabs.com" id="6a770204-970e-4686-bc9c-771641b3a0b8" port="2200" customName="gpu-10" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="gpu-11.indatalabs.com" id="6c154af5-6391-4aa2-8eec-705bcd445579" port="2200" customName="gpu-11" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-04.indatalabs.com" id="a35c8683-676e-4d93-a832-a38791f1ebf2" port="2200" customName="gpu-04" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-01.idl.iv" id="4ff3af36-521d-46ce-9a38-da93c04a8270" port="22" customName="gpu-01.local" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-01.indatalabs.com" id="7f44d3f1-2033-490c-b29e-1b8ee387b3c4" port="2200" customName="gpu-01" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-storage.indatalabs.com" id="33b5afa0-2b6c-49a0-9f13-84a043a879dd" port="2200" customName="gpustorage" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-02.indatalabs.com" id="7b214c18-38aa-48ac-bcbe-1a6d6e8269d8" port="2200" customName="gpu-02" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-03.indatalabs.com" id="e3f173c2-5feb-4d97-84ca-d637f908ca83" port="2200" customName="gpu-03" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="api.indatalabs.com" id="a7efc2cc-42cc-47c2-88b8-324c5053ec1f" port="2200" customName="visual-search@api.indatalabs.com" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-05.indatalabs.com" id="668502c6-f174-4412-b3ca-45ade8e235dd" port="2200" customName="gpu-05" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="mediabackoffice.indatalabs.com" id="3c6c7704-7300-4677-af3d-044a747d4786" port="2200" customName="mediabackoffice" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="blackwidow.indatalabs.com" id="ffb17965-05df-49e4-b429-08f03a9f9639" port="2200" customName="blackwidow" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="162.251.233.223" id="15e23039-1c33-4005-84e8-a2360e12acd8" port="1422" customName="blackwidow_customer" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-06.indatalabs.com" id="25d0ff8a-1f5a-423b-bae9-353e59d97d05" port="2200" customName="gpu-06" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-07.indatalabs.com" id="f3b3171c-9f97-42bd-9a39-3212da9c3b80" port="2200" customName="gpu-07" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-08.indatalabs.com" id="4fbf9765-c015-4160-95d3-493187e7a6f9" port="2200" customName="gpu-08" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-09.indatalabs.com" id="70843c4c-6190-4d14-af1d-982651ed7779" port="2200" customName="gpu-09" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-10.indatalabs.com" id="52ca0f8d-b175-487c-9e9d-ad0185226adc" port="2200" customName="gpu-10" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="gpu-11.indatalabs.com" id="659d04d5-e77c-426c-a8bb-e742e3aa4e65" port="2200" customName="gpu-11" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
