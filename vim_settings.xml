@@ -207,10 +207,10 @@
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pixomatic/image-background-remove-tool/main.py" timestamp="1596710263211">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/projects/pixomatic/image-background-remove-tool/main.py" timestamp="1596714051956">
+        <mark key="[" line="121" column="28" />
+        <mark key="]" line="121" column="28" />
+        <mark key="." line="121" column="28" />
       </file>
       <file name="/" timestamp="1596626846498">
         <mark key="[" line="0" column="0" />
@@ -352,11 +352,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>, required=True</text>
       </register>
       <register name="-" type="4">
-        <text>, default='u2net'</text>
+        <text>, required=True</text>
       </register>
       <register name="/" type="4">
         <text>16</text>
