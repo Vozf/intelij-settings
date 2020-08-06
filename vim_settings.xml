@@ -186,12 +186,12 @@
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/pixomatic/U-2-Net/u2net_test.py" timestamp="1596628540691">
+      <file name="$USER_HOME$/projects/pixomatic/U-2-Net/u2net_test.py" timestamp="1596628994001">
         <mark key="'" line="57" column="57" />
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="57" column="49" />
-        <mark key="^" line="57" column="49" />
-        <mark key="." line="57" column="48" />
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="66" column="58" />
+        <mark key="^" line="66" column="58" />
+        <mark key="." line="66" column="57" />
       </file>
       <file name="$USER_HOME$/projects/removebg/pytorch-segmentation/src/utils/convert/pth2coreml.py" timestamp="1586537582044">
         <mark key="'" line="6" column="0" />
@@ -337,10 +337,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>test_images</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>test_images</text>
       </register>
       <register name="/" type="4">
         <text>16</text>
