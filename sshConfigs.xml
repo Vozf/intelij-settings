@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="mac" id="922ea5b5-2bf6-462d-9b46-6a8e050729c2" port="22" nameFormat="DESCRIPTIVE" username="mlmacmini" />
+    </configs>
+  </component>
+</application>

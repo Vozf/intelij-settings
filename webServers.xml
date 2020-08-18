@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e6b2e1e-15bf-4e43-afa0-67e32803c417" name="mlmacmini@mac:22 agent">
+        <fileTransfer accessType="SFTP" host="mac" port="22" sshConfigId="922ea5b5-2bf6-462d-9b46-6a8e050729c2" sshConfig="mlmacmini@mac:22 agent" authAgent="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
