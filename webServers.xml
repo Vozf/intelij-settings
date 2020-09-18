@@ -7,6 +7,9 @@
       <webServer id="bd4d90e6-5451-4ec8-8364-b4ed7a8c4e4a" name="a_yaroshevich@g1:22 key">
         <fileTransfer accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
       </webServer>
+      <webServer id="27aff10e-792b-4a5e-8746-262cf3b96c16" name="a_yaroshevich@g1:22 agent">
+        <fileTransfer accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
+      </webServer>
     </option>
   </component>
 </application>
