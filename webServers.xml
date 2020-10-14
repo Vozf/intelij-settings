@@ -2,10 +2,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="5e6b2e1e-15bf-4e43-afa0-67e32803c417" name="mlmacmini@mac:22 agent">
-        <fileTransfer accessType="SFTP" host="mac" port="22" sshConfigId="922ea5b5-2bf6-462d-9b46-6a8e050729c2" sshConfig="mlmacmini@mac:22 agent" authAgent="true" />
+        <fileTransfer rootFolder="/Users/mlmacmini/projects/pixomatic/pixomatic_dl" accessType="SFTP" host="mac" port="22" sshConfigId="922ea5b5-2bf6-462d-9b46-6a8e050729c2" sshConfig="mlmacmini@mac:22 agent" authAgent="true" />
       </webServer>
       <webServer id="27aff10e-792b-4a5e-8746-262cf3b96c16" name="a_yaroshevich@g1:22 agent">
-        <fileTransfer accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
+        <fileTransfer rootFolder="/home/a_yaroshevich/projects/pixomatic/pixomatic_dl" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
       </webServer>
     </option>
   </component>
