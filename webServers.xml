@@ -7,7 +7,7 @@
       <webServer id="5074bbf3-db6b-40a3-84ac-813239ad13ae" name="a_yaroshevich_inpainting@g1:22 agent">
         <fileTransfer rootFolder="/home/a_yaroshevich/projects/pixomatic/inpainting" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
       </webServer>
-      <webServer id="ce060637-a445-4f1e-98cf-21933ae6f155" name="Copy of project-level server 'edgeconnect'">
+      <webServer id="f7dab418-1002-47f8-9896-d73dbffa6465" name="a_yar_edge_connect">
         <fileTransfer rootFolder="/home/a_yaroshevich/projects/pixomatic/edge-connect" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
       </webServer>
     </option>
