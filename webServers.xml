@@ -4,11 +4,8 @@
       <webServer id="5e6b2e1e-15bf-4e43-afa0-67e32803c417" name="mlmacmini@mac:22 agent">
         <fileTransfer rootFolder="/Users/mlmacmini/projects/pixomatic/pixomatic_dl" accessType="SFTP" host="mac" port="22" sshConfigId="922ea5b5-2bf6-462d-9b46-6a8e050729c2" sshConfig="mlmacmini@mac:22 agent" authAgent="true" />
       </webServer>
-      <webServer id="5074bbf3-db6b-40a3-84ac-813239ad13ae" name="a_yaroshevich_inpainting@g1:22 agent">
-        <fileTransfer rootFolder="/home/a_yaroshevich/projects/pixomatic/inpainting" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
-      </webServer>
-      <webServer id="f7dab418-1002-47f8-9896-d73dbffa6465" name="a_yar_edge_connect">
-        <fileTransfer rootFolder="/home/a_yaroshevich/projects/pixomatic/edge-connect" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
+      <webServer id="4f107efa-10b7-4ed4-964d-c7abb1ad735a" name="a_yaroshevich@g1">
+        <fileTransfer rootFolder="/home/a_yaroshevich" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
       </webServer>
     </option>
   </component>
