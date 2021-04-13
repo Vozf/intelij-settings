@@ -1,8 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="mac" id="922ea5b5-2bf6-462d-9b46-6a8e050729c2" port="22" nameFormat="DESCRIPTIVE" username="mlmacmini" />
-      <sshConfig authType="OPEN_SSH" host="g1" id="9bbb29f4-feca-44f1-a587-74ed27a91559" port="22" nameFormat="DESCRIPTIVE" username="a_yaroshevich" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mac" id="922ea5b5-2bf6-462d-9b46-6a8e050729c2" port="22" nameFormat="DESCRIPTIVE" username="mlmacmini" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="g1" id="9bbb29f4-feca-44f1-a587-74ed27a91559" port="22" nameFormat="DESCRIPTIVE" username="a_yaroshevich" />
     </configs>
   </component>
 </application>
