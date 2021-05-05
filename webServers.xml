@@ -5,7 +5,7 @@
         <fileTransfer rootFolder="/home/a_yaroshevich" accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
       </webServer>
       <webServer id="d5b50324-1b59-4f05-b6ee-00bb7aced015" name="mlmacmini@g1">
-        <fileTransfer rootFolder="/Users/mlmacmini/projects/" accessType="SFTP" host="mac" port="22" sshConfigId="922ea5b5-2bf6-462d-9b46-6a8e050729c2" sshConfig="mlmacmini@mac:22 agent" authAgent="true" />
+        <fileTransfer rootFolder="/Users/mlmacmini" accessType="SFTP" host="mac" port="22" sshConfigId="922ea5b5-2bf6-462d-9b46-6a8e050729c2" sshConfig="mlmacmini@mac:22 agent" authAgent="true" />
       </webServer>
     </option>
   </component>
