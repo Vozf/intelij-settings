@@ -6,5 +6,6 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="clang.parameter.info" value="true" />
+    <entry key="external.system.auto.import.disabled" value="true" />
   </component>
 </application>
