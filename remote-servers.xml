@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker g1" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="9bbb29f4-feca-44f1-a587-74ed27a91559" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
