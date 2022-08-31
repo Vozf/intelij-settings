@@ -8,6 +8,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="951a28dc-d7fe-4a03-8887-28506b6f8e57" name="a_yaroshevich@g1:22 agent">
+        <fileTransfer accessType="SFTP" host="g1" port="22" sshConfigId="9bbb29f4-feca-44f1-a587-74ed27a91559" sshConfig="a_yaroshevich@g1:22 agent" authAgent="true" />
+      </webServer>
     </option>
   </component>
 </application>
